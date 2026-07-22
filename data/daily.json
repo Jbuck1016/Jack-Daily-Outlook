@@ -1,6 +1,6 @@
 {
   "dateLabel": "Wednesday, July 22, 2026",
-  "updatedLabel": "Wed Jul 22, 12:01 AM PT",
+  "updatedLabel": "Wed Jul 22, 6:07 AM PT",
   "today": [
     {
       "time": "10:00 – 11:00 AM",
@@ -114,7 +114,7 @@
     }
   ],
   "inbox": {
-    "unread": 36,
+    "unread": 33,
     "items": [
       {
         "dot": "red",
@@ -137,7 +137,7 @@
         "meta": "Your daily digest · 10 new · 20 still open."
       }
     ],
-    "note": "The rest are newsletters, promos, and a few security/welcome alerts from today's setup. Nothing else needs a reply."
+    "note": "The rest are newsletters, promos, and a few security/welcome alerts. Nothing else needs a reply."
   },
   "drive": [
     {
