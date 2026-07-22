@@ -5,7 +5,7 @@
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-07-22T20:08:12Z",
+      "updated": "2026-07-22T21:09:22Z",
       "emails": [
         {
           "from": "FootballTicketNet",
@@ -20,12 +20,12 @@
           "subject": "Re: W-2 Request For 2025",
           "snippet": "Hello Jack: Please reach out to Payroll@WMEAgency.com to assist with your query. Thank you.",
           "date": "2026-07-22T01:36:12Z",
-          "unread": true,
+          "unread": false,
           "tag": "Important",
           "url": "https://mail.google.com/mail/u/0/#inbox/19f87547fad6630f"
         },
         {
-          "from": "Atlassian",
+          "from": "Loom (Atlassian)",
           "subject": "Add More Context To Your Assignments With A Loom",
           "snippet": "Discover all the ways you can use Loom. Try recording a Loom to add helpful context to your next assignments.",
           "date": "2026-07-21T21:37:18Z",
@@ -34,7 +34,7 @@
         },
         {
           "from": "U.S. Soccer",
-          "subject": "Everyone has a home in soccer 🫶⚽️",
+          "subject": "Everyone has a home in soccer",
           "snippet": "You can help shape the future of the game.",
           "date": "2026-07-21T21:03:49Z",
           "unread": true,
@@ -43,7 +43,7 @@
         {
           "from": "The Transfer Flow",
           "subject": "What are Aston Villa going to do with £117m?",
-          "snippet": "Plus lots of Arsenal rumours, Man United want a France World Cup star.",
+          "snippet": "Plus lots of Arsenal rumours, and Man United want a France World Cup star.",
           "date": "2026-07-21T16:04:27Z",
           "unread": false,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f8572f5d23756d"
@@ -59,7 +59,7 @@
         {
           "from": "Jane · Trendera",
           "subject": "Fwd: Your trip confirmation (AUS - LAX)",
-          "snippet": "Forwarded from American Airlines — here's your trip confirmation, AUS to LAX.",
+          "snippet": "Forwarded American Airlines trip confirmation, Austin to LAX.",
           "date": "2026-07-21T01:18:08Z",
           "unread": false,
           "tag": "Important",
@@ -68,11 +68,20 @@
         {
           "from": "Jane · Trendera",
           "subject": "Fwd: Your trip confirmation (LAX - AUS)",
-          "snippet": "Forwarded from American Airlines — here's your trip confirmation, LAX to AUS.",
+          "snippet": "Forwarded American Airlines trip confirmation, LAX to Austin.",
           "date": "2026-07-21T01:17:55Z",
           "unread": false,
           "tag": "Important",
           "url": "https://mail.google.com/mail/u/0/#inbox/19f8240c3cb827c8"
+        },
+        {
+          "from": "Daniel White · JPMorgan",
+          "subject": "RE: Call This Week?",
+          "snippet": "On a zoom now. What is your availability tomorrow?",
+          "date": "2026-07-20T22:02:46Z",
+          "unread": false,
+          "tag": "Important",
+          "url": "https://mail.google.com/mail/u/0/#inbox/19f7d755ed20f0e1"
         },
         {
           "from": "Atlassian",
@@ -81,15 +90,6 @@
           "date": "2026-07-20T21:24:25Z",
           "unread": false,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f816a763f0d6f7"
-        },
-        {
-          "from": "Daniel White · JPMorgan",
-          "subject": "RE: [EXTERNAL] Call This Week?",
-          "snippet": "On a zoom now. What is your availability tomorrow?",
-          "date": "2026-07-20T22:02:46Z",
-          "unread": false,
-          "tag": "Important",
-          "url": "https://mail.google.com/mail/u/0/#inbox/19f7d755ed20f0e1"
         }
       ]
     },

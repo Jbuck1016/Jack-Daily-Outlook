@@ -1,6 +1,6 @@
 {
   "dateLabel": "Wednesday, July 22, 2026",
-  "updatedLabel": "Wed Jul 22, 1:08 PM PT",
+  "updatedLabel": "Wed Jul 22, 2:09 PM PT",
   "today": [
     { "time": "10:00 AM", "title": "Meet HR" },
     { "time": "10:00 AM – 2:00 PM", "title": "WORK", "loc": "818 W 7th St, Los Angeles", "accent": "span" },
@@ -48,8 +48,8 @@
     {
       "dot": "red",
       "url": "https://mail.google.com/mail/u/0/#inbox/19f87547fad6630f",
-      "title": "Reply to Cara Carroll · WME",
-      "meta": "W-2 request — she says contact Payroll@WMEAgency.com"
+      "title": "Email Payroll for your 2025 W-2",
+      "meta": "You told Cara you'd reach out to Payroll@WMEAgency.com"
     },
     {
       "dot": "amber",
@@ -65,7 +65,7 @@
     }
   ],
   "inbox": {
-    "unread": 30,
+    "unread": 29,
     "items": [
       {
         "dot": "red",
@@ -86,37 +86,44 @@
         "url": "https://mail.google.com/mail/u/0/#inbox/19f8240f15c564a5",
         "title": "Jane · Trendera",
         "tag": "EVENT",
-        "meta": "Flight confirmations AUS ⇄ LAX"
+        "meta": "Flight confirmation AUS → LAX"
+      },
+      {
+        "dot": "faint",
+        "url": "https://mail.google.com/mail/u/0/#inbox/19f8240c3cb827c8",
+        "title": "Jane · Trendera",
+        "tag": "EVENT",
+        "meta": "Flight confirmation LAX → AUS"
       },
       {
         "dot": "faint",
         "url": "https://mail.google.com/mail/u/0/#inbox/19f814ace6bb93cd",
-        "title": "Paycom · LAFC",
-        "meta": "Onboarding — you confirmed complete"
+        "title": "Angie Rios · LAFC",
+        "meta": "Paycom onboarding — you confirmed complete"
       }
     ],
-    "note": "Everything else unread is newsletters/promos — Audible, US Soccer, Barça, Hudl, football tickets."
+    "note": "29 unread in the last 14 days — almost all newsletters and promos."
   },
   "drive": [
     {
-      "url": "https://drive.google.com/file/d/1Y9z_mCmhndUaShrU2y8lP6ZTR27jgSk-/view",
+      "url": "https://drive.google.com/file/d/1Y9z_mCmhndUaShrU2y8lP6ZTR27jgSk-/view?usp=drivesdk",
       "title": "LAFC Field Guide",
-      "meta": "PDF · Modified Jul 22"
+      "meta": "PDF · updated Jul 22"
     },
     {
-      "url": "https://docs.google.com/presentation/d/1V9ExWjpDpQt7I6aZTYjOXe32RorhXuLmM1CY3FhMG-w/edit",
+      "url": "https://docs.google.com/presentation/d/1V9ExWjpDpQt7I6aZTYjOXe32RorhXuLmM1CY3FhMG-w/edit?usp=drivesdk",
       "title": "LA Galaxy Audit — Jack Buckingham",
-      "meta": "Slides · Jul 21"
+      "meta": "Slides · updated Jul 21"
     },
     {
-      "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit",
+      "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit?usp=drivesdk",
       "title": "UD7016 — High Performance Environments",
-      "meta": "Google Doc · Jul 21"
+      "meta": "Group presentation · updated Jul 21"
     },
     {
-      "url": "https://docs.google.com/document/d/1CEaB_F1xqczI4qi8yIrOFul6MGCpeyKQyC_pS0OvHqg/edit",
+      "url": "https://docs.google.com/document/d/1CEaB_F1xqczI4qi8yIrOFul6MGCpeyKQyC_pS0OvHqg/edit?usp=drivesdk",
       "title": "Talking Points — Jack Buckingham",
-      "meta": "Doc · Jul 20"
+      "meta": "Doc · updated Jul 20"
     }
   ]
 }
