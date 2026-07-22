@@ -2,6 +2,7 @@
 
 import { useEffect, useState, useCallback } from "react";
 import Nav from "../nav";
+import brief from "@/data/portfolio-brief.json";
 import {
   HOLDINGS,
   CASH,
@@ -52,11 +53,7 @@ function compute(quotes) {
 }
 
 function Donut({ rows, total }) {
-  const segs = rows.map((r) => ({
-    t: r.h.t,
-    w: (r.mv / total) * 100,
-    color: r.h.color,
-  }));
+  const segs = rows.map((r) => ({ t: r.h.t, w: (r.mv / total) * 100, color: r.h.color }));
   segs.push({ t: "CASH", w: (CASH.value / total) * 100, color: CASH.color });
   const r = 56,
     C = 2 * Math.PI * r;
@@ -210,7 +207,7 @@ export default function Portfolio() {
                 <th>Price</th>
                 <th>Day</th>
                 <th>Value</th>
-                <th className="l">Weight</th>
+                <th className="l wcol">Weight</th>
                 <th>Gain / loss</th>
               </tr>
             </thead>
@@ -226,7 +223,7 @@ export default function Portfolio() {
                     <td>{usd(r.price, 2)}</td>
                     <td className={cls(r.day)}>{pct(r.dpct)}</td>
                     <td>{usd(r.mv)}</td>
-                    <td className="l wcell">
+                    <td className="l wcol">
                       <div className="wtxt">{w.toFixed(1)}%</div>
                       <div className="wbar">
                         <span style={{ width: w.toFixed(1) + "%", background: r.h.color }} />
@@ -244,7 +241,7 @@ export default function Portfolio() {
                 <td>&mdash;</td>
                 <td>&mdash;</td>
                 <td>{usd(CASH.value)}</td>
-                <td className="l wcell">
+                <td className="l wcol">
                   <div className="wtxt">{((CASH.value / m.total) * 100).toFixed(1)}%</div>
                   <div className="wbar">
                     <span
@@ -264,7 +261,7 @@ export default function Portfolio() {
                 <td></td>
                 <td className={cls(m.dayTot)}>{pct(m.dayPct)}</td>
                 <td>{usd(m.total)}</td>
-                <td></td>
+                <td className="l wcol"></td>
                 <td className={cls(m.glTot)}>{signed(m.glTot)}</td>
               </tr>
             </tfoot>
@@ -272,11 +269,43 @@ export default function Portfolio() {
         </div>
       </div>
 
+      <div className="card pf-brief">
+        <div className="pf-briefhead">
+          <h2>Market brief</h2>
+          <span className="upd">Updated {brief.updatedLabel}</span>
+        </div>
+        <div className="ctx">{brief.context}</div>
+        {brief.analysis.map((a, i) => (
+          <div className="an" key={i}>
+            <h3>{a.title}</h3>
+            <p>{a.body}</p>
+          </div>
+        ))}
+      </div>
+
+      <div className="pf-newsgrid">
+        {brief.news.map((n, i) => (
+          <div className="card" key={i}>
+            <h2>
+              {n.symbol} &middot; {n.name}
+            </h2>
+            {n.items.map((it, j) => (
+              <div className="news-item" key={j}>
+                <span className="nd">{it.date}</span>
+                <span className="nh">
+                  {it.headline} <span className="ns">{it.source}</span>
+                </span>
+              </div>
+            ))}
+          </div>
+        ))}
+      </div>
+
       <div className="foot-note" style={{ marginTop: 20 }}>
         Positions and cost basis from your J.P. Morgan statement dated 6/30/2026. Prices via Yahoo
-        Finance, refreshed on load and every 60 seconds, and may be delayed. Informational only, not a
-        tax document or investment advice. Home Depot is roughly two-thirds of the account, so the
-        daily total mostly tracks HD.
+        Finance with a Stooq fallback, refreshed on load and every 60 seconds, and may be delayed.
+        The market brief and news are refreshed periodically, not live. Informational only, not a tax
+        document or investment advice.
       </div>
     </div>
   );
