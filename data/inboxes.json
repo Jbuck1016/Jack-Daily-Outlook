@@ -5,18 +5,90 @@
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-07-22T13:07:12Z",
+      "updated": "2026-07-22T14:08:45Z",
       "emails": [
-        { "from": "Resend", "subject": "Claude, Codex, and our GitHub partnership", "snippet": "Remote MCP server, OAuth support, the new DMARC, and more.", "date": "2026-07-22T12:05:03Z", "unread": true, "url": "https://mail.google.com/mail/u/0/#inbox/19f89b71213fd869" },
-        { "from": "Cara Carroll · WME", "subject": "Re: W-2 Request For 2025", "snippet": "Please reach out to Payroll@WMEAgency.com to assist with your query.", "date": "2026-07-22T01:36:12Z", "unread": true, "tag": "Important", "url": "https://mail.google.com/mail/u/0/#inbox/19f87547fad6630f" },
-        { "from": "Yumpu", "subject": "Confirm your email address", "snippet": "Activate your account by clicking the link.", "date": "2026-07-21T21:53:50Z", "unread": false, "url": "https://mail.google.com/mail/u/0/#inbox/19f86abc4f834afb" },
-        { "from": "Loom · Atlassian", "subject": "Add more context to your assignments with a Loom", "snippet": "Discover how the best educators use Loom.", "date": "2026-07-21T21:37:18Z", "unread": true, "url": "https://mail.google.com/mail/u/0/#inbox/19f869ca06510eec" },
-        { "from": "U.S. Soccer", "subject": "Everyone has a home in soccer", "snippet": "You can help shape the future of the game.", "date": "2026-07-21T21:03:49Z", "unread": true, "url": "https://mail.google.com/mail/u/0/#inbox/19f867df9f28deb0" },
-        { "from": "The Transfer Flow", "subject": "What are Aston Villa going to do with £117m?", "snippet": "Plus lots of Arsenal rumours; Man United want a France World Cup star.", "date": "2026-07-21T16:04:27Z", "unread": false, "url": "https://mail.google.com/mail/u/0/#inbox/19f8572f5d23756d" },
-        { "from": "Soccer & Betting Jobs", "subject": "10 new jobs, 2 posted today — Jul 21", "snippet": "Daily digest · 10 new · 20 still open. Track applications in your sheet.", "date": "2026-07-21T15:02:29Z", "unread": true, "url": "https://mail.google.com/mail/u/0/#inbox/19f8533260719e08" },
-        { "from": "Simon Austin · TGG", "subject": "Why we started TGG Live", "snippet": "One room. Every discipline.", "date": "2026-07-21T07:33:05Z", "unread": true, "url": "https://mail.google.com/mail/u/0/#inbox/19f83980b7b7239f" },
-        { "from": "Jane · Trendera", "subject": "Fwd: Your trip confirmation (AUS - LAX)", "snippet": "Forwarded from American Airlines — trip confirmation, Austin to LAX.", "date": "2026-07-21T01:18:08Z", "unread": false, "tag": "Important", "url": "https://mail.google.com/mail/u/0/#inbox/19f8240f15c564a5" },
-        { "from": "Jane · Trendera", "subject": "Fwd: Your trip confirmation (LAX - AUS)", "snippet": "Forwarded from American Airlines — trip confirmation, LAX to Austin.", "date": "2026-07-21T01:17:55Z", "unread": false, "tag": "Important", "url": "https://mail.google.com/mail/u/0/#inbox/19f8240c3cb827c8" }
+        {
+          "from": "FootballTicketNet",
+          "subject": "Missing Football Already? The Top Leagues Are Back!",
+          "snippet": "The leagues are back for 2026/27. Grab the best seats at the best price before everyone else does.",
+          "date": "2026-07-22T13:14:14Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/19f89f7ce072575f"
+        },
+        {
+          "from": "Resend",
+          "subject": "Claude, Codex, and our GitHub partnership",
+          "snippet": "Remote MCP server, OAuth support, the new DMARC, and more.",
+          "date": "2026-07-22T12:05:03Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/19f89b71213fd869"
+        },
+        {
+          "from": "Cara Carroll · WME",
+          "subject": "Re: W-2 Request For 2025",
+          "snippet": "Hello Jack: Please reach out to Payroll@WMEAgency.com to assist with your query. Thank you, Cara Carroll, WME.",
+          "date": "2026-07-22T01:36:12Z",
+          "unread": true,
+          "tag": "Important",
+          "url": "https://mail.google.com/mail/u/0/#inbox/19f87547fad6630f"
+        },
+        {
+          "from": "Yumpu",
+          "subject": "Glad to have you here! Confirm your email address.",
+          "snippet": "Now you are ready to go! Activate your account now by clicking the link.",
+          "date": "2026-07-21T21:53:50Z",
+          "unread": false,
+          "url": "https://mail.google.com/mail/u/0/#inbox/19f86abc4f834afb"
+        },
+        {
+          "from": "Atlassian · Loom",
+          "subject": "Add More Context To Your Assignments With A Loom",
+          "snippet": "Discover all the ways you can use Loom. Try recording a Loom to add context to your assignments.",
+          "date": "2026-07-21T21:37:18Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/19f869ca06510eec"
+        },
+        {
+          "from": "U.S. Soccer",
+          "subject": "Everyone has a home in soccer",
+          "snippet": "You can help shape the future of the game.",
+          "date": "2026-07-21T21:03:49Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/19f867df9f28deb0"
+        },
+        {
+          "from": "The Transfer Flow",
+          "subject": "What are Aston Villa going to do with £117m?",
+          "snippet": "Plus lots of Arsenal rumours, Man United want a France World Cup star.",
+          "date": "2026-07-21T16:04:27Z",
+          "unread": false,
+          "url": "https://mail.google.com/mail/u/0/#inbox/19f8572f5d23756d"
+        },
+        {
+          "from": "Soccer & Betting Jobs Digest",
+          "subject": "10 new jobs, 2 posted today — Jul 21",
+          "snippet": "Soccer & Betting Jobs daily digest, July 21, 2026. 10 new, 20 still open.",
+          "date": "2026-07-21T15:02:29Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/19f8533260719e08"
+        },
+        {
+          "from": "Simon Austin · TGG",
+          "subject": "Why we started TGG Live",
+          "snippet": "One room. Every discipline.",
+          "date": "2026-07-21T07:33:05Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/19f83980b7b7239f"
+        },
+        {
+          "from": "Jane · Trendera",
+          "subject": "Fwd: Your trip confirmation (AUS - LAX)",
+          "snippet": "Forwarded message from American Airlines: your trip confirmation, AUS to LAX.",
+          "date": "2026-07-21T01:18:08Z",
+          "unread": false,
+          "tag": "Important",
+          "url": "https://mail.google.com/mail/u/0/#inbox/19f8240f15c564a5"
+        }
       ]
     },
     {

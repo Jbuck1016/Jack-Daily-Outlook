@@ -1,164 +1,69 @@
 {
-  "dateLabel": "Wednesday, July 22, 2026",
-  "updatedLabel": "Wed Jul 22, 6:07 AM PT",
+  "dateLabel": "Wednesday, July 22",
+  "updatedLabel": "Wed Jul 22, 7:08 AM PT",
   "today": [
-    {
-      "time": "10:00 – 11:00 AM",
-      "title": "Meet HR"
-    },
-    {
-      "time": "10:00 AM – 2:00 PM",
-      "title": "WORK",
-      "loc": "818 W 7th St",
-      "accent": "span"
-    },
-    {
-      "time": "11:00 – 11:45 AM",
-      "title": "Team Meeting + Vivian arrives"
-    },
-    {
-      "time": "11:45 AM – 12:30 PM",
-      "title": "Get lunch"
-    },
-    {
-      "time": "12:30 – 2:00 PM",
-      "title": "Partnership sales outreach onboarding"
-    },
-    {
-      "time": "2:00 – 3:30 PM",
-      "title": "Email marketing onboarding"
-    },
-    {
-      "time": "3:30 – 5:15 PM",
-      "title": "Wrap up and Q's"
-    },
-    {
-      "time": "6:15 – 7:15 PM",
-      "title": "Pre-match tour",
-      "loc": "BMO Stadium",
-      "accent": "eve"
-    }
+    { "time": "10:00 AM", "title": "Meet HR" },
+    { "time": "10:00 AM – 2:00 PM", "title": "WORK", "loc": "818 W 7th St", "accent": "span" },
+    { "time": "11:00 AM", "title": "Team Meeting + Vivian arrives" },
+    { "time": "11:45 AM", "title": "Get lunch" },
+    { "time": "12:30 PM", "title": "Partnership sales outreach onboarding" },
+    { "time": "2:00 PM", "title": "Email marketing onboarding" },
+    { "time": "3:30 PM", "title": "Wrap up and Q's" },
+    { "time": "6:15 PM", "title": "Pre match tour", "loc": "BMO Stadium", "accent": "eve" }
   ],
-  "todayNote": "Onboarding day — solid block from 10 to 5, then the BMO pre-match tour in the evening.",
+  "todayNote": "Onboarding day — sessions run 10 AM to 5:15 PM, then a pre-match tour at BMO Stadium in the evening.",
   "week": [
     {
-      "day": "Thu 23",
+      "day": "Thu Jul 23",
       "items": [
-        {
-          "time": "6:00 PM",
-          "title": "Sonny's for CG"
-        }
+        { "time": "6:00 PM", "title": "SONNYS FOR CG" }
       ]
     },
     {
-      "day": "Fri 24",
+      "day": "Fri Jul 24",
       "items": [
-        {
-          "time": "7:45 PM",
-          "title": "Double date w/ Q and Jar"
-        }
+        { "time": "7:45 PM", "title": "Double date w Q and Jar" }
       ]
     },
     {
-      "day": "Sat 25",
+      "day": "Sat Jul 25",
       "items": [
-        {
-          "time": "All day",
-          "title": "Henry / Conall day"
-        },
-        {
-          "time": "8:00 PM",
-          "title": "Conall dinner"
-        }
+        { "time": "All day", "title": "Henry / Conall day" },
+        { "time": "8:00 PM", "title": "Conall dinner" }
       ]
     },
     {
-      "day": "Sun 26",
+      "day": "Sun Jul 26",
       "items": []
     }
   ],
   "tasks": {
-    "pillText": "Overdue clear ✓",
+    "pillText": "2 today · 0 overdue",
     "pillWarn": false,
     "overdue": [],
     "recurring": [
-      {
-        "title": "Take meds",
-        "url": "https://app.todoist.com/app/task/6fPrF5rMMcCF9Fpq",
-        "meta": "Every day · 9:00 AM"
-      },
-      {
-        "title": "Check WhatsApp",
-        "url": "https://app.todoist.com/app/task/6fPrHvm9qrMM44cH",
-        "meta": "Every day · 10:00 AM"
-      }
+      { "title": "Take meds", "url": "https://app.todoist.com/app/task/6fPrF5rMMcCF9Fpq", "meta": "Every day · 9:00 AM" },
+      { "title": "Check WhatsApp", "url": "https://app.todoist.com/app/task/6fPrHvm9qrMM44cH", "meta": "Every day · 10:00 AM" }
     ]
   },
   "followups": [
-    {
-      "dot": "amber",
-      "url": "https://mail.google.com/mail/u/0/#inbox/19f87547fad6630f",
-      "title": "Email Payroll@WMEAgency.com for your 2025 W-2",
-      "meta": "WME's Cara Carroll pointed you to Payroll for the request."
-    },
-    {
-      "dot": "amber",
-      "url": "https://mail.google.com/mail/u/0/#inbox/19f6884103c65a24",
-      "title": "Decide on the LA Sports & Entertainment Career Fair",
-      "meta": "Mon Jul 27 — invite from TeamWork Online."
-    },
-    {
-      "dot": "green",
-      "title": "Conall in town this weekend",
-      "meta": "Henry / Conall day Sat + dinner at 8 PM."
-    }
+    { "dot": "red", "url": "https://mail.google.com/mail/u/0/#inbox/19f87547fad6630f", "title": "WME: W-2 request — reply owed", "meta": "Cara Carroll asked you to contact Payroll@WMEAgency.com" },
+    { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/19f6884103c65a24", "title": "LA Sports & Entertainment Career Fair — Jul 27", "meta": "TeamWork Online invite · RSVP" }
   ],
   "inbox": {
     "unread": 33,
     "items": [
-      {
-        "dot": "red",
-        "url": "https://mail.google.com/mail/u/0/#inbox/19f87547fad6630f",
-        "title": "Re: W-2 Request For 2025",
-        "tag": "REPLY",
-        "meta": "Cara Carroll, WME · Reach out to Payroll@WMEAgency.com."
-      },
-      {
-        "dot": "amber",
-        "url": "https://mail.google.com/mail/u/0/#inbox/19f6884103c65a24",
-        "title": "You're invited: LA Sports & Entertainment Career Fair",
-        "tag": "EVENT",
-        "meta": "TeamWork Online · July 27."
-      },
-      {
-        "dot": "faint",
-        "url": "https://mail.google.com/mail/u/0/#inbox/19f8533260719e08",
-        "title": "10 new jobs — Soccer & Betting digest",
-        "meta": "Your daily digest · 10 new · 20 still open."
-      }
+      { "dot": "red", "url": "https://mail.google.com/mail/u/0/#inbox/19f87547fad6630f", "title": "Re: W-2 Request For 2025", "tag": "REPLY", "meta": "Cara Carroll · WME" },
+      { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/19f6884103c65a24", "title": "LA Sports & Entertainment Career Fair", "tag": "EVENT", "meta": "TeamWork Online · Jul 27" },
+      { "dot": "faint", "url": "https://mail.google.com/mail/u/0/#inbox/19f8240f15c564a5", "title": "Trip confirmation (AUS → LAX)", "meta": "Jane · Trendera" },
+      { "dot": "faint", "url": "https://mail.google.com/mail/u/0/#inbox/19f8240c3cb827c8", "title": "Trip confirmation (LAX → AUS)", "meta": "Jane · Trendera" }
     ],
-    "note": "The rest are newsletters, promos, and a few security/welcome alerts. Nothing else needs a reply."
+    "note": "Most other unread is newsletters and promotions."
   },
   "drive": [
-    {
-      "url": "https://docs.google.com/presentation/d/1V9ExWjpDpQt7I6aZTYjOXe32RorhXuLmM1CY3FhMG-w/edit",
-      "title": "LA_Galaxy_Audit_Jack_Buckingham",
-      "meta": "Slides · edited Jul 21"
-    },
-    {
-      "url": "https://drive.google.com/file/d/1Y9z_mCmhndUaShrU2y8lP6ZTR27jgSk-/view",
-      "title": "LAFC-Field-Guide.pdf",
-      "meta": "PDF · added Jul 22"
-    },
-    {
-      "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit",
-      "title": "UD7016 – High Performance Environments",
-      "meta": "Doc · shared · edited Jul 21"
-    },
-    {
-      "url": "https://docs.google.com/document/d/1CEaB_F1xqczI4qi8yIrOFul6MGCpeyKQyC_pS0OvHqg/edit",
-      "title": "Talking_Points_Jack_Buckingham.md",
-      "meta": "Doc · edited Jul 20"
-    }
+    { "url": "https://drive.google.com/file/d/1Y9z_mCmhndUaShrU2y8lP6ZTR27jgSk-/view", "title": "LAFC Field Guide", "meta": "PDF · updated Jul 22" },
+    { "url": "https://docs.google.com/presentation/d/1V9ExWjpDpQt7I6aZTYjOXe32RorhXuLmM1CY3FhMG-w/edit", "title": "LA Galaxy Audit — Jack Buckingham", "meta": "Slides · Jul 21" },
+    { "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit", "title": "UD7016 High Performance Environments — Group Presentation", "meta": "Doc · Jul 21" },
+    { "url": "https://docs.google.com/document/d/1CEaB_F1xqczI4qi8yIrOFul6MGCpeyKQyC_pS0OvHqg/edit", "title": "Talking Points — Jack Buckingham", "meta": "Doc · Jul 20" }
   ]
 }
