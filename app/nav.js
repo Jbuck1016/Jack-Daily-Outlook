@@ -7,6 +7,7 @@ const LINKS = [
   { href: "/", label: "hub" },
   { href: "/daily", label: "daily" },
   { href: "/projects", label: "projects" },
+  { href: "/inboxes", label: "inboxes" },
   { href: "/portfolio", label: "portfolio" },
   { href: "/transfers", label: "transfers" },
 ];

@@ -1,0 +1,30 @@
+{
+  "note": "Last ~10 inbox emails per account. Primary is pulled live from the Gmail connector; secondary requires connecting that account.",
+  "accounts": [
+    {
+      "email": "jackbuckiingham@gmail.com",
+      "label": "Primary",
+      "connected": true,
+      "updated": "2026-07-22T07:50:00Z",
+      "emails": [
+        { "from": "PayPal", "subject": "The New York Times: $6.00 USD", "snippet": "Payment confirmation — you paid $6.00 USD to The New York Times.", "date": "2026-07-22T07:48:28Z", "unread": true, "url": "https://mail.google.com/mail/u/0/#inbox/19f88cc265cdb67a" },
+        { "from": "Resend", "subject": "Welcome to Resend!", "snippet": "Zeno, founder & CEO — a simple, fast email API for developers.", "date": "2026-07-22T06:24:16Z", "unread": true, "url": "https://mail.google.com/mail/u/0/#inbox/19f887f12cc0739f" },
+        { "from": "Todoist", "subject": "New login to your Todoist account", "snippet": "Wasn't you? Reset your password immediately.", "date": "2026-07-22T06:09:27Z", "unread": true, "url": "https://mail.google.com/mail/u/0/#inbox/19f887182384910f" },
+        { "from": "Google", "subject": "Security alert", "snippet": "You allowed Todoist for Google Calendar access to your account.", "date": "2026-07-22T06:07:37Z", "unread": true, "url": "https://mail.google.com/mail/u/0/#inbox/19f886fd505ca26d" },
+        { "from": "Claude · Anthropic", "subject": "New trusted device added to your Claude account", "snippet": "A new trusted device was added. If this was you, no action needed.", "date": "2026-07-22T06:05:15Z", "unread": true, "url": "https://mail.google.com/mail/u/0/#inbox/19f886dadce37987" },
+        { "from": "Cara Carroll · WME", "subject": "Re: W-2 Request For 2025", "snippet": "Please reach out to Payroll@WMEAgency.com to assist with your query.", "date": "2026-07-22T01:36:12Z", "unread": true, "tag": "Important", "url": "https://mail.google.com/mail/u/0/#inbox/19f87547fad6630f" },
+        { "from": "Yumpu", "subject": "Confirm your email address", "snippet": "Activate your account by clicking the link.", "date": "2026-07-21T21:53:50Z", "unread": false, "url": "https://mail.google.com/mail/u/0/#inbox/19f86abc4f834afb" },
+        { "from": "Loom · Atlassian", "subject": "Add more context to your assignments with a Loom", "snippet": "Discover how the best educators use Loom.", "date": "2026-07-21T21:37:18Z", "unread": true, "url": "https://mail.google.com/mail/u/0/#inbox/19f869ca06510eec" },
+        { "from": "U.S. Soccer", "subject": "Everyone has a home in soccer", "snippet": "You can help shape the future of the game.", "date": "2026-07-21T21:03:49Z", "unread": true, "url": "https://mail.google.com/mail/u/0/#inbox/19f867df9f28deb0" },
+        { "from": "The Transfer Flow", "subject": "What are Aston Villa going to do with £117m?", "snippet": "Plus lots of Arsenal rumours; Man United want a France World Cup star.", "date": "2026-07-21T16:04:27Z", "unread": false, "url": "https://mail.google.com/mail/u/0/#inbox/19f8572f5d23756d" }
+      ]
+    },
+    {
+      "email": "jacksonbuckingham1@gmail.com",
+      "label": "Secondary",
+      "connected": false,
+      "updated": null,
+      "emails": []
+    }
+  ]
+}

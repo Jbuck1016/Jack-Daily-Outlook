@@ -23,6 +23,10 @@ export default function Hub() {
           <div className="ht">Projects <span className="badge live">Live</span></div>
           <div className="hd">A maintained log of your {projectCount} active builds — latest status and next steps for each.</div>
         </Link>
+        <Link href="/inboxes" className="hubcard acc-cyan">
+          <div className="ht">Inboxes <span className="badge live">Live</span></div>
+          <div className="hd">The latest emails from your accounts, side by side, at a glance.</div>
+        </Link>
         <Link href="/portfolio" className="hubcard acc-sky">
           <div className="ht">Portfolio <span className="badge live">Live</span></div>
           <div className="hd">A live daily overview of your holdings, allocation, and day change. Prices refresh automatically.</div>
