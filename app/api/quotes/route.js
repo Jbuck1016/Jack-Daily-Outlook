@@ -4,54 +4,86 @@ import { HOLDINGS } from "@/lib/holdings";
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
 
-// Pull a single symbol from Yahoo's public chart endpoint (no key needed).
-// Runs server-side, so there is no CORS problem and no manual entry.
-async function fetchQuote(h) {
-  const url =
-    "https://query1.finance.yahoo.com/v8/finance/chart/" +
-    encodeURIComponent(h.symbol) +
-    "?interval=1d&range=5d";
+const UA =
+  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36";
+
+function withTimeout(ms) {
   try {
-    const res = await fetch(url, {
-      headers: {
-        "User-Agent":
-          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
-        Accept: "application/json",
-      },
-      next: { revalidate: 60 },
-    });
-    if (!res.ok) throw new Error("status " + res.status);
-    const data = await res.json();
-    const meta = data?.chart?.result?.[0]?.meta;
-    const price = meta?.regularMarketPrice;
-    const prev = meta?.chartPreviousClose ?? meta?.previousClose;
-    if (typeof price !== "number" || typeof prev !== "number") {
-      throw new Error("missing fields");
-    }
-    return {
-      symbol: h.symbol,
-      price,
-      prevClose: prev,
-      time: meta?.regularMarketTime ? meta.regularMarketTime * 1000 : null,
-      currency: meta?.currency || "USD",
-      stale: false,
-    };
-  } catch (e) {
-    // Fall back to the statement mark so the page still renders.
-    return {
-      symbol: h.symbol,
-      price: h.base,
-      prevClose: h.base,
-      time: null,
-      currency: "USD",
-      stale: true,
-      error: String(e?.message || e),
-    };
+    return AbortSignal.timeout(ms);
+  } catch {
+    return undefined;
   }
 }
 
+// Primary source: Yahoo. Gives intraday price and previous close directly.
+async function fromYahoo(symbol) {
+  for (const host of ["query1", "query2"]) {
+    try {
+      const url =
+        `https://${host}.finance.yahoo.com/v8/finance/chart/` +
+        encodeURIComponent(symbol) +
+        "?interval=1d&range=5d";
+      const res = await fetch(url, {
+        headers: { "User-Agent": UA, Accept: "application/json" },
+        signal: withTimeout(6000),
+        cache: "no-store",
+      });
+      if (!res.ok) continue;
+      const data = await res.json();
+      const m = data?.chart?.result?.[0]?.meta;
+      const price = m?.regularMarketPrice;
+      const prev = m?.chartPreviousClose ?? m?.previousClose;
+      if (typeof price === "number" && typeof prev === "number") {
+        return { price, prevClose: prev, source: "yahoo" };
+      }
+    } catch {
+      // try next host
+    }
+  }
+  return null;
+}
+
+// Fallback source: Stooq daily CSV. Very permissive, no key. Uses the last two
+// daily closes for price and previous close.
+async function fromStooq(symbol) {
+  try {
+    const s = symbol.toLowerCase() + ".us";
+    const url = `https://stooq.com/q/d/l/?s=${s}&i=d`;
+    const res = await fetch(url, {
+      headers: { "User-Agent": UA },
+      signal: withTimeout(6000),
+      cache: "no-store",
+    });
+    if (!res.ok) return null;
+    const text = await res.text();
+    const lines = text.trim().split(/\r?\n/).filter(Boolean);
+    if (lines.length < 2) return null;
+    const rows = lines
+      .slice(1)
+      .map((l) => l.split(","))
+      .filter((r) => r.length >= 5 && !isNaN(parseFloat(r[4])));
+    if (!rows.length) return null;
+    const last = rows[rows.length - 1];
+    const prevRow = rows.length >= 2 ? rows[rows.length - 2] : last;
+    const price = parseFloat(last[4]);
+    const prev = parseFloat(prevRow[4]);
+    if (isNaN(price) || isNaN(prev)) return null;
+    return { price, prevClose: prev, source: "stooq" };
+  } catch {
+    return null;
+  }
+}
+
+async function quote(h) {
+  const q = (await fromYahoo(h.symbol)) || (await fromStooq(h.symbol));
+  if (q) {
+    return { symbol: h.symbol, price: q.price, prevClose: q.prevClose, source: q.source, stale: false };
+  }
+  return { symbol: h.symbol, price: h.base, prevClose: h.base, source: "fallback", stale: true };
+}
+
 export async function GET() {
-  const results = await Promise.all(HOLDINGS.map(fetchQuote));
+  const results = await Promise.all(HOLDINGS.map(quote));
   const quotes = {};
   for (const q of results) quotes[q.symbol] = q;
   const anyStale = results.some((q) => q.stale);

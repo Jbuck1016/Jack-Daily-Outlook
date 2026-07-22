@@ -1,0 +1,42 @@
+{
+  "updatedLabel": "Jul 22, 2026",
+  "context": "Broad US stocks were choppy this week. Monday eased on Middle East tension and higher oil, then Tuesday rebounded about 0.9% as chip and AI names recovered and early earnings beats from the likes of 3M and General Motors lifted sentiment. Small caps continued to lag the large caps.",
+  "analysis": [
+    {
+      "title": "Home Depot drives your day",
+      "body": "HD is roughly two-thirds of the account, so the total mostly tracks it. HD has been soft for several weeks, trailing the broader retail group. Home improvement demand is sensitive to interest rates and housing, so a higher-for-longer rate backdrop keeps pressure on it. Analysts still carry an average target in the $430s and a moderate buy, with the next earnings report due Aug 18."
+    },
+    {
+      "title": "Your funds move with the market",
+      "body": "SPY and VT track the broad US and total-world markets and drift with the tape. SPSM, your small-cap fund, tends to lag on risk-off days. VUG, your growth fund, leans on tech and chips, so it benefits when the AI trade rebounds."
+    },
+    {
+      "title": "MSGS is the bright spot",
+      "body": "Madison Square Garden Sports has had a run of good news: a Morgan Stanley upgrade to overweight, a place on a Goldman list of non-AI stocks to buy, and several raised price targets. It trades near its 52-week high. At about 3% of the book it helps at the margin rather than moving the needle."
+    }
+  ],
+  "news": [
+    {
+      "symbol": "HD",
+      "name": "Home Depot",
+      "items": [
+        { "date": "Jul 16", "headline": "Bernstein kept a Hold rating on the stock", "source": "TipRanks" },
+        { "date": "Jul 16", "headline": "Shares gained as the Skelly Halloween lineup returned", "source": "TipRanks" },
+        { "date": "Jul 08", "headline": "Ticked up on new private-label product offerings", "source": "TipRanks" },
+        { "date": "Jul 03", "headline": "Expanded delivery for overseas military families", "source": "TipRanks" },
+        { "date": "Aug 18", "headline": "Next quarterly earnings report due", "source": "TradingView" }
+      ]
+    },
+    {
+      "symbol": "MSGS",
+      "name": "Madison Square Garden Sports",
+      "items": [
+        { "date": "Jul 15", "headline": "Named among Goldman Sachs non-AI stocks to buy", "source": "TipRanks" },
+        { "date": "Jul 09", "headline": "Upgraded to Overweight from Equal Weight at Morgan Stanley", "source": "TipRanks" },
+        { "date": "Jun 23", "headline": "Susquehanna raised its price target to $430", "source": "TipRanks" },
+        { "date": "Jun 02", "headline": "Guggenheim raised its target to $477", "source": "TipRanks" },
+        { "date": "Now", "headline": "Trading near its 52-week high around $412", "source": "Kraken" }
+      ]
+    }
+  ]
+}
