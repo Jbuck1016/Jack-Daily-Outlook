@@ -1,15 +1,15 @@
 {
-  "dateLabel": "Wednesday, Jul 22",
-  "updatedLabel": "Wed Jul 22, 11:08 AM PT",
+  "dateLabel": "Wednesday, July 22, 2026",
+  "updatedLabel": "Wed Jul 22, 12:06 PM PT",
   "today": [
     { "time": "10:00 AM", "title": "Meet HR" },
-    { "time": "10:00 AM", "title": "WORK", "loc": "818 W 7th St, LA" },
+    { "time": "10:00 AM – 2:00 PM", "title": "WORK", "loc": "818 W 7th St, Los Angeles", "accent": "span" },
     { "time": "11:00 AM", "title": "Team Meeting + Vivian arrives" },
     { "time": "11:45 AM", "title": "Get lunch" },
     { "time": "3:30 PM", "title": "Wrap up and Q's" },
     { "time": "6:15 PM", "title": "Pre match tour", "loc": "BMO Stadium", "accent": "eve" }
   ],
-  "todayNote": "Full in-office day, capped by an evening pre-match tour at BMO Stadium.",
+  "todayNote": "Full day in office (10–2), then pre-match tour at BMO Stadium tonight.",
   "week": [
     {
       "day": "Thu Jul 23",
@@ -29,31 +29,93 @@
         { "time": "All day", "title": "Henry / Conall day" },
         { "time": "8:00 PM", "title": "Conall dinner" }
       ]
+    },
+    {
+      "day": "Sun Jul 26",
+      "items": []
     }
   ],
   "tasks": {
-    "pillText": "2 recurring · 0 overdue",
+    "pillText": "0 overdue · 2 today",
     "pillWarn": false,
     "overdue": [],
     "recurring": [
-      { "title": "Take meds", "url": "https://app.todoist.com/app/task/6fPrF5rMMcCF9Fpq", "meta": "Every day · 9:00 AM" },
-      { "title": "Check WhatsApp", "url": "https://app.todoist.com/app/task/6fPrHvm9qrMM44cH", "meta": "Every day · 10:00 AM" }
+      { "title": "Take meds", "url": "https://app.todoist.com/app/task/6fPrF5rMMcCF9Fpq", "meta": "Daily · 9:00 AM" },
+      { "title": "Check WhatsApp", "url": "https://app.todoist.com/app/task/6fPrHvm9qrMM44cH", "meta": "Daily · 10:00 AM" }
     ]
   },
   "followups": [
-    { "dot": "red", "url": "https://mail.google.com/mail/u/0/#inbox/19f87547fad6630f", "title": "Cara Carroll · WME — W-2 request", "meta": "Reply owed · loop in Payroll@WMEAgency.com" }
+    {
+      "dot": "red",
+      "url": "https://mail.google.com/mail/u/0/#inbox/19f87547fad6630f",
+      "title": "Reply to Cara Carroll · WME",
+      "meta": "W-2 request — she says contact Payroll@WMEAgency.com"
+    },
+    {
+      "dot": "amber",
+      "url": "https://mail.google.com/mail/u/0/#inbox/19f7d755ed20f0e1",
+      "title": "Confirm call with Dan White · JPMorgan",
+      "meta": "You proposed 12pm — waiting to lock a time"
+    },
+    {
+      "dot": "amber",
+      "url": "https://mail.google.com/mail/u/0/#inbox/19f6884103c65a24",
+      "title": "LA Sports & Entertainment Career Fair",
+      "meta": "Mon Jul 27 in LA — RSVP if attending"
+    }
   ],
   "inbox": {
     "unread": 31,
     "items": [
-      { "dot": "red", "url": "https://mail.google.com/mail/u/0/#inbox/19f87547fad6630f", "title": "Cara Carroll · WME — Re: W-2 Request", "tag": "REPLY", "meta": "Payroll follow-up owed" }
-    ],
-    "note": "31 unread, almost all newsletters and promos. One real reply owed (WME payroll)."
+      {
+        "dot": "red",
+        "url": "https://mail.google.com/mail/u/0/#inbox/19f87547fad6630f",
+        "title": "Cara Carroll · WME",
+        "tag": "REPLY",
+        "meta": "Re: W-2 Request — contact Payroll"
+      },
+      {
+        "dot": "amber",
+        "url": "https://mail.google.com/mail/u/0/#inbox/19f7d755ed20f0e1",
+        "title": "Dan White · JPMorgan",
+        "tag": "REPLY",
+        "meta": "Awaiting your call-time confirmation"
+      },
+      {
+        "dot": "faint",
+        "url": "https://mail.google.com/mail/u/0/#inbox/19f8240f15c564a5",
+        "title": "Jane · Trendera",
+        "tag": "EVENT",
+        "meta": "Flight confirmations AUS ⇄ LAX"
+      },
+      {
+        "dot": "faint",
+        "url": "https://mail.google.com/mail/u/0/#inbox/19f814ace6bb93cd",
+        "title": "Paycom · LAFC",
+        "meta": "Onboarding — you confirmed complete"
+      }
+    ]
   },
   "drive": [
-    { "url": "https://drive.google.com/file/d/1Y9z_mCmhndUaShrU2y8lP6ZTR27jgSk-/view", "title": "LAFC Field Guide", "meta": "PDF · edited Jul 21" },
-    { "url": "https://docs.google.com/presentation/d/1V9ExWjpDpQt7I6aZTYjOXe32RorhXuLmM1CY3FhMG-w/edit", "title": "LA Galaxy Audit — Jack Buckingham", "meta": "Slides · edited Jul 21" },
-    { "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit", "title": "UD7016 High Performance Environments — Group Presentation", "meta": "Doc · edited Jul 21" },
-    { "url": "https://docs.google.com/document/d/1CEaB_F1xqczI4qi8yIrOFul6MGCpeyKQyC_pS0OvHqg/edit", "title": "Talking Points — Jack Buckingham", "meta": "Doc · edited Jul 20" }
+    {
+      "url": "https://drive.google.com/file/d/1Y9z_mCmhndUaShrU2y8lP6ZTR27jgSk-/view",
+      "title": "LAFC Field Guide",
+      "meta": "PDF · Modified Jul 22"
+    },
+    {
+      "url": "https://docs.google.com/presentation/d/1V9ExWjpDpQt7I6aZTYjOXe32RorhXuLmM1CY3FhMG-w/edit",
+      "title": "LA Galaxy Audit — Jack Buckingham",
+      "meta": "Slides · Jul 21"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit",
+      "title": "UD7016 — High Performance Environments",
+      "meta": "Google Doc · Jul 21"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1CEaB_F1xqczI4qi8yIrOFul6MGCpeyKQyC_pS0OvHqg/edit",
+      "title": "Talking Points — Jack Buckingham",
+      "meta": "Doc · Jul 20"
+    }
   ]
 }
