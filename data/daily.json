@@ -1,6 +1,6 @@
 {
   "dateLabel": "Wednesday, July 22, 2026",
-  "updatedLabel": "Wed Jul 22, 12:06 PM PT",
+  "updatedLabel": "Wed Jul 22, 1:08 PM PT",
   "today": [
     { "time": "10:00 AM", "title": "Meet HR" },
     { "time": "10:00 AM – 2:00 PM", "title": "WORK", "loc": "818 W 7th St, Los Angeles", "accent": "span" },
@@ -65,7 +65,7 @@
     }
   ],
   "inbox": {
-    "unread": 31,
+    "unread": 30,
     "items": [
       {
         "dot": "red",
@@ -94,7 +94,8 @@
         "title": "Paycom · LAFC",
         "meta": "Onboarding — you confirmed complete"
       }
-    ]
+    ],
+    "note": "Everything else unread is newsletters/promos — Audible, US Soccer, Barça, Hudl, football tickets."
   },
   "drive": [
     {

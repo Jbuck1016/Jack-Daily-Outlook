@@ -5,16 +5,8 @@
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-07-22T19:06:05Z",
+      "updated": "2026-07-22T20:08:12Z",
       "emails": [
-        {
-          "from": "UCLA Health",
-          "subject": "How a doctor's cancer diagnosis shaped his view of AI",
-          "snippet": "Plus, common causes of swelling in the lower legs.",
-          "date": "2026-07-22T18:33:08Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/19f8b1e01b55d06d"
-        },
         {
           "from": "FootballTicketNet",
           "subject": "Missing Football Already? The Top Leagues Are Back !",
@@ -33,16 +25,16 @@
           "url": "https://mail.google.com/mail/u/0/#inbox/19f87547fad6630f"
         },
         {
-          "from": "Loom · Atlassian",
+          "from": "Atlassian",
           "subject": "Add More Context To Your Assignments With A Loom",
-          "snippet": "Try recording a Loom. Add helpful context to your next homework assignments by recording a Loom.",
+          "snippet": "Discover all the ways you can use Loom. Try recording a Loom to add helpful context to your next assignments.",
           "date": "2026-07-21T21:37:18Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f869ca06510eec"
         },
         {
           "from": "U.S. Soccer",
-          "subject": "Everyone has a home in soccer",
+          "subject": "Everyone has a home in soccer 🫶⚽️",
           "snippet": "You can help shape the future of the game.",
           "date": "2026-07-21T21:03:49Z",
           "unread": true,
@@ -57,7 +49,7 @@
           "url": "https://mail.google.com/mail/u/0/#inbox/19f8572f5d23756d"
         },
         {
-          "from": "Simon Austin · TGG",
+          "from": "Training Ground Guru",
           "subject": "Why we started TGG Live",
           "snippet": "One room. Every discipline.",
           "date": "2026-07-21T07:33:05Z",
@@ -67,7 +59,7 @@
         {
           "from": "Jane · Trendera",
           "subject": "Fwd: Your trip confirmation (AUS - LAX)",
-          "snippet": "Forwarded from American Airlines — here's your trip confirmation.",
+          "snippet": "Forwarded from American Airlines — here's your trip confirmation, AUS to LAX.",
           "date": "2026-07-21T01:18:08Z",
           "unread": false,
           "tag": "Important",
@@ -76,7 +68,7 @@
         {
           "from": "Jane · Trendera",
           "subject": "Fwd: Your trip confirmation (LAX - AUS)",
-          "snippet": "Forwarded from American Airlines — here's your trip confirmation.",
+          "snippet": "Forwarded from American Airlines — here's your trip confirmation, LAX to AUS.",
           "date": "2026-07-21T01:17:55Z",
           "unread": false,
           "tag": "Important",
@@ -89,6 +81,15 @@
           "date": "2026-07-20T21:24:25Z",
           "unread": false,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f816a763f0d6f7"
+        },
+        {
+          "from": "Daniel White · JPMorgan",
+          "subject": "RE: [EXTERNAL] Call This Week?",
+          "snippet": "On a zoom now. What is your availability tomorrow?",
+          "date": "2026-07-20T22:02:46Z",
+          "unread": false,
+          "tag": "Important",
+          "url": "https://mail.google.com/mail/u/0/#inbox/19f7d755ed20f0e1"
         }
       ]
     },
