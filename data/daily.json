@@ -1,6 +1,6 @@
 {
   "dateLabel": "Wednesday, July 22, 2026",
-  "updatedLabel": "Wed Jul 22, 3:06 PM PT",
+  "updatedLabel": "Wed Jul 22, 4:06 PM PT",
   "today": [
     { "time": "10:00 AM", "title": "Meet HR" },
     { "time": "10:00 AM – 2:00 PM", "title": "WORK", "loc": "818 W 7th St, Los Angeles", "accent": "span" },
@@ -48,9 +48,9 @@
   "followups": [
     {
       "dot": "red",
-      "url": "https://mail.google.com/mail/u/0/#inbox/19f87547fad6630f",
-      "title": "Email Payroll for your 2025 W-2",
-      "meta": "You told Cara you'd reach out to Payroll@WMEAgency.com"
+      "url": "https://mail.google.com/mail/u/0/#inbox/19f8b989f087efc2",
+      "title": "Register on ADP iPay for your 2025 W-2",
+      "meta": "WME Payroll (K. Schiller) replied with the registration steps"
     },
     {
       "dot": "amber",
@@ -66,13 +66,14 @@
     }
   ],
   "inbox": {
-    "unread": 29,
+    "unread": 30,
     "items": [
       {
         "dot": "red",
-        "url": "https://mail.google.com/mail/u/0/#inbox/19f87547fad6630f",
-        "title": "Cara Carroll · WME",
-        "meta": "Reply sent — still need to email Payroll@WMEAgency.com"
+        "url": "https://mail.google.com/mail/u/0/#inbox/19f8b989f087efc2",
+        "title": "K. Schiller · WME Payroll",
+        "tag": "REPLY",
+        "meta": "W-2 access via ADP iPay — register to pull it"
       },
       {
         "dot": "amber",
@@ -102,7 +103,7 @@
         "meta": "Paycom onboarding — you confirmed complete"
       }
     ],
-    "note": "29 unread in the last 14 days — almost all newsletters and promos."
+    "note": "30 unread in the last 14 days — almost all newsletters and promos."
   },
   "drive": [
     {
