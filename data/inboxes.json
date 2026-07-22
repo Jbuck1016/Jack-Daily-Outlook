@@ -5,7 +5,7 @@
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-07-22T14:08:45Z",
+      "updated": "2026-07-22T15:05:58Z",
       "emails": [
         {
           "from": "FootballTicketNet",
@@ -26,7 +26,7 @@
         {
           "from": "Cara Carroll · WME",
           "subject": "Re: W-2 Request For 2025",
-          "snippet": "Hello Jack: Please reach out to Payroll@WMEAgency.com to assist with your query. Thank you, Cara Carroll, WME.",
+          "snippet": "Hello Jack: Please reach out to Payroll@WMEAgency.com to assist with your query. Thank you.",
           "date": "2026-07-22T01:36:12Z",
           "unread": true,
           "tag": "Important",
@@ -35,7 +35,7 @@
         {
           "from": "Yumpu",
           "subject": "Glad to have you here! Confirm your email address.",
-          "snippet": "Now you are ready to go! Activate your account now by clicking the link.",
+          "snippet": "Now you are ready to go! Activate your account by clicking the link.",
           "date": "2026-07-21T21:53:50Z",
           "unread": false,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f86abc4f834afb"
@@ -43,7 +43,7 @@
         {
           "from": "Atlassian · Loom",
           "subject": "Add More Context To Your Assignments With A Loom",
-          "snippet": "Discover all the ways you can use Loom. Try recording a Loom to add context to your assignments.",
+          "snippet": "Discover all the ways you can use Loom. Try recording a Loom to add helpful context.",
           "date": "2026-07-21T21:37:18Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f869ca06510eec"
@@ -65,15 +65,7 @@
           "url": "https://mail.google.com/mail/u/0/#inbox/19f8572f5d23756d"
         },
         {
-          "from": "Soccer & Betting Jobs Digest",
-          "subject": "10 new jobs, 2 posted today — Jul 21",
-          "snippet": "Soccer & Betting Jobs daily digest, July 21, 2026. 10 new, 20 still open.",
-          "date": "2026-07-21T15:02:29Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/19f8533260719e08"
-        },
-        {
-          "from": "Simon Austin · TGG",
+          "from": "Training Ground Guru",
           "subject": "Why we started TGG Live",
           "snippet": "One room. Every discipline.",
           "date": "2026-07-21T07:33:05Z",
@@ -83,11 +75,20 @@
         {
           "from": "Jane · Trendera",
           "subject": "Fwd: Your trip confirmation (AUS - LAX)",
-          "snippet": "Forwarded message from American Airlines: your trip confirmation, AUS to LAX.",
+          "snippet": "Forwarded American Airlines trip confirmation, Austin to Los Angeles.",
           "date": "2026-07-21T01:18:08Z",
           "unread": false,
           "tag": "Important",
           "url": "https://mail.google.com/mail/u/0/#inbox/19f8240f15c564a5"
+        },
+        {
+          "from": "Jane · Trendera",
+          "subject": "Fwd: Your trip confirmation (LAX - AUS)",
+          "snippet": "Forwarded American Airlines trip confirmation, Los Angeles to Austin.",
+          "date": "2026-07-21T01:17:55Z",
+          "unread": false,
+          "tag": "Important",
+          "url": "https://mail.google.com/mail/u/0/#inbox/19f8240c3cb827c8"
         }
       ]
     },

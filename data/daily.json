@@ -1,6 +1,6 @@
 {
   "dateLabel": "Wednesday, July 22",
-  "updatedLabel": "Wed Jul 22, 7:08 AM PT",
+  "updatedLabel": "Wed Jul 22, 8:05 AM PT",
   "today": [
     { "time": "10:00 AM", "title": "Meet HR" },
     { "time": "10:00 AM – 2:00 PM", "title": "WORK", "loc": "818 W 7th St", "accent": "span" },
@@ -51,7 +51,7 @@
     { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/19f6884103c65a24", "title": "LA Sports & Entertainment Career Fair — Jul 27", "meta": "TeamWork Online invite · RSVP" }
   ],
   "inbox": {
-    "unread": 33,
+    "unread": 34,
     "items": [
       { "dot": "red", "url": "https://mail.google.com/mail/u/0/#inbox/19f87547fad6630f", "title": "Re: W-2 Request For 2025", "tag": "REPLY", "meta": "Cara Carroll · WME" },
       { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/19f6884103c65a24", "title": "LA Sports & Entertainment Career Fair", "tag": "EVENT", "meta": "TeamWork Online · Jul 27" },
