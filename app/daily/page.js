@@ -1,5 +1,6 @@
 import Nav from "../nav";
 import data from "@/data/daily.json";
+import projectsData from "@/data/projects.json";
 
 export const dynamic = "force-dynamic";
 
@@ -139,8 +140,35 @@ export default function Daily() {
         </div>
       </div>
 
+      <div className="card projects-band">
+        <h2>Active Projects<span className="pill">{(projectsData.projects || []).length}</span></h2>
+        <div className="projgrid">
+          {(projectsData.projects || []).map((p, i) => (
+            <div className={"proj" + (p.stale ? " stale" : "")} key={i}>
+              <div className="ph">
+                <span className={"pdot " + (p.dot || "")} />
+                <span className="pname">{p.name}</span>
+                {p.when ? <span className="pwhen">{p.when}</span> : null}
+              </div>
+              <div className="pblock">
+                <span className="plabel">Latest</span>
+                {p.lastUpdate
+                  ? (p.url ? <a className="pval" href={p.url} target="_blank" rel="noreferrer">{p.lastUpdate}</a> : <span className="pval">{p.lastUpdate}</span>)
+                  : <span className="pval faintv">Nothing logged yet — tell me what's new.</span>}
+              </div>
+              <div className="pblock">
+                <span className="plabel">Next</span>
+                {p.nextSteps && p.nextSteps.length
+                  ? <ul className="pnext">{p.nextSteps.map((s, j) => <li key={j}>{s}</li>)}</ul>
+                  : <span className="pval faintv">Nothing logged yet.</span>}
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+
       <div className="foot-note" style={{ marginTop: 20 }}>
-        Sources: Google Calendar, Gmail, Google Drive, Todoist. Times in America/Los_Angeles. Refreshed each weekday morning.
+        Sources: Google Calendar, Gmail, Google Drive, Todoist. Times in America/Los_Angeles. Refreshed hourly.
       </div>
     </div>
   );

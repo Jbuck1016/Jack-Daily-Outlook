@@ -1,0 +1,46 @@
+{
+  "note": "Maintained log. 'lastUpdate' and 'nextSteps' are written deliberately when we work a project in any session, or when Jack tells me. Not auto-inferred.",
+  "projects": [
+    {
+      "name": "GhostBet",
+      "dot": "green",
+      "when": "Jul 22",
+      "lastUpdate": "Closed the 'GhostBet changes' task — QF bet amounts, extra-league framework, and EIN/LLC.",
+      "nextSteps": [],
+      "stale": false
+    },
+    {
+      "name": "FanSlate",
+      "dot": "green",
+      "when": "Jul 22",
+      "lastUpdate": "Closed the 'FanSlate changes' task.",
+      "nextSteps": [],
+      "stale": false
+    },
+    {
+      "name": "LAFC Analytics",
+      "dot": "blue",
+      "when": "Jul 22",
+      "lastUpdate": "Added the LAFC Field Guide to Drive.",
+      "url": "https://drive.google.com/file/d/1Y9z_mCmhndUaShrU2y8lP6ZTR27jgSk-/view",
+      "nextSteps": [],
+      "stale": false
+    },
+    {
+      "name": "Scouting notebooks — Personal & Public",
+      "dot": "faint",
+      "when": "",
+      "lastUpdate": "",
+      "nextSteps": [],
+      "stale": true
+    },
+    {
+      "name": "Personal public portfolio",
+      "dot": "faint",
+      "when": "",
+      "lastUpdate": "",
+      "nextSteps": [],
+      "stale": true
+    }
+  ]
+}
