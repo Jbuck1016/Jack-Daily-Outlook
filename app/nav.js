@@ -4,10 +4,11 @@ import { usePathname, useRouter } from "next/navigation";
 import Link from "next/link";
 
 const LINKS = [
-  { href: "/", label: "Hub" },
-  { href: "/daily", label: "Daily" },
-  { href: "/portfolio", label: "Portfolio" },
-  { href: "/transfers", label: "Transfers" },
+  { href: "/", label: "hub" },
+  { href: "/daily", label: "daily" },
+  { href: "/projects", label: "projects" },
+  { href: "/portfolio", label: "portfolio" },
+  { href: "/transfers", label: "transfers" },
 ];
 
 export default function Nav() {
@@ -22,14 +23,16 @@ export default function Nav() {
 
   return (
     <div className="topbar">
-      <div className="brand"><span className="dotmark" />Jack's Hub</div>
+      <div className="brand">
+        <span className="prompt">›</span>Jack's Terminal<span className="cursor" />
+      </div>
       <div className="navlinks">
         {LINKS.map((l) => (
           <Link key={l.href} href={l.href} className={pathname === l.href ? "active" : ""}>
             {l.label}
           </Link>
         ))}
-        <button className="logout" onClick={logout}>Sign out</button>
+        <button className="logout" onClick={logout}>exit</button>
       </div>
     </div>
   );

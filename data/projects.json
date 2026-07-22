@@ -1,84 +1,84 @@
 {
-  "note": "Maintained log. lastUpdate = observed current state of each live app (read Jul 22). nextSteps = my read of visible gaps — Jack to confirm/replace with real roadmap.",
+  "note": "Maintained log. Updated deliberately when we work a project or when Jack sends a wrap-up. Not auto-inferred; not touched by the hourly job.",
   "projects": [
     {
       "name": "FADE",
-      "dot": "amber",
-      "when": "Jul 22",
       "url": "https://wcghostbet.vercel.app/signup",
-      "lastUpdate": "Close to launch-ready (formerly GhostBet). This weekend's customization work shipped: Team leagues, Reactivate flow, two-step Create wizard with inline explanations, Past Leagues tab, public signup, cleaner match/prop-only market-cap selector, Survivor removed. Publicly signup-able at /signup — ready for test users. BLOCKED externally: D-U-N-S case #34667209 is 8 business days overdue with no word from D&B (escalation comment posted; Apple Dev Support next if no movement by Wed EOD). No D-U-N-S = iOS TestFlight / App Store blocked, so native mobile may slip past the Aug 16 EPL opener.",
+      "updated": "Jul 22",
+      "status": { "label": "Blocked", "tone": "rose" },
+      "headline": "Product is launch-ready — held up only by an external D-U-N-S delay.",
+      "lastUpdate": "This weekend shipped Thijmen's full customization set: Team leagues, a two-step Create wizard with inline explanations, a Reactivate flow, a Past Leagues tab, a cleaner match/prop-only market-cap picker, and public signup (Survivor cut). It's live to test at /signup. The one blocker is outside your control: the D-U-N-S application (#34667209) is 8 business days overdue at D&B, which keeps iOS TestFlight and the App Store locked — so native mobile could slip past the Aug 16 EPL opener.",
       "nextSteps": [
-        "Wait 24h on the D&B comment before escalating to Apple.",
+        "Wait 24h on the D&B comment before escalating to Apple Developer Support.",
         "Enable email confirmation in Supabase Auth (5-min task; unblocks password reset for invited users).",
         "Kick off the Capacitor Android wrapper — Android is unblocked, so Google Play can ship while iOS waits.",
         "Add content moderation on avatar uploads before public launch."
-      ],
-      "stale": false
+      ]
     },
     {
       "name": "LAFC Analytics",
-      "dot": "amber",
-      "when": "Jul 22",
       "url": "https://arsenal-analytics-blush.vercel.app/",
-      "lastUpdate": "Dashboard restored and live on Vercel on a fresh Supabase project (lafc-analytics): all 16 LAFC matches loaded, RLS locked read-only, season-stats view + starter RPC rebuilt, scraper fixed (headful to beat WhoScored's anti-bot). In flight: backfilling the full MLS season (~207 matches, ~6–7h, resumable) to build the percentile pool the player-fingerprint feature needs.",
+      "updated": "Jul 22",
+      "status": { "label": "Backfilling", "tone": "amber" },
+      "headline": "Dashboard rebuilt and live; a full-season data backfill is running now.",
+      "lastUpdate": "Restored and live on a fresh Supabase project (lafc-analytics): all 16 LAFC matches loaded, RLS locked read-only, and the season-stats view plus starter RPC rebuilt. The scraper is fixed (runs headful to beat WhoScored's anti-bot). Right now it's backfilling the full MLS season — ~207 matches over 6–7 hours, resumable if it stalls — to build the percentile pool the player-fingerprint feature needs.",
       "nextSteps": [
         "Confirm the morning summary shows the percentile pool loaded.",
         "Build the fingerprint layer on top — percentile profiles, DNA composites, and the Scout ranker.",
         "Rebuild the match-report Edge Function so the Generate Report button works again."
-      ],
-      "stale": false
+      ]
     },
     {
       "name": "Public portfolio",
-      "dot": "blue",
-      "when": "Jul 22",
       "url": "https://scout-portfolio.vercel.app/",
-      "lastUpdate": "Live editorial layout: dark Tzolis hero anchoring a one-screen home, four Substack articles, the Yumpu presentation, three LinkedIn posts, and the heatmap wired into the dossier header. Architecture proven — the notebook and portfolio share one database, so a report edited in the terminal flows to the public page automatically (latest Tzolis edit is in the DB, awaiting a cache refresh).",
+      "updated": "Jul 22",
+      "status": { "label": "Polishing", "tone": "sky" },
+      "headline": "Live and proven — one cache refresh from fully in sync with your notebook.",
+      "lastUpdate": "The editorial layout is live: a dark Tzolis hero anchoring a one-screen home, four Substack articles, the Yumpu presentation, three LinkedIn posts, and the heatmap wired into the dossier header. The architecture is proven — the portfolio and your notebook share one database, so a report edited in the terminal flows straight to the public page. Your latest Tzolis edit is already in the database, just waiting on a cache refresh.",
       "nextSteps": [
         "Force a redeploy to push the pending Tzolis text edit live; decide whether to shorten the revalidation window so future notebook edits appear within minutes.",
         "Port the scouting terminal's real report layout onto the dossier page so it matches the notebook (still rendering the earlier invented format)."
-      ],
-      "stale": false
+      ]
     },
     {
-      "name": "Public scouting notebook — ScoutDraft",
-      "dot": "green",
-      "when": "Jul 22",
+      "name": "ScoutDraft",
       "url": "https://scoutdraft-beta.vercel.app/",
-      "lastUpdate": "Working, open-signup app: full 2,612-player pool from Sportmonks with trustworthy within-position percentiles, plus a stats panel, radar toggle, filtering, Compare and shortlists — all browser-verified. The Galaxy feature was deliberately cut; the Transfermarkt market-value idea is parked (no legal way to source it).",
+      "updated": "Jul 22",
+      "status": { "label": "In testing", "tone": "cyan" },
+      "headline": "Open-signup and browser-verified — ready for your test pass.",
+      "lastUpdate": "A working, open-signup scouting app (public notebook): the full 2,612-player pool from Sportmonks with trustworthy within-position percentiles, plus a stats panel, radar toggle, filtering, Compare, and shortlists — all browser-verified. You deliberately cut the Galaxy feature and parked the Transfermarkt market-value idea (no legal way to source it).",
       "nextSteps": [
         "Run the 12-step test pass and send back what to change (becomes the next build prompt).",
         "UX friction cleanup, then a colors pass.",
         "Wire Resend SMTP so password reset works."
-      ],
-      "stale": false
+      ]
     },
     {
-      "name": "Personal scouting notebook — SCOUTING_TERMINAL",
-      "dot": "green",
-      "when": "Jul 22",
+      "name": "SCOUTING_TERMINAL",
       "url": "https://scouting-app-omega.vercel.app/",
-      "lastUpdate": "Live with a full module suite — Players, Teams, Match Notes, Compare, Tactical Board, Shortlists and a new STATS tab — on a cream/editorial aesthetic (Playfair Display, Space Mono, Inter). World Cup 2026 transcription workflow active with 14+ matches logged (group stage + Round of 32). The JB Report PDF generates clean single-page player reports with heatmaps, color-coded category cards and correct typography. Tzolis has a complete onboarding report from 3 all-action watches — heatmap uploaded, archetypes assigned — but his radar scores and Stats API ID are still pending.",
+      "updated": "Jul 22",
+      "status": { "label": "Active", "tone": "emerald" },
+      "headline": "Full suite live; World Cup logging underway, Tzolis nearly complete.",
+      "lastUpdate": "Live with the full module suite (personal notebook) — Players, Teams, Match Notes, Compare, Tactical Board, Shortlists, and a new STATS tab — in a cream editorial style (Playfair Display, Space Mono, Inter). The World Cup 2026 transcription workflow is active with 14+ matches logged through the Round of 32, and the JB Report PDF generates clean single-page player reports with heatmaps and color-coded cards. Tzolis has a complete onboarding report from 3 all-action watches — heatmap and archetypes in — but his radar scores and Stats API ID are still pending.",
       "nextSteps": [
         "Run the em-dash SQL cleanup on Tzolis' DB fields.",
         "Build Tzolis' radar scores from his notes.",
         "Keep logging World Cup matches as you watch them.",
         "Run the queued URL-overflow + STATS-tab + card-text-size prompt."
-      ],
-      "stale": false
+      ]
     },
     {
       "name": "FanSlate",
-      "dot": "green",
-      "when": "Jul 22",
       "url": "https://fanslate.club/",
-      "lastUpdate": "'Your American teams, your English club' — pick across NFL/NBA/MLB/NHL/CFB/CBB and 'Reveal my club' matches you to an English side. Just generated all 3,600 grounded per-team blurbs (cached, passing automated checks — no em-dashes, no length outliers, no dupes), replacing the old thin, repetitive copy with specific, fact-grounded lines for every team-club pair. Remaining gate is human: a banned-phrase sweep across the corpus and a voice read of a sample.",
+      "updated": "Jul 22",
+      "status": { "label": "Ready to ship", "tone": "emerald" },
+      "headline": "3,600 grounded blurbs done — one human review from deploy.",
+      "lastUpdate": "The concept is 'your American teams, your English club': pick across NFL/NBA/MLB/NHL/CFB/CBB and 'Reveal my club' matches you to an English side. You just generated all 3,600 grounded per-team blurbs — cached and passing the automated checks (no em-dashes, no length outliers, no dupes) — replacing the old thin, repetitive copy with specific, fact-grounded lines for every pair. The only gate left is human: a banned-phrase sweep and a voice read of a sample.",
       "nextSteps": [
         "Commit the work — 3,600 blurbs and the API spend are uncommitted right now.",
         "Confirm the result page reads from blurbs.json (old template as fallback), then push and deploy.",
         "Then: mobile polish and the socials launch content."
-      ],
-      "stale": false
+      ]
     }
   ]
 }

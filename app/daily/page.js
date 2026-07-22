@@ -1,6 +1,5 @@
 import Nav from "../nav";
 import data from "@/data/daily.json";
-import projectsData from "@/data/projects.json";
 
 export const dynamic = "force-dynamic";
 
@@ -78,8 +77,8 @@ export default function Daily() {
             {d.todayNote ? <div className="foot-note">{d.todayNote}</div> : null}
           </div>
 
-          <div className="card">
-            <h2>The rest of the week</h2>
+          <div className="card acc-cyan">
+            <h2><span className="hicon" />The rest of the week</h2>
             <ul className="up">
               {(d.week || []).map((w, i) => (
                 <li className="uprow" key={i}>
@@ -100,8 +99,8 @@ export default function Daily() {
         </div>
 
         <div className="stack">
-          <div className="card">
-            <h2>Tasks · Todoist
+          <div className="card acc-emerald">
+            <h2><span className="hicon" />Tasks · Todoist
               {tasks.pillText ? (
                 <span className={"pill " + (tasks.pillWarn ? "warn" : "ok")}>{tasks.pillText}</span>
               ) : null}
@@ -120,57 +119,23 @@ export default function Daily() {
             ) : null}
           </div>
 
-          <div className="card">
-            <h2>Follow-ups</h2>
+          <div className="card acc-coral">
+            <h2><span className="hicon" />Follow-ups</h2>
             <ul className="items">{(d.followups || []).map((it, i) => <Item key={i} it={it} />)}</ul>
           </div>
 
-          <div className="card">
-            <h2>Inbox — needs attention
+          <div className="card acc-sky">
+            <h2><span className="hicon" />Inbox — needs attention
               {typeof inbox.unread === "number" ? <span className="pill">{inbox.unread} unread</span> : null}
             </h2>
             <ul className="items">{(inbox.items || []).map((it, i) => <Item key={i} it={it} />)}</ul>
             {inbox.note ? <div className="foot-note">{inbox.note}</div> : null}
           </div>
 
-          <div className="card">
-            <h2>Recent in Drive</h2>
+          <div className="card acc-violet">
+            <h2><span className="hicon" />Recent in Drive</h2>
             <ul className="items">{(d.drive || []).map((it, i) => <Item key={i} it={{ ...it, dot: it.dot || "" }} />)}</ul>
           </div>
-        </div>
-      </div>
-
-      <div className="card projects-band">
-        <h2>Active Projects<span className="pill">{(projectsData.projects || []).length}</span></h2>
-        <div className="projgrid">
-          {(projectsData.projects || []).map((p, i) => (
-            <div className={"proj" + (p.stale ? " stale" : "")} key={i}>
-              <div className="ph">
-                <span className={"pdot " + (p.dot || "")} />
-                <span className="pname">
-                  {p.url ? <a href={p.url} target="_blank" rel="noreferrer">{p.name}</a> : p.name}
-                </span>
-                {p.when ? <span className="pwhen">{p.when}</span> : null}
-              </div>
-              {p.url ? (
-                <a className="plink" href={p.url} target="_blank" rel="noreferrer">
-                  {p.url.replace(/^https?:\/\//, "").replace(/\/$/, "")} ↗
-                </a>
-              ) : null}
-              <div className="pblock">
-                <span className="plabel">Latest</span>
-                {p.lastUpdate
-                  ? <span className="pval">{p.lastUpdate}</span>
-                  : <span className="pval faintv">Nothing logged yet — tell me what's new.</span>}
-              </div>
-              <div className="pblock">
-                <span className="plabel">Next</span>
-                {p.nextSteps && p.nextSteps.length
-                  ? <ul className="pnext">{p.nextSteps.map((s, j) => <li key={j}>{s}</li>)}</ul>
-                  : <span className="pval faintv">Nothing logged yet.</span>}
-              </div>
-            </div>
-          ))}
         </div>
       </div>
 
