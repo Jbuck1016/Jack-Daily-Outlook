@@ -5,8 +5,17 @@
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-07-22T21:09:22Z",
+      "updated": "2026-07-22T22:06:05Z",
       "emails": [
+        {
+          "from": "Microsoft · LAFC",
+          "subject": "LAFC account email verification code",
+          "snippet": "Thanks for verifying your jack.buckingham@lafc.com account. Your verification code is inside.",
+          "date": "2026-07-22T21:47:39Z",
+          "unread": false,
+          "tag": "Important",
+          "url": "https://mail.google.com/mail/u/0/#inbox/19f8bcc77bfe5252"
+        },
         {
           "from": "FootballTicketNet",
           "subject": "Missing Football Already? The Top Leagues Are Back !",
@@ -82,14 +91,6 @@
           "unread": false,
           "tag": "Important",
           "url": "https://mail.google.com/mail/u/0/#inbox/19f7d755ed20f0e1"
-        },
-        {
-          "from": "Atlassian",
-          "subject": "Your new Loom Business + AI trial",
-          "snippet": "You're now on a free 14-day Loom Business + AI trial. Your trial ends on Aug 3, 2026.",
-          "date": "2026-07-20T21:24:25Z",
-          "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/19f816a763f0d6f7"
         }
       ]
     },

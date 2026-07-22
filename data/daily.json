@@ -1,6 +1,6 @@
 {
   "dateLabel": "Wednesday, July 22, 2026",
-  "updatedLabel": "Wed Jul 22, 2:09 PM PT",
+  "updatedLabel": "Wed Jul 22, 3:06 PM PT",
   "today": [
     { "time": "10:00 AM", "title": "Meet HR" },
     { "time": "10:00 AM – 2:00 PM", "title": "WORK", "loc": "818 W 7th St, Los Angeles", "accent": "span" },
@@ -36,10 +36,11 @@
     }
   ],
   "tasks": {
-    "pillText": "0 overdue · 2 today",
+    "pillText": "0 overdue · 3 today",
     "pillWarn": false,
     "overdue": [],
     "recurring": [
+      { "title": "Email IT for SaaS, DBeaver, Zoom, Slack", "url": "https://app.todoist.com/app/task/6h7WmqGx7MCgxmmH", "meta": "Due today · P1" },
       { "title": "Take meds", "url": "https://app.todoist.com/app/task/6fPrF5rMMcCF9Fpq", "meta": "Daily · 9:00 AM" },
       { "title": "Check WhatsApp", "url": "https://app.todoist.com/app/task/6fPrHvm9qrMM44cH", "meta": "Daily · 10:00 AM" }
     ]
@@ -55,7 +56,7 @@
       "dot": "amber",
       "url": "https://mail.google.com/mail/u/0/#inbox/19f7d755ed20f0e1",
       "title": "Confirm call with Dan White · JPMorgan",
-      "meta": "You proposed 12pm — waiting to lock a time"
+      "meta": "You proposed 12pm / afternoon — waiting to lock a time"
     },
     {
       "dot": "amber",
@@ -71,15 +72,14 @@
         "dot": "red",
         "url": "https://mail.google.com/mail/u/0/#inbox/19f87547fad6630f",
         "title": "Cara Carroll · WME",
-        "tag": "REPLY",
-        "meta": "Re: W-2 Request — contact Payroll"
+        "meta": "Reply sent — still need to email Payroll@WMEAgency.com"
       },
       {
         "dot": "amber",
         "url": "https://mail.google.com/mail/u/0/#inbox/19f7d755ed20f0e1",
         "title": "Dan White · JPMorgan",
         "tag": "REPLY",
-        "meta": "Awaiting your call-time confirmation"
+        "meta": "Awaiting a locked call time"
       },
       {
         "dot": "faint",
