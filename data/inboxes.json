@@ -5,53 +5,29 @@
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-07-22T16:08:26Z",
+      "updated": "2026-07-22T18:08:31Z",
       "emails": [
         {
-          "from": "Soccer & Betting Jobs Digest",
-          "subject": "⚽🎰 6 new jobs 🔥1 posted today! — Jul 22",
-          "snippet": "Soccer & Betting Jobs Daily digest · July 22, 2026 · 6 new · 20 still open. Track your applications in your Google Sheet tracker.",
-          "date": "2026-07-22T15:03:00Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/19f8a59fd620dfd4"
-        },
-        {
           "from": "FootballTicketNet",
-          "subject": "Missing Football Already? The Top Leagues Are Back!",
+          "subject": "Missing Football Already? The Top Leagues Are Back !",
           "snippet": "The leagues are back for 2026/27. Grab the best seats at the best price before everyone else does.",
           "date": "2026-07-22T13:14:14Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f89f7ce072575f"
         },
         {
-          "from": "Resend",
-          "subject": "Claude, Codex, and our GitHub partnership",
-          "snippet": "Remote MCP server, OAuth support, the new DMARC, and more.",
-          "date": "2026-07-22T12:05:03Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/19f89b71213fd869"
-        },
-        {
           "from": "Cara Carroll · WME",
           "subject": "Re: W-2 Request For 2025",
-          "snippet": "Hello Jack: Please reach out to Payroll@WMEAgency.com to assist with your query. Thank you, Cara Carroll, WME.",
+          "snippet": "Hello Jack: Please reach out to Payroll@WMEAgency.com to assist with your query. Thank you.",
           "date": "2026-07-22T01:36:12Z",
           "unread": true,
           "tag": "Important",
           "url": "https://mail.google.com/mail/u/0/#inbox/19f87547fad6630f"
         },
         {
-          "from": "Yumpu",
-          "subject": "Glad to have you here! Confirm your email address.",
-          "snippet": "Now you are ready to go! Activate your account now by clicking the link.",
-          "date": "2026-07-21T21:53:50Z",
-          "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/19f86abc4f834afb"
-        },
-        {
-          "from": "Atlassian · Loom",
+          "from": "Loom · Atlassian",
           "subject": "Add More Context To Your Assignments With A Loom",
-          "snippet": "Discover all the ways you can use Loom. Add helpful context to your next assignments by recording a Loom.",
+          "snippet": "Discover all the ways you can use Loom. Try recording a Loom to add helpful context to your assignments.",
           "date": "2026-07-21T21:37:18Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f869ca06510eec"
@@ -73,20 +49,47 @@
           "url": "https://mail.google.com/mail/u/0/#inbox/19f8572f5d23756d"
         },
         {
-          "from": "Soccer & Betting Jobs Digest",
-          "subject": "⚽🎰 10 new jobs 🔥2 posted today! — Jul 21",
-          "snippet": "Soccer & Betting Jobs Daily digest · July 21, 2026 · 10 new · 20 still open.",
-          "date": "2026-07-21T15:02:29Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/19f8533260719e08"
-        },
-        {
           "from": "Simon Austin · TGG",
           "subject": "Why we started TGG Live",
           "snippet": "One room. Every discipline.",
           "date": "2026-07-21T07:33:05Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f83980b7b7239f"
+        },
+        {
+          "from": "Jane · Trendera",
+          "subject": "Fwd: Your trip confirmation (AUS - LAX)",
+          "snippet": "Forwarded American Airlines trip confirmation, AUS to LAX.",
+          "date": "2026-07-21T01:18:08Z",
+          "unread": false,
+          "tag": "Important",
+          "url": "https://mail.google.com/mail/u/0/#inbox/19f8240f15c564a5"
+        },
+        {
+          "from": "Jane · Trendera",
+          "subject": "Fwd: Your trip confirmation (LAX - AUS)",
+          "snippet": "Forwarded American Airlines trip confirmation, LAX to AUS.",
+          "date": "2026-07-21T01:17:55Z",
+          "unread": false,
+          "tag": "Important",
+          "url": "https://mail.google.com/mail/u/0/#inbox/19f8240c3cb827c8"
+        },
+        {
+          "from": "Daniel White · JPMorgan",
+          "subject": "RE: [EXTERNAL] Call This Week?",
+          "snippet": "On a zoom now. What is your availability tomorrow?",
+          "date": "2026-07-20T22:02:46Z",
+          "unread": false,
+          "tag": "Important",
+          "url": "https://mail.google.com/mail/u/0/#inbox/19f7d755ed20f0e1"
+        },
+        {
+          "from": "Atlassian",
+          "subject": "Your new Loom Business + AI trial",
+          "snippet": "You're now on a free 14-day Loom Business + AI trial. Your trial ends on Aug 3, 2026.",
+          "date": "2026-07-20T21:24:25Z",
+          "unread": false,
+          "url": "https://mail.google.com/mail/u/0/#inbox/19f816a763f0d6f7"
         }
       ]
     },
