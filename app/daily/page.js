@@ -147,13 +147,20 @@ export default function Daily() {
             <div className={"proj" + (p.stale ? " stale" : "")} key={i}>
               <div className="ph">
                 <span className={"pdot " + (p.dot || "")} />
-                <span className="pname">{p.name}</span>
+                <span className="pname">
+                  {p.url ? <a href={p.url} target="_blank" rel="noreferrer">{p.name}</a> : p.name}
+                </span>
                 {p.when ? <span className="pwhen">{p.when}</span> : null}
               </div>
+              {p.url ? (
+                <a className="plink" href={p.url} target="_blank" rel="noreferrer">
+                  {p.url.replace(/^https?:\/\//, "").replace(/\/$/, "")} ↗
+                </a>
+              ) : null}
               <div className="pblock">
                 <span className="plabel">Latest</span>
                 {p.lastUpdate
-                  ? (p.url ? <a className="pval" href={p.url} target="_blank" rel="noreferrer">{p.lastUpdate}</a> : <span className="pval">{p.lastUpdate}</span>)
+                  ? <span className="pval">{p.lastUpdate}</span>
                   : <span className="pval faintv">Nothing logged yet — tell me what's new.</span>}
               </div>
               <div className="pblock">

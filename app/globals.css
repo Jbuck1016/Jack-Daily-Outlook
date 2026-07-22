@@ -176,3 +176,7 @@ a.il:hover{color:var(--accent);text-decoration:underline}
 .proj .pval.faintv{color:var(--faint);font-style:italic}
 .proj ul.pnext{margin:0;padding-left:16px}
 .proj ul.pnext li{font-size:12.5px;color:var(--muted);line-height:1.5}
+.proj .pname a{color:var(--text);text-decoration:none}
+.proj .pname a:hover{color:var(--accent);text-decoration:underline}
+.proj a.plink{display:inline-block;font-size:11px;color:var(--accent);text-decoration:none;margin-top:-1px;margin-bottom:2px;opacity:.85;font-variant-numeric:tabular-nums}
+.proj a.plink:hover{text-decoration:underline;opacity:1}
