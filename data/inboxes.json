@@ -5,8 +5,25 @@
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-07-23T00:06:20Z",
+      "updated": "2026-07-23T01:07:35Z",
       "emails": [
+        {
+          "from": "Apple",
+          "subject": "Your Apple Account information has been updated.",
+          "snippet": "The following changes to your Apple Account were made on July 22, 2026 at 5:43 PM PDT: Email address(es).",
+          "date": "2026-07-23T00:43:29Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/19f8c6cefca7a02a"
+        },
+        {
+          "from": "Apple",
+          "subject": "Verify your email address.",
+          "snippet": "You recently added jackbuckiingham@gmail.com as an additional email address for your Apple Account. Enter the code below to verify.",
+          "date": "2026-07-23T00:42:22Z",
+          "unread": false,
+          "tag": "Important",
+          "url": "https://mail.google.com/mail/u/0/#inbox/19f8c6c6887d716d"
+        },
         {
           "from": "Northwest Registered Agent",
           "subject": "Get the Support Your Business Needs to Thrive",
@@ -24,7 +41,7 @@
           "url": "https://mail.google.com/mail/u/0/#inbox/19f8c1f9a34020c6"
         },
         {
-          "from": "Kirsten Schiller · WME",
+          "from": "K. Schiller · WME",
           "subject": "RE: W2 for 2025",
           "snippet": "Hello Jack – you can access your W2 through ADP iPay. Please follow the steps below to register your account. Let us know if you have any issues.",
           "date": "2026-07-22T22:22:56Z",
@@ -43,16 +60,16 @@
         {
           "from": "Cara Carroll · WME",
           "subject": "Re: W-2 Request For 2025",
-          "snippet": "Hello Jack: Please reach out to Payroll@WMEAgency.com to assist with your query. Thank you. Cara Carroll, WME.",
+          "snippet": "Hello Jack: Please reach out to Payroll@WMEAgency.com to assist with your query. Thank you.",
           "date": "2026-07-22T01:36:12Z",
           "unread": false,
           "tag": "Important",
           "url": "https://mail.google.com/mail/u/0/#inbox/19f87547fad6630f"
         },
         {
-          "from": "Loom · Atlassian",
+          "from": "Atlassian",
           "subject": "Add More Context To Your Assignments With A Loom",
-          "snippet": "Add helpful context to your next homework assignments by recording a Loom. Discover how the best Educators use Loom.",
+          "snippet": "Discover all the ways you can use Loom. Try recording a Loom to add helpful context to your next homework assignments.",
           "date": "2026-07-21T21:37:18Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f869ca06510eec"
@@ -72,23 +89,6 @@
           "date": "2026-07-21T16:04:27Z",
           "unread": false,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f8572f5d23756d"
-        },
-        {
-          "from": "Simon Austin · TGG",
-          "subject": "Why we started TGG Live",
-          "snippet": "One room. Every discipline.",
-          "date": "2026-07-21T07:33:05Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/19f83980b7b7239f"
-        },
-        {
-          "from": "Jane · Trendera",
-          "subject": "Fwd: Your trip confirmation (AUS - LAX)",
-          "snippet": "Forwarded American Airlines trip confirmation, AUS to LAX.",
-          "date": "2026-07-21T01:18:08Z",
-          "unread": false,
-          "tag": "Important",
-          "url": "https://mail.google.com/mail/u/0/#inbox/19f8240f15c564a5"
         }
       ]
     },

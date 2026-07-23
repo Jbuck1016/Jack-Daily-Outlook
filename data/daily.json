@@ -1,6 +1,6 @@
 {
   "dateLabel": "Wednesday, July 22, 2026",
-  "updatedLabel": "Wed Jul 22, 5:06 PM PT",
+  "updatedLabel": "Wed Jul 22, 6:07 PM PT",
   "today": [
     { "time": "10:00 AM", "title": "Meet HR" },
     { "time": "10:00 AM", "title": "WORK", "loc": "818 W 7th St, LA" },
@@ -47,24 +47,23 @@
     ]
   },
   "followups": [
-    { "dot": "red", "url": "https://mail.google.com/mail/u/0/#inbox/19f8b989f087efc2", "title": "W-2 access from WME Payroll", "meta": "Kirsten Schiller · register on ADP iPay" },
-    { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/19f8c1f9a34020c6", "title": "Accept LAFC shared calendar invite", "meta": "jack.buckingham@lafc.com" },
-    { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/19f6884103c65a24", "title": "LA Sports & Entertainment Career Fair", "meta": "Jul 27 · Teamwork Online" }
+    { "dot": "red", "url": "https://mail.google.com/mail/u/0/#inbox/19f8b989f087efc2", "title": "W-2 access from WME Payroll", "meta": "K. Schiller · register on ADP iPay" },
+    { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/19f8c1f9a34020c6", "title": "LAFC shared calendar invite", "meta": "Accept to join the shared calendar" },
+    { "dot": "green", "url": "https://mail.google.com/mail/u/0/#inbox/19f6884103c65a24", "title": "LA Sports & Entertainment Career Fair", "meta": "Jul 27 · RSVP if interested" }
   ],
   "inbox": {
-    "unread": 31,
+    "unread": 32,
     "items": [
-      { "dot": "red", "url": "https://mail.google.com/mail/u/0/#inbox/19f8b989f087efc2", "title": "RE: W2 for 2025", "tag": "REPLY", "meta": "Kirsten Schiller · WME" },
-      { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/19f8c1f9a34020c6", "title": "Shared calendar invite: \"Jack Buckingham\"", "tag": "EVENT", "meta": "LAFC" },
-      { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/19f6884103c65a24", "title": "LA Sports & Entertainment Career Fair", "tag": "EVENT", "meta": "Teamwork Online · Jul 27" },
-      { "dot": "faint", "url": "https://mail.google.com/mail/u/0/#inbox/19f8240f15c564a5", "title": "Trip confirmation (AUS - LAX)", "meta": "Jane · Trendera" }
+      { "dot": "red", "url": "https://mail.google.com/mail/u/0/#inbox/19f8b989f087efc2", "title": "K. Schiller · WME", "tag": "REPLY", "meta": "ADP iPay steps for your 2025 W-2" },
+      { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/19f8c1f9a34020c6", "title": "LAFC calendar invite", "tag": "EVENT", "meta": "Accept to join shared calendar" },
+      { "dot": "faint", "url": "https://mail.google.com/mail/u/0/#inbox/19f6884103c65a24", "title": "Teamwork Online", "tag": "EVENT", "meta": "LA Sports & Entertainment Career Fair · Jul 27" }
     ],
-    "note": "31 unread in the last 14 days — the rest are newsletters and promos."
+    "note": "Most unread are newsletters, promos, and Apple security alerts."
   },
   "drive": [
-    { "url": "https://drive.google.com/file/d/1Y9z_mCmhndUaShrU2y8lP6ZTR27jgSk-/view", "title": "LAFC Field Guide", "meta": "PDF · updated Jul 21" },
-    { "url": "https://docs.google.com/presentation/d/1V9ExWjpDpQt7I6aZTYjOXe32RorhXuLmM1CY3FhMG-w/edit", "title": "LA Galaxy Audit — Jack Buckingham", "meta": "Slides · updated Jul 21" },
-    { "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit", "title": "UD7016 High Performance Environments — Group Presentation", "meta": "Doc · updated Jul 21" },
-    { "url": "https://docs.google.com/document/d/1CEaB_F1xqczI4qi8yIrOFul6MGCpeyKQyC_pS0OvHqg/edit", "title": "Talking Points — Jack Buckingham", "meta": "Doc · updated Jul 20" }
+    { "url": "https://drive.google.com/file/d/1Y9z_mCmhndUaShrU2y8lP6ZTR27jgSk-/view?usp=drivesdk", "title": "LAFC Field Guide", "meta": "PDF · Jul 22" },
+    { "url": "https://docs.google.com/presentation/d/1V9ExWjpDpQt7I6aZTYjOXe32RorhXuLmM1CY3FhMG-w/edit", "title": "LA Galaxy Audit — Jack Buckingham", "meta": "Slides · Jul 21" },
+    { "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit", "title": "UD7016 High Performance Environments", "meta": "Doc · Jul 21" },
+    { "url": "https://docs.google.com/document/d/1CEaB_F1xqczI4qi8yIrOFul6MGCpeyKQyC_pS0OvHqg/edit", "title": "Galaxy Audit — Talking Points", "meta": "Doc · Jul 20" }
   ]
 }
