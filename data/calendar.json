@@ -1,5 +1,5 @@
 {
-  "updatedLabel": "Thu Jul 23, 1:06 PM PT",
+  "updatedLabel": "Thu Jul 23, 2:09 PM PT",
   "sources": [
     {
       "key": "personal",
@@ -54,7 +54,7 @@
         },
         {
           "time": "7:30 PM",
-          "title": "⚽ LAFC vs. Sporting Kansas City",
+          "title": "LAFC vs. Sporting Kansas City",
           "loc": "BMO Stadium",
           "src": "lafc-match"
         },
@@ -72,6 +72,16 @@
           "time": "10:00 AM",
           "title": "Class",
           "src": "personal"
+        },
+        {
+          "time": "11:00 AM",
+          "title": "CP Sales Weekly",
+          "src": "lafc-work"
+        },
+        {
+          "time": "11:00 AM",
+          "title": "Masterclass: Individual Tactical Preparation with Alec Tate",
+          "src": "personal"
         }
       ]
     },
@@ -85,8 +95,8 @@
         },
         {
           "time": "5:00 PM",
-          "title": "⚽ MLS All-Star Game",
-          "loc": "Bank of America Stadium — Charlotte, NC",
+          "title": "MLS All-Star Game",
+          "loc": "Bank of America Stadium, Charlotte NC",
           "src": "lafc-match"
         },
         {
@@ -142,7 +152,7 @@
         },
         {
           "time": "4:30 PM",
-          "title": "⚽ LAFC @ Vancouver Whitecaps",
+          "title": "LAFC @ Vancouver Whitecaps",
           "loc": "BC Place",
           "src": "lafc-match"
         }
@@ -155,6 +165,11 @@
           "time": "10:00 AM",
           "title": "Class",
           "src": "personal"
+        },
+        {
+          "time": "11:00 AM",
+          "title": "CP Sales Weekly",
+          "src": "lafc-work"
         }
       ]
     },
