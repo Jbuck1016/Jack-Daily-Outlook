@@ -1,5 +1,5 @@
 {
-  "updatedLabel": "Thu Jul 23, 9:06 AM PT",
+  "updatedLabel": "Thu Jul 23, 10:05 AM PT",
   "sources": [
     { "key": "personal", "name": "Personal", "connected": true },
     { "key": "lafc-work", "name": "LAFC Work", "connected": true },
@@ -10,14 +10,14 @@
       "label": "Thu · Jul 23",
       "today": true,
       "events": [
-        { "time": "6:00 PM", "title": "SONNYS FOR CG", "src": "personal" }
+        { "time": "6:00 PM", "title": "Sonny's for CG", "src": "personal" }
       ]
     },
     {
       "label": "Fri · Jul 24",
       "events": [
         { "time": "11:00 AM", "title": "Ethan Newsletter Email Build", "src": "lafc-work" },
-        { "time": "7:45 PM", "title": "Double date w Q and Jar", "src": "personal" }
+        { "time": "7:45 PM", "title": "Double date w/ Q and Jar", "src": "personal" }
       ]
     },
     {
@@ -38,8 +38,8 @@
       "label": "Wed · Jul 29",
       "events": [
         { "time": "10:00 AM", "title": "HOLD: SAAS Call", "src": "lafc-work" },
-        { "time": "5:00 PM", "title": "Therapy", "src": "personal" },
-        { "time": "5:00 PM", "title": "MLS All-Star Game", "loc": "Bank of America Stadium, Charlotte NC", "src": "lafc-match" }
+        { "time": "5:00 PM", "title": "MLS All-Star Game", "loc": "Charlotte, NC", "src": "lafc-match" },
+        { "time": "5:00 PM", "title": "Therapy", "src": "personal" }
       ]
     },
     {
@@ -79,7 +79,7 @@
     {
       "label": "Thu · Aug 6",
       "events": [
-        { "time": "6:50 PM", "title": "Flight to Austin (AA 2118)", "loc": "Los Angeles LAX", "src": "personal" }
+        { "time": "6:50 PM", "title": "Flight to Austin (AA 2118)", "loc": "LAX", "src": "personal" }
       ]
     }
   ]

@@ -1,22 +1,35 @@
 {
   "dateLabel": "Thursday, July 23",
-  "updatedLabel": "Thu Jul 23, 9:06 AM PT",
+  "updatedLabel": "Thu Jul 23, 10:05 AM PT",
   "today": [
-    { "time": "6:00 PM", "title": "SONNYS FOR CG", "accent": "eve" }
+    {
+      "time": "6:00 PM",
+      "title": "Sonny's for CG",
+      "accent": "eve"
+    }
   ],
-  "todayNote": "Light calendar today — one evening plan. Rest of the day is task-driven.",
+  "todayNote": "One evening plan tonight — otherwise the day is open.",
   "week": [
     {
-      "day": "Fri · Jul 24",
+      "day": "Friday, July 24",
       "items": [
-        { "time": "7:45 PM", "title": "Double date w Q and Jar" }
+        {
+          "time": "7:45 PM",
+          "title": "Double date w/ Q and Jar"
+        }
       ]
     },
     {
-      "day": "Sat · Jul 25",
+      "day": "Saturday, July 25",
       "items": [
-        { "time": "All day", "title": "Henry / Conall day" },
-        { "time": "8:00 PM", "title": "Conall dinner" }
+        {
+          "time": "All day",
+          "title": "Henry / Conall day"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Conall dinner"
+        }
       ]
     }
   ],
@@ -25,7 +38,7 @@
     "pillWarn": true,
     "overdue": [
       {
-        "title": "Email IT for Saas, DBeaver, Zoom, Slack",
+        "title": "Email IT for SaaS, DBeaver, Zoom, Slack",
         "url": "https://app.todoist.com/app/task/6h7WmqGx7MCgxmmH",
         "prio": "P1",
         "meta": "1 day overdue"
@@ -35,22 +48,22 @@
       {
         "title": "Call for Accutane",
         "url": "https://app.todoist.com/app/task/6h7WpFgWw2fHR9HH",
-        "meta": "P2 · Today 10:00 AM"
+        "meta": "Due 10:00 AM · P2"
       },
       {
-        "title": "Email Stefano to join Zoom (parking email)",
+        "title": "Email Stefano to join Zoom re: parking email",
         "url": "https://app.todoist.com/app/task/6h7Wrj2jpmv73ghH",
-        "meta": "Today 9:30 AM"
+        "meta": "Due 9:30 AM"
       },
       {
         "title": "Take meds",
         "url": "https://app.todoist.com/app/task/6fPrF5rMMcCF9Fpq",
-        "meta": "Daily · 9:00 AM"
+        "meta": "9:00 AM · daily"
       },
       {
         "title": "Check WhatsApp",
         "url": "https://app.todoist.com/app/task/6fPrHvm9qrMM44cH",
-        "meta": "Daily · 10:00 AM"
+        "meta": "10:00 AM · daily"
       }
     ]
   },
@@ -58,20 +71,14 @@
     {
       "dot": "red",
       "url": "https://mail.google.com/mail/u/0/#inbox/19f8b989f087efc2",
-      "title": "WME W2: register ADP iPay to pull your 2025 W-2",
-      "meta": "Kim Schiller replied · Jul 22"
+      "title": "W-2 access — reply to WME Payroll (K. Schiller)",
+      "meta": "Register ADP iPay to pull your 2025 W-2"
     },
     {
       "dot": "amber",
       "url": "https://mail.google.com/mail/u/0/#inbox/19f8fa1f8879232e",
-      "title": "Grossman Dermatology appointment reminder",
-      "meta": "Forwarded by Jane · today"
-    },
-    {
-      "dot": "amber",
-      "url": "https://mail.google.com/mail/u/0/#inbox/19f6884103c65a24",
-      "title": "LA Sports & Entertainment Career Fair — Jul 27",
-      "meta": "TeamWork Online invite"
+      "title": "Appointment reminder (fwd from Jane)",
+      "meta": "Grossman Dermatology"
     }
   ],
   "inbox": {
@@ -80,46 +87,39 @@
       {
         "dot": "red",
         "url": "https://mail.google.com/mail/u/0/#inbox/19f8b989f087efc2",
-        "title": "RE: W2 for 2025",
+        "title": "RE: W2 for 2025 — K. Schiller (WME)",
         "tag": "REPLY",
-        "meta": "Kim Schiller (WME) · Jul 22"
+        "meta": "Access W-2 via ADP iPay"
       },
       {
         "dot": "amber",
         "url": "https://mail.google.com/mail/u/0/#inbox/19f8fa1f8879232e",
-        "title": "Fwd: Appointment Reminder",
-        "meta": "Jane · today"
-      },
-      {
-        "dot": "faint",
-        "url": "https://mail.google.com/mail/u/0/#inbox/19f6884103c65a24",
-        "title": "LA Sports & Entertainment Career Fair",
-        "tag": "EVENT",
-        "meta": "Jul 27 · TeamWork Online"
+        "title": "Fwd: Appointment Reminder — Jane",
+        "meta": "Grossman Dermatology"
       }
     ],
-    "note": "Rest of unread is mostly newsletters and promos (Audible, Barça Innovation Hub, US Soccer, FootballTicketNet) plus Apple account-security notices."
+    "note": "Rest of the unread is mostly newsletters and promos (Audible, Barça Innovation Hub, US Soccer, Football Ticket Net)."
   },
   "drive": [
     {
       "url": "https://drive.google.com/file/d/1Y9z_mCmhndUaShrU2y8lP6ZTR27jgSk-/view",
       "title": "LAFC Field Guide",
-      "meta": "PDF · Jul 22"
-    },
-    {
-      "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit",
-      "title": "UD7016 High Performance Environments — Group Presentation",
-      "meta": "Doc · Jul 21"
+      "meta": "PDF · edited Jul 22"
     },
     {
       "url": "https://docs.google.com/presentation/d/1V9ExWjpDpQt7I6aZTYjOXe32RorhXuLmM1CY3FhMG-w/edit",
       "title": "LA Galaxy Audit — Jack Buckingham",
-      "meta": "Slides · Jul 21"
+      "meta": "Slides · edited Jul 21"
     },
     {
-      "url": "https://docs.google.com/document/d/1vqm5vUIapluHGdmaInlamqXsZ3XdK78mmQqcJ-jrBAQ/edit",
-      "title": "CWRK2 Personal Leadership Analysis (Resubmission)",
-      "meta": "Doc · Jul 11"
+      "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit",
+      "title": "UD7016 — High Performance Environments (Group)",
+      "meta": "Doc · edited Jul 21"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1CEaB_F1xqczI4qi8yIrOFul6MGCpeyKQyC_pS0OvHqg/edit",
+      "title": "Talking Points — Jack Buckingham",
+      "meta": "Doc · edited Jul 20"
     }
   ]
 }

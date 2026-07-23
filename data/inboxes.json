@@ -1,25 +1,33 @@
 {
-  "note": "Last 10 received in the Primary inbox. Mostly newsletters and promos; the real action item is the WME Payroll thread about your 2025 W-2.",
+  "note": "Showing the 10 most recent messages in your primary inbox.",
   "accounts": [
     {
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-07-23T16:06:50Z",
+      "updated": "2026-07-23T17:05:25Z",
       "emails": [
         {
           "from": "Jane Buckingham",
           "subject": "Fwd: Appointment Reminder",
-          "snippet": "Forwarded from Grossman Dermatology — appointment reminder.",
+          "snippet": "Forwarded from Grossman Dermatology — an appointment reminder.",
           "date": "2026-07-23T15:39:05Z",
           "unread": true,
           "tag": "Important",
           "url": "https://mail.google.com/mail/u/0/#inbox/19f8fa1f8879232e"
         },
         {
+          "from": "Jack Buckingham",
+          "subject": "⚽🎰 17 new jobs 🔥3 posted today! — Jul 23",
+          "snippet": "Soccer & Betting Jobs daily digest — 17 new, 20 still open, 2 posted today.",
+          "date": "2026-07-23T15:06:54Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/19f8f83ea28e5448"
+        },
+        {
           "from": "Barça Innovation Hub",
           "subject": "Let's keep growing together — 40% off for alumni",
-          "snippet": "As an alumnus, this season scholarship is waiting for you.",
+          "snippet": "As an alumnus, this season's scholarship is waiting for you.",
           "date": "2026-07-23T13:36:16Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f8f311de095d5e"
@@ -27,13 +35,13 @@
         {
           "from": "Training Ground Guru",
           "subject": "Live on Monday: How elite players tactically prepare for opponents",
-          "snippet": "Masterclass Monday 7pm UK: Individual Tactical Preparation with Alec Tate.",
+          "snippet": "Masterclass Monday at 7pm UK: Individual Tactical Preparation with Alec Tate.",
           "date": "2026-07-23T10:52:43Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f8e9bc8a6dc01f"
         },
         {
-          "from": "Apple Developer",
+          "from": "Apple Developer Support",
           "subject": "Thanks for submitting your support request.",
           "snippet": "We've received your support request. Your case ID is 102949494914.",
           "date": "2026-07-23T03:14:56Z",
@@ -44,18 +52,9 @@
           "from": "Apple",
           "subject": "Your Apple Account information has been updated.",
           "snippet": "Changes to your Apple Account email addresses were made on July 22.",
-          "date": "2026-07-23T00:43:29Z",
+          "date": "2026-07-23T00:42:55Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f8c6cefca7a02a"
-        },
-        {
-          "from": "Apple",
-          "subject": "Verify your email address.",
-          "snippet": "You recently added jackbuckiingham@gmail.com to your Apple Account. Enter the code to verify.",
-          "date": "2026-07-23T00:42:22Z",
-          "unread": false,
-          "tag": "Important",
-          "url": "https://mail.google.com/mail/u/0/#inbox/19f8c6c6887d716d"
         },
         {
           "from": "Northwest Registered Agent",
@@ -74,16 +73,16 @@
           "url": "https://mail.google.com/mail/u/0/#inbox/19f8c1f9a34020c6"
         },
         {
-          "from": "Kim Schiller (WME)",
+          "from": "K. Schiller (WME)",
           "subject": "RE: W2 for 2025",
-          "snippet": "You can access your W2 through ADP iPay. Follow the steps below to register your account.",
+          "snippet": "You can access your W2 through ADP iPay. Please follow the steps below to register your account.",
           "date": "2026-07-22T22:22:56Z",
           "unread": true,
           "tag": "Important",
           "url": "https://mail.google.com/mail/u/0/#inbox/19f8b989f087efc2"
         },
         {
-          "from": "FootballTicketNet",
+          "from": "Football Ticket Net",
           "subject": "Missing Football Already? The Top Leagues Are Back!",
           "snippet": "The leagues are back for 2026/27. Grab the best seats at the best price.",
           "date": "2026-07-22T13:14:14Z",
