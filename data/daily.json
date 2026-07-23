@@ -1,29 +1,48 @@
 {
-  "dateLabel": "Thursday, Jul 23",
-  "updatedLabel": "Thu Jul 23, 7:07 AM PT",
+  "dateLabel": "Thursday, July 23",
+  "updatedLabel": "Thu Jul 23, 8:06 AM PT",
   "today": [
-    { "time": "6:00 PM", "title": "Sonny's for CG", "accent": "eve" }
+    {
+      "time": "6:00 PM",
+      "title": "SONNYS FOR CG",
+      "accent": "eve"
+    }
   ],
-  "todayNote": "Quiet day — dinner at Sonny's for CG in the evening.",
+  "todayNote": "Light day on the calendar. Focus the morning on the overdue IT email and the Accutane call.",
   "week": [
     {
-      "day": "Fri Jul 24",
+      "day": "Fri · Jul 24",
       "items": [
-        { "time": "11:00 AM", "title": "Ethan Newsletter Email Build (LAFC)" },
-        { "time": "7:45 PM", "title": "Double date w Q and Jar" }
+        {
+          "time": "11:00 AM",
+          "title": "Ethan Newsletter Email Build (LAFC)"
+        },
+        {
+          "time": "7:45 PM",
+          "title": "Double date w Q and Jar"
+        }
       ]
     },
     {
-      "day": "Sat Jul 25",
+      "day": "Sat · Jul 25",
       "items": [
-        { "time": "All day", "title": "Henry / Conall day" },
-        { "time": "7:30 PM", "title": "LAFC vs. Sporting Kansas City" },
-        { "time": "8:00 PM", "title": "Conall dinner" }
+        {
+          "time": "All day",
+          "title": "Henry / Conall day"
+        },
+        {
+          "time": "7:30 PM",
+          "title": "LAFC vs. Sporting Kansas City"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Conall dinner"
+        }
       ]
     }
   ],
   "tasks": {
-    "pillText": "1 overdue · 4 today",
+    "pillText": "1 overdue · 4 due today",
     "pillWarn": true,
     "overdue": [
       {
@@ -31,28 +50,29 @@
         "url": "https://app.todoist.com/app/task/6h7WmqGx7MCgxmmH",
         "prio": "P1",
         "meta": "1 day overdue"
+      },
+      {
+        "title": "Call for Accutane",
+        "url": "https://app.todoist.com/app/task/6h7WpFgWw2fHR9HH",
+        "prio": "P2",
+        "meta": "Due today · 10:00 AM"
       }
     ],
     "recurring": [
       {
-        "title": "Call for Accutane",
-        "url": "https://app.todoist.com/app/task/6h7WpFgWw2fHR9HH",
-        "meta": "Due 10:00 AM · P2"
-      },
-      {
-        "title": "Email Stefano to join Zoom (parking email)",
-        "url": "https://app.todoist.com/app/task/6h7Wrj2jpmv73ghH",
-        "meta": "Due 9:30 AM"
-      },
-      {
         "title": "Take meds",
         "url": "https://app.todoist.com/app/task/6fPrF5rMMcCF9Fpq",
-        "meta": "9:00 AM · daily"
+        "meta": "Every day · 9:00 AM"
       },
       {
         "title": "Check WhatsApp",
         "url": "https://app.todoist.com/app/task/6fPrHvm9qrMM44cH",
-        "meta": "10:00 AM · daily"
+        "meta": "Every day · 10:00 AM"
+      },
+      {
+        "title": "Email Stefano to join Zoom to watch him make parking email",
+        "url": "https://app.todoist.com/app/task/6h7Wrj2jpmv73ghH",
+        "meta": "Today · 9:30 AM"
       }
     ]
   },
@@ -60,56 +80,56 @@
     {
       "dot": "red",
       "url": "https://mail.google.com/mail/u/0/#inbox/19f8b989f087efc2",
-      "title": "W-2 access — reply from WME Payroll",
-      "meta": "K. Schiller sent ADP iPay registration steps"
+      "title": "WME Payroll (K. Schiller) — RE: W2 for 2025",
+      "meta": "Reply owed · register ADP iPay to pull your W2"
     },
     {
       "dot": "amber",
       "url": "https://mail.google.com/mail/u/0/#inbox/19f6884103c65a24",
       "title": "LA Sports & Entertainment Career Fair",
-      "meta": "Jul 27 · invite from TeamWork Online"
+      "meta": "Jul 27 · RSVP if attending"
     }
   ],
   "inbox": {
-    "unread": 34,
+    "unread": 33,
     "items": [
       {
         "dot": "red",
         "url": "https://mail.google.com/mail/u/0/#inbox/19f8b989f087efc2",
-        "title": "RE: W2 for 2025 — K. Schiller (WME)",
+        "title": "WME Payroll — RE: W2 for 2025",
         "tag": "REPLY",
-        "meta": "Register ADP iPay for your 2025 W-2"
+        "meta": "Steps to access your W2 via ADP iPay"
       },
       {
         "dot": "amber",
         "url": "https://mail.google.com/mail/u/0/#inbox/19f6884103c65a24",
-        "title": "LA Sports & Entertainment Career Fair",
+        "title": "Teamwork — LA Sports & Entertainment Career Fair",
         "tag": "EVENT",
-        "meta": "Jul 27 · TeamWork Online"
+        "meta": "Jul 27 · networking with sports employers"
       }
     ],
-    "note": "34 unread in the last 14 days; the rest are newsletters/promos (Audible, Barça, US Soccer, FootballTicketNet, Hudl) and Apple account/security notices."
+    "note": "The rest of the unread inbox is newsletters and promos (Barça Innovation Hub, Audible, U.S. Soccer, FootballTicketNet, Apple account notices)."
   },
   "drive": [
     {
       "url": "https://drive.google.com/file/d/1Y9z_mCmhndUaShrU2y8lP6ZTR27jgSk-/view",
       "title": "LAFC-Field-Guide.pdf",
-      "meta": "PDF · Jul 22"
+      "meta": "PDF · modified Jul 21"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit",
+      "title": "UD7016 - High Performance Environments - Group Presentation",
+      "meta": "Doc · modified Jul 21"
     },
     {
       "url": "https://docs.google.com/presentation/d/1V9ExWjpDpQt7I6aZTYjOXe32RorhXuLmM1CY3FhMG-w/edit",
       "title": "LA_Galaxy_Audit_Jack_Buckingham",
-      "meta": "Slides · Jul 21"
+      "meta": "Slides · modified Jul 21"
     },
     {
-      "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit",
-      "title": "UD7016 — High Performance Environments (Group Presentation)",
-      "meta": "Doc · Jul 21"
-    },
-    {
-      "url": "https://docs.google.com/document/d/1mQOe6fLbN1Plo1s5QWfyRso-zAoO4R9D90TPDRI6g20/edit",
-      "title": "Verification_Report (LA Galaxy Audit)",
-      "meta": "Doc · Jul 20"
+      "url": "https://docs.google.com/document/d/1vqm5vUIapluHGdmaInlamqXsZ3XdK78mmQqcJ-jrBAQ/edit",
+      "title": "Resubmission CWRK2_Personal_Leadership_Analysis",
+      "meta": "Doc · modified Jul 10"
     }
   ]
 }

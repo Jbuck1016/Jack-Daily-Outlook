@@ -1,85 +1,182 @@
 {
-  "updatedLabel": "Thu Jul 23, 7:07 AM PT",
+  "updatedLabel": "Thu Jul 23, 8:06 AM PT",
   "sources": [
-    { "key": "personal", "name": "Personal", "connected": true },
-    { "key": "lafc-work", "name": "LAFC Work", "connected": true },
-    { "key": "lafc-match", "name": "LAFC Matches", "connected": true }
+    {
+      "key": "personal",
+      "name": "Personal",
+      "connected": true
+    },
+    {
+      "key": "lafc-work",
+      "name": "LAFC Work",
+      "connected": true
+    },
+    {
+      "key": "lafc-match",
+      "name": "LAFC Matches",
+      "connected": true
+    }
   ],
   "days": [
     {
       "label": "Thu · Jul 23",
       "today": true,
       "events": [
-        { "time": "6:00 PM", "title": "Sonny's for CG", "src": "personal" }
+        {
+          "time": "6:00 PM",
+          "title": "SONNYS FOR CG",
+          "src": "personal"
+        }
       ]
     },
     {
       "label": "Fri · Jul 24",
       "events": [
-        { "time": "11:00 AM", "title": "Ethan Newsletter Email Build", "src": "lafc-work" },
-        { "time": "7:45 PM", "title": "Double date w Q and Jar", "src": "personal" }
+        {
+          "time": "11:00 AM",
+          "title": "Ethan Newsletter Email Build",
+          "src": "lafc-work"
+        },
+        {
+          "time": "7:45 PM",
+          "title": "Double date w Q and Jar",
+          "src": "personal"
+        }
       ]
     },
     {
       "label": "Sat · Jul 25",
       "events": [
-        { "time": "All day", "title": "Henry / Conall day", "src": "personal" },
-        { "time": "7:30 PM", "title": "LAFC vs. Sporting Kansas City", "loc": "BMO Stadium", "src": "lafc-match" },
-        { "time": "8:00 PM", "title": "Conall dinner", "src": "personal" }
+        {
+          "time": "All day",
+          "title": "Henry / Conall day",
+          "src": "personal"
+        },
+        {
+          "time": "7:30 PM",
+          "title": "LAFC vs. Sporting Kansas City",
+          "loc": "BMO Stadium",
+          "src": "lafc-match"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Conall dinner",
+          "src": "personal"
+        }
       ]
     },
     {
       "label": "Mon · Jul 27",
       "events": [
-        { "time": "10:00 AM", "title": "Class", "src": "personal" }
+        {
+          "time": "10:00 AM",
+          "title": "Class",
+          "src": "personal"
+        }
       ]
     },
     {
       "label": "Wed · Jul 29",
       "events": [
-        { "time": "10:00 AM", "title": "HOLD: SAAS Call", "src": "lafc-work" },
-        { "time": "5:00 PM", "title": "MLS All-Star Game", "loc": "Bank of America Stadium, Charlotte NC", "src": "lafc-match" },
-        { "time": "5:00 PM", "title": "Therapy", "src": "personal" }
+        {
+          "time": "10:00 AM",
+          "title": "HOLD: SAAS Call",
+          "src": "lafc-work"
+        },
+        {
+          "time": "5:00 PM",
+          "title": "MLS All-Star Game",
+          "loc": "Bank of America Stadium — Charlotte, NC",
+          "src": "lafc-match"
+        },
+        {
+          "time": "5:00 PM",
+          "title": "Therapy",
+          "src": "personal"
+        }
       ]
     },
     {
       "label": "Thu · Jul 30",
       "events": [
-        { "time": "11:00 AM", "title": "HOLD: SAAS Call", "src": "lafc-work" },
-        { "time": "2:30 PM", "title": "Dr Dugar", "src": "personal" },
-        { "time": "9:45 PM", "title": "Spider-Man: Brand New Day", "loc": "Santa Monica", "src": "personal" }
+        {
+          "time": "11:00 AM",
+          "title": "HOLD: SAAS Call",
+          "src": "lafc-work"
+        },
+        {
+          "time": "2:30 PM",
+          "title": "Dr Dugar",
+          "src": "personal"
+        },
+        {
+          "time": "9:45 PM",
+          "title": "Spider-Man: Brand New Day",
+          "loc": "1310 3rd Street, Santa Monica",
+          "src": "personal"
+        }
       ]
     },
     {
       "label": "Fri · Jul 31",
       "events": [
-        { "time": "8:00 AM", "title": "Dr Roostaein", "src": "personal" },
-        { "time": "12:00 PM", "title": "1 on 1: Jack B // Jack C", "src": "lafc-work" }
+        {
+          "time": "8:00 AM",
+          "title": "Dr Roostaein",
+          "src": "personal"
+        },
+        {
+          "time": "12:00 PM",
+          "title": "1 on 1: Jack B // Jack C",
+          "src": "lafc-work"
+        }
       ]
     },
     {
       "label": "Sat · Aug 1",
       "events": [
-        { "time": "All day", "title": "Natalie wedding", "src": "personal" },
-        { "time": "4:30 PM", "title": "LAFC @ Vancouver Whitecaps", "loc": "BC Place", "src": "lafc-match" }
+        {
+          "time": "All day",
+          "title": "Natalie wedding",
+          "src": "personal"
+        },
+        {
+          "time": "4:30 PM",
+          "title": "LAFC @ Vancouver Whitecaps",
+          "loc": "BC Place",
+          "src": "lafc-match"
+        }
       ]
     },
     {
       "label": "Mon · Aug 3",
       "events": [
-        { "time": "10:00 AM", "title": "Class", "src": "personal" }
+        {
+          "time": "10:00 AM",
+          "title": "Class",
+          "src": "personal"
+        }
       ]
     },
     {
       "label": "Wed · Aug 5",
       "events": [
-        { "time": "5:00 PM", "title": "Therapy", "src": "personal" }
+        {
+          "time": "5:00 PM",
+          "title": "Therapy",
+          "src": "personal"
+        }
       ]
     },
     {
       "label": "Thu · Aug 6",
       "events": [
-        { "time": "6:50 PM", "title": "Flight to Austin (AA 2118)", "loc": "Los Angeles LAX", "src": "personal" }
+        {
+          "time": "6:50 PM",
+          "title": "Flight to Austin (AA 2118)",
+          "loc": "Los Angeles LAX",
+          "src": "personal"
+        }
       ]
     }
   ]
