@@ -1,16 +1,40 @@
 {
-  "note": "Showing the 10 most recent messages in your primary inbox.",
+  "note": "Last 10 messages in your primary inbox.",
   "accounts": [
     {
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-07-23T18:06:05Z",
+      "updated": "2026-07-23T19:08:29Z",
       "emails": [
+        {
+          "from": "Zapier",
+          "subject": "An AI transformation session you won't want to miss at ZapConnect",
+          "snippet": "Hi Jack, as AI transformation experts, we want every AI pilot to succeed — join us at ZapConnect on September 23.",
+          "date": "2026-07-23T18:25:37Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/19f9039dec3d40da"
+        },
+        {
+          "from": "Liam Henshaw",
+          "subject": "I'm live on LinkedIn",
+          "snippet": "Q&A opportunity.",
+          "date": "2026-07-23T18:14:08Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/19f902f56a8bf2f1"
+        },
+        {
+          "from": "Claude.ai",
+          "subject": "Your secure link to Claude.ai is here",
+          "snippet": "Click the button below to finish signing in. This link expires in 10 minutes.",
+          "date": "2026-07-23T17:56:41Z",
+          "unread": false,
+          "url": "https://mail.google.com/mail/u/0/#inbox/19f901f5bab14af9"
+        },
         {
           "from": "Jane Buckingham",
           "subject": "Fwd: Appointment Reminder",
-          "snippet": "Forwarded from Grossman Dermatology — an appointment reminder.",
+          "snippet": "Forwarded from Grossman Dermatology: appointment reminder.",
           "date": "2026-07-23T15:39:05Z",
           "unread": true,
           "tag": "Important",
@@ -19,7 +43,7 @@
         {
           "from": "Jack Buckingham",
           "subject": "⚽🎰 17 new jobs 🔥3 posted today! — Jul 23",
-          "snippet": "Soccer & Betting Jobs daily digest — 17 new, 20 still open, 2 posted today.",
+          "snippet": "Soccer & Betting Jobs daily digest · July 23, 2026 — 17 new · 20 still open.",
           "date": "2026-07-23T15:06:54Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f8f83ea28e5448"
@@ -35,13 +59,13 @@
         {
           "from": "Training Ground Guru",
           "subject": "Live on Monday: How elite players tactically prepare for opponents",
-          "snippet": "Masterclass Monday at 7pm UK: Individual Tactical Preparation with Alec Tate.",
+          "snippet": "Masterclass on Monday at 7pm UK: Individual Tactical Preparation with analyst Alec Tate.",
           "date": "2026-07-23T10:52:43Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f8e9bc8a6dc01f"
         },
         {
-          "from": "Apple Developer Support",
+          "from": "Apple",
           "subject": "Thanks for submitting your support request.",
           "snippet": "We've received your support request. Your case ID is 102949494914.",
           "date": "2026-07-23T03:14:56Z",
@@ -51,43 +75,19 @@
         {
           "from": "Apple",
           "subject": "Your Apple Account information has been updated.",
-          "snippet": "Changes to your Apple Account email addresses were made on July 22.",
+          "snippet": "Changes to your Apple Account were made on July 22, 2026.",
           "date": "2026-07-23T00:42:55Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f8c6cefca7a02a"
         },
         {
-          "from": "Northwest Registered Agent",
-          "subject": "Get the Support Your Business Needs to Thrive",
-          "snippet": "Forming an LLC can be intimidating, but you don't need to do it alone.",
-          "date": "2026-07-22T23:25:14Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/19f8c25c8c1fbbb2"
-        },
-        {
-          "from": "Jack Buckingham (LAFC)",
-          "subject": "Accept your invitation to join shared calendar: \"Jack Buckingham\"",
-          "snippet": "Jack Buckingham has invited you to see all event details on the calendar.",
-          "date": "2026-07-22T23:18:13Z",
+          "from": "Apple",
+          "subject": "Verify your email address.",
+          "snippet": "You recently added jackbuckiingham@gmail.com as an additional email address for your Apple Account.",
+          "date": "2026-07-23T00:42:22Z",
           "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/19f8c1f9a34020c6"
-        },
-        {
-          "from": "K. Schiller (WME)",
-          "subject": "RE: W2 for 2025",
-          "snippet": "You can access your W2 through ADP iPay. Please follow the steps below to register your account.",
-          "date": "2026-07-22T22:22:56Z",
-          "unread": true,
           "tag": "Important",
-          "url": "https://mail.google.com/mail/u/0/#inbox/19f8b989f087efc2"
-        },
-        {
-          "from": "Football Ticket Net",
-          "subject": "Missing Football Already? The Top Leagues Are Back!",
-          "snippet": "The leagues are back for 2026/27. Grab the best seats at the best price.",
-          "date": "2026-07-22T13:14:14Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/19f89f7ce072575f"
+          "url": "https://mail.google.com/mail/u/0/#inbox/19f8c6c6887d716d"
         }
       ]
     },
