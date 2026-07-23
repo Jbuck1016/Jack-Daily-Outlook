@@ -1,6 +1,6 @@
 {
   "dateLabel": "Wednesday, July 22",
-  "updatedLabel": "Wed Jul 22, 10:06 PM PT",
+  "updatedLabel": "Wed Jul 22, 11:07 PM PT",
   "today": [
     { "time": "10:00 AM", "title": "Meet HR" },
     { "time": "10:00 AM", "title": "WORK", "loc": "818 W 7th St, Los Angeles" },
@@ -20,7 +20,6 @@
     {
       "day": "Friday, July 24",
       "items": [
-        { "time": "11:00 AM", "title": "Ethan Newsletter Email Build" },
         { "time": "7:45 PM", "title": "Double date w Q and Jar" }
       ]
     },
@@ -28,7 +27,6 @@
       "day": "Saturday, July 25",
       "items": [
         { "time": "All day", "title": "Henry / Conall day" },
-        { "time": "7:30 PM", "title": "LAFC vs Sporting Kansas City" },
         { "time": "8:00 PM", "title": "Conall dinner" }
       ]
     }
@@ -45,19 +43,19 @@
     ]
   },
   "followups": [
-    { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/19f8b989f087efc2", "title": "W2 access steps from WME Payroll", "meta": "Kelly Schiller · action needed" }
+    { "dot": "red", "url": "https://mail.google.com/mail/u/0/#inbox/19f8b989f087efc2", "title": "K. Schiller (WME) — RE: W2 for 2025", "meta": "Reply owed · ADP iPay registration steps" }
   ],
   "inbox": {
-    "unread": 33,
+    "unread": 32,
     "items": [
-      { "dot": "red", "url": "https://mail.google.com/mail/u/0/#inbox/19f8b989f087efc2", "title": "RE: W2 for 2025", "tag": "REPLY", "meta": "Kelly Schiller, WME Payroll" }
+      { "dot": "red", "url": "https://mail.google.com/mail/u/0/#inbox/19f8b989f087efc2", "title": "RE: W2 for 2025", "tag": "REPLY", "meta": "K. Schiller, WME Payroll" }
     ],
-    "note": "Most of the 33 unread are newsletters and promos (Audible, Barça, US Soccer, football ticket sites) plus overnight Apple account-security alerts."
+    "note": "Most of the 32 unread are newsletters and promos (Audible, Barça, US Soccer, football ticket sites) plus overnight Apple account-security alerts."
   },
   "drive": [
     { "url": "https://drive.google.com/file/d/1Y9z_mCmhndUaShrU2y8lP6ZTR27jgSk-/view", "title": "LAFC-Field-Guide.pdf", "meta": "PDF · edited Jul 22" },
+    { "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit", "title": "UD7016 - High Performance Environments - Group Presentation", "meta": "Doc · edited Jul 21" },
     { "url": "https://docs.google.com/presentation/d/1V9ExWjpDpQt7I6aZTYjOXe32RorhXuLmM1CY3FhMG-w/edit", "title": "LA_Galaxy_Audit_Jack_Buckingham", "meta": "Slides · edited Jul 21" },
-    { "url": "https://docs.google.com/document/d/1CEaB_F1xqczI4qi8yIrOFul6MGCpeyKQyC_pS0OvHqg/edit", "title": "Talking_Points_Jack_Buckingham", "meta": "Doc · edited Jul 21" },
-    { "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit", "title": "UD7016 - High Performance Environments - Group Presentation", "meta": "Doc · edited Jul 21" }
+    { "url": "https://docs.google.com/document/d/1mQOe6fLbN1Plo1s5QWfyRso-zAoO4R9D90TPDRI6g20/edit", "title": "Verification_Report.md", "meta": "Doc · edited Jul 20" }
   ]
 }
