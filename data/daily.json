@@ -1,6 +1,6 @@
 {
   "dateLabel": "Thursday, July 23",
-  "updatedLabel": "Thu Jul 23, 2:09 PM PT",
+  "updatedLabel": "Thu Jul 23, 3:08 PM PT",
   "today": [
     {
       "time": "6:00 PM",
@@ -8,14 +8,13 @@
       "accent": "eve"
     }
   ],
-  "todayNote": "Light personal day. LAFC vs. Sporting KC is Saturday night at BMO.",
   "week": [
     {
-      "day": "Friday, Jul 24",
+      "day": "Fri · Jul 24",
       "items": [
         {
           "time": "11:00 AM",
-          "title": "Ethan Newsletter Email Build (LAFC)"
+          "title": "Ethan Newsletter Email Build"
         },
         {
           "time": "7:45 PM",
@@ -24,7 +23,7 @@
       ]
     },
     {
-      "day": "Saturday, Jul 25",
+      "day": "Sat · Jul 25",
       "items": [
         {
           "time": "All day",
@@ -39,10 +38,14 @@
           "title": "Conall dinner"
         }
       ]
+    },
+    {
+      "day": "Sun · Jul 26",
+      "items": []
     }
   ],
   "tasks": {
-    "pillText": "1 overdue",
+    "pillText": "1 overdue · 4 today",
     "pillWarn": true,
     "overdue": [
       {
@@ -56,12 +59,12 @@
       {
         "title": "Call for Accutane",
         "url": "https://app.todoist.com/app/task/6h7WpFgWw2fHR9HH",
-        "meta": "Today 10:00 AM · P2"
+        "meta": "P2 · due 10:00 AM"
       },
       {
         "title": "Email Stefano to join Zoom to watch him make parking email",
         "url": "https://app.todoist.com/app/task/6h7Wrj2jpmv73ghH",
-        "meta": "Today 9:30 AM"
+        "meta": "due 9:30 AM"
       },
       {
         "title": "Take meds",
@@ -78,15 +81,9 @@
   "followups": [
     {
       "dot": "amber",
-      "url": "https://mail.google.com/mail/u/0/#inbox/19f8b989f087efc2",
-      "title": "W2 for 2025 — Katie Schiller (WME)",
-      "meta": "ADP iPay steps sent; you replied \"all sorted\""
-    },
-    {
-      "dot": "faint",
       "url": "https://mail.google.com/mail/u/0/#inbox/19f6884103c65a24",
       "title": "LA Sports & Entertainment Career Fair",
-      "meta": "Event Jul 27 · via TeamWork Online"
+      "meta": "Invite · Jul 27 · Teamwork Online"
     }
   ],
   "inbox": {
@@ -94,34 +91,46 @@
     "items": [
       {
         "dot": "faint",
+        "url": "https://mail.google.com/mail/u/0/#inbox/19f90a2c681a8733",
+        "title": "Tell us about your Atlassian experience!",
+        "meta": "Atlassian · Jul 23"
+      },
+      {
+        "dot": "faint",
+        "url": "https://mail.google.com/mail/u/0/#inbox/19f902f56a8bf2f1",
+        "title": "I'm live on LinkedIn",
+        "meta": "Liam Henshaw · Jul 23"
+      },
+      {
+        "dot": "amber",
         "url": "https://mail.google.com/mail/u/0/#inbox/19f6884103c65a24",
         "title": "LA Sports & Entertainment Career Fair",
         "tag": "EVENT",
-        "meta": "Jul 27 · TeamWork Online"
+        "meta": "Teamwork Online · Jul 27"
       }
     ],
-    "note": "~30 unread in the last 14 days, almost all newsletters and promos (Audible, Barça Innovation Hub, US Soccer, football ticketing, Zapier)."
+    "note": "Remaining unread are newsletters/promos (Barça, Audible, U.S. Soccer, Hudl, Zapier, FootballTicketNet). Nothing needs a reply."
   },
   "drive": [
     {
       "url": "https://drive.google.com/file/d/1Y9z_mCmhndUaShrU2y8lP6ZTR27jgSk-/view",
-      "title": "LAFC Field Guide",
-      "meta": "PDF · modified Jul 22"
+      "title": "LAFC-Field-Guide.pdf",
+      "meta": "PDF · Jul 22"
     },
     {
       "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit",
-      "title": "UD7016 High Performance Environments — Group Presentation",
-      "meta": "Google Doc · modified Jul 21"
+      "title": "UD7016 – High Performance Environments (Group Presentation)",
+      "meta": "Doc · shared · Jul 21"
     },
     {
       "url": "https://docs.google.com/presentation/d/1V9ExWjpDpQt7I6aZTYjOXe32RorhXuLmM1CY3FhMG-w/edit",
-      "title": "LA Galaxy Audit — Jack Buckingham",
-      "meta": "Slides · modified Jul 21"
+      "title": "LA Galaxy Audit – Jack Buckingham",
+      "meta": "Slides · Jul 21"
     },
     {
-      "url": "https://docs.google.com/document/d/1CEaB_F1xqczI4qi8yIrOFul6MGCpeyKQyC_pS0OvHqg/edit",
-      "title": "Talking Points — Jack Buckingham",
-      "meta": "Google Doc · modified Jul 20"
+      "url": "https://docs.google.com/document/d/1vqm5vUIapluHGdmaInlamqXsZ3XdK78mmQqcJ-jrBAQ/edit",
+      "title": "Resubmission CWRK2 – Personal Leadership Analysis",
+      "meta": "Doc · Jul 11"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updatedLabel": "Thu Jul 23, 2:09 PM PT",
+  "updatedLabel": "Thu Jul 23, 3:08 PM PT",
   "sources": [
     {
       "key": "personal",
@@ -96,7 +96,7 @@
         {
           "time": "5:00 PM",
           "title": "MLS All-Star Game",
-          "loc": "Bank of America Stadium, Charlotte NC",
+          "loc": "Bank of America Stadium, Charlotte",
           "src": "lafc-match"
         },
         {
@@ -122,7 +122,7 @@
         {
           "time": "9:45 PM",
           "title": "Spider-Man: Brand New Day",
-          "loc": "1310 3rd Street, Santa Monica",
+          "loc": "Santa Monica",
           "src": "personal"
         }
       ]
@@ -189,7 +189,7 @@
         {
           "time": "6:50 PM",
           "title": "Flight to Austin (AA 2118)",
-          "loc": "Los Angeles LAX",
+          "loc": "LAX",
           "src": "personal"
         }
       ]

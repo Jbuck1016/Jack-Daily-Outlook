@@ -1,16 +1,16 @@
 {
-  "note": "Last 10 messages in your primary inbox.",
+  "note": "Last 10 received emails in the Primary inbox.",
   "accounts": [
     {
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-07-23T21:09:08Z",
+      "updated": "2026-07-23T22:08:45Z",
       "emails": [
         {
           "from": "Atlassian",
           "subject": "Tell us about your Atlassian experience!",
-          "snippet": "Take our short survey and tell us what you think. Your feedback directly shapes what we do.",
+          "snippet": "As a valued Atlassian user, your opinion matters. We'd love to hear your thoughts about your experience.",
           "date": "2026-07-23T20:20:12Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f90a2c681a8733"
@@ -18,7 +18,7 @@
         {
           "from": "Zapier",
           "subject": "An AI transformation session you won't want to miss at ZapConnect",
-          "snippet": "95% of AI pilots will stall. Join us at ZapConnect on September 23 to learn how AI leaders get more pilots to production.",
+          "snippet": "Join us at ZapConnect on September 23 to learn how AI leaders can get more pilots from stalling.",
           "date": "2026-07-23T18:25:37Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f9039dec3d40da"
@@ -26,7 +26,7 @@
         {
           "from": "Liam Henshaw",
           "subject": "I'm live on LinkedIn",
-          "snippet": "Q&A opportunity — I'm live on LinkedIn now.",
+          "snippet": "Q&A opportunity.",
           "date": "2026-07-23T18:14:08Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f902f56a8bf2f1"
@@ -40,34 +40,34 @@
           "url": "https://mail.google.com/mail/u/0/#inbox/19f8f311de095d5e"
         },
         {
-          "from": "Apple Developer",
+          "from": "Apple",
           "subject": "Thanks for submitting your support request.",
-          "snippet": "We've received your support request and will get back to you as soon as possible. Case ID 102949494914.",
+          "snippet": "We've received your support request and will get back to you. Case ID 102949494914.",
           "date": "2026-07-23T03:14:56Z",
           "unread": false,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f8cf83166216bc"
         },
         {
-          "from": "Katie Schiller (WME)",
+          "from": "Katie Schiller",
           "subject": "RE: W2 for 2025",
-          "snippet": "Hello Jack — you can access your W2 through ADP iPay. Please follow the steps below to register your account.",
+          "snippet": "You can access your W2 through ADP iPay. Follow the steps below to register your account.",
           "date": "2026-07-22T22:22:56Z",
           "unread": false,
           "tag": "Important",
           "url": "https://mail.google.com/mail/u/0/#inbox/19f8b989f087efc2"
         },
         {
-          "from": "Football Ticket Net",
+          "from": "FootballTicketNet",
           "subject": "Missing Football Already? The Top Leagues Are Back!",
-          "snippet": "The leagues are back for 2026/27. Grab the best seats at the best price before everyone else does.",
+          "snippet": "The leagues are back for 2026/27. Grab the best seats at the best price.",
           "date": "2026-07-22T13:14:14Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f89f7ce072575f"
         },
         {
-          "from": "Cara Carroll (WME)",
+          "from": "Cara Carroll",
           "subject": "Re: W-2 Request For 2025",
-          "snippet": "Hello Jack: Please reach out to Payroll@WMEAgency.com to assist with your query. Thank you.",
+          "snippet": "Please reach out to Payroll@WMEAgency.com to assist with your query.",
           "date": "2026-07-22T01:36:12Z",
           "unread": false,
           "tag": "Important",
@@ -76,7 +76,7 @@
         {
           "from": "Atlassian",
           "subject": "Add More Context To Your Assignments With A Loom",
-          "snippet": "Discover all the ways you can use Loom. Add helpful context to your next homework assignments by recording a Loom.",
+          "snippet": "Add helpful context to your next homework assignments by recording a Loom.",
           "date": "2026-07-21T21:37:18Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f869ca06510eec"
