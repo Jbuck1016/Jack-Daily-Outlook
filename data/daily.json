@@ -1,6 +1,6 @@
 {
   "dateLabel": "Thursday, July 23",
-  "updatedLabel": "Thu Jul 23, 3:08 PM PT",
+  "updatedLabel": "Thu Jul 23, 4:08 PM PT",
   "today": [
     {
       "time": "6:00 PM",
@@ -8,14 +8,11 @@
       "accent": "eve"
     }
   ],
+  "todayNote": "Light calendar today — dinner at Sonny's this evening. Focus time is open until then.",
   "week": [
     {
-      "day": "Fri · Jul 24",
+      "day": "Fri Jul 24",
       "items": [
-        {
-          "time": "11:00 AM",
-          "title": "Ethan Newsletter Email Build"
-        },
         {
           "time": "7:45 PM",
           "title": "Double date w Q and Jar"
@@ -23,29 +20,21 @@
       ]
     },
     {
-      "day": "Sat · Jul 25",
+      "day": "Sat Jul 25",
       "items": [
         {
           "time": "All day",
           "title": "Henry / Conall day"
         },
         {
-          "time": "7:30 PM",
-          "title": "LAFC vs. Sporting Kansas City"
-        },
-        {
           "time": "8:00 PM",
           "title": "Conall dinner"
         }
       ]
-    },
-    {
-      "day": "Sun · Jul 26",
-      "items": []
     }
   ],
   "tasks": {
-    "pillText": "1 overdue · 4 today",
+    "pillText": "1 overdue",
     "pillWarn": true,
     "overdue": [
       {
@@ -53,28 +42,29 @@
         "url": "https://app.todoist.com/app/task/6h7WmqGx7MCgxmmH",
         "prio": "P1",
         "meta": "1 day overdue"
-      }
-    ],
-    "recurring": [
+      },
       {
         "title": "Call for Accutane",
         "url": "https://app.todoist.com/app/task/6h7WpFgWw2fHR9HH",
-        "meta": "P2 · due 10:00 AM"
+        "prio": "P2",
+        "meta": "Due today"
       },
       {
         "title": "Email Stefano to join Zoom to watch him make parking email",
         "url": "https://app.todoist.com/app/task/6h7Wrj2jpmv73ghH",
-        "meta": "due 9:30 AM"
-      },
+        "meta": "Due today · 9:30 AM"
+      }
+    ],
+    "recurring": [
       {
         "title": "Take meds",
         "url": "https://app.todoist.com/app/task/6fPrF5rMMcCF9Fpq",
-        "meta": "Daily · 9:00 AM"
+        "meta": "Every day · 9:00 AM"
       },
       {
         "title": "Check WhatsApp",
         "url": "https://app.todoist.com/app/task/6fPrHvm9qrMM44cH",
-        "meta": "Daily · 10:00 AM"
+        "meta": "Every day · 10:00 AM"
       }
     ]
   },
@@ -91,25 +81,18 @@
     "items": [
       {
         "dot": "faint",
-        "url": "https://mail.google.com/mail/u/0/#inbox/19f90a2c681a8733",
-        "title": "Tell us about your Atlassian experience!",
-        "meta": "Atlassian · Jul 23"
+        "url": "https://mail.google.com/mail/u/0/#inbox/19f7fa07ed4441c6",
+        "title": "AI is coming to Hudl Insight this August",
+        "meta": "Hudl"
       },
       {
         "dot": "faint",
-        "url": "https://mail.google.com/mail/u/0/#inbox/19f902f56a8bf2f1",
-        "title": "I'm live on LinkedIn",
-        "meta": "Liam Henshaw · Jul 23"
-      },
-      {
-        "dot": "amber",
-        "url": "https://mail.google.com/mail/u/0/#inbox/19f6884103c65a24",
-        "title": "LA Sports & Entertainment Career Fair",
-        "tag": "EVENT",
-        "meta": "Teamwork Online · Jul 27"
+        "url": "https://mail.google.com/mail/u/0/#inbox/19f83980b7b7239f",
+        "title": "Why we started TGG Live",
+        "meta": "Training Ground Guru"
       }
     ],
-    "note": "Remaining unread are newsletters/promos (Barça, Audible, U.S. Soccer, Hudl, Zapier, FootballTicketNet). Nothing needs a reply."
+    "note": "30 unread in the last 14 days — the rest are newsletters/promos (Audible, Barça Innovation Hub, US Soccer, Zapier, FootballTicketNet). Nothing owed a reply; the W2 thread with WME is resolved."
   },
   "drive": [
     {
@@ -120,17 +103,17 @@
     {
       "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit",
       "title": "UD7016 – High Performance Environments (Group Presentation)",
-      "meta": "Doc · shared · Jul 21"
+      "meta": "Doc · Jul 21"
     },
     {
       "url": "https://docs.google.com/presentation/d/1V9ExWjpDpQt7I6aZTYjOXe32RorhXuLmM1CY3FhMG-w/edit",
-      "title": "LA Galaxy Audit – Jack Buckingham",
+      "title": "LA Galaxy Audit — Jack Buckingham",
       "meta": "Slides · Jul 21"
     },
     {
-      "url": "https://docs.google.com/document/d/1vqm5vUIapluHGdmaInlamqXsZ3XdK78mmQqcJ-jrBAQ/edit",
-      "title": "Resubmission CWRK2 – Personal Leadership Analysis",
-      "meta": "Doc · Jul 11"
+      "url": "https://docs.google.com/document/d/1CEaB_F1xqczI4qi8yIrOFul6MGCpeyKQyC_pS0OvHqg/edit",
+      "title": "Talking Points — Jack Buckingham",
+      "meta": "Doc · Jul 20"
     }
   ]
 }
