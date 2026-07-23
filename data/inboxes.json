@@ -1,12 +1,21 @@
 {
-  "note": "Last 10 received in the Primary inbox. Mostly newsletters and promos; the real action items are the WME Payroll threads about your 2025 W-2.",
+  "note": "Last 10 received in the Primary inbox. Mostly newsletters and promos; the real action item is the WME Payroll thread about your 2025 W-2.",
   "accounts": [
     {
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-07-23T15:06:35Z",
+      "updated": "2026-07-23T16:06:50Z",
       "emails": [
+        {
+          "from": "Jane Buckingham",
+          "subject": "Fwd: Appointment Reminder",
+          "snippet": "Forwarded from Grossman Dermatology — appointment reminder.",
+          "date": "2026-07-23T15:39:05Z",
+          "unread": true,
+          "tag": "Important",
+          "url": "https://mail.google.com/mail/u/0/#inbox/19f8fa1f8879232e"
+        },
         {
           "from": "Barça Innovation Hub",
           "subject": "Let's keep growing together — 40% off for alumni",
@@ -16,9 +25,9 @@
           "url": "https://mail.google.com/mail/u/0/#inbox/19f8f311de095d5e"
         },
         {
-          "from": "Simon Austin (TGG)",
+          "from": "Training Ground Guru",
           "subject": "Live on Monday: How elite players tactically prepare for opponents",
-          "snippet": "Masterclass Monday at 7pm UK: Individual Tactical Preparation with Alec Tate, fresh from the World Cup with FIFA.",
+          "snippet": "Masterclass Monday 7pm UK: Individual Tactical Preparation with Alec Tate.",
           "date": "2026-07-23T10:52:43Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f8e9bc8a6dc01f"
@@ -26,7 +35,7 @@
         {
           "from": "Apple Developer",
           "subject": "Thanks for submitting your support request.",
-          "snippet": "We've received your support request and will get back to you as soon as possible. Case ID 102949494914.",
+          "snippet": "We've received your support request. Your case ID is 102949494914.",
           "date": "2026-07-23T03:14:56Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f8cf83166216bc"
@@ -34,7 +43,7 @@
         {
           "from": "Apple",
           "subject": "Your Apple Account information has been updated.",
-          "snippet": "The following changes to your Apple Account were made on July 22, 2026. If you did not make these changes, review your account.",
+          "snippet": "Changes to your Apple Account email addresses were made on July 22.",
           "date": "2026-07-23T00:43:29Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f8c6cefca7a02a"
@@ -42,7 +51,7 @@
         {
           "from": "Apple",
           "subject": "Verify your email address.",
-          "snippet": "You recently added jackbuckiingham@gmail.com as an additional email address for your Apple Account. Enter the code to verify.",
+          "snippet": "You recently added jackbuckiingham@gmail.com to your Apple Account. Enter the code to verify.",
           "date": "2026-07-23T00:42:22Z",
           "unread": false,
           "tag": "Important",
@@ -51,7 +60,7 @@
         {
           "from": "Northwest Registered Agent",
           "subject": "Get the Support Your Business Needs to Thrive",
-          "snippet": "Forming an LLC can be intimidating, but you don't need to do it alone. We're here to take the stress out of the process.",
+          "snippet": "Forming an LLC can be intimidating, but you don't need to do it alone.",
           "date": "2026-07-22T23:25:14Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f8c25c8c1fbbb2"
@@ -59,15 +68,15 @@
         {
           "from": "Jack Buckingham (LAFC)",
           "subject": "Accept your invitation to join shared calendar: \"Jack Buckingham\"",
-          "snippet": "Jack Buckingham has invited you to see all event details on the calendar 'Jack Buckingham'. Accept the invite to join.",
+          "snippet": "Jack Buckingham has invited you to see all event details on the calendar.",
           "date": "2026-07-22T23:18:13Z",
           "unread": false,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f8c1f9a34020c6"
         },
         {
-          "from": "K. Schiller (WME)",
+          "from": "Kim Schiller (WME)",
           "subject": "RE: W2 for 2025",
-          "snippet": "You can access your W2 through ADP iPay. Follow the steps below to register your account. Let us know if you have any issues.",
+          "snippet": "You can access your W2 through ADP iPay. Follow the steps below to register your account.",
           "date": "2026-07-22T22:22:56Z",
           "unread": true,
           "tag": "Important",
@@ -75,20 +84,11 @@
         },
         {
           "from": "FootballTicketNet",
-          "subject": "Missing Football Already? The Top Leagues Are Back !",
-          "snippet": "The leagues are back for 2026/27. Grab the best seats at the best price before everyone else does.",
+          "subject": "Missing Football Already? The Top Leagues Are Back!",
+          "snippet": "The leagues are back for 2026/27. Grab the best seats at the best price.",
           "date": "2026-07-22T13:14:14Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f89f7ce072575f"
-        },
-        {
-          "from": "Cara Carroll (WME)",
-          "subject": "Re: W-2 Request For 2025",
-          "snippet": "Please reach out to Payroll@WMEAgency.com to assist with your query. Thank you.",
-          "date": "2026-07-22T01:36:12Z",
-          "unread": false,
-          "tag": "Important",
-          "url": "https://mail.google.com/mail/u/0/#inbox/19f87547fad6630f"
         }
       ]
     },
