@@ -5,18 +5,92 @@
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-07-23T02:08:17Z",
+      "updated": "2026-07-23T03:05:00Z",
       "emails": [
-        { "from": "Apple", "subject": "Your Apple Account information has been updated.", "snippet": "Your Apple Account information has been updated. The following changes were made on July 22, 2026 at 5:43 PM PDT: Email address(es).", "date": "2026-07-23T00:43:29Z", "unread": true, "url": "https://mail.google.com/mail/u/0/#inbox/19f8c6cefca7a02a" },
-        { "from": "Apple", "subject": "Verify your email address.", "snippet": "You recently added jackbuckiingham@gmail.com as an additional email address for your Apple Account. Enter the code below to verify.", "date": "2026-07-23T00:42:22Z", "unread": false, "tag": "Important", "url": "https://mail.google.com/mail/u/0/#inbox/19f8c6c6887d716d" },
-        { "from": "Northwest Registered Agent", "subject": "Get the Support Your Business Needs to Thrive", "snippet": "Hi Jackson, Forming an LLC can be intimidating, but you don't need to do it alone. We're here to take the stress out of the LLC formation process.", "date": "2026-07-22T23:25:14Z", "unread": true, "url": "https://mail.google.com/mail/u/0/#inbox/19f8c25c8c1fbbb2" },
-        { "from": "Jack Buckingham · LAFC", "subject": "Accept your invitation to join shared calendar: \"Jack Buckingham\"", "snippet": "Jack Buckingham (jack.buckingham@lafc.com) has invited you to see all event details on the calendar \"Jack Buckingham\". Accept the invite to join.", "date": "2026-07-22T23:18:13Z", "unread": false, "url": "https://mail.google.com/mail/u/0/#inbox/19f8c1f9a34020c6" },
-        { "from": "K. Schiller · WME", "subject": "RE: W2 for 2025", "snippet": "Hello Jack – you can access your W2 through ADP iPay. Please follow the steps below to register your account. Let us know if you have any issues registering.", "date": "2026-07-22T22:22:56Z", "unread": true, "tag": "Important", "url": "https://mail.google.com/mail/u/0/#inbox/19f8b989f087efc2" },
-        { "from": "FootballTicketNet", "subject": "Missing Football Already? The Top Leagues Are Back!", "snippet": "The leagues are back for 2026/27. Grab the best seats at the best price before everyone else does.", "date": "2026-07-22T13:14:14Z", "unread": true, "url": "https://mail.google.com/mail/u/0/#inbox/19f89f7ce072575f" },
-        { "from": "Cara Carroll · WME", "subject": "Re: W-2 Request For 2025", "snippet": "Hello Jack: Please reach out to Payroll@WMEAgency.com to assist with your query. Thank you. Cara Carroll, WME.", "date": "2026-07-22T01:36:12Z", "unread": false, "tag": "Important", "url": "https://mail.google.com/mail/u/0/#inbox/19f87547fad6630f" },
-        { "from": "Atlassian / Loom", "subject": "Add More Context To Your Assignments With A Loom", "snippet": "Discover all the ways you can use Loom. Try recording a Loom to add helpful context to your next homework assignments.", "date": "2026-07-21T21:37:18Z", "unread": true, "url": "https://mail.google.com/mail/u/0/#inbox/19f869ca06510eec" },
-        { "from": "U.S. Soccer", "subject": "Everyone has a home in soccer", "snippet": "You can help shape the future of the game.", "date": "2026-07-21T21:03:49Z", "unread": true, "url": "https://mail.google.com/mail/u/0/#inbox/19f867df9f28deb0" },
-        { "from": "The Transfer Flow", "subject": "What are Aston Villa going to do with £117m?", "snippet": "Plus lots of Arsenal rumours, and Man United want a France World Cup star.", "date": "2026-07-21T16:04:27Z", "unread": false, "url": "https://mail.google.com/mail/u/0/#inbox/19f8572f5d23756d" }
+        {
+          "from": "Apple",
+          "subject": "Your Apple Account information has been updated.",
+          "snippet": "Your Apple Account information has been updated. Changes to your Apple Account were made on July 22, 2026. If you did not make these changes, review your account.",
+          "date": "2026-07-23T00:43:29Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/19f8c6cefca7a02a"
+        },
+        {
+          "from": "Apple",
+          "subject": "Verify your email address.",
+          "snippet": "You recently added jackbuckiingham@gmail.com as an additional email address for your Apple Account. Enter the code below to verify this email address belongs to you.",
+          "date": "2026-07-23T00:42:22Z",
+          "unread": false,
+          "tag": "Important",
+          "url": "https://mail.google.com/mail/u/0/#inbox/19f8c6c6887d716d"
+        },
+        {
+          "from": "Northwest Registered Agent",
+          "subject": "Get the Support Your Business Needs to Thrive",
+          "snippet": "Hi Jackson, Forming an LLC can be intimidating, but you don't need to do it alone. We're here to take the stress out of the LLC formation process.",
+          "date": "2026-07-22T23:25:14Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/19f8c25c8c1fbbb2"
+        },
+        {
+          "from": "Jack Buckingham · LAFC",
+          "subject": "Accept your invitation to join shared calendar: \"Jack Buckingham\"",
+          "snippet": "Jack Buckingham (jack.buckingham@lafc.com) has invited you to see all event details on the calendar \"Jack Buckingham\". Accept the invite to join.",
+          "date": "2026-07-22T23:18:13Z",
+          "unread": false,
+          "url": "https://mail.google.com/mail/u/0/#inbox/19f8c1f9a34020c6"
+        },
+        {
+          "from": "K. Schiller · WME",
+          "subject": "RE: W2 for 2025",
+          "snippet": "Hello Jack – you can access your W2 through ADP iPay. Please follow the steps below to register your account. Let us know if you have any issues registering.",
+          "date": "2026-07-22T22:22:56Z",
+          "unread": true,
+          "tag": "Important",
+          "url": "https://mail.google.com/mail/u/0/#inbox/19f8b989f087efc2"
+        },
+        {
+          "from": "FootballTicketNet",
+          "subject": "Missing Football Already? The Top Leagues Are Back!",
+          "snippet": "The leagues are back for 2026/27. Grab the best seats at the best price before everyone else does.",
+          "date": "2026-07-22T13:14:14Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/19f89f7ce072575f"
+        },
+        {
+          "from": "Cara Carroll · WME",
+          "subject": "Re: W-2 Request For 2025",
+          "snippet": "Hello Jack: Please reach out to Payroll@WMEAgency.com to assist with your query. Thank you. Cara Carroll, WME.",
+          "date": "2026-07-22T01:36:12Z",
+          "unread": false,
+          "tag": "Important",
+          "url": "https://mail.google.com/mail/u/0/#inbox/19f87547fad6630f"
+        },
+        {
+          "from": "The Transfer Flow",
+          "subject": "What are Aston Villa going to do with £117m?",
+          "snippet": "Plus lots of Arsenal rumours, Man United want a France World Cup star.",
+          "date": "2026-07-21T16:04:27Z",
+          "unread": false,
+          "url": "https://mail.google.com/mail/u/0/#inbox/19f8572f5d23756d"
+        },
+        {
+          "from": "Simon Austin · TGG",
+          "subject": "Why we started TGG Live",
+          "snippet": "One room. Every discipline.",
+          "date": "2026-07-21T07:33:05Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/19f83980b7b7239f"
+        },
+        {
+          "from": "Jane · Trendera",
+          "subject": "Fwd: Your trip confirmation (AUS - LAX)",
+          "snippet": "Begin forwarded message: From American Airlines. Your trip confirmation (AUS - LAX). Here's your itinerary.",
+          "date": "2026-07-21T01:18:08Z",
+          "unread": false,
+          "tag": "Important",
+          "url": "https://mail.google.com/mail/u/0/#inbox/19f8240f15c564a5"
+        }
       ]
     },
     {
