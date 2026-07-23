@@ -1,61 +1,115 @@
 {
-  "dateLabel": "Wednesday, July 22",
-  "updatedLabel": "Wed Jul 22, 11:07 PM PT",
+  "dateLabel": "Thursday, Jul 23",
+  "updatedLabel": "Thu Jul 23, 12:06 AM PT",
   "today": [
-    { "time": "10:00 AM", "title": "Meet HR" },
-    { "time": "10:00 AM", "title": "WORK", "loc": "818 W 7th St, Los Angeles" },
-    { "time": "11:00 AM", "title": "Team Meeting + Vivian arrives" },
-    { "time": "11:45 AM", "title": "Get lunch" },
-    { "time": "3:30 PM", "title": "Wrap up and Q's" },
-    { "time": "6:15 PM", "title": "Pre match tour", "loc": "BMO Stadium", "accent": "eve" }
+    { "time": "6:00 PM", "title": "Sonny's for CG", "accent": "eve" }
   ],
-  "todayNote": "Match day — LAFC vs Real Salt Lake, 7:30 PM at BMO Stadium.",
+  "todayNote": "Quiet day — dinner at Sonny's for CG in the evening.",
   "week": [
     {
-      "day": "Thursday, July 23",
+      "day": "Fri Jul 24",
       "items": [
-        { "time": "6:00 PM", "title": "SONNYS FOR CG" }
-      ]
-    },
-    {
-      "day": "Friday, July 24",
-      "items": [
+        { "time": "11:00 AM", "title": "Ethan Newsletter Email Build (LAFC)" },
         { "time": "7:45 PM", "title": "Double date w Q and Jar" }
       ]
     },
     {
-      "day": "Saturday, July 25",
+      "day": "Sat Jul 25",
       "items": [
         { "time": "All day", "title": "Henry / Conall day" },
+        { "time": "7:30 PM", "title": "LAFC vs. Sporting Kansas City" },
         { "time": "8:00 PM", "title": "Conall dinner" }
       ]
     }
   ],
   "tasks": {
-    "pillText": "4 due today",
-    "pillWarn": false,
-    "overdue": [],
+    "pillText": "1 overdue · 4 today",
+    "pillWarn": true,
+    "overdue": [
+      {
+        "title": "Email IT for Saas, DBeaver, Zoom, Slack",
+        "url": "https://app.todoist.com/app/task/6h7WmqGx7MCgxmmH",
+        "prio": "P1",
+        "meta": "1 day overdue"
+      }
+    ],
     "recurring": [
-      { "title": "Call for Accutane", "url": "https://app.todoist.com/app/task/6h7WpFgWw2fHR9HH", "meta": "Today · 10:00 AM · P2" },
-      { "title": "Email Stefano to join Zoom to watch him make parking email", "url": "https://app.todoist.com/app/task/6h7Wrj2jpmv73ghH", "meta": "Today · 9:30 AM" },
-      { "title": "Take meds", "url": "https://app.todoist.com/app/task/6fPrF5rMMcCF9Fpq", "meta": "Daily · 9:00 AM" },
-      { "title": "Check WhatsApp", "url": "https://app.todoist.com/app/task/6fPrHvm9qrMM44cH", "meta": "Daily · 10:00 AM" }
+      {
+        "title": "Call for Accutane",
+        "url": "https://app.todoist.com/app/task/6h7WpFgWw2fHR9HH",
+        "meta": "Due 10:00 AM · P2"
+      },
+      {
+        "title": "Email Stefano to join Zoom (parking email)",
+        "url": "https://app.todoist.com/app/task/6h7Wrj2jpmv73ghH",
+        "meta": "Due 9:30 AM"
+      },
+      {
+        "title": "Take meds",
+        "url": "https://app.todoist.com/app/task/6fPrF5rMMcCF9Fpq",
+        "meta": "9:00 AM · daily"
+      },
+      {
+        "title": "Check WhatsApp",
+        "url": "https://app.todoist.com/app/task/6fPrHvm9qrMM44cH",
+        "meta": "10:00 AM · daily"
+      }
     ]
   },
   "followups": [
-    { "dot": "red", "url": "https://mail.google.com/mail/u/0/#inbox/19f8b989f087efc2", "title": "K. Schiller (WME) — RE: W2 for 2025", "meta": "Reply owed · ADP iPay registration steps" }
+    {
+      "dot": "red",
+      "url": "https://mail.google.com/mail/u/0/#inbox/19f8b989f087efc2",
+      "title": "W-2 access — reply from WME Payroll",
+      "meta": "K. Schiller sent ADP iPay registration steps"
+    },
+    {
+      "dot": "amber",
+      "url": "https://mail.google.com/mail/u/0/#inbox/19f6884103c65a24",
+      "title": "LA Sports & Entertainment Career Fair",
+      "meta": "Jul 27 · invite from TeamWork Online"
+    }
   ],
   "inbox": {
     "unread": 32,
     "items": [
-      { "dot": "red", "url": "https://mail.google.com/mail/u/0/#inbox/19f8b989f087efc2", "title": "RE: W2 for 2025", "tag": "REPLY", "meta": "K. Schiller, WME Payroll" }
+      {
+        "dot": "red",
+        "url": "https://mail.google.com/mail/u/0/#inbox/19f8b989f087efc2",
+        "title": "RE: W2 for 2025 — K. Schiller (WME)",
+        "tag": "REPLY",
+        "meta": "Register ADP iPay for your 2025 W-2"
+      },
+      {
+        "dot": "amber",
+        "url": "https://mail.google.com/mail/u/0/#inbox/19f6884103c65a24",
+        "title": "LA Sports & Entertainment Career Fair",
+        "tag": "EVENT",
+        "meta": "Jul 27 · TeamWork Online"
+      }
     ],
-    "note": "Most of the 32 unread are newsletters and promos (Audible, Barça, US Soccer, football ticket sites) plus overnight Apple account-security alerts."
+    "note": "32 unread in the last 14 days; the rest are newsletters/promos (Audible, Barça, US Soccer, FootballTicketNet, Hudl) and Apple account/security notices."
   },
   "drive": [
-    { "url": "https://drive.google.com/file/d/1Y9z_mCmhndUaShrU2y8lP6ZTR27jgSk-/view", "title": "LAFC-Field-Guide.pdf", "meta": "PDF · edited Jul 22" },
-    { "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit", "title": "UD7016 - High Performance Environments - Group Presentation", "meta": "Doc · edited Jul 21" },
-    { "url": "https://docs.google.com/presentation/d/1V9ExWjpDpQt7I6aZTYjOXe32RorhXuLmM1CY3FhMG-w/edit", "title": "LA_Galaxy_Audit_Jack_Buckingham", "meta": "Slides · edited Jul 21" },
-    { "url": "https://docs.google.com/document/d/1mQOe6fLbN1Plo1s5QWfyRso-zAoO4R9D90TPDRI6g20/edit", "title": "Verification_Report.md", "meta": "Doc · edited Jul 20" }
+    {
+      "url": "https://drive.google.com/file/d/1Y9z_mCmhndUaShrU2y8lP6ZTR27jgSk-/view",
+      "title": "LAFC-Field-Guide.pdf",
+      "meta": "PDF · Jul 22"
+    },
+    {
+      "url": "https://docs.google.com/presentation/d/1V9ExWjpDpQt7I6aZTYjOXe32RorhXuLmM1CY3FhMG-w/edit",
+      "title": "LA_Galaxy_Audit_Jack_Buckingham",
+      "meta": "Slides · Jul 21"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit",
+      "title": "UD7016 — High Performance Environments (Group Presentation)",
+      "meta": "Doc · Jul 21"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1vqm5vUIapluHGdmaInlamqXsZ3XdK78mmQqcJ-jrBAQ/edit",
+      "title": "Resubmission CWRK2_Personal_Leadership_Analysis",
+      "meta": "Doc · Jul 11"
+    }
   ]
 }

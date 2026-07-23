@@ -1,24 +1,24 @@
 {
-  "note": "Last 10 received in the Primary inbox. Several overnight Apple account-security alerts plus WME Payroll replies about your 2025 W2.",
+  "note": "Last 10 received in the Primary inbox. Overnight Apple account/security alerts, WME Payroll replies about your 2025 W-2, and the usual marketing.",
   "accounts": [
     {
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-07-23T06:07:25Z",
+      "updated": "2026-07-23T07:06:45Z",
       "emails": [
         {
           "from": "Apple",
           "subject": "Thanks for submitting your support request.",
-          "snippet": "We've received your support request and will get back to you as soon as possible. Your case ID is 102949494914.",
+          "snippet": "We've received your support request and will get back to you as soon as possible. Case ID 102949494914. — Apple Developer Program Support",
           "date": "2026-07-23T03:14:56Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f8cf83166216bc"
         },
         {
-          "from": "Apple",
+          "from": "Apple ID",
           "subject": "Your Apple Account information has been updated.",
-          "snippet": "Changes to your Apple Account email address(es) were made on July 22, 2026.",
+          "snippet": "The following changes to your Apple Account were made on July 22, 2026: email address(es). If you did not make these changes...",
           "date": "2026-07-23T00:43:29Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f8c6cefca7a02a"
@@ -26,7 +26,7 @@
         {
           "from": "Apple",
           "subject": "Verify your email address.",
-          "snippet": "You recently added jackbuckiingham@gmail.com as an additional email address for your Apple Account. Enter the code to verify.",
+          "snippet": "You recently added jackbuckiingham@gmail.com as an additional email address for your Apple Account. Enter the code below to verify.",
           "date": "2026-07-23T00:42:22Z",
           "unread": false,
           "tag": "Important",
@@ -35,7 +35,7 @@
         {
           "from": "Northwest Registered Agent",
           "subject": "Get the Support Your Business Needs to Thrive",
-          "snippet": "Forming an LLC can be intimidating, but you don't need to do it alone. We're here to take the stress out of the process.",
+          "snippet": "Hi Jackson, forming an LLC can be intimidating, but you don't need to do it alone. Form your LLC today.",
           "date": "2026-07-22T23:25:14Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f8c25c8c1fbbb2"
@@ -59,7 +59,7 @@
         },
         {
           "from": "FootballTicketNet",
-          "subject": "Missing Football Already? The Top Leagues Are Back !",
+          "subject": "Missing Football Already? The Top Leagues Are Back!",
           "snippet": "The leagues are back for 2026/27. Grab the best seats at the best price before everyone else does.",
           "date": "2026-07-22T13:14:14Z",
           "unread": true,
@@ -68,27 +68,27 @@
         {
           "from": "Cara Carroll (WME)",
           "subject": "Re: W-2 Request For 2025",
-          "snippet": "Hello Jack: Please reach out to Payroll@WMEAgency.com to assist with your query. Thank you.",
+          "snippet": "Hello Jack: Please reach out to Payroll@WMEAgency.com to assist with your query. Thank you. — Cara Carroll, WME",
           "date": "2026-07-22T01:36:12Z",
           "unread": false,
           "tag": "Important",
           "url": "https://mail.google.com/mail/u/0/#inbox/19f87547fad6630f"
         },
         {
-          "from": "The Transfer Flow",
-          "subject": "What are Aston Villa going to do with £117m?",
-          "snippet": "Plus lots of Arsenal rumours, Man United want a France World Cup star.",
-          "date": "2026-07-21T16:04:27Z",
-          "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/19f8572f5d23756d"
+          "from": "Atlassian",
+          "subject": "Add More Context To Your Assignments With A Loom",
+          "snippet": "Discover all the ways you can use Loom. Add helpful context to your next assignments by recording a Loom.",
+          "date": "2026-07-21T21:37:18Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/19f869ca06510eec"
         },
         {
-          "from": "Simon Austin (TGG)",
-          "subject": "Why we started TGG Live",
-          "snippet": "One room. Every discipline.",
-          "date": "2026-07-21T07:33:05Z",
+          "from": "U.S. Soccer",
+          "subject": "Everyone has a home in soccer",
+          "snippet": "You can help shape the future of the game.",
+          "date": "2026-07-21T21:03:49Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/19f83980b7b7239f"
+          "url": "https://mail.google.com/mail/u/0/#inbox/19f867df9f28deb0"
         }
       ]
     },

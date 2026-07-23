@@ -1,5 +1,5 @@
 {
-  "updatedLabel": "Wed Jul 22, 11:07 PM PT",
+  "updatedLabel": "Thu Jul 23, 12:06 AM PT",
   "sources": [
     { "key": "personal", "name": "Personal", "connected": true },
     { "key": "lafc-work", "name": "LAFC Work", "connected": true },
@@ -7,24 +7,10 @@
   ],
   "days": [
     {
-      "label": "Wed · Jul 22",
+      "label": "Thu · Jul 23",
       "today": true,
       "events": [
-        { "time": "10:00 AM", "title": "Meet HR", "src": "personal" },
-        { "time": "10:00 AM", "title": "WORK", "loc": "818 W 7th St, Los Angeles", "src": "personal" },
-        { "time": "11:00 AM", "title": "Team Meeting + Vivian arrives", "src": "personal" },
-        { "time": "11:45 AM", "title": "Get lunch", "src": "personal" },
-        { "time": "12:30 PM", "title": "Partnerships Sales Outreach Onboarding", "src": "lafc-work" },
-        { "time": "2:00 PM", "title": "Email Marketing Onboarding", "src": "lafc-work" },
-        { "time": "3:30 PM", "title": "Wrap up and Q's", "src": "personal" },
-        { "time": "6:15 PM", "title": "Pre match tour", "loc": "BMO Stadium", "src": "personal" },
-        { "time": "7:30 PM", "title": "LAFC vs. Real Salt Lake", "loc": "BMO Stadium", "src": "lafc-match" }
-      ]
-    },
-    {
-      "label": "Thu · Jul 23",
-      "events": [
-        { "time": "6:00 PM", "title": "SONNYS FOR CG", "src": "personal" }
+        { "time": "6:00 PM", "title": "Sonny's for CG", "src": "personal" }
       ]
     },
     {
@@ -52,7 +38,7 @@
       "label": "Wed · Jul 29",
       "events": [
         { "time": "10:00 AM", "title": "HOLD: SAAS Call", "src": "lafc-work" },
-        { "time": "5:00 PM", "title": "MLS All-Star Game", "loc": "Bank of America Stadium — Charlotte, NC", "src": "lafc-match" },
+        { "time": "5:00 PM", "title": "MLS All-Star Game", "loc": "Bank of America Stadium, Charlotte NC", "src": "lafc-match" },
         { "time": "5:00 PM", "title": "Therapy", "src": "personal" }
       ]
     },
@@ -61,7 +47,7 @@
       "events": [
         { "time": "11:00 AM", "title": "HOLD: SAAS Call", "src": "lafc-work" },
         { "time": "2:30 PM", "title": "Dr Dugar", "src": "personal" },
-        { "time": "9:45 PM", "title": "Spider-Man: Brand New Day", "loc": "1310 3rd Street, Santa Monica", "src": "personal" }
+        { "time": "9:45 PM", "title": "Spider-Man: Brand New Day", "loc": "Santa Monica", "src": "personal" }
       ]
     },
     {
@@ -88,6 +74,12 @@
       "label": "Wed · Aug 5",
       "events": [
         { "time": "5:00 PM", "title": "Therapy", "src": "personal" }
+      ]
+    },
+    {
+      "label": "Thu · Aug 6",
+      "events": [
+        { "time": "6:50 PM", "title": "Flight to Austin (AA 2118)", "loc": "Los Angeles LAX", "src": "personal" }
       ]
     }
   ]
