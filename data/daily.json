@@ -1,6 +1,6 @@
 {
   "dateLabel": "Thursday, Jul 23",
-  "updatedLabel": "Thu Jul 23, 12:06 AM PT",
+  "updatedLabel": "Thu Jul 23, 7:07 AM PT",
   "today": [
     { "time": "6:00 PM", "title": "Sonny's for CG", "accent": "eve" }
   ],
@@ -71,7 +71,7 @@
     }
   ],
   "inbox": {
-    "unread": 32,
+    "unread": 34,
     "items": [
       {
         "dot": "red",
@@ -88,7 +88,7 @@
         "meta": "Jul 27 · TeamWork Online"
       }
     ],
-    "note": "32 unread in the last 14 days; the rest are newsletters/promos (Audible, Barça, US Soccer, FootballTicketNet, Hudl) and Apple account/security notices."
+    "note": "34 unread in the last 14 days; the rest are newsletters/promos (Audible, Barça, US Soccer, FootballTicketNet, Hudl) and Apple account/security notices."
   },
   "drive": [
     {
@@ -107,9 +107,9 @@
       "meta": "Doc · Jul 21"
     },
     {
-      "url": "https://docs.google.com/document/d/1vqm5vUIapluHGdmaInlamqXsZ3XdK78mmQqcJ-jrBAQ/edit",
-      "title": "Resubmission CWRK2_Personal_Leadership_Analysis",
-      "meta": "Doc · Jul 11"
+      "url": "https://docs.google.com/document/d/1mQOe6fLbN1Plo1s5QWfyRso-zAoO4R9D90TPDRI6g20/edit",
+      "title": "Verification_Report (LA Galaxy Audit)",
+      "meta": "Doc · Jul 20"
     }
   ]
 }

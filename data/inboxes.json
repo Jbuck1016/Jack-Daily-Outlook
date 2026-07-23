@@ -1,12 +1,28 @@
 {
-  "note": "Last 10 received in the Primary inbox. Overnight Apple account/security alerts, WME Payroll replies about your 2025 W-2, and the usual marketing.",
+  "note": "Last 10 received in the Primary inbox. Two new overnight/morning marketing emails (Barça Innovation Hub, Training Ground Guru), Apple account/security alerts, and WME Payroll replies about your 2025 W-2.",
   "accounts": [
     {
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-07-23T07:06:45Z",
+      "updated": "2026-07-23T14:07:20Z",
       "emails": [
+        {
+          "from": "Barça Innovation Hub",
+          "subject": "Let's keep growing together — 40% off for alumni",
+          "snippet": "As an alumnus, this season scholarship is waiting for you.",
+          "date": "2026-07-23T13:36:16Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/19f8f311de095d5e"
+        },
+        {
+          "from": "Simon Austin (Training Ground Guru)",
+          "subject": "Live on Monday: How elite players tactically prepare for opponents",
+          "snippet": "Dear Premium Member, we have a Masterclass on Monday at 7pm UK: Individual Tactical Preparation with Alec Tate, fresh from the World Cup with FIFA.",
+          "date": "2026-07-23T10:52:43Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/19f8e9bc8a6dc01f"
+        },
         {
           "from": "Apple",
           "subject": "Thanks for submitting your support request.",
@@ -73,22 +89,6 @@
           "unread": false,
           "tag": "Important",
           "url": "https://mail.google.com/mail/u/0/#inbox/19f87547fad6630f"
-        },
-        {
-          "from": "Atlassian",
-          "subject": "Add More Context To Your Assignments With A Loom",
-          "snippet": "Discover all the ways you can use Loom. Add helpful context to your next assignments by recording a Loom.",
-          "date": "2026-07-21T21:37:18Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/19f869ca06510eec"
-        },
-        {
-          "from": "U.S. Soccer",
-          "subject": "Everyone has a home in soccer",
-          "snippet": "You can help shape the future of the game.",
-          "date": "2026-07-21T21:03:49Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/19f867df9f28deb0"
         }
       ]
     },
