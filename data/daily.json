@@ -1,6 +1,6 @@
 {
   "dateLabel": "Friday, Jul 24",
-  "updatedLabel": "Fri Jul 24, 12:09 AM PT",
+  "updatedLabel": "Fri Jul 24, 6:06 AM PT",
   "today": [
     { "time": "12:30 PM", "title": "Thij call" },
     { "time": "7:45 PM", "title": "Double date w Q and Jar", "accent": "eve" }
@@ -21,7 +21,7 @@
     }
   ],
   "tasks": {
-    "pillText": "2 overdue",
+    "pillText": "2 overdue · 3 today",
     "pillWarn": true,
     "overdue": [
       { "title": "Email IT for Saas, DBeaver, Zoom, Slack", "url": "https://app.todoist.com/app/task/6h7WmqGx7MCgxmmH", "prio": "P1", "meta": "2 days overdue" },

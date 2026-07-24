@@ -1,5 +1,5 @@
 {
-  "updatedLabel": "Fri Jul 24, 12:09 AM PT",
+  "updatedLabel": "Fri Jul 24, 6:06 AM PT",
   "sources": [
     { "key": "personal", "name": "Personal", "connected": true },
     { "key": "lafc-work", "name": "LAFC Work", "connected": true },
@@ -84,6 +84,12 @@
       "label": "Thu · Aug 6",
       "events": [
         { "time": "6:50 PM", "title": "Flight to Austin (AA 2118)", "loc": "Los Angeles LAX", "src": "personal" }
+      ]
+    },
+    {
+      "label": "Fri · Aug 7",
+      "events": [
+        { "time": "All day", "title": "Cade bday weekend", "src": "personal" }
       ]
     }
   ]
