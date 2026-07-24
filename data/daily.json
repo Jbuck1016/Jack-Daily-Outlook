@@ -1,39 +1,24 @@
 {
-  "dateLabel": "Friday, July 24",
-  "updatedLabel": "Fri Jul 24, 7:06 AM PT",
+  "dateLabel": "Friday, Jul 24",
+  "updatedLabel": "Fri Jul 24, 8:06 AM PT",
   "today": [
-    {
-      "time": "12:30 PM",
-      "title": "Thij call"
-    },
-    {
-      "time": "7:45 PM",
-      "title": "Double date w Q and Jar",
-      "accent": "eve"
-    }
+    { "time": "12:30 PM", "title": "Thij call" },
+    { "time": "7:45 PM", "title": "Double date w Q and Jar", "accent": "eve" }
   ],
-  "todayNote": "Light personal calendar today — Thij call midday, double date tonight. (LAFC newsletter build at 11 AM is on your work calendar.)",
+  "todayNote": "Also on the LAFC calendar: Ethan newsletter email build at 11:00 AM.",
   "week": [
     {
       "day": "Sat · Jul 25",
       "items": [
-        {
-          "time": "All day",
-          "title": "Henry / Conall day"
-        },
-        {
-          "time": "8:00 PM",
-          "title": "Conall dinner"
-        }
+        { "time": "All day", "title": "Henry / Conall day" },
+        { "time": "7:30 PM", "title": "LAFC vs. Sporting Kansas City" },
+        { "time": "8:00 PM", "title": "Conall dinner" }
       ]
     },
     {
       "day": "Sun · Jul 26",
       "items": [
-        {
-          "time": "6:00 PM",
-          "title": "Dinner w/ Andy"
-        }
+        { "time": "6:00 PM", "title": "Dinner w/ Andy" }
       ]
     }
   ],
@@ -55,19 +40,19 @@
     ],
     "recurring": [
       {
-        "title": "Text Garrett",
-        "url": "https://app.todoist.com/app/task/6h7qvXXpCQG4Qmgq",
-        "meta": "Due today"
-      },
-      {
         "title": "Take meds",
         "url": "https://app.todoist.com/app/task/6fPrF5rMMcCF9Fpq",
-        "meta": "Daily · 9:00 AM"
+        "meta": "Every day · 9:00 AM"
       },
       {
         "title": "Check WhatsApp",
         "url": "https://app.todoist.com/app/task/6fPrHvm9qrMM44cH",
-        "meta": "Daily · 10:00 AM"
+        "meta": "Every day · 10:00 AM"
+      },
+      {
+        "title": "Text Garrett",
+        "url": "https://app.todoist.com/app/task/6h7qvXXpCQG4Qmgq",
+        "meta": "Due today"
       }
     ]
   },
@@ -76,48 +61,42 @@
       "dot": "amber",
       "url": "https://mail.google.com/mail/u/0/#inbox/19f6884103c65a24",
       "title": "LA Sports & Entertainment Career Fair — Jul 27",
-      "meta": "Teamwork Online · RSVP invite"
+      "meta": "TeamWork Online · RSVP for Monday"
     }
   ],
   "inbox": {
-    "unread": 30,
+    "unread": 32,
     "items": [
       {
         "dot": "amber",
         "url": "https://mail.google.com/mail/u/0/#inbox/19f6884103c65a24",
         "title": "LA Sports & Entertainment Career Fair",
         "tag": "EVENT",
-        "meta": "Teamwork Online · Jul 27"
-      },
-      {
-        "dot": "faint",
-        "url": "https://mail.google.com/mail/u/0/#inbox/19f93d3c17b502fe",
-        "title": "10 (more) World Cup Breakouts",
-        "meta": "Scouted Football · newsletter"
+        "meta": "TeamWork Online · Jul 27 in LA"
       }
     ],
-    "note": "~30 unread in the last 14 days — nearly all newsletters and promos (Audible, Barça Innovation Hub, US Soccer, Zapier, Hudl). No real replies owed; the WME W2 thread is resolved."
+    "note": "No real replies owed. The rest of the unread inbox is newsletters and promos (Audible, Barça Innovation Hub, US Soccer, Hudl, Zapier, Atlassian)."
   },
   "drive": [
     {
       "url": "https://drive.google.com/file/d/1Y9z_mCmhndUaShrU2y8lP6ZTR27jgSk-/view",
-      "title": "LAFC-Field-Guide.pdf",
-      "meta": "PDF · Jul 22"
-    },
-    {
-      "url": "https://docs.google.com/presentation/d/1V9ExWjpDpQt7I6aZTYjOXe32RorhXuLmM1CY3FhMG-w/edit",
-      "title": "LA_Galaxy_Audit_Jack_Buckingham",
-      "meta": "Slides · Jul 21"
+      "title": "LAFC Field Guide",
+      "meta": "PDF · updated Jul 22"
     },
     {
       "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit",
-      "title": "UD7016 — High Performance Environments (Group Presentation)",
-      "meta": "Doc · shared · Jul 21"
+      "title": "UD7016 – High Performance Environments (Group Presentation)",
+      "meta": "Google Doc · updated Jul 21"
     },
     {
-      "url": "https://docs.google.com/document/d/1CEaB_F1xqczI4qi8yIrOFul6MGCpeyKQyC_pS0OvHqg/edit",
-      "title": "Talking_Points_Jack_Buckingham",
-      "meta": "Doc · Jul 20"
+      "url": "https://docs.google.com/presentation/d/1V9ExWjpDpQt7I6aZTYjOXe32RorhXuLmM1CY3FhMG-w/edit",
+      "title": "LA Galaxy Audit — Jack Buckingham",
+      "meta": "Slides · updated Jul 21"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1mQOe6fLbN1Plo1s5QWfyRso-zAoO4R9D90TPDRI6g20/edit",
+      "title": "LA Galaxy Audit — Verification Report",
+      "meta": "Google Doc · updated Jul 20"
     }
   ]
 }
