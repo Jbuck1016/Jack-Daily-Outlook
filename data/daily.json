@@ -1,15 +1,15 @@
 {
   "dateLabel": "Thursday, July 23",
-  "updatedLabel": "Thu Jul 23, 6:06 PM PT",
+  "updatedLabel": "Thu Jul 23, 7:05 PM PT",
   "today": [
     { "time": "6:00 PM", "title": "SONNYS FOR CG", "accent": "eve" }
   ],
-  "todayNote": "One thing on the calendar today — dinner tonight.",
+  "todayNote": "Quiet one on the calendar — just SONNYS tonight.",
   "week": [
     {
       "day": "Fri · Jul 24",
       "items": [
-        { "time": "11:00 AM", "title": "Ethan Newsletter Email Build (LAFC)" },
+        { "time": "12:30 PM", "title": "Thij call" },
         { "time": "7:45 PM", "title": "Double date w Q and Jar" }
       ]
     },
@@ -17,7 +17,6 @@
       "day": "Sat · Jul 25",
       "items": [
         { "time": "All day", "title": "Henry / Conall day" },
-        { "time": "7:30 PM", "title": "LAFC vs. Sporting Kansas City" },
         { "time": "8:00 PM", "title": "Conall dinner" }
       ]
     },
@@ -41,19 +40,26 @@
     ],
     "recurring": []
   },
-  "followups": [],
+  "followups": [
+    {
+      "dot": "amber",
+      "url": "https://mail.google.com/mail/u/0/#inbox/19f6884103c65a24",
+      "title": "LA Sports & Entertainment Career Fair",
+      "meta": "Mon Jul 27 · invite from TeamWork Online"
+    }
+  ],
   "inbox": {
     "unread": 29,
     "items": [
       {
-        "dot": "faint",
+        "dot": "amber",
         "url": "https://mail.google.com/mail/u/0/#inbox/19f6884103c65a24",
-        "title": "LA Sports & Entertainment Career Fair — Jul 27",
+        "title": "LA Sports & Entertainment Career Fair",
         "tag": "EVENT",
-        "meta": "Teamwork Online · Jul 16"
+        "meta": "Mon Jul 27 · TeamWork Online"
       }
     ],
-    "note": "The other 28 unread are newsletters and promos — nothing needs a reply. The WME W-2 thread is now resolved."
+    "note": "The other 28 unread are newsletters and promos — nothing needs a reply."
   },
   "drive": [
     {
@@ -62,19 +68,19 @@
       "meta": "PDF · Jul 22"
     },
     {
-      "url": "https://docs.google.com/presentation/d/1V9ExWjpDpQt7I6aZTYjOXe32RorhXuLmM1CY3FhMG-w/edit",
-      "title": "LA_Galaxy_Audit_Jack_Buckingham",
-      "meta": "Slides · Jul 21"
+      "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit",
+      "title": "UD7016 — High Performance Environments (Group Presentation)",
+      "meta": "Google Doc · Jul 21"
     },
     {
-      "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit",
-      "title": "UD7016 – High Performance Environments (Group Presentation)",
-      "meta": "Doc · Jul 21"
+      "url": "https://docs.google.com/presentation/d/1V9ExWjpDpQt7I6aZTYjOXe32RorhXuLmM1CY3FhMG-w/edit",
+      "title": "LA_Galaxy_Audit_Jack_Buckingham",
+      "meta": "Google Slides · Jul 21"
     },
     {
       "url": "https://docs.google.com/document/d/1CEaB_F1xqczI4qi8yIrOFul6MGCpeyKQyC_pS0OvHqg/edit",
-      "title": "Talking_Points_Jack_Buckingham.md",
-      "meta": "Doc · Jul 20"
+      "title": "Talking_Points_Jack_Buckingham",
+      "meta": "Google Doc · Jul 20"
     }
   ]
 }
