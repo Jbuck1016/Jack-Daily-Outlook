@@ -1,5 +1,5 @@
 {
-  "updatedLabel": "Thu Jul 23, 7:05 PM PT",
+  "updatedLabel": "Thu Jul 23, 8:05 PM PT",
   "sources": [
     { "key": "personal", "name": "Personal", "connected": true },
     { "key": "lafc-work", "name": "LAFC Work", "connected": true },
@@ -25,7 +25,7 @@
       "label": "Sat · Jul 25",
       "events": [
         { "time": "All day", "title": "Henry / Conall day", "src": "personal" },
-        { "time": "7:30 PM", "title": "⚽ LAFC vs. Sporting Kansas City", "loc": "BMO Stadium", "src": "lafc-match" },
+        { "time": "7:30 PM", "title": "LAFC vs. Sporting Kansas City", "loc": "BMO Stadium", "src": "lafc-match" },
         { "time": "8:00 PM", "title": "Conall dinner", "src": "personal" }
       ]
     },
@@ -48,7 +48,7 @@
       "events": [
         { "time": "10:00 AM", "title": "HOLD: SAAS Call", "src": "lafc-work" },
         { "time": "5:00 PM", "title": "Therapy", "src": "personal" },
-        { "time": "5:00 PM", "title": "⚽ MLS All-Star Game", "loc": "Bank of America Stadium — Charlotte, NC", "src": "lafc-match" }
+        { "time": "5:00 PM", "title": "MLS All-Star Game", "loc": "Bank of America Stadium, Charlotte NC", "src": "lafc-match" }
       ]
     },
     {
@@ -70,7 +70,7 @@
       "label": "Sat · Aug 1",
       "events": [
         { "time": "All day", "title": "Natalie wedding", "src": "personal" },
-        { "time": "4:30 PM", "title": "⚽ LAFC @ Vancouver Whitecaps", "loc": "BC Place", "src": "lafc-match" }
+        { "time": "4:30 PM", "title": "LAFC @ Vancouver Whitecaps", "loc": "BC Place", "src": "lafc-match" }
       ]
     },
     {
@@ -89,7 +89,7 @@
     {
       "label": "Thu · Aug 6",
       "events": [
-        { "time": "6:50 PM", "title": "Flight to Austin (AA 2118)", "loc": "Los Angeles LAX", "src": "personal" }
+        { "time": "6:50 PM", "title": "Flight to Austin (AA 2118)", "loc": "LAX", "src": "personal" }
       ]
     }
   ]
