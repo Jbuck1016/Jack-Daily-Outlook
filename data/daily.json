@@ -1,40 +1,61 @@
 {
   "dateLabel": "Thursday, July 23",
-  "updatedLabel": "Thu Jul 23, 8:05 PM PT",
+  "updatedLabel": "Thu Jul 23, 9:09 PM PT",
   "today": [
     {
       "time": "6:00 PM",
-      "title": "SONNYS FOR CG",
+      "title": "Sonnys for CG",
       "accent": "eve"
     }
   ],
-  "todayNote": "Quiet day — just one plan on the calendar this evening.",
+  "todayNote": "Quiet day — just dinner tonight.",
   "week": [
     {
       "day": "Friday",
       "items": [
-        { "time": "11:00 AM", "title": "Ethan Newsletter Email Build (LAFC)" },
-        { "time": "12:30 PM", "title": "Thij call" },
-        { "time": "7:45 PM", "title": "Double date w Q and Jar" }
+        {
+          "time": "11:00 AM",
+          "title": "Ethan Newsletter Email Build"
+        },
+        {
+          "time": "12:30 PM",
+          "title": "Thij call"
+        },
+        {
+          "time": "7:45 PM",
+          "title": "Double date w/ Q and Jar"
+        }
       ]
     },
     {
       "day": "Saturday",
       "items": [
-        { "time": "All day", "title": "Henry / Conall day" },
-        { "time": "7:30 PM", "title": "LAFC vs. Sporting Kansas City" },
-        { "time": "8:00 PM", "title": "Conall dinner" }
+        {
+          "time": "All day",
+          "title": "Henry / Conall day"
+        },
+        {
+          "time": "7:30 PM",
+          "title": "LAFC vs. Sporting Kansas City"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Conall dinner"
+        }
       ]
     },
     {
       "day": "Sunday",
       "items": [
-        { "time": "6:00 PM", "title": "Dinner w/ Andy" }
+        {
+          "time": "6:00 PM",
+          "title": "Dinner w/ Andy"
+        }
       ]
     }
   ],
   "tasks": {
-    "pillText": "1 overdue · 3 up next",
+    "pillText": "1 overdue · 3 today",
     "pillWarn": true,
     "overdue": [
       {
@@ -58,50 +79,50 @@
       {
         "title": "Text Garrett",
         "url": "https://app.todoist.com/app/task/6h7qvXXpCQG4Qmgq",
-        "meta": "Due tomorrow"
+        "meta": "Today · P4"
       }
     ]
   },
   "followups": [
     {
       "dot": "amber",
-      "url": "https://mail.google.com/mail/u/0/#inbox/19f6884103c65a24",
-      "title": "LA Sports & Entertainment Career Fair",
-      "meta": "Recruiting event · Jul 27 · via TeamWork Online"
+      "url": "https://mail.google.com/mail/u/0/#inbox/19f8cf83166216bc",
+      "title": "Apple Developer support — case open",
+      "meta": "Case #102949494914 · awaiting Apple reply"
     }
   ],
   "inbox": {
-    "unread": 29,
+    "unread": 30,
     "items": [
       {
-        "dot": "amber",
+        "dot": "faint",
         "url": "https://mail.google.com/mail/u/0/#inbox/19f6884103c65a24",
         "title": "LA Sports & Entertainment Career Fair",
         "tag": "EVENT",
-        "meta": "Jul 27 · TeamWork Online"
+        "meta": "Jul 27 · LA networking"
       }
     ],
-    "note": "Rest of the unread inbox is newsletters and promos (Barça Innovation Hub, Audible, U.S. Soccer, Hudl, FootballTicketNet). The two W-2 threads with WME are resolved."
+    "note": "~30 unread, nothing needs a reply — the rest is newsletters and promos."
   },
   "drive": [
     {
-      "url": "https://docs.google.com/presentation/d/1V9ExWjpDpQt7I6aZTYjOXe32RorhXuLmM1CY3FhMG-w/edit",
-      "title": "LA_Galaxy_Audit_Jack_Buckingham",
-      "meta": "Slides · Jul 21"
-    },
-    {
       "url": "https://drive.google.com/file/d/1Y9z_mCmhndUaShrU2y8lP6ZTR27jgSk-/view",
-      "title": "LAFC-Field-Guide.pdf",
+      "title": "LAFC Field Guide",
       "meta": "PDF · Jul 21"
     },
     {
       "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit",
-      "title": "UD7016 – High Performance Environments (Group Presentation)",
+      "title": "UD7016 High Performance Environments — Group Presentation",
       "meta": "Doc · Jul 21"
     },
     {
-      "url": "https://docs.google.com/document/d/1CEaB_F1xqczI4qi8yIrOFul6MGCpeyKQyC_pS0OvHqg/edit",
-      "title": "Talking_Points_Jack_Buckingham",
+      "url": "https://docs.google.com/presentation/d/1V9ExWjpDpQt7I6aZTYjOXe32RorhXuLmM1CY3FhMG-w/edit",
+      "title": "LA Galaxy Audit — Jack Buckingham",
+      "meta": "Slides · Jul 21"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1mQOe6fLbN1Plo1s5QWfyRso-zAoO4R9D90TPDRI6g20/edit",
+      "title": "Verification Report",
       "meta": "Doc · Jul 20"
     }
   ]
