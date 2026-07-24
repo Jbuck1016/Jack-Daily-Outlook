@@ -1,38 +1,33 @@
 {
-  "dateLabel": "Thursday, Jul 23",
-  "updatedLabel": "Thu Jul 23, 10:10 PM PT",
+  "dateLabel": "Thursday, July 23",
+  "updatedLabel": "Thu Jul 23, 11:06 PM PT",
   "today": [
-    {
-      "time": "6:00 PM",
-      "title": "SONNYS FOR CG",
-      "accent": "eve"
-    }
+    { "time": "6:00 PM", "title": "SONNYS FOR CG", "accent": "eve" }
   ],
-  "todayNote": "Quiet evening — just dinner at Sonny's on the personal calendar.",
   "week": [
     {
-      "day": "Fri · Jul 24",
+      "day": "Friday, Jul 24",
       "items": [
         { "time": "12:30 PM", "title": "Thij call" },
         { "time": "7:45 PM", "title": "Double date w Q and Jar" }
       ]
     },
     {
-      "day": "Sat · Jul 25",
+      "day": "Saturday, Jul 25",
       "items": [
         { "time": "All day", "title": "Henry / Conall day" },
         { "time": "8:00 PM", "title": "Conall dinner" }
       ]
     },
     {
-      "day": "Sun · Jul 26",
+      "day": "Sunday, Jul 26",
       "items": [
         { "time": "6:00 PM", "title": "Dinner w/ Andy" }
       ]
     }
   ],
   "tasks": {
-    "pillText": "1 overdue",
+    "pillText": "1 overdue · 3 today",
     "pillWarn": true,
     "overdue": [
       {
@@ -43,87 +38,29 @@
       }
     ],
     "recurring": [
-      {
-        "title": "Take meds",
-        "url": "https://app.todoist.com/app/task/6fPrF5rMMcCF9Fpq",
-        "meta": "Daily · 9:00 AM"
-      },
-      {
-        "title": "Check WhatsApp",
-        "url": "https://app.todoist.com/app/task/6fPrHvm9qrMM44cH",
-        "meta": "Daily · 10:00 AM"
-      },
-      {
-        "title": "Text Garrett",
-        "url": "https://app.todoist.com/app/task/6h7qvXXpCQG4Qmgq",
-        "meta": "Due Fri Jul 24"
-      }
+      { "title": "Take meds", "url": "https://app.todoist.com/app/task/6fPrF5rMMcCF9Fpq", "meta": "Daily · 9:00 AM" },
+      { "title": "Check WhatsApp", "url": "https://app.todoist.com/app/task/6fPrHvm9qrMM44cH", "meta": "Daily · 10:00 AM" },
+      { "title": "Text Garrett", "url": "https://app.todoist.com/app/task/6h7qvXXpCQG4Qmgq", "meta": "Today" }
     ]
   },
-  "followups": [
-    {
-      "dot": "amber",
-      "url": "https://mail.google.com/mail/u/0/#inbox/19f6884103c65a24",
-      "title": "LA Sports & Entertainment Career Fair",
-      "meta": "Jul 27 invite · TeamWork Online"
-    }
-  ],
+  "followups": [],
   "inbox": {
     "unread": 30,
     "items": [
       {
-        "dot": "faint",
-        "url": "https://mail.google.com/mail/u/0/#inbox/19f9223bb47d3922",
-        "title": "Your $0.99/mo offer ends soon",
-        "meta": "Audible · promo"
-      },
-      {
-        "dot": "faint",
-        "url": "https://mail.google.com/mail/u/0/#inbox/19f913fb5e0f0d00",
-        "title": "Events worth stepping outside for",
-        "meta": "Eventbrite · promo"
-      },
-      {
-        "dot": "faint",
-        "url": "https://mail.google.com/mail/u/0/#inbox/19f90a2c681a8733",
-        "title": "Tell us about your Atlassian experience",
-        "meta": "Atlassian · survey"
-      },
-      {
-        "dot": "faint",
-        "url": "https://mail.google.com/mail/u/0/#inbox/19f9039dec3d40da",
-        "title": "AI session at ZapConnect",
-        "meta": "Zapier · promo"
-      },
-      {
-        "dot": "faint",
-        "url": "https://mail.google.com/mail/u/0/#inbox/19f8f311de095d5e",
-        "title": "40% off for alumni",
-        "meta": "Barca Innovation Hub · promo"
+        "dot": "amber",
+        "url": "https://mail.google.com/mail/u/0/#inbox/19f6884103c65a24",
+        "title": "LA Sports & Entertainment Career Fair",
+        "tag": "EVENT",
+        "meta": "Teamwork Online · Jul 27"
       }
     ],
-    "note": "Almost all unread is newsletters and promotions — nothing here needs a reply."
+    "note": "The rest of the unread inbox is newsletters and promos (Audible, Barça Innovation Hub, US Soccer, FootballTicketNet, Atlassian, Zapier)."
   },
   "drive": [
-    {
-      "url": "https://drive.google.com/file/d/1Y9z_mCmhndUaShrU2y8lP6ZTR27jgSk-/view",
-      "title": "LAFC-Field-Guide.pdf",
-      "meta": "PDF · Jul 22"
-    },
-    {
-      "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit",
-      "title": "UD7016 – High Performance Environments – Group Presentation",
-      "meta": "Google Doc · Jul 21"
-    },
-    {
-      "url": "https://docs.google.com/presentation/d/1V9ExWjpDpQt7I6aZTYjOXe32RorhXuLmM1CY3FhMG-w/edit",
-      "title": "LA_Galaxy_Audit_Jack_Buckingham",
-      "meta": "Slides · Jul 21"
-    },
-    {
-      "url": "https://docs.google.com/document/d/1CEaB_F1xqczI4qi8yIrOFul6MGCpeyKQyC_pS0OvHqg/edit",
-      "title": "Talking_Points_Jack_Buckingham.md",
-      "meta": "Google Doc · Jul 20"
-    }
+    { "url": "https://drive.google.com/file/d/1Y9z_mCmhndUaShrU2y8lP6ZTR27jgSk-/view", "title": "LAFC-Field-Guide.pdf", "meta": "PDF · Jul 22" },
+    { "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit", "title": "UD7016 - High Performance Environments - Group Presentation", "meta": "Doc · Jul 21" },
+    { "url": "https://docs.google.com/presentation/d/1V9ExWjpDpQt7I6aZTYjOXe32RorhXuLmM1CY3FhMG-w/edit", "title": "LA_Galaxy_Audit_Jack_Buckingham", "meta": "Slides · Jul 21" },
+    { "url": "https://docs.google.com/document/d/1CEaB_F1xqczI4qi8yIrOFul6MGCpeyKQyC_pS0OvHqg/edit", "title": "Talking_Points_Jack_Buckingham", "meta": "Doc · Jul 20" }
   ]
 }

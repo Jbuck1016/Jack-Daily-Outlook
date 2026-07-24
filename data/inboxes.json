@@ -1,16 +1,16 @@
 {
-  "note": "Last 10 received messages in the primary inbox. The two WME payroll (W-2) threads are already resolved; everything else is newsletters and promotions.",
+  "note": "Last 10 received in the primary inbox. Secondary account not connected.",
   "accounts": [
     {
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-07-24T05:10:40Z",
+      "updated": "2026-07-24T06:06:03Z",
       "emails": [
         {
           "from": "Audible",
           "subject": "Hey, your $0.99/mo offer ends soon",
-          "snippet": "Hurry and save over 80% — limited time offer: $0.99/mo for the first 3 months.",
+          "snippet": "Limited time offer: $0.99/mo for the first 3 months. For a limited time, save over 80%.",
           "date": "2026-07-24T03:20:42Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f9223bb47d3922"
@@ -26,7 +26,7 @@
         {
           "from": "Atlassian",
           "subject": "Tell us about your Atlassian experience!",
-          "snippet": "Take our short survey — your feedback directly shapes what we do.",
+          "snippet": "Take our short survey. Your feedback directly shapes what we do.",
           "date": "2026-07-23T20:20:12Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f90a2c681a8733"
@@ -34,7 +34,7 @@
         {
           "from": "Zapier",
           "subject": "An AI transformation session you won't want to miss at ZapConnect",
-          "snippet": "Join us at ZapConnect on September 23 to learn how AI leaders can get more from pilots.",
+          "snippet": "Join us at ZapConnect on September 23 to learn how AI leaders can get more pilots from concept to production.",
           "date": "2026-07-23T18:25:37Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f9039dec3d40da"
@@ -42,13 +42,13 @@
         {
           "from": "Liam Henshaw",
           "subject": "I'm live on LinkedIn",
-          "snippet": "Q&A opportunity — live now on LinkedIn.",
+          "snippet": "Q&A opportunity.",
           "date": "2026-07-23T18:14:08Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f902f56a8bf2f1"
         },
         {
-          "from": "Barca Innovation Hub",
+          "from": "Barça Innovation Hub",
           "subject": "Let's keep growing together — 40% off for alumni",
           "snippet": "As an alumnus, this season's scholarship is waiting for you.",
           "date": "2026-07-23T13:36:16Z",
@@ -58,15 +58,15 @@
         {
           "from": "Apple",
           "subject": "Thanks for submitting your support request.",
-          "snippet": "We've received your support request. Your case ID is 102949494914.",
+          "snippet": "We've received your support request and will get back to you soon. Your case ID is 102949494914.",
           "date": "2026-07-23T03:14:56Z",
           "unread": false,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f8cf83166216bc"
         },
         {
-          "from": "Katie Schiller (WME)",
+          "from": "Katie Schiller",
           "subject": "RE: W2 for 2025",
-          "snippet": "You can access your W2 through ADP iPay. Follow the steps below to register your account.",
+          "snippet": "You can access your W2 through ADP iPay. Please follow the steps below to register your account.",
           "date": "2026-07-22T22:22:56Z",
           "unread": false,
           "tag": "Important",
@@ -75,15 +75,15 @@
         {
           "from": "FootballTicketNet",
           "subject": "Missing Football Already? The Top Leagues Are Back!",
-          "snippet": "The leagues are back for 2026/27. Grab the best seats at the best price.",
+          "snippet": "The leagues are back for 2026/27. Grab the best seats at the best price before everyone else does.",
           "date": "2026-07-22T13:14:14Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f89f7ce072575f"
         },
         {
-          "from": "Cara Carroll (WME)",
+          "from": "Cara Carroll",
           "subject": "Re: W-2 Request For 2025",
-          "snippet": "Please reach out to Payroll@WMEAgency.com to assist with your query. Thank you.",
+          "snippet": "Please reach out to Payroll@WMEAgency.com to assist with your query.",
           "date": "2026-07-22T01:36:12Z",
           "unread": false,
           "tag": "Important",
