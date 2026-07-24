@@ -1,5 +1,5 @@
 {
-  "updatedLabel": "Fri Jul 24, 12:05 PM PT",
+  "updatedLabel": "Fri Jul 24, 1:07 PM PT",
   "sources": [
     { "key": "personal", "name": "Personal", "connected": true },
     { "key": "lafc-work", "name": "LAFC Work", "connected": true },
@@ -33,15 +33,15 @@
       "label": "Mon · Jul 27",
       "events": [
         { "time": "10:00 AM", "title": "Class", "src": "personal" },
-        { "time": "11:00 AM", "title": "Masterclass: Individual Tactical Preparation with Alec Tate", "src": "personal" },
-        { "time": "11:00 AM", "title": "CP Sales Weekly", "src": "lafc-work" }
+        { "time": "11:00 AM", "title": "CP Sales Weekly", "src": "lafc-work" },
+        { "time": "11:00 AM", "title": "Masterclass: Individual Tactical Preparation with Alec Tate", "src": "personal" }
       ]
     },
     {
       "label": "Wed · Jul 29",
       "events": [
         { "time": "10:00 AM", "title": "HOLD: SAAS Call", "src": "lafc-work" },
-        { "time": "5:00 PM", "title": "MLS All-Star Game", "loc": "Bank of America Stadium, Charlotte", "src": "lafc-match" },
+        { "time": "5:00 PM", "title": "MLS All-Star Game", "loc": "Charlotte, NC", "src": "lafc-match" },
         { "time": "5:00 PM", "title": "Therapy", "src": "personal" }
       ]
     },

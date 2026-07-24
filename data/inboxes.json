@@ -5,8 +5,16 @@
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-07-24T19:05:20Z",
+      "updated": "2026-07-24T20:07:26Z",
       "emails": [
+        {
+          "from": "Apple Developer Support",
+          "subject": "Re: [102949494914] Apple Developer Support - Membership and Account",
+          "snippet": "Good afternoon, my name is Kelly with Developer Support. Apologies for the delay in responding to your email.",
+          "date": "2026-07-24T19:17:42Z",
+          "unread": false,
+          "url": "https://mail.google.com/mail/u/0/#inbox/19f958fe58c7c03b"
+        },
         {
           "from": "APFA",
           "subject": "Your APFA Membership just got a free upgrade! 👀",
@@ -16,16 +24,16 @@
           "url": "https://mail.google.com/mail/u/0/#inbox/19f950b99d7a3244"
         },
         {
-          "from": "UCLA Health",
+          "from": "myUCLAhealth",
           "subject": "Check In For Your Upcoming Visit",
-          "snippet": "You have an upcoming visit on 7/31 at 8:00 AM PDT with Jason Roostaeian, MD. Please check in online before your visit.",
+          "snippet": "Hello Jackson, you have an upcoming visit on 7/31 at 8:00 AM PDT with Jason Roostaeian, MD. Please check in online before your visit.",
           "date": "2026-07-24T16:10:41Z",
           "unread": true,
           "tag": "Important",
           "url": "https://mail.google.com/mail/u/0/#inbox/19f94e4aa64ddad7"
         },
         {
-          "from": "UCLA Health",
+          "from": "myUCLAhealth",
           "subject": "New Appointment Message(s) Available in Your myUCLAhealth Account",
           "snippet": "A new appointment reminder message has been posted in your myUCLAhealth account. Please sign in to review/respond.",
           "date": "2026-07-24T15:23:23Z",
@@ -36,15 +44,15 @@
         {
           "from": "FootballTicketNet",
           "subject": "Something new is waiting for you 🎟️ Booking Your Seats Got A Lot Better!",
-          "snippet": "Same matches. Same prices. A faster, cleaner way to grab your seats. Take a look inside.",
+          "snippet": "Same matches. Same prices. A faster, cleaner way to grab your seats.",
           "date": "2026-07-24T15:12:59Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f94b270132ebda"
         },
         {
-          "from": "Soccer & Betting Jobs (digest)",
+          "from": "Jack Buckingham",
           "subject": "⚽🎰 38 new jobs 🔥1 posted today! — Jul 24",
-          "snippet": "Soccer & Betting Jobs daily digest · July 24, 2026 · 38 new · 0 still open. Track your applications in your Google Sheet tracker.",
+          "snippet": "Soccer & Betting Jobs Daily digest · July 24, 2026 — 38 new, 0 still open.",
           "date": "2026-07-24T14:53:15Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f949dc7ccbee07"
@@ -52,9 +60,9 @@
         {
           "from": "The Transfer Flow",
           "subject": "Variance Betting - MLS 24 July 2026",
-          "snippet": "The World Cup is done, but we still have MLS to carry us through the next few weeks before the Premier League and Championship get back.",
+          "snippet": "The World Cup is done, but we still have MLS to carry us through the next few weeks before the Premier League returns.",
           "date": "2026-07-24T14:45:56Z",
-          "unread": true,
+          "unread": false,
           "tag": "Important",
           "url": "https://mail.google.com/mail/u/0/#inbox/19f949715da815eb"
         },
@@ -77,18 +85,10 @@
         {
           "from": "Audible",
           "subject": "Hey, your $0.99/mo offer ends soon",
-          "snippet": "Limited time offer: $0.99/mo for the first 3 months. Save over 80%.",
+          "snippet": "Hurry and save over 80% — $0.99/mo for the first 3 months.",
           "date": "2026-07-24T03:20:42Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f9223bb47d3922"
-        },
-        {
-          "from": "Eventbrite",
-          "subject": "Events worth stepping outside for.",
-          "snippet": "Find your reason to get out and explore.",
-          "date": "2026-07-23T23:11:38Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/19f913fb5e0f0d00"
         }
       ]
     },

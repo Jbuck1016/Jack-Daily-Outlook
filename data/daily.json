@@ -1,6 +1,6 @@
 {
   "dateLabel": "Friday · Jul 24",
-  "updatedLabel": "Fri Jul 24, 12:05 PM PT",
+  "updatedLabel": "Fri Jul 24, 1:07 PM PT",
   "today": [
     { "time": "12:30 PM", "title": "Thij call" },
     { "time": "7:45 PM", "title": "Double date w Q and Jar", "accent": "eve" }
@@ -36,17 +36,17 @@
   },
   "followups": [
     { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/19f7d755ed20f0e1", "title": "Dan White (JPMorgan) — stock ideas call", "meta": "You proposed 12pm; awaiting his reply" },
-    { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/19f94e4aa64ddad7", "title": "Check in for 7/31 UCLA visit (Dr. Roostaeian)", "meta": "UCLA Health · check in online" },
+    { "dot": "green", "url": "https://mail.google.com/mail/u/0/#inbox/19f958fe58c7c03b", "title": "Apple Developer Support (Kelly) — membership", "meta": "You replied Jul 24; awaiting Apple" },
     { "dot": "faint", "url": "https://mail.google.com/mail/u/0/#inbox/19f6884103c65a24", "title": "LA Sports & Entertainment Career Fair — Jul 27", "meta": "TeamWork Online invite" }
   ],
   "inbox": {
-    "unread": 37,
+    "unread": 36,
     "items": [
       { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/19f94e4aa64ddad7", "title": "UCLA Health: check in for your 7/31 visit", "tag": "EVENT", "meta": "UCLA Health · Jul 24" },
-      { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/19f94b95f5385fcb", "title": "New myUCLAhealth appointment message", "meta": "UCLA Health · Jul 24" },
+      { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/19f94b95f5385fcb", "title": "New myUCLAhealth appointment message", "tag": "REPLY", "meta": "UCLA Health · Jul 24" },
       { "dot": "faint", "url": "https://mail.google.com/mail/u/0/#inbox/19f6884103c65a24", "title": "LA Sports & Entertainment Career Fair (Jul 27)", "tag": "EVENT", "meta": "TeamWork Online · Jul 16" }
     ],
-    "note": "Most of the 37 unread are newsletters and promos (Audible, Barça Innovation Hub, FootballTicketNet, US Soccer)."
+    "note": "Most of the 36 unread are newsletters and promos (Audible, Barça Innovation Hub, FootballTicketNet, US Soccer)."
   },
   "drive": [
     { "url": "https://drive.google.com/file/d/1Y9z_mCmhndUaShrU2y8lP6ZTR27jgSk-/view", "title": "LAFC-Field-Guide.pdf", "meta": "PDF · Jul 22" },
