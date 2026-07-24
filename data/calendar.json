@@ -1,5 +1,5 @@
 {
-  "updatedLabel": "Fri Jul 24, 9:06 AM PT",
+  "updatedLabel": "Fri Jul 24, 10:05 AM PT",
   "sources": [
     { "key": "personal", "name": "Personal", "connected": true },
     { "key": "lafc-work", "name": "LAFC Work", "connected": true },
@@ -12,14 +12,14 @@
       "events": [
         { "time": "11:00 AM", "title": "Ethan Newsletter Email Build", "src": "lafc-work" },
         { "time": "12:30 PM", "title": "Thij call", "src": "personal" },
-        { "time": "7:45 PM", "title": "Double date w/ Q and Jar", "src": "personal" }
+        { "time": "7:45 PM", "title": "Double date w Q and Jar", "src": "personal" }
       ]
     },
     {
       "label": "Sat · Jul 25",
       "events": [
         { "time": "All day", "title": "Henry / Conall day", "src": "personal" },
-        { "time": "7:30 PM", "title": "LAFC vs. Sporting Kansas City", "loc": "BMO Stadium", "src": "lafc-match" },
+        { "time": "7:30 PM", "title": "⚽ LAFC vs. Sporting Kansas City", "loc": "BMO Stadium", "src": "lafc-match" },
         { "time": "8:00 PM", "title": "Conall dinner", "src": "personal" }
       ]
     },
@@ -41,7 +41,7 @@
       "label": "Wed · Jul 29",
       "events": [
         { "time": "10:00 AM", "title": "HOLD: SAAS Call", "src": "lafc-work" },
-        { "time": "5:00 PM", "title": "MLS All-Star Game", "loc": "Bank of America Stadium, Charlotte", "src": "lafc-match" },
+        { "time": "5:00 PM", "title": "⚽ MLS All-Star Game", "loc": "Bank of America Stadium — Charlotte, NC", "src": "lafc-match" },
         { "time": "5:00 PM", "title": "Therapy", "src": "personal" }
       ]
     },
@@ -50,7 +50,7 @@
       "events": [
         { "time": "11:00 AM", "title": "HOLD: SAAS Call", "src": "lafc-work" },
         { "time": "2:30 PM", "title": "Dr Dugar", "src": "personal" },
-        { "time": "9:45 PM", "title": "Spider-Man: Brand New Day", "loc": "Santa Monica", "src": "personal" }
+        { "time": "9:45 PM", "title": "Spider-Man: Brand New Day", "loc": "1310 3rd Street, Santa Monica", "src": "personal" }
       ]
     },
     {
@@ -64,7 +64,7 @@
       "label": "Sat · Aug 1",
       "events": [
         { "time": "All day", "title": "Natalie wedding", "src": "personal" },
-        { "time": "4:30 PM", "title": "LAFC @ Vancouver Whitecaps", "loc": "BC Place", "src": "lafc-match" }
+        { "time": "4:30 PM", "title": "⚽ LAFC @ Vancouver Whitecaps", "loc": "BC Place", "src": "lafc-match" }
       ]
     },
     {
@@ -83,7 +83,7 @@
     {
       "label": "Thu · Aug 6",
       "events": [
-        { "time": "6:50 PM", "title": "Flight to Austin (AA 2118)", "loc": "LAX", "src": "personal" }
+        { "time": "6:50 PM", "title": "Flight to Austin (AA 2118)", "loc": "Los Angeles LAX", "src": "personal" }
       ]
     },
     {

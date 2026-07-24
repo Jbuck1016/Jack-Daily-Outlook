@@ -1,11 +1,10 @@
 {
-  "dateLabel": "Friday, Jul 24",
-  "updatedLabel": "Fri Jul 24, 9:06 AM PT",
+  "dateLabel": "Friday · Jul 24",
+  "updatedLabel": "Fri Jul 24, 10:05 AM PT",
   "today": [
     { "time": "12:30 PM", "title": "Thij call" },
-    { "time": "7:45 PM", "title": "Double date w/ Q and Jar", "accent": "eve" }
+    { "time": "7:45 PM", "title": "Double date w Q and Jar", "accent": "eve" }
   ],
-  "todayNote": "Light day: Thij call midday, double date tonight.",
   "week": [
     {
       "day": "Sat · Jul 25",
@@ -26,7 +25,7 @@
     "pillWarn": true,
     "overdue": [
       {
-        "title": "Email IT for Saas, DBeaver, Zoom, Slack",
+        "title": "Email IT for SaaS, DBeaver, Zoom, Slack",
         "url": "https://app.todoist.com/app/task/6h7WmqGx7MCgxmmH",
         "prio": "P1",
         "meta": "2 days overdue"
@@ -39,82 +38,74 @@
     ],
     "recurring": [
       {
-        "title": "Text Garrett",
-        "url": "https://app.todoist.com/app/task/6h7qvXXpCQG4Qmgq",
-        "meta": "Due today"
-      },
-      {
         "title": "Take meds",
         "url": "https://app.todoist.com/app/task/6fPrF5rMMcCF9Fpq",
-        "meta": "Every day @ 9:00 AM"
+        "meta": "9:00 AM · daily"
       },
       {
         "title": "Check WhatsApp",
         "url": "https://app.todoist.com/app/task/6fPrHvm9qrMM44cH",
-        "meta": "Every day @ 10:00 AM"
+        "meta": "10:00 AM · daily"
+      },
+      {
+        "title": "Text Garrett",
+        "url": "https://app.todoist.com/app/task/6h7qvXXpCQG4Qmgq",
+        "meta": "Due today"
       }
     ]
   },
   "followups": [
     {
-      "dot": "red",
+      "dot": "amber",
       "url": "https://mail.google.com/mail/u/0/#inbox/19f7d755ed20f0e1",
-      "title": "Dan White (JPMorgan)",
-      "meta": "Call this week — awaiting reply on time"
+      "title": "Dan White (JPMorgan) — call scheduling",
+      "meta": "You pushed to 12; awaiting his confirm"
     },
     {
-      "dot": "amber",
-      "url": "https://mail.google.com/mail/u/0/#inbox/19f94b95f5385fcb",
-      "title": "UCLA Health appointment message",
-      "meta": "Review/respond in myUCLAhealth"
+      "dot": "green",
+      "url": "https://mail.google.com/mail/u/0/#inbox/19f6884103c65a24",
+      "title": "LA Sports & Entertainment Career Fair",
+      "meta": "Jul 27 · RSVP if going"
     }
   ],
   "inbox": {
-    "unread": 35,
+    "unread": 37,
     "items": [
       {
         "dot": "red",
-        "url": "https://mail.google.com/mail/u/0/#inbox/19f7d755ed20f0e1",
-        "title": "Dan White (JPMorgan)",
-        "tag": "REPLY",
-        "meta": "Coordinating a call this week"
+        "url": "https://mail.google.com/mail/u/0/#inbox/19f94e4aa64ddad7",
+        "title": "Check in for UCLA visit",
+        "tag": "EVENT",
+        "meta": "Dr Roostaeian · Jul 31, 8:00 AM"
       },
       {
         "dot": "amber",
         "url": "https://mail.google.com/mail/u/0/#inbox/19f94b95f5385fcb",
         "title": "New myUCLAhealth appointment message",
-        "tag": "EVENT",
-        "meta": "Sign in to review/respond"
-      },
-      {
-        "dot": "faint",
-        "url": "https://mail.google.com/mail/u/0/#inbox/19f6884103c65a24",
-        "title": "LA Sports & Entertainment Career Fair",
-        "tag": "EVENT",
-        "meta": "Jul 27 · TeamWork Online invite"
+        "meta": "UCLA Health · sign in to review"
       }
     ],
-    "note": "Most of the 35 unread are newsletters/promos (Audible, Barça Innovation Hub, US Soccer, football ticket sites)."
+    "note": "Rest of unread is newsletters and promos (Audible, Barça Innovation Hub, FootballTicketNet, US Soccer, Zapier)."
   },
   "drive": [
     {
       "url": "https://drive.google.com/file/d/1Y9z_mCmhndUaShrU2y8lP6ZTR27jgSk-/view",
-      "title": "LAFC-Field-Guide.pdf",
+      "title": "LAFC Field Guide",
       "meta": "PDF · edited Jul 22"
     },
     {
-      "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit",
-      "title": "UD7016 – High Performance Environments (Group Presentation)",
-      "meta": "Doc · edited Jul 21"
-    },
-    {
       "url": "https://docs.google.com/presentation/d/1V9ExWjpDpQt7I6aZTYjOXe32RorhXuLmM1CY3FhMG-w/edit",
-      "title": "LA_Galaxy_Audit_Jack_Buckingham",
+      "title": "LA Galaxy Audit — Jack Buckingham",
       "meta": "Slides · edited Jul 21"
     },
     {
+      "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit",
+      "title": "UD7016 — High Performance Environments",
+      "meta": "Doc · edited Jul 21"
+    },
+    {
       "url": "https://docs.google.com/document/d/1CEaB_F1xqczI4qi8yIrOFul6MGCpeyKQyC_pS0OvHqg/edit",
-      "title": "Talking_Points_Jack_Buckingham",
+      "title": "Talking Points — Jack Buckingham",
       "meta": "Doc · edited Jul 20"
     }
   ]
