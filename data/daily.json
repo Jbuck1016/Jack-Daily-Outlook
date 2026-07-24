@@ -1,8 +1,7 @@
 {
   "dateLabel": "Friday · Jul 24",
-  "updatedLabel": "Fri Jul 24, 11:05 AM PT",
+  "updatedLabel": "Fri Jul 24, 12:05 PM PT",
   "today": [
-    { "time": "11:00 AM", "title": "Ethan Newsletter Email Build" },
     { "time": "12:30 PM", "title": "Thij call" },
     { "time": "7:45 PM", "title": "Double date w Q and Jar", "accent": "eve" }
   ],
@@ -36,7 +35,7 @@
     ]
   },
   "followups": [
-    { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/19f7d755ed20f0e1", "title": "Dan White (JPMorgan) — stock ideas call", "meta": "Awaiting his reply on a new time" },
+    { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/19f7d755ed20f0e1", "title": "Dan White (JPMorgan) — stock ideas call", "meta": "You proposed 12pm; awaiting his reply" },
     { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/19f94e4aa64ddad7", "title": "Check in for 7/31 UCLA visit (Dr. Roostaeian)", "meta": "UCLA Health · check in online" },
     { "dot": "faint", "url": "https://mail.google.com/mail/u/0/#inbox/19f6884103c65a24", "title": "LA Sports & Entertainment Career Fair — Jul 27", "meta": "TeamWork Online invite" }
   ],
