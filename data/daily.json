@@ -1,24 +1,20 @@
 {
   "dateLabel": "Thursday, July 23",
-  "updatedLabel": "Thu Jul 23, 5:06 PM PT",
+  "updatedLabel": "Thu Jul 23, 6:06 PM PT",
   "today": [
-    {
-      "time": "6:00 PM",
-      "title": "SONNYS FOR CG",
-      "accent": "eve"
-    }
+    { "time": "6:00 PM", "title": "SONNYS FOR CG", "accent": "eve" }
   ],
-  "todayNote": "Light day — just one thing on the books tonight.",
+  "todayNote": "One thing on the calendar today — dinner tonight.",
   "week": [
     {
-      "day": "Fri Jul 24",
+      "day": "Fri · Jul 24",
       "items": [
         { "time": "11:00 AM", "title": "Ethan Newsletter Email Build (LAFC)" },
-        { "time": "7:45 PM", "title": "Double date w/ Q and Jar" }
+        { "time": "7:45 PM", "title": "Double date w Q and Jar" }
       ]
     },
     {
-      "day": "Sat Jul 25",
+      "day": "Sat · Jul 25",
       "items": [
         { "time": "All day", "title": "Henry / Conall day" },
         { "time": "7:30 PM", "title": "LAFC vs. Sporting Kansas City" },
@@ -26,7 +22,7 @@
       ]
     },
     {
-      "day": "Sun Jul 26",
+      "day": "Sun · Jul 26",
       "items": [
         { "time": "6:00 PM", "title": "Dinner w/ Andy" }
       ]
@@ -45,47 +41,40 @@
     ],
     "recurring": []
   },
-  "followups": [
-    {
-      "dot": "amber",
-      "url": "https://mail.google.com/mail/u/0/#inbox/19f6884103c65a24",
-      "title": "LA Sports & Entertainment Career Fair",
-      "meta": "Jul 27 in LA · TeamWork Online invite"
-    }
-  ],
+  "followups": [],
   "inbox": {
-    "unread": 30,
+    "unread": 29,
     "items": [
       {
-        "dot": "amber",
+        "dot": "faint",
         "url": "https://mail.google.com/mail/u/0/#inbox/19f6884103c65a24",
-        "title": "LA Sports & Entertainment Career Fair",
+        "title": "LA Sports & Entertainment Career Fair — Jul 27",
         "tag": "EVENT",
-        "meta": "Jul 27 · TeamWork Online"
+        "meta": "Teamwork Online · Jul 16"
       }
     ],
-    "note": "30 unread, almost all newsletters and promos (Audible, Barça Innovation Hub, US Soccer, football tickets). No replies owed — the WME W2 threads are both sorted."
+    "note": "The other 28 unread are newsletters and promos — nothing needs a reply. The WME W-2 thread is now resolved."
   },
   "drive": [
     {
       "url": "https://drive.google.com/file/d/1Y9z_mCmhndUaShrU2y8lP6ZTR27jgSk-/view",
-      "title": "LAFC Field Guide",
-      "meta": "PDF · edited Jul 22"
-    },
-    {
-      "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit",
-      "title": "UD7016 — High Performance Environments (Group Presentation)",
-      "meta": "Doc · edited Jul 21"
+      "title": "LAFC-Field-Guide.pdf",
+      "meta": "PDF · Jul 22"
     },
     {
       "url": "https://docs.google.com/presentation/d/1V9ExWjpDpQt7I6aZTYjOXe32RorhXuLmM1CY3FhMG-w/edit",
-      "title": "LA Galaxy Audit — Jack Buckingham",
-      "meta": "Slides · edited Jul 21"
+      "title": "LA_Galaxy_Audit_Jack_Buckingham",
+      "meta": "Slides · Jul 21"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit",
+      "title": "UD7016 – High Performance Environments (Group Presentation)",
+      "meta": "Doc · Jul 21"
     },
     {
       "url": "https://docs.google.com/document/d/1CEaB_F1xqczI4qi8yIrOFul6MGCpeyKQyC_pS0OvHqg/edit",
-      "title": "Talking Points — Galaxy Audit",
-      "meta": "Doc · edited Jul 20"
+      "title": "Talking_Points_Jack_Buckingham.md",
+      "meta": "Doc · Jul 20"
     }
   ]
 }
