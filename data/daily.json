@@ -1,17 +1,16 @@
 {
   "dateLabel": "Friday, Jul 24",
-  "updatedLabel": "Fri Jul 24, 8:06 AM PT",
+  "updatedLabel": "Fri Jul 24, 9:06 AM PT",
   "today": [
     { "time": "12:30 PM", "title": "Thij call" },
-    { "time": "7:45 PM", "title": "Double date w Q and Jar", "accent": "eve" }
+    { "time": "7:45 PM", "title": "Double date w/ Q and Jar", "accent": "eve" }
   ],
-  "todayNote": "Also on the LAFC calendar: Ethan newsletter email build at 11:00 AM.",
+  "todayNote": "Light day: Thij call midday, double date tonight.",
   "week": [
     {
       "day": "Sat · Jul 25",
       "items": [
         { "time": "All day", "title": "Henry / Conall day" },
-        { "time": "7:30 PM", "title": "LAFC vs. Sporting Kansas City" },
         { "time": "8:00 PM", "title": "Conall dinner" }
       ]
     },
@@ -40,63 +39,83 @@
     ],
     "recurring": [
       {
+        "title": "Text Garrett",
+        "url": "https://app.todoist.com/app/task/6h7qvXXpCQG4Qmgq",
+        "meta": "Due today"
+      },
+      {
         "title": "Take meds",
         "url": "https://app.todoist.com/app/task/6fPrF5rMMcCF9Fpq",
-        "meta": "Every day · 9:00 AM"
+        "meta": "Every day @ 9:00 AM"
       },
       {
         "title": "Check WhatsApp",
         "url": "https://app.todoist.com/app/task/6fPrHvm9qrMM44cH",
-        "meta": "Every day · 10:00 AM"
-      },
-      {
-        "title": "Text Garrett",
-        "url": "https://app.todoist.com/app/task/6h7qvXXpCQG4Qmgq",
-        "meta": "Due today"
+        "meta": "Every day @ 10:00 AM"
       }
     ]
   },
   "followups": [
     {
+      "dot": "red",
+      "url": "https://mail.google.com/mail/u/0/#inbox/19f7d755ed20f0e1",
+      "title": "Dan White (JPMorgan)",
+      "meta": "Call this week — awaiting reply on time"
+    },
+    {
       "dot": "amber",
-      "url": "https://mail.google.com/mail/u/0/#inbox/19f6884103c65a24",
-      "title": "LA Sports & Entertainment Career Fair — Jul 27",
-      "meta": "TeamWork Online · RSVP for Monday"
+      "url": "https://mail.google.com/mail/u/0/#inbox/19f94b95f5385fcb",
+      "title": "UCLA Health appointment message",
+      "meta": "Review/respond in myUCLAhealth"
     }
   ],
   "inbox": {
-    "unread": 32,
+    "unread": 35,
     "items": [
       {
+        "dot": "red",
+        "url": "https://mail.google.com/mail/u/0/#inbox/19f7d755ed20f0e1",
+        "title": "Dan White (JPMorgan)",
+        "tag": "REPLY",
+        "meta": "Coordinating a call this week"
+      },
+      {
         "dot": "amber",
+        "url": "https://mail.google.com/mail/u/0/#inbox/19f94b95f5385fcb",
+        "title": "New myUCLAhealth appointment message",
+        "tag": "EVENT",
+        "meta": "Sign in to review/respond"
+      },
+      {
+        "dot": "faint",
         "url": "https://mail.google.com/mail/u/0/#inbox/19f6884103c65a24",
         "title": "LA Sports & Entertainment Career Fair",
         "tag": "EVENT",
-        "meta": "TeamWork Online · Jul 27 in LA"
+        "meta": "Jul 27 · TeamWork Online invite"
       }
     ],
-    "note": "No real replies owed. The rest of the unread inbox is newsletters and promos (Audible, Barça Innovation Hub, US Soccer, Hudl, Zapier, Atlassian)."
+    "note": "Most of the 35 unread are newsletters/promos (Audible, Barça Innovation Hub, US Soccer, football ticket sites)."
   },
   "drive": [
     {
       "url": "https://drive.google.com/file/d/1Y9z_mCmhndUaShrU2y8lP6ZTR27jgSk-/view",
-      "title": "LAFC Field Guide",
-      "meta": "PDF · updated Jul 22"
+      "title": "LAFC-Field-Guide.pdf",
+      "meta": "PDF · edited Jul 22"
     },
     {
       "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit",
       "title": "UD7016 – High Performance Environments (Group Presentation)",
-      "meta": "Google Doc · updated Jul 21"
+      "meta": "Doc · edited Jul 21"
     },
     {
       "url": "https://docs.google.com/presentation/d/1V9ExWjpDpQt7I6aZTYjOXe32RorhXuLmM1CY3FhMG-w/edit",
-      "title": "LA Galaxy Audit — Jack Buckingham",
-      "meta": "Slides · updated Jul 21"
+      "title": "LA_Galaxy_Audit_Jack_Buckingham",
+      "meta": "Slides · edited Jul 21"
     },
     {
-      "url": "https://docs.google.com/document/d/1mQOe6fLbN1Plo1s5QWfyRso-zAoO4R9D90TPDRI6g20/edit",
-      "title": "LA Galaxy Audit — Verification Report",
-      "meta": "Google Doc · updated Jul 20"
+      "url": "https://docs.google.com/document/d/1CEaB_F1xqczI4qi8yIrOFul6MGCpeyKQyC_pS0OvHqg/edit",
+      "title": "Talking_Points_Jack_Buckingham",
+      "meta": "Doc · edited Jul 20"
     }
   ]
 }

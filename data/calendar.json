@@ -1,5 +1,5 @@
 {
-  "updatedLabel": "Fri Jul 24, 8:06 AM PT",
+  "updatedLabel": "Fri Jul 24, 9:06 AM PT",
   "sources": [
     { "key": "personal", "name": "Personal", "connected": true },
     { "key": "lafc-work", "name": "LAFC Work", "connected": true },
@@ -12,7 +12,7 @@
       "events": [
         { "time": "11:00 AM", "title": "Ethan Newsletter Email Build", "src": "lafc-work" },
         { "time": "12:30 PM", "title": "Thij call", "src": "personal" },
-        { "time": "7:45 PM", "title": "Double date w Q and Jar", "src": "personal" }
+        { "time": "7:45 PM", "title": "Double date w/ Q and Jar", "src": "personal" }
       ]
     },
     {
@@ -41,7 +41,7 @@
       "label": "Wed · Jul 29",
       "events": [
         { "time": "10:00 AM", "title": "HOLD: SAAS Call", "src": "lafc-work" },
-        { "time": "5:00 PM", "title": "MLS All-Star Game", "loc": "Bank of America Stadium, Charlotte NC", "src": "lafc-match" },
+        { "time": "5:00 PM", "title": "MLS All-Star Game", "loc": "Bank of America Stadium, Charlotte", "src": "lafc-match" },
         { "time": "5:00 PM", "title": "Therapy", "src": "personal" }
       ]
     },

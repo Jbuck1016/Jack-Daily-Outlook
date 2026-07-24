@@ -1,16 +1,33 @@
 {
-  "note": "Last 10 received in the primary inbox. Most are newsletters and promos; the WME W2 thread is resolved. Secondary account is not connected.",
+  "note": "Latest received in the primary inbox. Secondary account not connected.",
   "accounts": [
     {
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-07-24T15:06:00Z",
+      "updated": "2026-07-24T16:06:50Z",
       "emails": [
         {
+          "from": "myUCLAhealth",
+          "subject": "New Appointment Message(s) Available in Your myUCLAhealth Account",
+          "snippet": "A new appointment reminder message has been posted in your myUCLAhealth account. Sign in to review/respond.",
+          "date": "2026-07-24T15:23:23Z",
+          "unread": true,
+          "tag": "Important",
+          "url": "https://mail.google.com/mail/u/0/#inbox/19f94b95f5385fcb"
+        },
+        {
+          "from": "FootballTicketNet",
+          "subject": "Something new is waiting for you 🎟️ Booking Your Seats Got A Lot Better!",
+          "snippet": "Same matches. Same prices. A faster, cleaner way to grab your seats. We just launched a brand new site.",
+          "date": "2026-07-24T15:12:59Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/19f94b270132ebda"
+        },
+        {
           "from": "Jack Buckingham",
-          "subject": "⚽🎰 38 new jobs 🔥1 posted today! — Jul 24",
-          "snippet": "Soccer & Betting Jobs daily digest · July 24, 2026. 38 new · 0 still open. Track your applications in your Google Sheet tracker.",
+          "subject": "⚽🎰 38 new jobs 🔥 1 posted today! — Jul 24",
+          "snippet": "Soccer & Betting Jobs daily digest · July 24. 38 new, 0 still open. Track applications in your Google Sheet.",
           "date": "2026-07-24T14:53:15Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f949dc7ccbee07"
@@ -18,7 +35,7 @@
         {
           "from": "The Transfer Flow",
           "subject": "Variance Betting - MLS 24 July 2026",
-          "snippet": "The World Cup is done, but we still have MLS to carry us through the next few weeks before the Premier League and Championship get back.",
+          "snippet": "The World Cup is done, but MLS carries us through until the Premier League and Championship return.",
           "date": "2026-07-24T14:45:56Z",
           "unread": true,
           "tag": "Important",
@@ -59,7 +76,7 @@
         {
           "from": "Atlassian",
           "subject": "Tell us about your Atlassian experience!",
-          "snippet": "Take our short survey. Your feedback directly shapes what we do.",
+          "snippet": "Take our short survey — your feedback directly shapes what we do.",
           "date": "2026-07-23T20:20:12Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f90a2c681a8733"
@@ -67,26 +84,10 @@
         {
           "from": "Zapier",
           "subject": "An AI transformation session you won't want to miss at ZapConnect",
-          "snippet": "Join us at ZapConnect on September 23 to learn how AI leaders can get more pilots from stalling.",
+          "snippet": "95% of AI pilots stall. Join ZapConnect on September 23 to learn how AI leaders get more pilots to production.",
           "date": "2026-07-23T18:25:37Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f9039dec3d40da"
-        },
-        {
-          "from": "Liam Henshaw",
-          "subject": "I'm live on LinkedIn",
-          "snippet": "Q&A opportunity.",
-          "date": "2026-07-23T18:14:08Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/19f902f56a8bf2f1"
-        },
-        {
-          "from": "Barça Innovation Hub",
-          "subject": "Let's keep growing together — 40% off for alumni",
-          "snippet": "As an alumnus, this season scholarship is waiting for you.",
-          "date": "2026-07-23T13:36:16Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/19f8f311de095d5e"
         }
       ]
     },
