@@ -5,20 +5,20 @@
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-07-24T20:07:26Z",
+      "updated": "2026-07-24T21:06:00Z",
       "emails": [
         {
           "from": "Apple Developer Support",
           "subject": "Re: [102949494914] Apple Developer Support - Membership and Account",
-          "snippet": "Good afternoon, my name is Kelly with Developer Support. Apologies for the delay in responding to your email.",
+          "snippet": "My name is Kelly with Developer Support. I apologize for the delay in responding to your email — our team has been experiencing a high volume.",
           "date": "2026-07-24T19:17:42Z",
           "unread": false,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f958fe58c7c03b"
         },
         {
           "from": "APFA",
-          "subject": "Your APFA Membership just got a free upgrade! 👀",
-          "snippet": "Login and check out what's new...",
+          "subject": "Your APFA Membership just got a free upgrade!",
+          "snippet": "Login and check out what's new.",
           "date": "2026-07-24T16:52:36Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f950b99d7a3244"
@@ -26,7 +26,7 @@
         {
           "from": "myUCLAhealth",
           "subject": "Check In For Your Upcoming Visit",
-          "snippet": "Hello Jackson, you have an upcoming visit on 7/31 at 8:00 AM PDT with Jason Roostaeian, MD. Please check in online before your visit.",
+          "snippet": "You have an upcoming visit on 7/31/2026 at 8:00 AM PDT with Jason Roostaeian, MD. Please check in online before your visit.",
           "date": "2026-07-24T16:10:41Z",
           "unread": true,
           "tag": "Important",
@@ -43,24 +43,16 @@
         },
         {
           "from": "FootballTicketNet",
-          "subject": "Something new is waiting for you 🎟️ Booking Your Seats Got A Lot Better!",
+          "subject": "Something new is waiting for you — Booking Your Seats Got A Lot Better!",
           "snippet": "Same matches. Same prices. A faster, cleaner way to grab your seats.",
           "date": "2026-07-24T15:12:59Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f94b270132ebda"
         },
         {
-          "from": "Jack Buckingham",
-          "subject": "⚽🎰 38 new jobs 🔥1 posted today! — Jul 24",
-          "snippet": "Soccer & Betting Jobs Daily digest · July 24, 2026 — 38 new, 0 still open.",
-          "date": "2026-07-24T14:53:15Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/19f949dc7ccbee07"
-        },
-        {
           "from": "The Transfer Flow",
           "subject": "Variance Betting - MLS 24 July 2026",
-          "snippet": "The World Cup is done, but we still have MLS to carry us through the next few weeks before the Premier League returns.",
+          "snippet": "The World Cup is done, but we still have MLS to carry us through the next few weeks before the Premier League and Championship get back.",
           "date": "2026-07-24T14:45:56Z",
           "unread": false,
           "tag": "Important",
@@ -75,20 +67,28 @@
           "url": "https://mail.google.com/mail/u/0/#inbox/19f94834a28ef1ed"
         },
         {
-          "from": "Scouted Football",
-          "subject": "10 (more) World Cup Breakouts",
-          "snippet": "Fascinating young players from the 2026 FIFA World Cup.",
-          "date": "2026-07-24T11:12:19Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/19f93d3c17b502fe"
-        },
-        {
           "from": "Audible",
           "subject": "Hey, your $0.99/mo offer ends soon",
-          "snippet": "Hurry and save over 80% — $0.99/mo for the first 3 months.",
+          "snippet": "Limited time offer: $0.99/mo for the first 3 months. Save over 80%.",
           "date": "2026-07-24T03:20:42Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f9223bb47d3922"
+        },
+        {
+          "from": "Eventbrite",
+          "subject": "Events worth stepping outside for.",
+          "snippet": "Find your reason to get out and explore.",
+          "date": "2026-07-23T23:11:38Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/19f913fb5e0f0d00"
+        },
+        {
+          "from": "Atlassian",
+          "subject": "Tell us about your Atlassian experience!",
+          "snippet": "Take our short survey — your feedback directly shapes what we do.",
+          "date": "2026-07-23T20:20:12Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/19f90a2c681a8733"
         }
       ]
     },

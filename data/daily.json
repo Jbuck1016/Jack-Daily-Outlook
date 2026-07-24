@@ -1,13 +1,14 @@
 {
   "dateLabel": "Friday · Jul 24",
-  "updatedLabel": "Fri Jul 24, 1:07 PM PT",
+  "updatedLabel": "Fri Jul 24, 2:06 PM PT",
   "today": [
     { "time": "12:30 PM", "title": "Thij call" },
-    { "time": "7:45 PM", "title": "Double date w Q and Jar", "accent": "eve" }
+    { "time": "7:45 PM", "title": "Double date w/ Q and Jar", "accent": "eve" }
   ],
+  "todayNote": "Also on the work calendar: Ethan Newsletter Email Build at 11:00 AM.",
   "week": [
     {
-      "day": "Sat Jul 25",
+      "day": "Sat · Jul 25",
       "items": [
         { "time": "All day", "title": "Henry / Conall day" },
         { "time": "7:30 PM", "title": "LAFC vs. Sporting Kansas City" },
@@ -15,43 +16,112 @@
       ]
     },
     {
-      "day": "Sun Jul 26",
+      "day": "Sun · Jul 26",
       "items": [
         { "time": "6:00 PM", "title": "Dinner w/ Andy" }
       ]
     }
   ],
   "tasks": {
-    "pillText": "2 overdue · 3 today",
+    "pillText": "2 overdue",
     "pillWarn": true,
     "overdue": [
-      { "title": "Email IT for Saas, DBeaver, Zoom, Slack", "url": "https://app.todoist.com/app/task/6h7WmqGx7MCgxmmH", "prio": "P1", "meta": "2 days overdue" },
-      { "title": "Email Stefano to join Zoom to watch him make parking email", "url": "https://app.todoist.com/app/task/6h7Wrj2jpmv73ghH", "meta": "1 day overdue" }
+      {
+        "title": "Email IT for Saas, DBeaver, Zoom, Slack",
+        "url": "https://app.todoist.com/app/task/6h7WmqGx7MCgxmmH",
+        "prio": "P1",
+        "meta": "2 days overdue"
+      },
+      {
+        "title": "Email Stefano to join Zoom to watch him make parking email",
+        "url": "https://app.todoist.com/app/task/6h7Wrj2jpmv73ghH",
+        "meta": "1 day overdue"
+      }
     ],
     "recurring": [
-      { "title": "Take meds", "url": "https://app.todoist.com/app/task/6fPrF5rMMcCF9Fpq", "meta": "9:00 AM · daily" },
-      { "title": "Check WhatsApp", "url": "https://app.todoist.com/app/task/6fPrHvm9qrMM44cH", "meta": "10:00 AM · daily" },
-      { "title": "Text Garrett", "url": "https://app.todoist.com/app/task/6h7qvXXpCQG4Qmgq", "meta": "Due today" }
+      {
+        "title": "Take meds",
+        "url": "https://app.todoist.com/app/task/6fPrF5rMMcCF9Fpq",
+        "meta": "Daily · 9:00 AM"
+      },
+      {
+        "title": "Check WhatsApp",
+        "url": "https://app.todoist.com/app/task/6fPrHvm9qrMM44cH",
+        "meta": "Daily · 10:00 AM"
+      },
+      {
+        "title": "Text Garrett",
+        "url": "https://app.todoist.com/app/task/6h7qvXXpCQG4Qmgq",
+        "meta": "Due today"
+      }
     ]
   },
   "followups": [
-    { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/19f7d755ed20f0e1", "title": "Dan White (JPMorgan) — stock ideas call", "meta": "You proposed 12pm; awaiting his reply" },
-    { "dot": "green", "url": "https://mail.google.com/mail/u/0/#inbox/19f958fe58c7c03b", "title": "Apple Developer Support (Kelly) — membership", "meta": "You replied Jul 24; awaiting Apple" },
-    { "dot": "faint", "url": "https://mail.google.com/mail/u/0/#inbox/19f6884103c65a24", "title": "LA Sports & Entertainment Career Fair — Jul 27", "meta": "TeamWork Online invite" }
+    {
+      "dot": "red",
+      "url": "https://mail.google.com/mail/u/0/#inbox/19f7d755ed20f0e1",
+      "title": "Confirm call time with Dan White (JPMorgan)",
+      "meta": "Thread open since Jul 21 — pick a time"
+    },
+    {
+      "dot": "amber",
+      "url": "https://mail.google.com/mail/u/0/#inbox/19f94e4aa64ddad7",
+      "title": "Check in for Dr. Roostaeian visit",
+      "meta": "Jul 31, 8:00 AM · UCLA Health"
+    },
+    {
+      "dot": "green",
+      "url": "https://mail.google.com/mail/u/0/#inbox/19f958fe58c7c03b",
+      "title": "Apple Developer enrollment — DUNS 147831136 confirmed",
+      "meta": "Handled Jul 24"
+    }
   ],
   "inbox": {
-    "unread": 36,
+    "unread": 34,
     "items": [
-      { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/19f94e4aa64ddad7", "title": "UCLA Health: check in for your 7/31 visit", "tag": "EVENT", "meta": "UCLA Health · Jul 24" },
-      { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/19f94b95f5385fcb", "title": "New myUCLAhealth appointment message", "tag": "REPLY", "meta": "UCLA Health · Jul 24" },
-      { "dot": "faint", "url": "https://mail.google.com/mail/u/0/#inbox/19f6884103c65a24", "title": "LA Sports & Entertainment Career Fair (Jul 27)", "tag": "EVENT", "meta": "TeamWork Online · Jul 16" }
+      {
+        "dot": "red",
+        "url": "https://mail.google.com/mail/u/0/#inbox/19f94e4aa64ddad7",
+        "title": "Check In For Your Upcoming Visit",
+        "tag": "EVENT",
+        "meta": "UCLA Health · Jul 24"
+      },
+      {
+        "dot": "red",
+        "url": "https://mail.google.com/mail/u/0/#inbox/19f7d755ed20f0e1",
+        "title": "Re: Call This Week?",
+        "tag": "REPLY",
+        "meta": "Daniel White · JPMorgan"
+      },
+      {
+        "dot": "amber",
+        "url": "https://mail.google.com/mail/u/0/#inbox/19f94b95f5385fcb",
+        "title": "New Appointment Message Available",
+        "meta": "UCLA Health · Jul 24"
+      }
     ],
-    "note": "Most of the 36 unread are newsletters and promos (Audible, Barça Innovation Hub, FootballTicketNet, US Soccer)."
+    "note": "34 unread in inbox — the rest are newsletters and promos."
   },
   "drive": [
-    { "url": "https://drive.google.com/file/d/1Y9z_mCmhndUaShrU2y8lP6ZTR27jgSk-/view", "title": "LAFC-Field-Guide.pdf", "meta": "PDF · Jul 22" },
-    { "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit", "title": "UD7016 — High Performance Environments (Group Presentation)", "meta": "Google Doc · Jul 21" },
-    { "url": "https://docs.google.com/presentation/d/1V9ExWjpDpQt7I6aZTYjOXe32RorhXuLmM1CY3FhMG-w/edit", "title": "LA_Galaxy_Audit_Jack_Buckingham", "meta": "Slides · Jul 21" },
-    { "url": "https://docs.google.com/document/d/1CEaB_F1xqczI4qi8yIrOFul6MGCpeyKQyC_pS0OvHqg/edit", "title": "Talking_Points_Jack_Buckingham", "meta": "Google Doc · Jul 20" }
+    {
+      "url": "https://drive.google.com/file/d/1Y9z_mCmhndUaShrU2y8lP6ZTR27jgSk-/view?usp=drivesdk",
+      "title": "LAFC-Field-Guide.pdf",
+      "meta": "PDF · Jul 21"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit?usp=drivesdk",
+      "title": "UD7016 — High Performance Environments Group Presentation",
+      "meta": "Doc · Jul 21"
+    },
+    {
+      "url": "https://docs.google.com/presentation/d/1V9ExWjpDpQt7I6aZTYjOXe32RorhXuLmM1CY3FhMG-w/edit?usp=drivesdk",
+      "title": "LA_Galaxy_Audit_Jack_Buckingham",
+      "meta": "Slides · Jul 21"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1mQOe6fLbN1Plo1s5QWfyRso-zAoO4R9D90TPDRI6g20/edit?usp=drivesdk",
+      "title": "Verification_Report.md",
+      "meta": "Doc · Jul 20"
+    }
   ]
 }
