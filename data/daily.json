@@ -1,10 +1,11 @@
 {
-  "dateLabel": "Friday · Jul 24",
-  "updatedLabel": "Fri Jul 24, 7:05 PM PT",
+  "dateLabel": "Friday, July 24",
+  "updatedLabel": "Fri Jul 24, 8:09 PM PT",
   "today": [
     { "time": "12:30 PM", "title": "Thij call" },
-    { "time": "7:45 PM", "title": "Double date w Q and Jar", "accent": "eve" }
+    { "time": "7:45 PM", "title": "Double date w/ Q and Jar", "accent": "eve" }
   ],
+  "todayNote": "Both of today's events are earlier in the day — evening is clear.",
   "week": [
     {
       "day": "Sat · Jul 25",
@@ -42,14 +43,8 @@
     {
       "dot": "amber",
       "url": "https://mail.google.com/mail/u/0/#inbox/19f7d755ed20f0e1",
-      "title": "Daniel White — J.P. Morgan",
-      "meta": "You proposed 12pm for a call — awaiting his reply"
-    },
-    {
-      "dot": "amber",
-      "url": "https://mail.google.com/mail/u/0/#inbox/19f94e4aa64ddad7",
-      "title": "UCLA Health — check in for 7/31 visit",
-      "meta": "Dr Roostaeian, 8:00 AM"
+      "title": "Dan White · JPMorgan",
+      "meta": "You asked to move the call — awaiting his reply"
     }
   ],
   "inbox": {
@@ -57,26 +52,19 @@
     "items": [
       {
         "dot": "red",
-        "url": "https://mail.google.com/mail/u/0/#inbox/19f7d755ed20f0e1",
-        "title": "Re: Call This Week? — Daniel White",
-        "tag": "REPLY",
-        "meta": "J.P. Morgan · call time still unconfirmed"
-      },
-      {
-        "dot": "amber",
         "url": "https://mail.google.com/mail/u/0/#inbox/19f94e4aa64ddad7",
-        "title": "Check In For Your Upcoming Visit",
+        "title": "UCLA Health · Check in for your visit",
         "tag": "EVENT",
-        "meta": "UCLA Health · 7/31, 8:00 AM"
+        "meta": "Dr. Roostaeian, 8:00 AM Fri Jul 31 — check in online"
       },
       {
         "dot": "amber",
         "url": "https://mail.google.com/mail/u/0/#inbox/19f94b95f5385fcb",
-        "title": "New Appointment Message Available",
-        "meta": "myUCLAhealth"
+        "title": "UCLA Health · New appointment message",
+        "meta": "Sign in to review / respond"
       }
     ],
-    "note": "The rest of the unread are newsletters and promos (Audible, Barça, US Soccer, etc.)."
+    "note": "Most of the 35 unread are newsletters and promos (Audible, Barça Innovation Hub, US Soccer, FootballTicketNet)."
   },
   "drive": [
     {
@@ -85,19 +73,19 @@
       "meta": "PDF · edited Jul 22"
     },
     {
+      "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit",
+      "title": "UD7016 — High Performance Environments (Group Presentation)",
+      "meta": "Google Doc · edited Jul 21"
+    },
+    {
       "url": "https://docs.google.com/presentation/d/1V9ExWjpDpQt7I6aZTYjOXe32RorhXuLmM1CY3FhMG-w/edit",
       "title": "LA_Galaxy_Audit_Jack_Buckingham",
       "meta": "Slides · edited Jul 21"
     },
     {
-      "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit",
-      "title": "UD7016 — High Performance Environments (Group Presentation)",
-      "meta": "Doc · edited Jul 21"
-    },
-    {
-      "url": "https://docs.google.com/document/d/1CEaB_F1xqczI4qi8yIrOFul6MGCpeyKQyC_pS0OvHqg/edit",
-      "title": "Talking_Points_Jack_Buckingham",
-      "meta": "Doc · edited Jul 20"
+      "url": "https://docs.google.com/document/d/1vqm5vUIapluHGdmaInlamqXsZ3XdK78mmQqcJ-jrBAQ/edit",
+      "title": "Resubmission CWRK2 — Personal Leadership Analysis",
+      "meta": "Google Doc · edited Jul 11"
     }
   ]
 }
