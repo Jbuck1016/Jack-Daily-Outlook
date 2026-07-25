@@ -5,27 +5,35 @@
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-07-25T00:07:00Z",
+      "updated": "2026-07-25T01:09:09Z",
       "emails": [
         {
-          "from": "Instructure",
-          "subject": "Course invitation",
-          "snippet": "You've been invited to the course: Verified Certificate of Approval in Professional Diploma in Football Scouting and Tactical Analysis (Student).",
-          "date": "2026-07-25T00:00:07Z",
+          "from": "Claude",
+          "subject": "A guided way into your first Cowork session",
+          "snippet": "Claude walks you through setup in the conversation — you finish with real prompts, not an empty session.",
+          "date": "2026-07-25T00:39:37Z",
           "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/19f96b69afcce46c"
+        },
+        {
+          "from": "Canvas",
+          "subject": "Course invitation",
+          "snippet": "You have been invited to participate in the course, Professional Diploma in Football Scouting and Tactical Analysis. Role: Student.",
+          "date": "2026-07-25T00:00:07Z",
+          "unread": false,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f969273d3ce103"
         },
         {
-          "from": "Apple Developer Support",
-          "subject": "Re: [102949494914] Apple Developer Support - Membership and Account",
-          "snippet": "My name is Kelly with Developer Support. Apologies for the delay in responding to your email; our team has been experiencing a high volume.",
+          "from": "Apple Developer",
+          "subject": "Re: Apple Developer Support - Membership and Account",
+          "snippet": "Kelly from Developer Support — apologizes for the delay and is following up on your membership and account case.",
           "date": "2026-07-24T19:17:42Z",
           "unread": false,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f958fe58c7c03b"
         },
         {
           "from": "APFA",
-          "subject": "Your APFA Membership just got a free upgrade! 👀",
+          "subject": "Your APFA Membership just got a free upgrade!",
           "snippet": "Login and check out what's new.",
           "date": "2026-07-24T16:52:36Z",
           "unread": true,
@@ -34,7 +42,7 @@
         {
           "from": "myUCLAhealth",
           "subject": "Check In For Your Upcoming Visit",
-          "snippet": "You have an upcoming visit on 7/31 at 8:00 AM PDT with Jason Roostaeian, MD. Please check in online before your visit.",
+          "snippet": "You have an upcoming visit on 7/31 at 8:00 AM with Jason Roostaeian, MD. Please check in online before your visit.",
           "date": "2026-07-24T16:10:41Z",
           "unread": true,
           "tag": "Important",
@@ -43,7 +51,7 @@
         {
           "from": "myUCLAhealth",
           "subject": "New Appointment Message(s) Available in Your myUCLAhealth Account",
-          "snippet": "A new appointment reminder message has been posted in your myUCLAhealth account. Please sign in to review/respond.",
+          "snippet": "A new appointment reminder message has been posted in your account. Please sign in to review/respond.",
           "date": "2026-07-24T15:23:23Z",
           "unread": true,
           "tag": "Important",
@@ -51,8 +59,8 @@
         },
         {
           "from": "FootballTicketNet",
-          "subject": "Something new is waiting for you 🎟️ Booking Your Seats Got A Lot Better!",
-          "snippet": "Same matches. Same prices. A faster, cleaner way to grab your seats.",
+          "subject": "Something new is waiting for you — Booking Your Seats Got A Lot Better!",
+          "snippet": "Same matches, same prices, a faster cleaner way to grab your seats.",
           "date": "2026-07-24T15:12:59Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f94b270132ebda"
@@ -60,7 +68,7 @@
         {
           "from": "The Transfer Flow",
           "subject": "Variance Betting - MLS 24 July 2026",
-          "snippet": "The World Cup is done, but we still have MLS to carry us through the next few weeks before the Premier League and Championship get back.",
+          "snippet": "The World Cup is done, but we still have MLS to carry us through before the Premier League and Championship return.",
           "date": "2026-07-24T14:45:56Z",
           "unread": false,
           "tag": "Important",
@@ -81,14 +89,6 @@
           "date": "2026-07-24T03:20:42Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f9223bb47d3922"
-        },
-        {
-          "from": "Eventbrite",
-          "subject": "Events worth stepping outside for.",
-          "snippet": "Find your reason to get out and explore.",
-          "date": "2026-07-23T23:11:38Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/19f913fb5e0f0d00"
         }
       ]
     },

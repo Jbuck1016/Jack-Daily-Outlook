@@ -1,16 +1,16 @@
 {
   "dateLabel": "Friday · Jul 24",
-  "updatedLabel": "Fri Jul 24, 5:07 PM PT",
+  "updatedLabel": "Fri Jul 24, 6:09 PM PT",
   "today": [
     { "time": "12:30 PM", "title": "Thij call" },
-    { "time": "7:45 PM", "title": "Double date w/ Q and Jar", "accent": "eve" }
+    { "time": "7:45 PM", "title": "Double date w Q and Jar", "accent": "eve" }
   ],
+  "todayNote": "Quiet Friday — midday call, then dinner out this evening.",
   "week": [
     {
       "day": "Sat · Jul 25",
       "items": [
         { "time": "All day", "title": "Henry / Conall day" },
-        { "time": "7:30 PM", "title": "LAFC vs. Sporting Kansas City" },
         { "time": "8:00 PM", "title": "Conall dinner" }
       ]
     },
@@ -41,22 +41,28 @@
   },
   "followups": [
     {
-      "dot": "amber",
-      "url": "https://mail.google.com/mail/u/0/#inbox/19f7d755ed20f0e1",
-      "title": "Dan White (JPMorgan) — confirm call time",
-      "meta": "You proposed 12pm; awaiting his reply"
+      "dot": "red",
+      "url": "https://mail.google.com/mail/u/0/#inbox/19f94e4aa64ddad7",
+      "title": "Check in for your UCLA Health visit",
+      "meta": "Dr Roostaeian · Fri 7/31, 8:00 AM"
     },
     {
       "dot": "amber",
-      "url": "https://mail.google.com/mail/u/0/#inbox/19f94e4aa64ddad7",
-      "title": "UCLA Health — check in for 7/31 visit",
-      "meta": "Online check-in before Dr. Roostaeian, 8:00 AM"
+      "url": "https://mail.google.com/mail/u/0/#inbox/19f969273d3ce103",
+      "title": "Course invite: Football Scouting & Tactical Analysis diploma",
+      "meta": "Accept enrollment on Canvas"
     },
     {
       "dot": "green",
-      "url": "https://mail.google.com/mail/u/0/#inbox/19f969273d3ce103",
-      "title": "Football Scouting & Tactical Analysis — course invitation",
-      "meta": "Accept enrollment"
+      "url": "https://mail.google.com/mail/u/0/#inbox/19f7d755ed20f0e1",
+      "title": "Dan White (JPMorgan) — call scheduling",
+      "meta": "Waiting on his availability"
+    },
+    {
+      "dot": "green",
+      "url": "https://mail.google.com/mail/u/0/#inbox/19f958fe58c7c03b",
+      "title": "Apple Developer support case",
+      "meta": "DUNS confirmed — enrolling"
     }
   ],
   "inbox": {
@@ -65,54 +71,47 @@
       {
         "dot": "red",
         "url": "https://mail.google.com/mail/u/0/#inbox/19f94e4aa64ddad7",
-        "title": "UCLA Health — check in for upcoming visit",
+        "title": "Check In For Your Upcoming Visit",
         "tag": "EVENT",
-        "meta": "7/31, 8:00 AM · Dr. Roostaeian"
+        "meta": "UCLA Health · 7/31, 8:00 AM"
       },
       {
         "dot": "amber",
-        "url": "https://mail.google.com/mail/u/0/#inbox/19f969273d3ce103",
-        "title": "Football Scouting Diploma — course invitation",
+        "url": "https://mail.google.com/mail/u/0/#inbox/19f94b95f5385fcb",
+        "title": "New appointment message available",
         "tag": "EVENT",
-        "meta": "Enrollment invite"
-      },
-      {
-        "dot": "amber",
-        "url": "https://mail.google.com/mail/u/0/#inbox/19f6884103c65a24",
-        "title": "LA Sports & Entertainment Career Fair",
-        "tag": "EVENT",
-        "meta": "Jul 27 · invitation"
+        "meta": "myUCLAhealth · sign in to review"
       },
       {
         "dot": "faint",
-        "url": "https://mail.google.com/mail/u/0/#inbox/19f94b95f5385fcb",
-        "title": "UCLA Health — new appointment message",
+        "url": "https://mail.google.com/mail/u/0/#inbox/19f6884103c65a24",
+        "title": "LA Sports & Entertainment Career Fair",
         "tag": "EVENT",
-        "meta": "Sign in to review"
+        "meta": "Jul 27 · Teamwork Online"
       }
     ],
-    "note": "Rest of unread inbox is newsletters and promos (Audible, Barça Innovation Hub, FootballTicketNet, US Soccer, etc.)."
+    "note": "Most of the 35 unread are newsletters/promos — Audible, Barça Innovation Hub, FootballTicketNet, US Soccer, Atlassian."
   },
   "drive": [
     {
       "url": "https://drive.google.com/file/d/1Y9z_mCmhndUaShrU2y8lP6ZTR27jgSk-/view",
       "title": "LAFC-Field-Guide.pdf",
-      "meta": "PDF · Jul 22"
+      "meta": "PDF · edited Jul 22"
     },
     {
       "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit",
-      "title": "UD7016 — High Performance Environments (Group Presentation)",
-      "meta": "Doc · Jul 21"
+      "title": "UD7016 — High Performance Environments · Group Presentation",
+      "meta": "Doc · edited Jul 21"
     },
     {
       "url": "https://docs.google.com/presentation/d/1V9ExWjpDpQt7I6aZTYjOXe32RorhXuLmM1CY3FhMG-w/edit",
       "title": "LA_Galaxy_Audit_Jack_Buckingham",
-      "meta": "Slides · Jul 21"
+      "meta": "Slides · edited Jul 21"
     },
     {
-      "url": "https://docs.google.com/document/d/1CEaB_F1xqczI4qi8yIrOFul6MGCpeyKQyC_pS0OvHqg/edit",
-      "title": "Talking_Points_Jack_Buckingham",
-      "meta": "Doc · Jul 20"
+      "url": "https://docs.google.com/document/d/1mQOe6fLbN1Plo1s5QWfyRso-zAoO4R9D90TPDRI6g20/edit",
+      "title": "Verification_Report.md",
+      "meta": "Doc · edited Jul 20"
     }
   ]
 }
