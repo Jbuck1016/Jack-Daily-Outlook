@@ -5,12 +5,20 @@
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-07-24T23:06:01Z",
+      "updated": "2026-07-25T00:07:00Z",
       "emails": [
+        {
+          "from": "Instructure",
+          "subject": "Course invitation",
+          "snippet": "You've been invited to the course: Verified Certificate of Approval in Professional Diploma in Football Scouting and Tactical Analysis (Student).",
+          "date": "2026-07-25T00:00:07Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/19f969273d3ce103"
+        },
         {
           "from": "Apple Developer Support",
           "subject": "Re: [102949494914] Apple Developer Support - Membership and Account",
-          "snippet": "My name is Kelly with Developer Support. I hope this email finds you well. Firstly, I would like to apologize for the delay in responding to your email.",
+          "snippet": "My name is Kelly with Developer Support. Apologies for the delay in responding to your email; our team has been experiencing a high volume.",
           "date": "2026-07-24T19:17:42Z",
           "unread": false,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f958fe58c7c03b"
@@ -18,7 +26,7 @@
         {
           "from": "APFA",
           "subject": "Your APFA Membership just got a free upgrade! 👀",
-          "snippet": "Login and check out what's new...",
+          "snippet": "Login and check out what's new.",
           "date": "2026-07-24T16:52:36Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f950b99d7a3244"
@@ -26,7 +34,7 @@
         {
           "from": "myUCLAhealth",
           "subject": "Check In For Your Upcoming Visit",
-          "snippet": "You have an upcoming visit on 7/31/2026 at 8:00 AM PDT with Jason Roostaeian, MD. Please check in online before your visit.",
+          "snippet": "You have an upcoming visit on 7/31 at 8:00 AM PDT with Jason Roostaeian, MD. Please check in online before your visit.",
           "date": "2026-07-24T16:10:41Z",
           "unread": true,
           "tag": "Important",
@@ -35,7 +43,7 @@
         {
           "from": "myUCLAhealth",
           "subject": "New Appointment Message(s) Available in Your myUCLAhealth Account",
-          "snippet": "A new appointment reminder message has been posted in your myUCLAhealth account. Please sign in to review/respond at your earliest convenience.",
+          "snippet": "A new appointment reminder message has been posted in your myUCLAhealth account. Please sign in to review/respond.",
           "date": "2026-07-24T15:23:23Z",
           "unread": true,
           "tag": "Important",
@@ -44,7 +52,7 @@
         {
           "from": "FootballTicketNet",
           "subject": "Something new is waiting for you 🎟️ Booking Your Seats Got A Lot Better!",
-          "snippet": "Same matches. Same prices. A faster, cleaner way to grab your seats. Take a look inside.",
+          "snippet": "Same matches. Same prices. A faster, cleaner way to grab your seats.",
           "date": "2026-07-24T15:12:59Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f94b270132ebda"
@@ -69,7 +77,7 @@
         {
           "from": "Audible",
           "subject": "Hey, your $0.99/mo offer ends soon",
-          "snippet": "Hurry and save over 80%. Limited time offer: $0.99/mo for the first 3 months.",
+          "snippet": "Limited time offer: $0.99/mo for the first 3 months. Save over 80%.",
           "date": "2026-07-24T03:20:42Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f9223bb47d3922"
@@ -81,14 +89,6 @@
           "date": "2026-07-23T23:11:38Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f913fb5e0f0d00"
-        },
-        {
-          "from": "Atlassian",
-          "subject": "Tell us about your Atlassian experience!",
-          "snippet": "Take our short survey. Your feedback directly shapes what we do.",
-          "date": "2026-07-23T20:20:12Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/19f90a2c681a8733"
         }
       ]
     },
