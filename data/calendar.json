@@ -1,5 +1,5 @@
 {
-  "updatedLabel": "Sat Jul 25, 11:06 AM PT",
+  "updatedLabel": "Sat Jul 25, 12:08 PM PT",
   "sources": [
     {
       "key": "personal",
@@ -61,11 +61,13 @@
         {
           "time": "11:00 AM",
           "title": "CP Sales Weekly",
+          "loc": "Zoom",
           "src": "lafc-work"
         },
         {
           "time": "11:00 AM",
           "title": "Masterclass: Individual Tactical Preparation with Alec Tate",
+          "loc": "Zoom",
           "src": "personal"
         }
       ]
@@ -80,14 +82,14 @@
         },
         {
           "time": "5:00 PM",
-          "title": "Therapy",
-          "src": "personal"
-        },
-        {
-          "time": "5:00 PM",
           "title": "⚽ MLS All-Star Game",
           "loc": "Bank of America Stadium, Charlotte NC",
           "src": "lafc-match"
+        },
+        {
+          "time": "5:00 PM",
+          "title": "Therapy",
+          "src": "personal"
         }
       ]
     },
@@ -102,12 +104,13 @@
         {
           "time": "2:30 PM",
           "title": "Dr Dugar",
+          "loc": "Google Meet",
           "src": "personal"
         },
         {
           "time": "9:45 PM",
           "title": "Spider-Man: Brand New Day",
-          "loc": "Santa Monica",
+          "loc": "1310 3rd Street, Santa Monica",
           "src": "personal"
         }
       ]
@@ -154,6 +157,7 @@
         {
           "time": "11:00 AM",
           "title": "CP Sales Weekly",
+          "loc": "Zoom",
           "src": "lafc-work"
         }
       ]
