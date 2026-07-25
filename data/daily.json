@@ -1,20 +1,13 @@
 {
-  "dateLabel": "Fri · Jul 24",
-  "updatedLabel": "Fri Jul 24, 11:06 PM PT",
+  "dateLabel": "Saturday, July 25",
+  "updatedLabel": "Sat Jul 25, 12:06 AM PT",
   "today": [
-    { "time": "12:30 PM", "title": "Thij call" },
-    { "time": "7:45 PM", "title": "Double date w Q and Jar", "accent": "eve" }
+    { "time": "All day", "title": "Henry / Conall day", "accent": "span" },
+    { "time": "7:30 PM", "title": "LAFC vs. Sporting Kansas City", "loc": "BMO Stadium", "accent": "eve" },
+    { "time": "8:00 PM", "title": "Conall dinner", "accent": "eve" }
   ],
-  "todayNote": "Both of today's events have already passed.",
+  "todayNote": "Matchday: LAFC vs. Sporting KC, 7:30 PM at BMO Stadium.",
   "week": [
-    {
-      "day": "Saturday",
-      "items": [
-        { "time": "All day", "title": "Henry / Conall day" },
-        { "time": "7:30 PM", "title": "LAFC vs. Sporting Kansas City" },
-        { "time": "8:00 PM", "title": "Conall dinner" }
-      ]
-    },
     {
       "day": "Sunday",
       "items": [
@@ -23,83 +16,34 @@
     }
   ],
   "tasks": {
-    "pillText": "2 overdue",
+    "pillText": "3 overdue · 2 recurring",
     "pillWarn": true,
     "overdue": [
-      {
-        "title": "Email IT for Saas, DBeaver, Zoom, Slack",
-        "url": "https://app.todoist.com/app/task/6h7WmqGx7MCgxmmH",
-        "prio": "P1",
-        "meta": "2 days overdue"
-      },
-      {
-        "title": "Email Stefano to join Zoom to watch him make parking email",
-        "url": "https://app.todoist.com/app/task/6h7Wrj2jpmv73ghH",
-        "meta": "1 day overdue"
-      }
+      { "title": "Email IT for Saas, DBeaver, Zoom, Slack", "url": "https://app.todoist.com/app/task/6h7WmqGx7MCgxmmH", "prio": "P1", "meta": "3 days overdue" },
+      { "title": "Email Stefano to join Zoom to watch him make parking email", "url": "https://app.todoist.com/app/task/6h7Wrj2jpmv73ghH", "meta": "2 days overdue" },
+      { "title": "Text Garrett", "url": "https://app.todoist.com/app/task/6h7qvXXpCQG4Qmgq", "meta": "1 day overdue" }
     ],
-    "recurring": []
+    "recurring": [
+      { "title": "Take meds", "url": "https://app.todoist.com/app/task/6fPrF5rMMcCF9Fpq", "meta": "Daily · 9:00 AM" },
+      { "title": "Check WhatsApp", "url": "https://app.todoist.com/app/task/6fPrHvm9qrMM44cH", "meta": "Daily · 10:00 AM" }
+    ]
   },
   "followups": [
-    {
-      "dot": "amber",
-      "url": "https://mail.google.com/mail/u/0/#inbox/19f7d755ed20f0e1",
-      "title": "Dan White — JPMorgan call",
-      "meta": "Awaiting his availability to lock a time"
-    },
-    {
-      "dot": "amber",
-      "url": "https://mail.google.com/mail/u/0/#inbox/19f94e4aa64ddad7",
-      "title": "UCLA Health — check in for 7/31 visit",
-      "meta": "Dr. Roostaeian, 8:00 AM"
-    }
+    { "dot": "green", "url": "https://mail.google.com/mail/u/0/#inbox/19f7d755ed20f0e1", "title": "Dan White (JPMorgan) — call this week", "meta": "You replied Jul 21, awaiting his time" },
+    { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/19f6884103c65a24", "title": "LA Sports & Entertainment Career Fair", "meta": "Invite · Jul 27" }
   ],
   "inbox": {
     "unread": 36,
     "items": [
-      {
-        "dot": "amber",
-        "url": "https://mail.google.com/mail/u/0/#inbox/19f94e4aa64ddad7",
-        "title": "Check in for your upcoming visit",
-        "tag": "EVENT",
-        "meta": "UCLA Health · 7/31, 8:00 AM"
-      },
-      {
-        "dot": "amber",
-        "url": "https://mail.google.com/mail/u/0/#inbox/19f94b95f5385fcb",
-        "title": "New myUCLAhealth appointment message",
-        "meta": "UCLA Health"
-      },
-      {
-        "dot": "faint",
-        "url": "https://mail.google.com/mail/u/0/#inbox/19f6884103c65a24",
-        "title": "LA Sports & Entertainment Career Fair",
-        "tag": "EVENT",
-        "meta": "TeamWork Online · Jul 27"
-      }
+      { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/19f94e4aa64ddad7", "title": "UCLA Health: check in for upcoming visit", "tag": "EVENT", "meta": "Dr Roostaeian · Jul 31, 8:00 AM" },
+      { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/19f94b95f5385fcb", "title": "UCLA Health: new appointment message", "meta": "Sign in to review/respond" }
     ],
-    "note": "Everything else unread is newsletters and promos (Audible, Barça Innovation Hub, FootballTicketNet, US Soccer, Zapier)."
+    "note": "The rest of the unread inbox is newsletters and promos (Audible, FootballTicketNet, Barça Innovation Hub, US Soccer, etc.)."
   },
   "drive": [
-    {
-      "url": "https://drive.google.com/file/d/1Y9z_mCmhndUaShrU2y8lP6ZTR27jgSk-/view?usp=drivesdk",
-      "title": "LAFC-Field-Guide.pdf",
-      "meta": "PDF · Jul 22"
-    },
-    {
-      "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit",
-      "title": "UD7016 — High Performance Environments Group Presentation",
-      "meta": "Doc · Jul 21"
-    },
-    {
-      "url": "https://docs.google.com/presentation/d/1V9ExWjpDpQt7I6aZTYjOXe32RorhXuLmM1CY3FhMG-w/edit",
-      "title": "LA_Galaxy_Audit_Jack_Buckingham",
-      "meta": "Slides · Jul 21"
-    },
-    {
-      "url": "https://docs.google.com/document/d/1CEaB_F1xqczI4qi8yIrOFul6MGCpeyKQyC_pS0OvHqg/edit",
-      "title": "Talking_Points_Jack_Buckingham",
-      "meta": "Doc · Jul 20"
-    }
+    { "url": "https://drive.google.com/file/d/1Y9z_mCmhndUaShrU2y8lP6ZTR27jgSk-/view", "title": "LAFC-Field-Guide.pdf", "meta": "PDF · Jul 22" },
+    { "url": "https://docs.google.com/presentation/d/1V9ExWjpDpQt7I6aZTYjOXe32RorhXuLmM1CY3FhMG-w/edit", "title": "LA_Galaxy_Audit_Jack_Buckingham", "meta": "Slides · Jul 21" },
+    { "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit", "title": "UD7016 — High Performance Environments (Group Presentation)", "meta": "Doc · Jul 21 · shared" },
+    { "url": "https://docs.google.com/document/d/1CEaB_F1xqczI4qi8yIrOFul6MGCpeyKQyC_pS0OvHqg/edit", "title": "Talking_Points_Jack_Buckingham", "meta": "Doc · Jul 20" }
   ]
 }

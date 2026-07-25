@@ -1,5 +1,5 @@
 {
-  "updatedLabel": "Fri Jul 24, 11:06 PM PT",
+  "updatedLabel": "Sat Jul 25, 12:06 AM PT",
   "sources": [
     { "key": "personal", "name": "Personal", "connected": true },
     { "key": "lafc-work", "name": "LAFC Work", "connected": true },
@@ -7,16 +7,8 @@
   ],
   "days": [
     {
-      "label": "Fri · Jul 24",
-      "today": true,
-      "events": [
-        { "time": "11:00 AM", "title": "Ethan Newsletter Email Build", "src": "lafc-work" },
-        { "time": "12:30 PM", "title": "Thij call", "src": "personal" },
-        { "time": "7:45 PM", "title": "Double date w Q and Jar", "src": "personal" }
-      ]
-    },
-    {
       "label": "Sat · Jul 25",
+      "today": true,
       "events": [
         { "time": "All day", "title": "Henry / Conall day", "src": "personal" },
         { "time": "7:30 PM", "title": "LAFC vs. Sporting Kansas City", "loc": "BMO Stadium", "src": "lafc-match" },
@@ -41,7 +33,7 @@
       "label": "Wed · Jul 29",
       "events": [
         { "time": "10:00 AM", "title": "HOLD: SAAS Call", "src": "lafc-work" },
-        { "time": "5:00 PM", "title": "MLS All-Star Game", "loc": "Bank of America Stadium, Charlotte", "src": "lafc-match" },
+        { "time": "5:00 PM", "title": "MLS All-Star Game", "loc": "Bank of America Stadium — Charlotte, NC", "src": "lafc-match" },
         { "time": "5:00 PM", "title": "Therapy", "src": "personal" }
       ]
     },
@@ -83,7 +75,7 @@
     {
       "label": "Thu · Aug 6",
       "events": [
-        { "time": "6:50 PM", "title": "Flight to Austin (AA 2118)", "loc": "LAX", "src": "personal" }
+        { "time": "6:50 PM", "title": "Flight to Austin (AA 2118)", "loc": "Los Angeles LAX", "src": "personal" }
       ]
     },
     {
@@ -91,6 +83,12 @@
       "events": [
         { "time": "All day", "title": "Cade bday weekend", "src": "personal" },
         { "time": "10:00 AM", "title": "AI Hour", "src": "lafc-work" }
+      ]
+    },
+    {
+      "label": "Sat · Aug 8",
+      "events": [
+        { "time": "12:56 PM", "title": "Flight to Los Angeles (AA 6409)", "loc": "Austin AUS", "src": "personal" }
       ]
     }
   ]
