@@ -1,5 +1,5 @@
 {
-  "updatedLabel": "Fri Jul 24, 8:09 PM PT",
+  "updatedLabel": "Fri Jul 24, 9:05 PM PT",
   "sources": [
     { "key": "personal", "name": "Personal", "connected": true },
     { "key": "lafc-work", "name": "LAFC Work", "connected": true },
@@ -12,7 +12,7 @@
       "events": [
         { "time": "11:00 AM", "title": "Ethan Newsletter Email Build", "src": "lafc-work" },
         { "time": "12:30 PM", "title": "Thij call", "src": "personal" },
-        { "time": "7:45 PM", "title": "Double date w/ Q and Jar", "src": "personal" }
+        { "time": "7:45 PM", "title": "Double date w Q and Jar", "src": "personal" }
       ]
     },
     {
@@ -50,7 +50,7 @@
       "events": [
         { "time": "11:00 AM", "title": "HOLD: SAAS Call", "src": "lafc-work" },
         { "time": "2:30 PM", "title": "Dr Dugar", "src": "personal" },
-        { "time": "9:45 PM", "title": "Spider-Man: Brand New Day", "loc": "1310 3rd St, Santa Monica", "src": "personal" }
+        { "time": "9:45 PM", "title": "Spider-Man: Brand New Day", "loc": "Santa Monica", "src": "personal" }
       ]
     },
     {
@@ -83,7 +83,7 @@
     {
       "label": "Thu · Aug 6",
       "events": [
-        { "time": "6:50 PM", "title": "Flight to Austin (AA 2118)", "loc": "LAX", "src": "personal" }
+        { "time": "6:50 PM", "title": "Flight to Austin (AA 2118)", "loc": "Los Angeles LAX", "src": "personal" }
       ]
     },
     {
