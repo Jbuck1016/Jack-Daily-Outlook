@@ -1,5 +1,5 @@
 {
-  "updatedLabel": "Fri Jul 24, 9:05 PM PT",
+  "updatedLabel": "Fri Jul 24, 10:06 PM PT",
   "sources": [
     { "key": "personal", "name": "Personal", "connected": true },
     { "key": "lafc-work", "name": "LAFC Work", "connected": true },
@@ -83,7 +83,7 @@
     {
       "label": "Thu · Aug 6",
       "events": [
-        { "time": "6:50 PM", "title": "Flight to Austin (AA 2118)", "loc": "Los Angeles LAX", "src": "personal" }
+        { "time": "6:50 PM", "title": "Flight to Austin (AA 2118)", "loc": "LAX", "src": "personal" }
       ]
     },
     {

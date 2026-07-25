@@ -5,12 +5,20 @@
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-07-25T04:05:51Z",
+      "updated": "2026-07-25T05:06:10Z",
       "emails": [
+        {
+          "from": "RapidAPI",
+          "subject": "New announcement for JSearch API",
+          "snippet": "There is a new announcement from JSearch API. View it in the Inbox of your Developer Dashboard.",
+          "date": "2026-07-25T04:11:41Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/19f9778c79993c19"
+        },
         {
           "from": "Claude",
           "subject": "A guided way into your first Cowork session",
-          "snippet": "Claude walks you through setup in the conversation — you finish with real prompts, not an empty session.",
+          "snippet": "Claude walks you through setup in the conversation—you finish with real prompts, not an empty session.",
           "date": "2026-07-25T00:39:37Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f96b69afcce46c"
@@ -18,7 +26,7 @@
         {
           "from": "Canvas",
           "subject": "Course invitation",
-          "snippet": "You have been invited to participate in the course, Verified Certificate of Approval in Professional Diploma in Football Scouting and Tactical Analysis.",
+          "snippet": "You have been invited to participate in the course, Professional Diploma in Football Scouting and Tactical Analysis. Course role: Student.",
           "date": "2026-07-25T00:00:07Z",
           "unread": false,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f969273d3ce103"
@@ -26,7 +34,7 @@
         {
           "from": "Apple Developer Support",
           "subject": "Re: Apple Developer Support - Membership and Account",
-          "snippet": "My name is Kelly with Developer Support. I would like to apologize for the delay in responding to your email.",
+          "snippet": "My name is Kelly with Developer Support. I apologize for the delay in responding to your email.",
           "date": "2026-07-24T19:17:42Z",
           "unread": false,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f958fe58c7c03b"
@@ -40,18 +48,18 @@
           "url": "https://mail.google.com/mail/u/0/#inbox/19f950b99d7a3244"
         },
         {
-          "from": "UCLA Health",
+          "from": "myUCLAhealth",
           "subject": "Check In For Your Upcoming Visit",
-          "snippet": "You have an upcoming visit on 7/31/2026 at 8:00 AM PDT with Jason Roostaeian, MD. Please check in online before your visit.",
+          "snippet": "You have an upcoming visit on 7/31 at 8:00 AM PDT with Jason Roostaeian, MD. Please check in online before your visit.",
           "date": "2026-07-24T16:10:41Z",
           "unread": true,
           "tag": "Important",
           "url": "https://mail.google.com/mail/u/0/#inbox/19f94e4aa64ddad7"
         },
         {
-          "from": "UCLA Health",
+          "from": "myUCLAhealth",
           "subject": "New Appointment Message(s) Available in Your myUCLAhealth Account",
-          "snippet": "A new appointment reminder message has been posted in your myUCLAhealth account. Please sign in to review/respond.",
+          "snippet": "A new appointment reminder message has been posted in your myUCLAhealth account. Please sign in to review.",
           "date": "2026-07-24T15:23:23Z",
           "unread": true,
           "tag": "Important",
@@ -68,7 +76,7 @@
         {
           "from": "The Transfer Flow",
           "subject": "Variance Betting - MLS 24 July 2026",
-          "snippet": "The World Cup is done, but we still have MLS to carry us through the next few weeks before the Premier League and Championship get back.",
+          "snippet": "The World Cup is done, but we still have MLS to carry us through the next few weeks.",
           "date": "2026-07-24T14:45:56Z",
           "unread": false,
           "tag": "Important",
@@ -81,14 +89,6 @@
           "date": "2026-07-24T14:24:19Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f94834a28ef1ed"
-        },
-        {
-          "from": "Audible",
-          "subject": "Hey, your $0.99/mo offer ends soon",
-          "snippet": "Limited time offer: $0.99/mo for the first 3 months. For a limited time, save over 80%.",
-          "date": "2026-07-24T03:20:42Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/19f9223bb47d3922"
         }
       ]
     },

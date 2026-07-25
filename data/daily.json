@@ -1,20 +1,20 @@
 {
   "dateLabel": "Fri · Jul 24",
-  "updatedLabel": "Fri Jul 24, 9:05 PM PT",
+  "updatedLabel": "Fri Jul 24, 10:06 PM PT",
   "today": [
     { "time": "12:30 PM", "title": "Thij call" },
     { "time": "7:45 PM", "title": "Double date w Q and Jar", "accent": "eve" }
   ],
   "week": [
     {
-      "day": "Sat · Jul 25",
+      "day": "Saturday",
       "items": [
         { "time": "All day", "title": "Henry / Conall day" },
         { "time": "8:00 PM", "title": "Conall dinner" }
       ]
     },
     {
-      "day": "Sun · Jul 26",
+      "day": "Sunday",
       "items": [
         { "time": "6:00 PM", "title": "Dinner w/ Andy" }
       ]
@@ -41,56 +41,57 @@
   "followups": [
     {
       "dot": "amber",
-      "url": "https://mail.google.com/mail/u/0/#inbox/19f94e4aa64ddad7",
-      "title": "UCLA Health: check in for your 7/31 visit",
-      "meta": "Dr Roostaeian · Fri 8:00 AM"
-    },
-    {
-      "dot": "amber",
-      "url": "https://mail.google.com/mail/u/0/#inbox/19f94b95f5385fcb",
-      "title": "New myUCLAhealth appointment message",
-      "meta": "Sign in to review/respond"
+      "url": "https://mail.google.com/mail/u/0/#inbox/19f7d755ed20f0e1",
+      "title": "Dan White (JPMorgan)",
+      "meta": "Call scheduling — you asked to move to 12pm, still need to lock a time"
     }
   ],
   "inbox": {
-    "unread": 35,
+    "unread": 36,
     "items": [
       {
         "dot": "amber",
         "url": "https://mail.google.com/mail/u/0/#inbox/19f94e4aa64ddad7",
-        "title": "Check in for your upcoming visit",
+        "title": "myUCLAhealth: check in for your visit",
         "tag": "EVENT",
-        "meta": "UCLA Health · 7/31 8:00 AM"
+        "meta": "Check in for 7/31 8:00 AM visit — Dr. Roostaeian"
       },
       {
         "dot": "amber",
         "url": "https://mail.google.com/mail/u/0/#inbox/19f94b95f5385fcb",
-        "title": "New appointment message in myUCLAhealth",
-        "meta": "UCLA Health"
+        "title": "myUCLAhealth: new appointment message",
+        "meta": "New message posted to your account — sign in to review"
+      },
+      {
+        "dot": "faint",
+        "url": "https://mail.google.com/mail/u/0/#inbox/19f6884103c65a24",
+        "title": "LA Sports & Entertainment Career Fair",
+        "tag": "EVENT",
+        "meta": "Jul 27 — RSVP if attending (TeamWork Online)"
       }
     ],
-    "note": "The rest of the 35 unread are newsletters and promos (Audible, Barça Innovation Hub, US Soccer, FootballTicketNet, etc.)."
+    "note": "Rest of unread is mostly newsletters and promos (Audible, Barça Innovation Hub, US Soccer, FootballTicketNet)."
   },
   "drive": [
     {
       "url": "https://drive.google.com/file/d/1Y9z_mCmhndUaShrU2y8lP6ZTR27jgSk-/view",
       "title": "LAFC Field Guide",
-      "meta": "PDF · Jul 22"
-    },
-    {
-      "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit",
-      "title": "UD7016 — High Performance Environments (Group)",
-      "meta": "Doc · Jul 21"
+      "meta": "PDF · updated Jul 22"
     },
     {
       "url": "https://docs.google.com/presentation/d/1V9ExWjpDpQt7I6aZTYjOXe32RorhXuLmM1CY3FhMG-w/edit",
       "title": "LA Galaxy Audit — Jack Buckingham",
-      "meta": "Slides · Jul 21"
+      "meta": "Slides · updated Jul 21"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit",
+      "title": "UD7016 High Performance Environments — Group Presentation",
+      "meta": "Google Doc · updated Jul 21"
     },
     {
       "url": "https://docs.google.com/document/d/1CEaB_F1xqczI4qi8yIrOFul6MGCpeyKQyC_pS0OvHqg/edit",
-      "title": "Talking Points — Galaxy Audit",
-      "meta": "Doc · Jul 20"
+      "title": "Talking Points — Jack Buckingham",
+      "meta": "Google Doc · updated Jul 20"
     }
   ]
 }
