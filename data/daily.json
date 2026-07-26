@@ -1,10 +1,14 @@
 {
   "dateLabel": "Sunday, July 26",
-  "updatedLabel": "Sun Jul 26, 12:05 AM PT",
+  "updatedLabel": "Sun Jul 26, 7:05 AM PT",
   "today": [
-    { "time": "6:00 PM", "title": "Dinner w/ Andy", "accent": "eve" }
+    {
+      "time": "6:00 PM",
+      "title": "Dinner w/ Andy",
+      "accent": "eve"
+    }
   ],
-  "todayNote": "Quiet Sunday — just dinner with Andy on the calendar.",
+  "todayNote": "Quiet Sunday — one evening plan on the calendar.",
   "week": [],
   "tasks": {
     "pillText": "3 overdue",
@@ -44,41 +48,41 @@
     {
       "dot": "amber",
       "url": "https://mail.google.com/mail/u/0/#inbox/19f7d755ed20f0e1",
-      "title": "Dan White (JPMorgan) — stock call",
-      "meta": "You asked to move to 12pm; confirm a time"
+      "title": "Dan White (JPMorgan)",
+      "meta": "You checked in Jul 21 to confirm the call — no reply since"
     },
     {
       "dot": "green",
       "url": "https://mail.google.com/mail/u/0/#inbox/19f958fe58c7c03b",
-      "title": "Apple Developer enrollment",
+      "title": "Apple Developer Support",
       "meta": "DUNS confirmed (147831136) — proceed with enrollment"
     }
   ],
   "inbox": {
-    "unread": 41,
+    "unread": 40,
     "items": [
       {
         "dot": "amber",
         "url": "https://mail.google.com/mail/u/0/#inbox/19f94e4aa64ddad7",
-        "title": "Check in for UCLA visit",
+        "title": "UCLA Health — check in for your upcoming visit",
         "tag": "EVENT",
-        "meta": "Dr Roostaeian · Jul 31, 8 AM"
+        "meta": "Fri Jul 31, 8:00 AM"
       },
       {
-        "dot": "amber",
+        "dot": "faint",
         "url": "https://mail.google.com/mail/u/0/#inbox/19f6884103c65a24",
-        "title": "LA Sports & Entertainment Career Fair",
+        "title": "LA Sports & Entertainment Career Fair invite",
         "tag": "EVENT",
-        "meta": "Jul 27 · network with hiring managers"
+        "meta": "Mon Jul 27"
       }
     ],
-    "note": "The rest is newsletters and promos (Audible, Barça, Atlassian, US Soccer)."
+    "note": "Most of the ~40 unread are newsletters and promos"
   },
   "drive": [
     {
       "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit",
-      "title": "UD7016 — High Performance Environments — Group Presentation",
-      "meta": "Google Doc · Jul 25"
+      "title": "UD7016 – High Performance Environments (Group Presentation)",
+      "meta": "Google Doc · edited Jul 25"
     },
     {
       "url": "https://drive.google.com/file/d/1Y9z_mCmhndUaShrU2y8lP6ZTR27jgSk-/view",
@@ -91,9 +95,9 @@
       "meta": "Slides · Jul 21"
     },
     {
-      "url": "https://docs.google.com/document/d/1vqm5vUIapluHGdmaInlamqXsZ3XdK78mmQqcJ-jrBAQ/edit",
-      "title": "CWRK2 Personal Leadership Analysis (Resubmission)",
-      "meta": "Google Doc · Jul 11"
+      "url": "https://docs.google.com/document/d/1CEaB_F1xqczI4qi8yIrOFul6MGCpeyKQyC_pS0OvHqg/edit",
+      "title": "Talking Points — Jack Buckingham",
+      "meta": "Doc · Jul 20"
     }
   ]
 }

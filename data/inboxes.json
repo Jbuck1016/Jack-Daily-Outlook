@@ -5,7 +5,7 @@
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-07-26T07:05:47Z",
+      "updated": "2026-07-26T14:05:45Z",
       "emails": [
         {
           "from": "Anthropic",
@@ -26,15 +26,15 @@
         {
           "from": "Jack Buckingham",
           "subject": "⚽🎰 59 new jobs 🔥3 posted today! — Jul 25",
-          "snippet": "Soccer & Betting Jobs daily digest, July 25 — 59 new, 2 posted today.",
+          "snippet": "Soccer & Betting Jobs Daily digest · July 25, 2026 — 59 new, 2 posted today.",
           "date": "2026-07-25T14:29:41Z",
-          "unread": true,
+          "unread": false,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f99ae8d7275ae7"
         },
         {
           "from": "Club Avanti",
           "subject": "Good news – you've got new member rewards.",
-          "snippet": "You've got new member rewards. Membership number CA132323, 5 journeys this year.",
+          "snippet": "Use them and upgrade for more. Membership number CA132323.",
           "date": "2026-07-25T12:01:36Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f992702d7699d2"
@@ -50,7 +50,7 @@
         {
           "from": "RapidAPI",
           "subject": "New announcement for JSearch API",
-          "snippet": "There is a new announcement from JSearch API — view it in your Developer Dashboard.",
+          "snippet": "There is a new announcement from JSearch API. View it in your Developer Dashboard.",
           "date": "2026-07-25T04:11:41Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f9778c79993c19"
@@ -64,9 +64,9 @@
           "url": "https://mail.google.com/mail/u/0/#inbox/19f96b69afcce46c"
         },
         {
-          "from": "Canvas (Instructure)",
+          "from": "Canvas",
           "subject": "Course invitation",
-          "snippet": "You've been invited to the course Professional Diploma in Football Scouting and Tactical Analysis.",
+          "snippet": "You've been invited to participate in the course: Professional Diploma in Football Scouting and Tactical Analysis.",
           "date": "2026-07-25T00:00:07Z",
           "unread": false,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f969273d3ce103"
@@ -74,7 +74,7 @@
         {
           "from": "Apple Developer Support",
           "subject": "Re: Apple Developer Support - Membership and Account",
-          "snippet": "Kelly from Developer Support following up on your membership and account.",
+          "snippet": "My name is Kelly with Developer Support. Apologies for the delay in responding to your email.",
           "date": "2026-07-24T19:17:42Z",
           "unread": false,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f958fe58c7c03b"
