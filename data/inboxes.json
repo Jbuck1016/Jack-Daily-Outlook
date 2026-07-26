@@ -1,16 +1,16 @@
 {
-  "note": "Showing the last 12 messages in your primary inbox.",
+  "note": "Showing the last 10 messages in your primary inbox.",
   "accounts": [
     {
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-07-26T05:05:45Z",
+      "updated": "2026-07-26T06:06:44Z",
       "emails": [
         {
           "from": "Anthropic",
           "subject": "Your receipt from Anthropic, PBC #2326-2051-0697",
-          "snippet": "Receipt #2326-2051-0697.",
+          "snippet": "Your receipt from Anthropic, PBC #2326-2051-0697.",
           "date": "2026-07-25T21:26:44Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f9b2c61e3e68fe"
@@ -18,7 +18,7 @@
         {
           "from": "Atlassian",
           "subject": "Loom AI: what you need to know",
-          "snippet": "Learn how to activate Loom AI and review admin controls.",
+          "snippet": "Help your team move faster with Loom AI. Learn how to activate it and review admin controls.",
           "date": "2026-07-25T17:05:52Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f9a3d8c727f183"
@@ -26,7 +26,7 @@
         {
           "from": "Jack Buckingham",
           "subject": "⚽🎰 59 new jobs 🔥3 posted today! — Jul 25",
-          "snippet": "Soccer & Betting Jobs daily digest: 59 new, 0 still open, 2 posted today.",
+          "snippet": "Soccer & Betting Jobs Daily digest · July 25, 2026. 59 new · 0 still open · 2 posted today.",
           "date": "2026-07-25T14:29:41Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f99ae8d7275ae7"
@@ -34,7 +34,7 @@
         {
           "from": "Club Avanti",
           "subject": "Good news – you've got new member rewards.",
-          "snippet": "New member rewards available. Membership CA132323, 5 journeys this year.",
+          "snippet": "Use them and upgrade for more. Membership number: CA132323. Journey count: 5.",
           "date": "2026-07-25T12:01:36Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f992702d7699d2"
@@ -42,7 +42,7 @@
         {
           "from": "Apple Support",
           "subject": "We'd love to hear how it went with Apple Support.",
-          "snippet": "How satisfied were you with your recent Apple Support experience?",
+          "snippet": "Overall, how satisfied were you with your recent Apple Support experience?",
           "date": "2026-07-25T07:14:31Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f982027aaea6e3"
@@ -50,7 +50,7 @@
         {
           "from": "RapidAPI",
           "subject": "New announcement for JSearch API",
-          "snippet": "A new announcement from JSearch API is in your Developer Dashboard.",
+          "snippet": "There is a new announcement from JSearch API. View it in your Developer Dashboard.",
           "date": "2026-07-25T04:11:41Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f9778c79993c19"
@@ -58,15 +58,15 @@
         {
           "from": "Claude",
           "subject": "A guided way into your first Cowork session",
-          "snippet": "Claude walks you through setup in the conversation—you finish with real prompts.",
+          "snippet": "Claude walks you through setup in the conversation — you finish with real prompts, not an empty session.",
           "date": "2026-07-25T00:39:37Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f96b69afcce46c"
         },
         {
-          "from": "Canvas",
+          "from": "Canvas / Instructure",
           "subject": "Course invitation",
-          "snippet": "You've been invited to the Professional Diploma in Football Scouting and Tactical Analysis (Student).",
+          "snippet": "You have been invited to participate in the course: Professional Diploma in Football Scouting and Tactical Analysis. Role: Student.",
           "date": "2026-07-25T00:00:07Z",
           "unread": false,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f969273d3ce103"
@@ -74,36 +74,19 @@
         {
           "from": "Apple Developer Support",
           "subject": "Re: [102949494914] Apple Developer Support - Membership and Account",
-          "snippet": "Kelly from Developer Support following up on your membership and account case.",
+          "snippet": "My name is Kelly with Developer Support. I would like to apologize for the delay in responding to your email.",
           "date": "2026-07-24T19:17:42Z",
           "unread": false,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f958fe58c7c03b"
         },
         {
-          "from": "APFA",
-          "subject": "Your APFA Membership just got a free upgrade!",
-          "snippet": "Log in to see what's new with your upgraded membership.",
-          "date": "2026-07-24T16:52:36Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/19f950b99d7a3244"
-        },
-        {
-          "from": "myUCLAhealth",
+          "from": "UCLA Health",
           "subject": "Check In For Your Upcoming Visit",
-          "snippet": "Upcoming visit 7/31 at 8:00 AM with Jason Roostaeian, MD. Check in online before your visit.",
+          "snippet": "You have an upcoming visit on 7/31/2026 at 8:00 AM PDT with Jason Roostaeian, MD. Please check in online before your visit.",
           "date": "2026-07-24T16:10:41Z",
           "unread": true,
           "tag": "Important",
           "url": "https://mail.google.com/mail/u/0/#inbox/19f94e4aa64ddad7"
-        },
-        {
-          "from": "myUCLAhealth",
-          "subject": "New Appointment Message(s) Available in Your myUCLAhealth Account",
-          "snippet": "A new appointment message has been posted in your myUCLAhealth account.",
-          "date": "2026-07-24T15:23:23Z",
-          "unread": true,
-          "tag": "Important",
-          "url": "https://mail.google.com/mail/u/0/#inbox/19f94b95f5385fcb"
         }
       ]
     },
