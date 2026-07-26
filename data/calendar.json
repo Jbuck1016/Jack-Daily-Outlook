@@ -1,5 +1,5 @@
 {
-  "updatedLabel": "Sat Jul 25, 11:06 PM PT",
+  "updatedLabel": "Sun Jul 26, 12:05 AM PT",
   "sources": [
     { "key": "personal", "name": "Personal", "connected": true },
     { "key": "lafc-work", "name": "LAFC Work", "connected": true },
@@ -7,16 +7,8 @@
   ],
   "days": [
     {
-      "label": "Sat · Jul 25",
-      "today": true,
-      "events": [
-        { "time": "All day", "title": "Henry / Conall day", "src": "personal" },
-        { "time": "7:30 PM", "title": "⚽ LAFC vs. Sporting Kansas City", "loc": "BMO Stadium", "src": "lafc-match" },
-        { "time": "8:00 PM", "title": "Conall dinner", "src": "personal" }
-      ]
-    },
-    {
       "label": "Sun · Jul 26",
+      "today": true,
       "events": [
         { "time": "6:00 PM", "title": "Dinner w/ Andy", "src": "personal" }
       ]
@@ -33,8 +25,8 @@
       "label": "Wed · Jul 29",
       "events": [
         { "time": "10:00 AM", "title": "HOLD: SAAS Call", "src": "lafc-work" },
-        { "time": "5:00 PM", "title": "⚽ MLS All-Star Game", "loc": "Bank of America Stadium — Charlotte, NC", "src": "lafc-match" },
-        { "time": "5:00 PM", "title": "Therapy", "src": "personal" }
+        { "time": "5:00 PM", "title": "Therapy", "src": "personal" },
+        { "time": "5:00 PM", "title": "⚽ MLS All-Star Game", "loc": "Bank of America Stadium — Charlotte, NC", "src": "lafc-match" }
       ]
     },
     {
@@ -42,7 +34,7 @@
       "events": [
         { "time": "11:00 AM", "title": "HOLD: SAAS Call", "src": "lafc-work" },
         { "time": "2:30 PM", "title": "Dr Dugar", "src": "personal" },
-        { "time": "9:45 PM", "title": "Spider-Man: Brand New Day", "loc": "1310 3rd St, Santa Monica", "src": "personal" }
+        { "time": "9:45 PM", "title": "Spider-Man: Brand New Day", "loc": "1310 3rd Street, Santa Monica", "src": "personal" }
       ]
     },
     {
@@ -88,7 +80,14 @@
     {
       "label": "Sat · Aug 8",
       "events": [
-        { "time": "12:56 PM", "title": "Flight to Los Angeles (AA 6409)", "loc": "Austin AUS", "src": "personal" }
+        { "time": "All day", "title": "Cade bday weekend", "src": "personal" },
+        { "time": "12:56 PM", "title": "Flight to Los Angeles (AA 6409)", "loc": "AUS", "src": "personal" }
+      ]
+    },
+    {
+      "label": "Sun · Aug 9",
+      "events": [
+        { "time": "All day", "title": "Cade bday weekend", "src": "personal" }
       ]
     }
   ]
