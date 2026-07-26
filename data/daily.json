@@ -1,18 +1,31 @@
 {
   "dateLabel": "Sunday, July 26",
-  "updatedLabel": "Sun Jul 26, 10:06 AM PT",
+  "updatedLabel": "Sun Jul 26, 11:05 AM PT",
   "today": [
     { "time": "6:00 PM", "title": "Dinner w/ Andy", "accent": "eve" }
   ],
-  "todayNote": "Quiet Sunday — only dinner with Andy on the calendar tonight.",
+  "todayNote": "Quiet Sunday — one dinner tonight, then the week ramps back up Monday.",
   "week": [],
   "tasks": {
-    "pillText": "3 overdue",
+    "pillText": "3 overdue · 2 recurring",
     "pillWarn": true,
     "overdue": [
-      { "title": "Email IT for Saas, DBeaver, Zoom, Slack", "url": "https://app.todoist.com/app/task/6h7WmqGx7MCgxmmH", "prio": "P1", "meta": "4 days overdue" },
-      { "title": "Email Stefano to join Zoom to watch him make parking email", "url": "https://app.todoist.com/app/task/6h7Wrj2jpmv73ghH", "meta": "3 days overdue" },
-      { "title": "Text Garrett", "url": "https://app.todoist.com/app/task/6h7qvXXpCQG4Qmgq", "meta": "2 days overdue" }
+      {
+        "title": "Email IT for SaaS, DBeaver, Zoom, Slack",
+        "url": "https://app.todoist.com/app/task/6h7WmqGx7MCgxmmH",
+        "prio": "P1",
+        "meta": "4 days overdue"
+      },
+      {
+        "title": "Email Stefano to join Zoom to watch him make parking email",
+        "url": "https://app.todoist.com/app/task/6h7Wrj2jpmv73ghH",
+        "meta": "3 days overdue"
+      },
+      {
+        "title": "Text Garrett",
+        "url": "https://app.todoist.com/app/task/6h7qvXXpCQG4Qmgq",
+        "meta": "2 days overdue"
+      }
     ],
     "recurring": [
       { "title": "Take meds", "url": "https://app.todoist.com/app/task/6fPrF5rMMcCF9Fpq", "meta": "Daily · 9:00 AM" },
@@ -20,24 +33,77 @@
     ]
   },
   "followups": [
-    { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/19f7d755ed20f0e1", "title": "Daniel White (JPMorgan) — networking call", "meta": "You replied Jul 21; awaiting his availability" },
-    { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/19f94e4aa64ddad7", "title": "UCLA Health — check in for upcoming visit", "meta": "Dr Roostaeian, Fri Jul 31, 8:00 AM" },
-    { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/19f969273d3ce103", "title": "Football Scouting & Tactical Analysis diploma — course invite", "meta": "Accept enrollment on Canvas" }
+    {
+      "dot": "red",
+      "url": "https://mail.google.com/mail/u/0/#inbox/19f6884103c65a24",
+      "title": "LA Sports & Entertainment Career Fair — RSVP",
+      "meta": "Invite · Mon Jul 27"
+    },
+    {
+      "dot": "amber",
+      "url": "https://mail.google.com/mail/u/0/#inbox/19f7d755ed20f0e1",
+      "title": "Dan White (JPMorgan) — nail down call time",
+      "meta": "You replied Jul 21, still open"
+    },
+    {
+      "dot": "amber",
+      "url": "https://mail.google.com/mail/u/0/#inbox/19f94e4aa64ddad7",
+      "title": "UCLA Health — check in for Fri visit",
+      "meta": "Fri Jul 31, 8:00 AM"
+    },
+    {
+      "dot": "green",
+      "url": "https://mail.google.com/mail/u/0/#inbox/19f969273d3ce103",
+      "title": "Course invite: Football Scouting & Tactical Analysis diploma",
+      "meta": "Instructure · accept to enroll"
+    }
   ],
   "inbox": {
-    "unread": 41,
+    "unread": 40,
     "items": [
-      { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/19f94e4aa64ddad7", "title": "Check In For Your Upcoming Visit", "tag": "EVENT", "meta": "UCLA Health · Jul 31, 8:00 AM" },
-      { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/19f6884103c65a24", "title": "LA Sports & Entertainment Career Fair", "tag": "EVENT", "meta": "TeamWork Online · Mon Jul 27" },
-      { "dot": "faint", "url": "https://mail.google.com/mail/u/0/#inbox/19f94b95f5385fcb", "title": "New appointment message available", "meta": "myUCLAhealth · Jul 24" },
-      { "dot": "faint", "url": "https://mail.google.com/mail/u/0/#inbox/19f9b2c61e3e68fe", "title": "Your receipt from Anthropic", "meta": "Jul 25" }
+      {
+        "dot": "amber",
+        "url": "https://mail.google.com/mail/u/0/#inbox/19f94e4aa64ddad7",
+        "title": "UCLA Health: check in for your upcoming visit",
+        "tag": "EVENT",
+        "meta": "Jul 24 · Important"
+      },
+      {
+        "dot": "amber",
+        "url": "https://mail.google.com/mail/u/0/#inbox/19f6884103c65a24",
+        "title": "You're invited: LA Sports & Entertainment Career Fair",
+        "tag": "EVENT",
+        "meta": "Jul 16 · Jul 27 event"
+      },
+      {
+        "dot": "faint",
+        "url": "https://mail.google.com/mail/u/0/#inbox/19f94b95f5385fcb",
+        "title": "myUCLAhealth: new appointment message available",
+        "meta": "Jul 24"
+      }
     ],
-    "note": "Most of the ~41 unread from the last two weeks are newsletters and promos (Audible, Barça Innovation Hub, US Soccer, Atlassian)."
+    "note": "Most of the ~40 unread are newsletters and promos (Audible, Barça Innovation Hub, US Soccer, football ticket sites)."
   },
   "drive": [
-    { "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit", "title": "UD7016 – High Performance Environments (Group Presentation)", "meta": "Modified Jul 25 · Doc" },
-    { "url": "https://drive.google.com/file/d/1Y9z_mCmhndUaShrU2y8lP6ZTR27jgSk-/view", "title": "LAFC Field Guide", "meta": "Modified Jul 22 · PDF" },
-    { "url": "https://docs.google.com/presentation/d/1V9ExWjpDpQt7I6aZTYjOXe32RorhXuLmM1CY3FhMG-w/edit", "title": "LA Galaxy Audit — Jack Buckingham", "meta": "Modified Jul 21 · Slides" },
-    { "url": "https://docs.google.com/document/d/1vqm5vUIapluHGdmaInlamqXsZ3XdK78mmQqcJ-jrBAQ/edit", "title": "CWRK2 Personal Leadership Analysis (Resubmission)", "meta": "Modified Jul 11 · Doc" }
+    {
+      "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit",
+      "title": "UD7016 – High Performance Environments – Group Presentation",
+      "meta": "Google Doc · Jul 25"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1Y9z_mCmhndUaShrU2y8lP6ZTR27jgSk-/view",
+      "title": "LAFC Field Guide",
+      "meta": "PDF · Jul 22"
+    },
+    {
+      "url": "https://docs.google.com/presentation/d/1V9ExWjpDpQt7I6aZTYjOXe32RorhXuLmM1CY3FhMG-w/edit",
+      "title": "LA Galaxy Audit — Jack Buckingham",
+      "meta": "Slides · Jul 21"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1CEaB_F1xqczI4qi8yIrOFul6MGCpeyKQyC_pS0OvHqg/edit",
+      "title": "Talking Points — Jack Buckingham",
+      "meta": "Google Doc · Jul 20"
+    }
   ]
 }

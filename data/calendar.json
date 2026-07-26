@@ -1,5 +1,5 @@
 {
-  "updatedLabel": "Sun Jul 26, 10:06 AM PT",
+  "updatedLabel": "Sun Jul 26, 11:05 AM PT",
   "sources": [
     { "key": "personal", "name": "Personal", "connected": true },
     { "key": "lafc-work", "name": "LAFC Work", "connected": true },
@@ -17,7 +17,7 @@
       "label": "Mon · Jul 27",
       "events": [
         { "time": "10:00 AM", "title": "Class", "src": "personal" },
-        { "time": "11:00 AM", "title": "CP Sales Weekly", "loc": "Zoom", "src": "lafc-work" },
+        { "time": "11:00 AM", "title": "CP Sales Weekly", "src": "lafc-work" },
         { "time": "11:00 AM", "title": "Masterclass: Individual Tactical Preparation with Alec Tate", "src": "personal" }
       ]
     },
@@ -26,7 +26,7 @@
       "events": [
         { "time": "10:00 AM", "title": "HOLD: SAAS Call", "src": "lafc-work" },
         { "time": "5:00 PM", "title": "Therapy", "src": "personal" },
-        { "time": "5:00 PM", "title": "⚽ MLS All-Star Game", "loc": "Bank of America Stadium, Charlotte NC", "src": "lafc-match" }
+        { "time": "5:00 PM", "title": "⚽ MLS All-Star Game", "loc": "Bank of America Stadium, Charlotte, NC", "src": "lafc-match" }
       ]
     },
     {
@@ -34,7 +34,7 @@
       "events": [
         { "time": "11:00 AM", "title": "HOLD: SAAS Call", "src": "lafc-work" },
         { "time": "2:30 PM", "title": "Dr Dugar", "src": "personal" },
-        { "time": "9:45 PM", "title": "Spider-Man: Brand New Day", "loc": "Santa Monica", "src": "personal" }
+        { "time": "9:45 PM", "title": "Spider-Man: Brand New Day", "loc": "1310 3rd Street, Santa Monica", "src": "personal" }
       ]
     },
     {
@@ -55,7 +55,7 @@
       "label": "Mon · Aug 3",
       "events": [
         { "time": "10:00 AM", "title": "Class", "src": "personal" },
-        { "time": "11:00 AM", "title": "CP Sales Weekly", "loc": "Zoom", "src": "lafc-work" }
+        { "time": "11:00 AM", "title": "CP Sales Weekly", "src": "lafc-work" }
       ]
     },
     {
@@ -80,7 +80,14 @@
     {
       "label": "Sat · Aug 8",
       "events": [
-        { "time": "12:56 PM", "title": "Flight to Los Angeles (AA 6409)", "loc": "Austin (AUS)", "src": "personal" }
+        { "time": "All day", "title": "Cade bday weekend", "src": "personal" },
+        { "time": "12:56 PM", "title": "Flight to Los Angeles (AA 6409)", "loc": "Austin AUS", "src": "personal" }
+      ]
+    },
+    {
+      "label": "Sun · Aug 9",
+      "events": [
+        { "time": "All day", "title": "Cade bday weekend", "src": "personal" }
       ]
     }
   ]
