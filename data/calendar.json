@@ -1,5 +1,5 @@
 {
-  "updatedLabel": "Sun Jul 26, 7:05 AM PT",
+  "updatedLabel": "Sun Jul 26, 8:06 AM PT",
   "sources": [
     { "key": "personal", "name": "Personal", "connected": true },
     { "key": "lafc-work", "name": "LAFC Work", "connected": true },
@@ -26,14 +26,14 @@
       "events": [
         { "time": "10:00 AM", "title": "HOLD: SAAS Call", "src": "lafc-work" },
         { "time": "5:00 PM", "title": "Therapy", "src": "personal" },
-        { "time": "5:00 PM", "title": "⚽ MLS All-Star Game", "loc": "Bank of America Stadium — Charlotte, NC", "src": "lafc-match" }
+        { "time": "5:00 PM", "title": "MLS All-Star Game", "loc": "Bank of America Stadium · Charlotte, NC", "src": "lafc-match" }
       ]
     },
     {
       "label": "Thu · Jul 30",
       "events": [
         { "time": "11:00 AM", "title": "HOLD: SAAS Call", "src": "lafc-work" },
-        { "time": "2:30 PM", "title": "Dr Dugar", "loc": "Google Meet", "src": "personal" },
+        { "time": "2:30 PM", "title": "Dr Dugar", "src": "personal" },
         { "time": "9:45 PM", "title": "Spider-Man: Brand New Day", "loc": "1310 3rd Street, Santa Monica", "src": "personal" }
       ]
     },
@@ -48,7 +48,7 @@
       "label": "Sat · Aug 1",
       "events": [
         { "time": "All day", "title": "Natalie wedding", "src": "personal" },
-        { "time": "4:30 PM", "title": "⚽ LAFC @ Vancouver Whitecaps", "loc": "BC Place", "src": "lafc-match" }
+        { "time": "4:30 PM", "title": "LAFC @ Vancouver Whitecaps", "loc": "BC Place", "src": "lafc-match" }
       ]
     },
     {
@@ -67,7 +67,7 @@
     {
       "label": "Thu · Aug 6",
       "events": [
-        { "time": "6:50 PM", "title": "Flight to Austin (AA 2118)", "loc": "Los Angeles LAX", "src": "personal" }
+        { "time": "6:50 PM", "title": "Flight to Austin (AA 2118)", "loc": "LAX", "src": "personal" }
       ]
     },
     {
@@ -80,14 +80,7 @@
     {
       "label": "Sat · Aug 8",
       "events": [
-        { "time": "All day", "title": "Cade bday weekend", "src": "personal" },
-        { "time": "12:56 PM", "title": "Flight to Los Angeles (AA 6409)", "loc": "Austin AUS", "src": "personal" }
-      ]
-    },
-    {
-      "label": "Sun · Aug 9",
-      "events": [
-        { "time": "All day", "title": "Cade bday weekend", "src": "personal" }
+        { "time": "12:56 PM", "title": "Flight to Los Angeles (AA 6409)", "loc": "AUS", "src": "personal" }
       ]
     }
   ]
