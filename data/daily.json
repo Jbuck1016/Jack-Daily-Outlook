@@ -1,6 +1,6 @@
 {
   "dateLabel": "Saturday · Jul 25",
-  "updatedLabel": "Sat Jul 25, 6:06 PM PT",
+  "updatedLabel": "Sat Jul 25, 7:08 PM PT",
   "today": [
     {
       "time": "All day",
@@ -13,10 +13,9 @@
       "accent": "eve"
     }
   ],
-  "todayNote": "LAFC vs. Sporting Kansas City tonight, 7:30 PM at BMO Stadium.",
   "week": [
     {
-      "day": "Sun · Jul 26",
+      "day": "Sunday",
       "items": [
         {
           "time": "6:00 PM",
@@ -26,7 +25,7 @@
     }
   ],
   "tasks": {
-    "pillText": "3 overdue",
+    "pillText": "3 overdue · 2 recurring",
     "pillWarn": true,
     "overdue": [
       {
@@ -63,47 +62,53 @@
     {
       "dot": "amber",
       "url": "https://mail.google.com/mail/u/0/#inbox/19f7d755ed20f0e1",
-      "title": "Dan White (JP Morgan) — call + 5 stock ideas",
-      "meta": "You asked to move to 12; awaiting his reply"
+      "title": "Dan White (JPMorgan)",
+      "meta": "Sent 5 stock ideas — owe reply / reschedule call"
     },
     {
       "dot": "amber",
+      "url": "https://mail.google.com/mail/u/0/#inbox/19f958fe58c7c03b",
+      "title": "Apple Developer Support (Kelly)",
+      "meta": "DUNS confirmed — proceed with enrollment"
+    },
+    {
+      "dot": "green",
       "url": "https://mail.google.com/mail/u/0/#inbox/19f969273d3ce103",
-      "title": "Course invite: Football Scouting & Tactical Analysis diploma",
-      "meta": "Accept enrollment · Canvas"
+      "title": "Course invite — Football Scouting & Tactical Analysis",
+      "meta": "Accept enrollment (Instructure)"
     }
   ],
   "inbox": {
     "unread": 41,
     "items": [
       {
-        "dot": "red",
+        "dot": "amber",
         "url": "https://mail.google.com/mail/u/0/#inbox/19f94e4aa64ddad7",
-        "title": "UCLA Health: check in for your 7/31 visit",
+        "title": "myUCLAhealth — Check in for upcoming visit",
         "tag": "EVENT",
-        "meta": "Fri 8:00 AM · Dr Roostaeian"
+        "meta": "Fri 7/31, 8:00 AM · Dr Roostaeian"
       },
       {
         "dot": "amber",
         "url": "https://mail.google.com/mail/u/0/#inbox/19f94b95f5385fcb",
-        "title": "UCLA Health: new appointment message available",
-        "meta": "Sign in to review"
+        "title": "myUCLAhealth — New appointment message",
+        "meta": "Sign in to review / respond"
       },
       {
         "dot": "faint",
         "url": "https://mail.google.com/mail/u/0/#inbox/19f6884103c65a24",
         "title": "LA Sports & Entertainment Career Fair",
         "tag": "EVENT",
-        "meta": "Jul 27 · teamworkonline"
+        "meta": "Jul 27 · Teamwork Online"
       }
     ],
-    "note": "Most of the 41 unread are newsletters/promos (Audible, Barça Innovation Hub, FootballTicketNet, Atlassian)."
+    "note": "41 unread in the last 14 days; the rest are newsletters and promos."
   },
   "drive": [
     {
       "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit",
-      "title": "UD7016 – High Performance Environments (Group Presentation)",
-      "meta": "Doc · updated Sat"
+      "title": "UD7016 — High Performance Environments (Group Presentation)",
+      "meta": "Google Doc · edited Jul 25"
     },
     {
       "url": "https://drive.google.com/file/d/1Y9z_mCmhndUaShrU2y8lP6ZTR27jgSk-/view",
@@ -116,9 +121,9 @@
       "meta": "Slides · Jul 21"
     },
     {
-      "url": "https://docs.google.com/document/d/1CEaB_F1xqczI4qi8yIrOFul6MGCpeyKQyC_pS0OvHqg/edit",
-      "title": "Talking Points — Jack Buckingham",
-      "meta": "Doc · Jul 20"
+      "url": "https://docs.google.com/document/d/1mQOe6fLbN1Plo1s5QWfyRso-zAoO4R9D90TPDRI6g20/edit",
+      "title": "Verification Report",
+      "meta": "Google Doc · Jul 20"
     }
   ]
 }
