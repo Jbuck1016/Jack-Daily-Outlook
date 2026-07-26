@@ -1,16 +1,24 @@
 {
-  "note": "Primary Gmail — last 10 received in inbox. Secondary account not connected.",
+  "note": "Last 10 messages in your primary inbox. Secondary account is not connected.",
   "accounts": [
     {
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-07-26T18:05:25Z",
+      "updated": "2026-07-26T19:05:38Z",
       "emails": [
+        {
+          "from": "Apple",
+          "subject": "Your receipt from Apple.",
+          "snippet": "Your Apple Account was used to purchase 21 Jump Street and other items.",
+          "date": "2026-07-26T18:31:24Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/19f9fb237a875ab0"
+        },
         {
           "from": "Jack Buckingham",
           "subject": "⚽🎰 36 new jobs 🔥2 posted today! — Jul 26",
-          "snippet": "Soccer & Betting Jobs Daily digest · July 26, 2026. 36 new · 0 still open · 1 posted today. Track your applications in your Google Sheet.",
+          "snippet": "Soccer & Betting Jobs daily digest · July 26, 2026 · 36 new · 1 posted today.",
           "date": "2026-07-26T14:28:24Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f9ed3bf514eb88"
@@ -34,7 +42,7 @@
         {
           "from": "Jack Buckingham",
           "subject": "⚽🎰 59 new jobs 🔥3 posted today! — Jul 25",
-          "snippet": "Soccer & Betting Jobs Daily digest · July 25, 2026. 59 new · 0 still open · 2 posted today.",
+          "snippet": "Soccer & Betting Jobs daily digest · July 25, 2026 · 59 new · 2 posted today.",
           "date": "2026-07-25T14:29:41Z",
           "unread": false,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f99ae8d7275ae7"
@@ -42,7 +50,7 @@
         {
           "from": "Club Avanti",
           "subject": "Good news – you've got new member rewards.",
-          "snippet": "Use them and upgrade for more. Membership number: CA132323. Membership year journey count: 5.",
+          "snippet": "Use them and upgrade for more. Membership year journey count: 5.",
           "date": "2026-07-25T12:01:36Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f992702d7699d2"
@@ -58,7 +66,7 @@
         {
           "from": "RapidAPI",
           "subject": "New announcement for JSearch API",
-          "snippet": "There is a new announcement from JSearch API. View it in the Inbox of your Developer Dashboard.",
+          "snippet": "There is a new announcement from JSearch API. View it in the inbox of your Developer Dashboard.",
           "date": "2026-07-25T04:11:41Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f9778c79993c19"
@@ -72,20 +80,12 @@
           "url": "https://mail.google.com/mail/u/0/#inbox/19f96b69afcce46c"
         },
         {
-          "from": "Instructure",
+          "from": "Canvas (Instructure)",
           "subject": "Course invitation",
-          "snippet": "You've been invited to the course Professional Diploma in Football Scouting and Tactical Analysis. Course role: Student.",
+          "snippet": "You've been invited to the course Professional Diploma in Football Scouting and Tactical Analysis. Role: Student.",
           "date": "2026-07-25T00:00:07Z",
           "unread": false,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f969273d3ce103"
-        },
-        {
-          "from": "Apple Developer Support",
-          "subject": "Re: [102949494914] Apple Developer Support - Membership and Account",
-          "snippet": "Kelly from Developer Support followed up on the DUNS / membership case. Jack confirmed DUNS 147831136 issued and is proceeding with enrollment.",
-          "date": "2026-07-24T21:06:10Z",
-          "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/19f958fe58c7c03b"
         }
       ]
     },
