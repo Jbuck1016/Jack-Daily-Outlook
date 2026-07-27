@@ -1,127 +1,206 @@
 {
-  "dateLabel": "Sunday, July 26",
-  "updatedLabel": "Sun Jul 26, 12:05 PM PT",
+  "dateLabel": "Monday, July 27",
+  "updatedLabel": "Mon Jul 27, 9:45 AM PT",
   "today": [
     {
-      "time": "6:00 PM",
-      "title": "Dinner w/ Andy",
-      "accent": "eve"
+      "time": "10:00 AM",
+      "title": "Class"
+    },
+    {
+      "time": "11:00 AM",
+      "title": "CP Sales Weekly",
+      "loc": "LAFC · Zoom"
+    },
+    {
+      "time": "11:00 AM",
+      "title": "Masterclass: Alec Tate — Individual Tactical Prep"
+    },
+    {
+      "time": "11:00 AM – 4:00 PM",
+      "title": "Conall pool time",
+      "accent": "span"
     }
   ],
-  "todayNote": "Quiet Sunday — one thing on the calendar. Week ahead picks up Monday.",
-  "week": [],
+  "todayNote": "Class, then the Alec Tate tactical masterclass; CP Sales Weekly on Zoom at 11; pool time with Conall through the afternoon.",
+  "week": [
+    {
+      "day": "Tue Jul 28",
+      "items": [
+        {
+          "time": "6:00 PM",
+          "title": "Dinner w/ Andy"
+        }
+      ]
+    },
+    {
+      "day": "Wed Jul 29",
+      "items": [
+        {
+          "time": "10:00 AM",
+          "title": "HOLD: SAAS Call"
+        },
+        {
+          "time": "5:00 PM",
+          "title": "Therapy"
+        },
+        {
+          "time": "5:00 PM",
+          "title": "MLS All-Star Game"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Hang w/ Victoria & Abigail"
+        }
+      ]
+    },
+    {
+      "day": "Thu Jul 30",
+      "items": [
+        {
+          "time": "11:00 AM",
+          "title": "HOLD: SAAS Call"
+        },
+        {
+          "time": "2:30 PM",
+          "title": "Dr Dugar"
+        },
+        {
+          "time": "9:45 PM",
+          "title": "Spider-Man: Brand New Day"
+        }
+      ]
+    },
+    {
+      "day": "Fri Jul 31",
+      "items": [
+        {
+          "time": "8:00 AM",
+          "title": "Dr Roostaein"
+        },
+        {
+          "time": "12:00 PM",
+          "title": "1:1 — Jack B // Jack C"
+        }
+      ]
+    },
+    {
+      "day": "Sat Aug 1",
+      "items": [
+        {
+          "time": "All day",
+          "title": "Natalie wedding"
+        },
+        {
+          "time": "4:30 PM",
+          "title": "LAFC @ Vancouver Whitecaps"
+        }
+      ]
+    },
+    {
+      "day": "Sun Aug 2",
+      "items": []
+    }
+  ],
   "tasks": {
     "pillText": "3 overdue",
     "pillWarn": true,
     "overdue": [
       {
-        "title": "Email IT for Saas, DBeaver, Zoom, Slack",
+        "title": "Email IT for SaaS, DBeaver, Zoom, Slack",
         "url": "https://app.todoist.com/app/task/6h7WmqGx7MCgxmmH",
         "prio": "P1",
-        "meta": "4 days overdue"
+        "meta": "5 days overdue"
       },
       {
-        "title": "Email Stefano to join Zoom to watch him make parking email",
+        "title": "Email Stefano to join Zoom (parking email)",
         "url": "https://app.todoist.com/app/task/6h7Wrj2jpmv73ghH",
-        "meta": "3 days overdue"
+        "meta": "4 days overdue"
       },
       {
         "title": "Text Garrett",
         "url": "https://app.todoist.com/app/task/6h7qvXXpCQG4Qmgq",
-        "meta": "2 days overdue"
+        "meta": "3 days overdue"
       }
     ],
     "recurring": [
       {
         "title": "Take meds",
         "url": "https://app.todoist.com/app/task/6fPrF5rMMcCF9Fpq",
-        "meta": "Every day · 9:00 AM"
+        "meta": "Daily · 9:00 AM"
       },
       {
         "title": "Check WhatsApp",
         "url": "https://app.todoist.com/app/task/6fPrHvm9qrMM44cH",
-        "meta": "Every day · 10:00 AM"
+        "meta": "Daily · 10:00 AM"
       }
     ]
   },
   "followups": [
     {
       "dot": "red",
-      "url": "https://mail.google.com/mail/u/0/#inbox/19f94e4aa64ddad7",
-      "title": "Check in for UCLA visit — Dr Roostaeian",
-      "meta": "Fri 7/31, 8:00 AM"
+      "url": "https://mail.google.com/mail/u/0/#inbox/19f8b989f087efc2",
+      "title": "Register on ADP iPay for your 2025 W-2",
+      "meta": "WME Payroll (K. Schiller) sent the registration steps"
     },
     {
       "dot": "amber",
-      "url": "https://mail.google.com/mail/u/0/#inbox/19f7d755ed20f0e1",
-      "title": "Dan White (JPMorgan) — call",
-      "meta": "You proposed times Jul 21 · awaiting reply"
+      "url": "https://app.todoist.com/app/task/6h7WmqGx7MCgxmmH",
+      "title": "Clear the P1 — email IT for SaaS, DBeaver, Zoom, Slack",
+      "meta": "5 days overdue"
     },
     {
       "dot": "amber",
-      "url": "https://mail.google.com/mail/u/0/#inbox/19f958fe58c7c03b",
-      "title": "Apple Developer Support — DUNS / enrollment",
-      "meta": "You confirmed DUNS Jul 24 · awaiting reply"
-    },
-    {
-      "dot": "green",
-      "url": "https://mail.google.com/mail/u/0/#inbox/19f969273d3ce103",
-      "title": "Course invite — Football Scouting & Tactical Analysis",
-      "meta": "Accept enrollment"
+      "url": "https://mail.google.com/mail/u/0/#inbox/19fa3bf90827b00e",
+      "title": "New analysis roles on the APFA board",
+      "meta": "Men's & women's roles just uploaded"
     }
   ],
   "inbox": {
-    "unread": 41,
+    "unread": 34,
     "items": [
       {
         "dot": "red",
-        "url": "https://mail.google.com/mail/u/0/#inbox/19f94e4aa64ddad7",
-        "title": "Check In For Your Upcoming Visit",
-        "tag": "EVENT",
-        "meta": "UCLA Health · Dr Roostaeian 7/31"
+        "url": "https://mail.google.com/mail/u/0/#inbox/19f8b989f087efc2",
+        "title": "K. Schiller · WME Payroll",
+        "tag": "REPLY",
+        "meta": "W-2 access via ADP iPay — register to pull it"
       },
       {
         "dot": "amber",
-        "url": "https://mail.google.com/mail/u/0/#inbox/19f94b95f5385fcb",
-        "title": "New appointment message in myUCLAhealth",
-        "meta": "UCLA Health"
+        "url": "https://mail.google.com/mail/u/0/#inbox/19fa3bf90827b00e",
+        "title": "APFA — new analysis roles uploaded",
+        "meta": "Men's & women's analysis jobs"
+      },
+      {
+        "dot": "amber",
+        "url": "https://mail.google.com/mail/u/0/#inbox/19f94e4aa64ddad7",
+        "title": "UCLA Health — new message",
+        "meta": "myUCLAhealth · Jul 24 · flagged important"
       },
       {
         "dot": "faint",
-        "url": "https://mail.google.com/mail/u/0/#inbox/19f9fb237a875ab0",
-        "title": "Your receipt from Apple",
-        "meta": "Apple"
+        "url": "https://mail.google.com/mail/u/0/#inbox/19fa17bc911f877e",
+        "title": "Your Galaxy Audit video got its first view",
+        "meta": "Loom · 'Galaxy Audit Front Office and Transfers'"
       },
       {
         "dot": "faint",
-        "url": "https://mail.google.com/mail/u/0/#inbox/19f992702d7699d2",
-        "title": "New member rewards",
-        "meta": "Club Avanti"
-      },
-      {
-        "dot": "faint",
-        "url": "https://mail.google.com/mail/u/0/#inbox/19f9a3d8c727f183",
-        "title": "Loom AI: what you need to know",
-        "meta": "Atlassian"
-      },
-      {
-        "dot": "faint",
-        "url": "https://mail.google.com/mail/u/0/#inbox/19f9778c79993c19",
-        "title": "New announcement for JSearch API",
-        "meta": "RapidAPI"
+        "url": "https://mail.google.com/mail/u/0/#inbox/19fa43c4a2a055e6",
+        "title": "27 new soccer & betting jobs",
+        "meta": "Your daily digest · Jul 27"
       }
     ],
-    "note": "Most of the 41 unread are newsletters and promotions."
+    "note": "34 unread in the last 10 days — the rest are newsletters, receipts, and security alerts."
   },
   "drive": [
     {
       "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit",
-      "title": "UD7016 - High Performance Environments - Group Presentation",
-      "meta": "Google Doc · edited Jul 25"
+      "title": "UD7016 — High Performance Environments",
+      "meta": "Doc · shared · updated Jul 27"
     },
     {
       "url": "https://drive.google.com/file/d/1Y9z_mCmhndUaShrU2y8lP6ZTR27jgSk-/view",
-      "title": "LAFC-Field-Guide.pdf",
+      "title": "LAFC Field Guide",
       "meta": "PDF · Jul 22"
     },
     {
@@ -132,7 +211,7 @@
     {
       "url": "https://docs.google.com/document/d/1CEaB_F1xqczI4qi8yIrOFul6MGCpeyKQyC_pS0OvHqg/edit",
       "title": "Talking Points — Jack Buckingham",
-      "meta": "Google Doc · Jul 20"
+      "meta": "Doc · Jul 20"
     }
   ]
 }

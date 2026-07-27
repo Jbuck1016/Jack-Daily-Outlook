@@ -1,91 +1,91 @@
 {
-  "note": "Last 10 messages in your primary inbox. Secondary account is not connected.",
+  "note": "Last ~10 received emails per account. Primary is pulled live from the Gmail connector; secondary requires connecting that account.",
   "accounts": [
     {
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-07-26T19:05:38Z",
+      "updated": "2026-07-27T16:45:00Z",
       "emails": [
         {
+          "from": "Your job digest",
+          "subject": "27 new soccer & betting jobs — Jul 27",
+          "snippet": "Daily digest · 27 new · 0 still open. Track applications in your Google Sheet.",
+          "date": "2026-07-27T15:40:42Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/19fa43c4a2a055e6"
+        },
+        {
+          "from": "Zapier",
+          "subject": "AI prompt templates for your agents",
+          "snippet": "16 AI prompt templates the Zapier team relies on to get usable outputs on the first try.",
+          "date": "2026-07-27T15:30:04Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/19fa43295c94bab1"
+        },
+        {
+          "from": "FootballTicketNet",
+          "subject": "Kick off almost here — pick your seat",
+          "snippet": "New transfers, new contracts, and a totally new season.",
+          "date": "2026-07-27T14:56:49Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/19fa41507a091ba9"
+        },
+        {
+          "from": "Simon Austin · TGG",
+          "subject": "Tonight, 7pm UK: Live with Alec Tate",
+          "snippet": "Quick reminder — the masterclass with Alec Tate on individual tactical preparation is tonight.",
+          "date": "2026-07-27T14:31:10Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/19fa3fd3b34253ca"
+        },
+        {
+          "from": "APFA",
+          "subject": "New men's & women's analysis roles uploaded",
+          "snippet": "Check out the latest opportunities on the APFA jobs board.",
+          "date": "2026-07-27T13:23:50Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/19fa3bf90827b00e"
+        },
+        {
+          "from": "PayPal",
+          "subject": "Microsoft: $22.99 USD",
+          "snippet": "You paid $22.99 USD to Microsoft Corporation on Jul 26.",
+          "date": "2026-07-27T06:41:48Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/19fa24ef9f958e8a"
+        },
+        {
+          "from": "Liam Henshaw",
+          "subject": "The Monday morning grind",
+          "snippet": "Fitting football around a day job.",
+          "date": "2026-07-27T05:30:34Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/19fa20db95d00afb"
+        },
+        {
+          "from": "Loom (Atlassian)",
+          "subject": "Your video was viewed: Galaxy Audit Front Office and Transfers",
+          "snippet": "'Galaxy Audit Front Office and Transfers' was watched for the first time.",
+          "date": "2026-07-27T02:51:11Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/19fa17bc911f877e"
+        },
+        {
+          "from": "Claude · Anthropic",
+          "subject": "Security alert: new trusted device added",
+          "snippet": "A new trusted device was added to your Claude account.",
+          "date": "2026-07-26T19:18:12Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/19f9fdd157de2250"
+        },
+        {
           "from": "Apple",
-          "subject": "Your receipt from Apple.",
+          "subject": "Your receipt from Apple",
           "snippet": "Your Apple Account was used to purchase 21 Jump Street and other items.",
           "date": "2026-07-26T18:31:24Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/19f9fb237a875ab0"
-        },
-        {
-          "from": "Jack Buckingham",
-          "subject": "⚽🎰 36 new jobs 🔥2 posted today! — Jul 26",
-          "snippet": "Soccer & Betting Jobs daily digest · July 26, 2026 · 36 new · 1 posted today.",
-          "date": "2026-07-26T14:28:24Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/19f9ed3bf514eb88"
-        },
-        {
-          "from": "Anthropic",
-          "subject": "Your receipt from Anthropic, PBC #2326-2051-0697",
-          "snippet": "Your receipt from Anthropic, PBC #2326-2051-0697.",
-          "date": "2026-07-25T21:26:44Z",
-          "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/19f9b2c61e3e68fe"
-        },
-        {
-          "from": "Atlassian",
-          "subject": "Loom AI: what you need to know",
-          "snippet": "Help your team move faster with Loom AI. Learn how to activate it and review admin controls.",
-          "date": "2026-07-25T17:05:52Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/19f9a3d8c727f183"
-        },
-        {
-          "from": "Jack Buckingham",
-          "subject": "⚽🎰 59 new jobs 🔥3 posted today! — Jul 25",
-          "snippet": "Soccer & Betting Jobs daily digest · July 25, 2026 · 59 new · 2 posted today.",
-          "date": "2026-07-25T14:29:41Z",
-          "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/19f99ae8d7275ae7"
-        },
-        {
-          "from": "Club Avanti",
-          "subject": "Good news – you've got new member rewards.",
-          "snippet": "Use them and upgrade for more. Membership year journey count: 5.",
-          "date": "2026-07-25T12:01:36Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/19f992702d7699d2"
-        },
-        {
-          "from": "Apple Support",
-          "subject": "We'd love to hear how it went with Apple Support.",
-          "snippet": "Overall, how satisfied were you with your recent Apple Support experience?",
-          "date": "2026-07-25T07:14:31Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/19f982027aaea6e3"
-        },
-        {
-          "from": "RapidAPI",
-          "subject": "New announcement for JSearch API",
-          "snippet": "There is a new announcement from JSearch API. View it in the inbox of your Developer Dashboard.",
-          "date": "2026-07-25T04:11:41Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/19f9778c79993c19"
-        },
-        {
-          "from": "Claude",
-          "subject": "A guided way into your first Cowork session",
-          "snippet": "Claude walks you through setup in the conversation — you finish with real prompts, not an empty session.",
-          "date": "2026-07-25T00:39:37Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/19f96b69afcce46c"
-        },
-        {
-          "from": "Canvas (Instructure)",
-          "subject": "Course invitation",
-          "snippet": "You've been invited to the course Professional Diploma in Football Scouting and Tactical Analysis. Role: Student.",
-          "date": "2026-07-25T00:00:07Z",
-          "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/19f969273d3ce103"
         }
       ]
     },
