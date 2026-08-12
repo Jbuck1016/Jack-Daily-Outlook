@@ -1,127 +1,59 @@
 {
-  "dateLabel": "Monday, July 27",
-  "updatedLabel": "Mon Jul 27, 9:45 AM PT",
+  "dateLabel": "Wednesday, August 12",
+  "updatedLabel": "Wed Aug 12, 12:19 PM PT",
   "today": [
     {
-      "time": "10:00 AM",
-      "title": "Class"
-    },
-    {
       "time": "11:00 AM",
-      "title": "CP Sales Weekly",
-      "loc": "LAFC · Zoom"
-    },
-    {
-      "time": "11:00 AM",
-      "title": "Masterclass: Alec Tate — Individual Tactical Prep"
-    },
-    {
-      "time": "11:00 AM – 4:00 PM",
-      "title": "Conall pool time",
-      "accent": "span"
+      "title": "Jamie at stedman clinic"
     }
   ],
-  "todayNote": "Class, then the Alec Tate tactical masterclass; CP Sales Weekly on Zoom at 11; pool time with Conall through the afternoon.",
+  "todayNote": "One thing on the personal calendar today — Jamie at the Stedman clinic at 11. LAFC host Querétaro at BMO tonight, 7:30 PM.",
   "week": [
     {
-      "day": "Tue Jul 28",
+      "day": "Thu Aug 13",
+      "items": [
+        {
+          "time": "12:00 PM",
+          "title": "Lunch w Sam"
+        },
+        {
+          "time": "1:45 PM",
+          "title": "PT"
+        },
+        {
+          "time": "8:00 PM",
+          "title": "Hang w Sam"
+        }
+      ]
+    },
+    {
+      "day": "Fri Aug 14",
+      "items": []
+    },
+    {
+      "day": "Sat Aug 15",
+      "items": [
+        {
+          "time": "2:45 PM",
+          "title": "Odyssey",
+          "loc": "TCL Chinese Theatre"
+        }
+      ]
+    },
+    {
+      "day": "Sun Aug 16",
       "items": [
         {
           "time": "6:00 PM",
-          "title": "Dinner w/ Andy"
+          "title": "Hang w ava"
         }
       ]
-    },
-    {
-      "day": "Wed Jul 29",
-      "items": [
-        {
-          "time": "10:00 AM",
-          "title": "HOLD: SAAS Call"
-        },
-        {
-          "time": "5:00 PM",
-          "title": "Therapy"
-        },
-        {
-          "time": "5:00 PM",
-          "title": "MLS All-Star Game"
-        },
-        {
-          "time": "8:30 PM",
-          "title": "Hang w/ Victoria & Abigail"
-        }
-      ]
-    },
-    {
-      "day": "Thu Jul 30",
-      "items": [
-        {
-          "time": "11:00 AM",
-          "title": "HOLD: SAAS Call"
-        },
-        {
-          "time": "2:30 PM",
-          "title": "Dr Dugar"
-        },
-        {
-          "time": "9:45 PM",
-          "title": "Spider-Man: Brand New Day"
-        }
-      ]
-    },
-    {
-      "day": "Fri Jul 31",
-      "items": [
-        {
-          "time": "8:00 AM",
-          "title": "Dr Roostaein"
-        },
-        {
-          "time": "12:00 PM",
-          "title": "1:1 — Jack B // Jack C"
-        }
-      ]
-    },
-    {
-      "day": "Sat Aug 1",
-      "items": [
-        {
-          "time": "All day",
-          "title": "Natalie wedding"
-        },
-        {
-          "time": "4:30 PM",
-          "title": "LAFC @ Vancouver Whitecaps"
-        }
-      ]
-    },
-    {
-      "day": "Sun Aug 2",
-      "items": []
     }
   ],
   "tasks": {
-    "pillText": "3 overdue",
-    "pillWarn": true,
-    "overdue": [
-      {
-        "title": "Email IT for SaaS, DBeaver, Zoom, Slack",
-        "url": "https://app.todoist.com/app/task/6h7WmqGx7MCgxmmH",
-        "prio": "P1",
-        "meta": "5 days overdue"
-      },
-      {
-        "title": "Email Stefano to join Zoom (parking email)",
-        "url": "https://app.todoist.com/app/task/6h7Wrj2jpmv73ghH",
-        "meta": "4 days overdue"
-      },
-      {
-        "title": "Text Garrett",
-        "url": "https://app.todoist.com/app/task/6h7qvXXpCQG4Qmgq",
-        "meta": "3 days overdue"
-      }
-    ],
+    "pillText": "0 overdue · 2 today",
+    "pillWarn": false,
+    "overdue": [],
     "recurring": [
       {
         "title": "Take meds",
@@ -137,81 +69,51 @@
   },
   "followups": [
     {
-      "dot": "red",
-      "url": "https://mail.google.com/mail/u/0/#inbox/19f8b989f087efc2",
-      "title": "Register on ADP iPay for your 2025 W-2",
-      "meta": "WME Payroll (K. Schiller) sent the registration steps"
+      "dot": "amber",
+      "url": "https://mail.google.com/mail/u/0/#inbox/19ff2029628dc695",
+      "title": "Select your TGG Live 26 breakout sessions",
+      "meta": "You're registered — organizer needs your picks"
     },
     {
-      "dot": "amber",
-      "url": "https://app.todoist.com/app/task/6h7WmqGx7MCgxmmH",
-      "title": "Clear the P1 — email IT for SaaS, DBeaver, Zoom, Slack",
-      "meta": "5 days overdue"
-    },
-    {
-      "dot": "amber",
-      "url": "https://mail.google.com/mail/u/0/#inbox/19fa3bf90827b00e",
-      "title": "New analysis roles on the APFA board",
-      "meta": "Men's & women's roles just uploaded"
+      "dot": "green",
+      "url": "https://mail.google.com/mail/u/0/#inbox/19fdd019dbe51990",
+      "title": "LA Sport & Entertainment Career Expo · Sept 16",
+      "meta": "Networking event invite from TeamWork Online"
     }
   ],
   "inbox": {
-    "unread": 34,
+    "unread": 40,
     "items": [
       {
-        "dot": "red",
-        "url": "https://mail.google.com/mail/u/0/#inbox/19f8b989f087efc2",
-        "title": "K. Schiller · WME Payroll",
-        "tag": "REPLY",
-        "meta": "W-2 access via ADP iPay — register to pull it"
-      },
-      {
         "dot": "amber",
-        "url": "https://mail.google.com/mail/u/0/#inbox/19fa3bf90827b00e",
-        "title": "APFA — new analysis roles uploaded",
-        "meta": "Men's & women's analysis jobs"
-      },
-      {
-        "dot": "amber",
-        "url": "https://mail.google.com/mail/u/0/#inbox/19f94e4aa64ddad7",
-        "title": "UCLA Health — new message",
-        "meta": "myUCLAhealth · Jul 24 · flagged important"
-      },
-      {
-        "dot": "faint",
-        "url": "https://mail.google.com/mail/u/0/#inbox/19fa17bc911f877e",
-        "title": "Your Galaxy Audit video got its first view",
-        "meta": "Loom · 'Galaxy Audit Front Office and Transfers'"
-      },
-      {
-        "dot": "faint",
-        "url": "https://mail.google.com/mail/u/0/#inbox/19fa43c4a2a055e6",
-        "title": "27 new soccer & betting jobs",
-        "meta": "Your daily digest · Jul 27"
+        "url": "https://mail.google.com/mail/u/0/#inbox/19fdd019dbe51990",
+        "title": "LA Sport & Entertainment Career Expo (Sept 16)",
+        "tag": "EVENT",
+        "meta": "TeamWork Online"
       }
     ],
-    "note": "34 unread in the last 10 days — the rest are newsletters, receipts, and security alerts."
+    "note": "~40 unread in the last two weeks, almost all newsletters and promotions — nothing else needs a reply."
   },
   "drive": [
     {
-      "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit",
-      "title": "UD7016 — High Performance Environments",
-      "meta": "Doc · shared · updated Jul 27"
+      "url": "https://docs.google.com/document/d/1VoMe13BGn7l1i3BRSxAVICiDY3-ySZKywY-pv9iunVk/edit",
+      "title": "rep_review_nathan.md",
+      "meta": "Doc · updated Aug 11"
     },
     {
-      "url": "https://drive.google.com/file/d/1Y9z_mCmhndUaShrU2y8lP6ZTR27jgSk-/view",
-      "title": "LAFC Field Guide",
-      "meta": "PDF · Jul 22"
+      "url": "https://docs.google.com/document/d/1D5MKXgbSBG1Z6KSh9vBTJ1pPuixnpV4EzpqkPZAGfV0/edit",
+      "title": "Changelog-Outreach-Sequences.md",
+      "meta": "Doc · Aug 3"
     },
     {
-      "url": "https://docs.google.com/presentation/d/1V9ExWjpDpQt7I6aZTYjOXe32RorhXuLmM1CY3FhMG-w/edit",
-      "title": "LA Galaxy Audit — Jack Buckingham",
-      "meta": "Slides · Jul 21"
+      "url": "https://docs.google.com/document/d/1X1mx19PTblGafdfrOUg7RWxm6iYtLaDh1P7fYVJxXQM/edit",
+      "title": "Nates-Outreach-Preferences",
+      "meta": "Doc · Aug 3"
     },
     {
-      "url": "https://docs.google.com/document/d/1CEaB_F1xqczI4qi8yIrOFul6MGCpeyKQyC_pS0OvHqg/edit",
-      "title": "Talking Points — Jack Buckingham",
-      "meta": "Doc · Jul 20"
+      "url": "https://drive.google.com/file/d/1aLViGsMTJcfxXWoAfkZj07ipZ150S33D/view",
+      "title": "1-what-charlotte-built.pdf",
+      "meta": "PDF · Jul 31"
     }
   ]
 }
