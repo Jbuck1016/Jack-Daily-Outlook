@@ -1,5 +1,6 @@
 import Nav from "../nav";
-import inboxes from "@/data/inboxes.json";
+import inboxesFallback from "@/data/inboxes.json";
+import { loadData } from "@/lib/data";
 
 export const dynamic = "force-dynamic";
 
@@ -20,7 +21,8 @@ function fmt(iso) {
 
 const TONES = ["acc-sky", "acc-violet", "acc-emerald", "acc-amber"];
 
-export default function Inboxes() {
+export default async function Inboxes() {
+  const inboxes = await loadData("inboxes.json", inboxesFallback);
   const accounts = inboxes.accounts || [];
   const totalUnread = accounts
     .filter((a) => a.connected)

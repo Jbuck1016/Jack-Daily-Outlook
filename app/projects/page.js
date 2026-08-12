@@ -1,5 +1,6 @@
 import Nav from "../nav";
-import projectsData from "@/data/projects.json";
+import projectsFallback from "@/data/projects.json";
+import { loadData } from "@/lib/data";
 
 export const dynamic = "force-dynamic";
 
@@ -12,7 +13,8 @@ const TONE = {
   violet: "t-violet",
 };
 
-export default function Projects() {
+export default async function Projects() {
+  const projectsData = await loadData("projects.json", projectsFallback);
   const projects = projectsData.projects || [];
   return (
     <div className="wrap">

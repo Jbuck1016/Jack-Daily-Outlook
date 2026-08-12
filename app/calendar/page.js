@@ -1,9 +1,11 @@
 import Nav from "../nav";
-import cal from "@/data/calendar.json";
+import calFallback from "@/data/calendar.json";
+import { loadData } from "@/lib/data";
 
 export const dynamic = "force-dynamic";
 
-export default function Calendar() {
+export default async function Calendar() {
+  const cal = await loadData("calendar.json", calFallback);
   const sources = cal.sources || [];
   const days = cal.days || [];
   const pending = sources.find((s) => s.key === "lafc-work" && !s.connected);

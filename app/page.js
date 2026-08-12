@@ -1,11 +1,14 @@
 import Nav from "./nav";
 import Link from "next/link";
-import daily from "@/data/daily.json";
-import projectsData from "@/data/projects.json";
+import dailyFallback from "@/data/daily.json";
+import projectsFallback from "@/data/projects.json";
+import { loadData } from "@/lib/data";
 
 export const dynamic = "force-dynamic";
 
-export default function Hub() {
+export default async function Hub() {
+  const daily = await loadData("daily.json", dailyFallback);
+  const projectsData = await loadData("projects.json", projectsFallback);
   const projectCount = (projectsData.projects || []).length;
   return (
     <div className="wrap">

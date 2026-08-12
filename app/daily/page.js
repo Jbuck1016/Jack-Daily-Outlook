@@ -1,5 +1,6 @@
 import Nav from "../nav";
-import data from "@/data/daily.json";
+import dataFallback from "@/data/daily.json";
+import { loadData } from "@/lib/data";
 
 export const dynamic = "force-dynamic";
 
@@ -54,8 +55,8 @@ function Task({ t }) {
   );
 }
 
-export default function Daily() {
-  const d = data;
+export default async function Daily() {
+  const d = await loadData("daily.json", dataFallback);
   const tasks = d.tasks || {};
   const inbox = d.inbox || {};
   return (
