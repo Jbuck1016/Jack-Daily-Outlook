@@ -5,90 +5,89 @@
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-08-12T19:25:39Z",
+      "updated": "2026-08-13T21:43:00Z",
       "emails": [
         {
-          "from": "Apple",
-          "subject": "Your Apple Account was used to sign in to iCloud on a MacBook Pro (14-inch, M5).",
-          "snippet": "Your Apple Account was used to sign in to iCloud on a MacBook Pro (14-inch, M5). Date and Time: August 12, 2026, 11:26 AM PDT.",
-          "date": "2026-08-12T18:26:54Z",
+          "from": "Atlassian",
+          "subject": "Last chance: your subscription will be deactivated soon",
+          "snippet": "It's not too late to keep the work you've done so far! This is your last chance to add payment details before your subscription is deactivated.",
+          "date": "2026-08-13T19:32:03Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/19ffc9c364cd3621"
+        },
+        {
+          "from": "FootballTicketNet",
+          "subject": "Missing La Liga, Premier League, Serie A or the Bundesliga?",
+          "snippet": "We have you covered — FTN saved the ultimate tickets for you.",
+          "date": "2026-08-13T18:05:43Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/19ffc4db88a86078"
+        },
+        {
+          "from": "Amazon",
+          "subject": "Delivered: 3 Nutrition & Wellness items",
+          "snippet": "Your order of 3 Nutrition & Wellness items was delivered.",
+          "date": "2026-08-13T17:27:05Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/19ffc29caa836043"
+        },
+        {
+          "from": "Burke Williams",
+          "subject": "Recharge with our Summer Recovery Package",
+          "snippet": "Infuse your body with renewed energy and step back out into the world completely restored.",
+          "date": "2026-08-13T16:13:30Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/19ffbe66c41615a4"
+        },
+        {
+          "from": "FootballTicketNet",
+          "subject": "The leagues are back for 2026/27",
+          "snippet": "Grab the best seats at the best price before everyone else does. New transfers, new season — the wait is nearly over.",
+          "date": "2026-08-13T14:53:46Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/19ffb9ea1fafcf72"
+        },
+        {
+          "from": "Jack Buckingham",
+          "subject": "⚽🎰 43 new jobs — Aug 13",
+          "snippet": "Soccer & Betting Jobs daily digest · August 13, 2026. 43 new, 0 still open. Click 'Log Application' on any job to open your tracker.",
+          "date": "2026-08-13T14:21:01Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/19ffb7f715b9ea2c"
+        },
+        {
+          "from": "Amazon",
+          "subject": "Shipped: 3 Nutrition & Wellness items",
+          "snippet": "Your order of 3 Nutrition & Wellness items has shipped.",
+          "date": "2026-08-13T14:10:23Z",
           "unread": true,
           "tag": "Important",
-          "url": "https://mail.google.com/mail/u/0/#inbox/19ff73a335dc8840"
+          "url": "https://mail.google.com/mail/u/0/#inbox/19ffb75b8d9f60a1"
         },
         {
-          "from": "Barça Innovation Hub",
-          "subject": "The season begins - 40% off until August 16th on your training",
-          "snippet": "New season. 40% off with SEASON40 until August 16th.",
-          "date": "2026-08-12T13:33:29Z",
+          "from": "Simon Austin (TGG)",
+          "subject": "Premium Members offer: £76 off TGG Live '26",
+          "snippet": "£76 off your ticket to TGG Live '26.",
+          "date": "2026-08-13T11:45:15Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/19ff62d997096af3"
+          "url": "https://mail.google.com/mail/u/0/#inbox/19ffaf0de4f21e0a"
         },
         {
-          "from": "Apple Developer",
-          "subject": "Watch and learn.",
-          "snippet": "Explore a variety of sessions, labs, and workshops, all around the world and online.",
-          "date": "2026-08-11T19:48:56Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/19ff25ef337a06fd"
-        },
-        {
-          "from": "Audible",
-          "subject": "Get Audible Premium for just $0.99/mo",
-          "snippet": "For a limited time, save over 80%. Just $0.99/mo for the first 3 months.",
-          "date": "2026-08-11T19:45:13Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/19ff25b8f4d53c62"
-        },
-        {
-          "from": "Audible",
-          "subject": "Hundreds of titles, up to 80% off!",
-          "snippet": "Shop August's Monthly Deals. Don't miss out on our top offers.",
-          "date": "2026-08-11T19:18:00Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/19ff242a3019696d"
-        },
-        {
-          "from": "Siobhan · PR Moment",
-          "subject": "Important - Select your TGG Live 26 Breakout Sessions!",
-          "snippet": "Thank you for purchasing your ticket to TGG Live 26! Select your breakout sessions ahead of the event.",
-          "date": "2026-08-11T18:07:52Z",
-          "unread": false,
-          "tag": "Important",
-          "url": "https://mail.google.com/mail/u/0/#inbox/19ff2029628dc695"
-        },
-        {
-          "from": "Claude · Anthropic",
-          "subject": "Your secure link to Claude.ai is here",
-          "snippet": "Click the button below to finish signing in. This link expires in 10 minutes.",
-          "date": "2026-08-11T17:32:20Z",
-          "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/19ff1e1e4cd4f60f"
-        },
-        {
-          "from": "The Transfer Flow",
-          "subject": "Is this Real Madrid loanee a budding superstar?",
-          "snippet": "Plus a ton of Arsenal sales, a surprising swap, Forest sign a big dude.",
-          "date": "2026-08-11T17:10:25Z",
+          "from": "Jane Buckingham",
+          "subject": "Re: NEW OUTBOUND LAX to JFK",
+          "snippet": "NOPE! good use of them! (Re: American Airlines trip confirmation, LAX–JFK.)",
+          "date": "2026-08-13T01:16:07Z",
           "unread": true,
           "tag": "Important",
-          "url": "https://mail.google.com/mail/u/0/#inbox/19ff1cdd256b1282"
+          "url": "https://mail.google.com/mail/u/0/#inbox/19ff8767db480997"
         },
         {
-          "from": "Barça Innovation Hub",
-          "subject": "The season begins - 40% off until August 16th on your training",
-          "snippet": "The season begins. 40% off with SEASON40 until August 16th.",
-          "date": "2026-08-11T13:31:43Z",
+          "from": "Amazon",
+          "subject": "Ordered: 2 Nutrition & Wellness items",
+          "snippet": "Your order of 2 Nutrition & Wellness items was placed.",
+          "date": "2026-08-13T01:05:51Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/19ff1059955205db"
-        },
-        {
-          "from": "Simon Austin · TGG",
-          "subject": "TGG Live flagship session",
-          "snippet": "Three leading Academy Directors. One stage.",
-          "date": "2026-08-11T11:45:34Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/19ff0a469d4581df"
+          "url": "https://mail.google.com/mail/u/0/#inbox/19ff8a775b243321"
         }
       ]
     },

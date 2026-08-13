@@ -1,31 +1,19 @@
 {
-  "dateLabel": "Wednesday, August 12",
-  "updatedLabel": "Wed Aug 12, 12:25 PM PT",
+  "dateLabel": "Thursday, August 13",
+  "updatedLabel": "Thu Aug 13, 2:43 PM PT",
   "today": [
     {
-      "time": "11:00 AM",
-      "title": "Jamie at stedman clinic"
+      "time": "3:15 PM",
+      "title": "PT"
+    },
+    {
+      "time": "8:00 PM",
+      "title": "Hang w Sam",
+      "accent": "eve"
     }
   ],
-  "todayNote": "One thing on the personal calendar today — Jamie at the Stedman clinic at 11. LAFC host Querétaro at BMO tonight, 7:30 PM.",
+  "todayNote": "Quiet personal day — PT at 3:15, then Sam at 8. Work calendar has the JWO syncs and the SAS/LAFC Thursday hands-on block. No LAFC match today; next one is Sat vs. San Diego FC at BMO.",
   "week": [
-    {
-      "day": "Thu Aug 13",
-      "items": [
-        {
-          "time": "12:00 PM",
-          "title": "Lunch w Sam"
-        },
-        {
-          "time": "1:45 PM",
-          "title": "PT"
-        },
-        {
-          "time": "8:00 PM",
-          "title": "Hang w Sam"
-        }
-      ]
-    },
     {
       "day": "Fri Aug 14",
       "items": []
@@ -35,8 +23,7 @@
       "items": [
         {
           "time": "2:45 PM",
-          "title": "Odyssey",
-          "loc": "TCL Chinese Theatre"
+          "title": "Odyssey"
         }
       ]
     },
@@ -70,50 +57,81 @@
   "followups": [
     {
       "dot": "amber",
-      "url": "https://mail.google.com/mail/u/0/#inbox/19ff2029628dc695",
-      "title": "Select your TGG Live 26 breakout sessions",
-      "meta": "You're registered — organizer needs your picks"
+      "url": "https://mail.google.com/mail/u/0/#inbox/19fdd019dbe51990",
+      "title": "LA Sport & Entertainment Career Expo",
+      "meta": "Networking event Sept 16 — RSVP if you're going"
     },
     {
       "dot": "green",
-      "url": "https://mail.google.com/mail/u/0/#inbox/19fdd019dbe51990",
-      "title": "LA Sport & Entertainment Career Expo · Sept 16",
-      "meta": "Networking event invite from TeamWork Online"
+      "url": "https://mail.google.com/mail/u/0/#inbox/19ff8767db480997",
+      "title": "Jane — LAX→JFK trip confirmed",
+      "meta": "She okayed using the miles; no reply needed"
     }
   ],
   "inbox": {
-    "unread": 40,
+    "unread": 51,
     "items": [
       {
         "dot": "amber",
-        "url": "https://mail.google.com/mail/u/0/#inbox/19fdd019dbe51990",
-        "title": "LA Sport & Entertainment Career Expo (Sept 16)",
+        "url": "https://mail.google.com/mail/u/0/#inbox/19ff8767db480997",
+        "title": "Jane Buckingham — LAX→JFK trip",
         "tag": "EVENT",
-        "meta": "TeamWork Online"
+        "meta": "Personal · Aug 13"
+      },
+      {
+        "dot": "amber",
+        "url": "https://mail.google.com/mail/u/0/#inbox/19fdd019dbe51990",
+        "title": "LA Sport & Entertainment Career Expo",
+        "tag": "EVENT",
+        "meta": "Sept 16 · TeamWorkOnline"
+      },
+      {
+        "dot": "faint",
+        "url": "https://mail.google.com/mail/u/0/#inbox/19ff8976b10f7a7b",
+        "title": "Metrica Sports — receipt $225",
+        "meta": "Nexus Pro · Aug 13"
+      },
+      {
+        "dot": "faint",
+        "url": "https://mail.google.com/mail/u/0/#inbox/19ffc29caa836043",
+        "title": "Amazon — 3 items delivered",
+        "meta": "Aug 13"
+      },
+      {
+        "dot": "faint",
+        "url": "https://mail.google.com/mail/u/0/#inbox/19ffc9c364cd3621",
+        "title": "Atlassian — subscription deactivating",
+        "meta": "Billing nudge · Aug 13"
+      },
+      {
+        "dot": "faint",
+        "url": "https://mail.google.com/mail/u/0/#inbox/19ff1cdd256b1282",
+        "title": "The Transfer Flow",
+        "meta": "Newsletter · Aug 11"
       }
     ],
-    "note": "~40 unread in the last two weeks, almost all newsletters and promotions — nothing else needs a reply."
+    "note": "51 unread in the last 14 days — mostly newsletters (football, US Soccer, TGG), promos, and Amazon/receipt updates. Jane's travel thread is the only personal one."
   },
   "drive": [
     {
       "url": "https://docs.google.com/document/d/1VoMe13BGn7l1i3BRSxAVICiDY3-ySZKywY-pv9iunVk/edit",
-      "title": "rep_review_nathan.md",
-      "meta": "Doc · updated Aug 11"
+      "title": "rep_review_nathan",
+      "meta": "Google Doc · edited Aug 11"
     },
     {
       "url": "https://docs.google.com/document/d/1D5MKXgbSBG1Z6KSh9vBTJ1pPuixnpV4EzpqkPZAGfV0/edit",
-      "title": "Changelog-Outreach-Sequences.md",
-      "meta": "Doc · Aug 3"
+      "title": "Changelog-Outreach-Sequences",
+      "meta": "Google Doc · edited Aug 3"
     },
     {
       "url": "https://docs.google.com/document/d/1X1mx19PTblGafdfrOUg7RWxm6iYtLaDh1P7fYVJxXQM/edit",
       "title": "Nates-Outreach-Preferences",
-      "meta": "Doc · Aug 3"
+      "meta": "Google Doc · edited Aug 3"
     },
     {
-      "url": "https://drive.google.com/file/d/1aLViGsMTJcfxXWoAfkZj07ipZ150S33D/view",
-      "title": "1-what-charlotte-built.pdf",
-      "meta": "PDF · Jul 31"
+      "url": "https://docs.google.com/presentation/d/1V9ExWjpDpQt7I6aZTYjOXe32RorhXuLmM1CY3FhMG-w/edit",
+      "title": "LA_Galaxy_Audit_Jack_Buckingham",
+      "meta": "Slides · edited Jul 21"
     }
   ]
 }

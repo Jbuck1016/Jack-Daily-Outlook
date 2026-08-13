@@ -1,5 +1,5 @@
 {
-  "updatedLabel": "Wed Aug 12, 12:25 PM PT",
+  "updatedLabel": "Thu Aug 13, 2:43 PM PT",
   "sources": [
     {
       "key": "personal",
@@ -19,46 +19,29 @@
   ],
   "days": [
     {
-      "label": "Wed · Aug 12",
+      "label": "Thu · Aug 13",
       "today": true,
       "events": [
         {
-          "time": "10:00 AM",
-          "title": "SAS/LAFC Weekly Status Sync",
-          "loc": "Teams",
+          "time": "10:15 AM",
+          "title": "JWO Sync",
           "src": "lafc-work"
         },
         {
           "time": "11:00 AM",
-          "title": "Jamie at stedman clinic",
-          "src": "personal"
-        },
-        {
-          "time": "7:30 PM",
-          "title": "LAFC vs. Querétaro (Leagues Cup)",
-          "loc": "BMO Stadium",
-          "src": "lafc-match"
-        }
-      ]
-    },
-    {
-      "label": "Thu · Aug 13",
-      "events": [
-        {
-          "time": "11:00 AM",
-          "title": "SAS/LAFC Thursday Hands-On Time",
+          "title": "SAS/LAFC Weekly Thursday Hands-On Time",
           "loc": "Teams",
           "src": "lafc-work"
         },
         {
-          "time": "12:00 PM",
-          "title": "Lunch w Sam",
-          "src": "personal"
+          "time": "1:00 PM",
+          "title": "JWO Analysis",
+          "src": "lafc-work"
         },
         {
-          "time": "1:45 PM",
-          "title": "PT",
-          "src": "personal"
+          "time": "3:15 PM",
+          "title": "Busy",
+          "src": "lafc-work"
         },
         {
           "time": "8:00 PM",
@@ -133,6 +116,11 @@
           "title": "Laser hair",
           "loc": "Grossman Dermatology",
           "src": "personal"
+        },
+        {
+          "time": "2:30 PM",
+          "title": "Databricks Debrief",
+          "src": "lafc-work"
         }
       ]
     },
@@ -198,8 +186,13 @@
           "src": "personal"
         },
         {
+          "time": "9:30 AM",
+          "title": "Zani x Jackson 1on1 re: Brand Impression Integration",
+          "src": "lafc-work"
+        },
+        {
           "time": "11:00 AM",
-          "title": "SAS/LAFC Thursday Hands-On Time",
+          "title": "SAS/LAFC Weekly Thursday Hands-On Time",
           "loc": "Teams",
           "src": "lafc-work"
         }
@@ -236,7 +229,7 @@
       "events": [
         {
           "time": "2:00 PM",
-          "title": "All Points East — Outbreak (Deftones)",
+          "title": "All Points East Festival — Outbreak (Deftones)",
           "loc": "Victoria Park, London",
           "src": "personal"
         }
@@ -276,6 +269,11 @@
           "time": "6:00 PM",
           "title": "WME drinks",
           "src": "personal"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "lil yuh draft",
+          "src": "personal"
         }
       ]
     },
@@ -287,6 +285,22 @@
           "title": "SAS/LAFC Weekly Status Sync",
           "loc": "Teams",
           "src": "lafc-work"
+        }
+      ]
+    },
+    {
+      "label": "Thu · Aug 27",
+      "events": [
+        {
+          "time": "11:00 AM",
+          "title": "SAS/LAFC Weekly Thursday Hands-On Time",
+          "loc": "Teams",
+          "src": "lafc-work"
+        },
+        {
+          "time": "3:30 PM",
+          "title": "Dr Dugar",
+          "src": "personal"
         }
       ]
     }
