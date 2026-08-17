@@ -1,93 +1,91 @@
 {
-  "note": "Last ~10 received emails per account. Primary is pulled live from the Gmail connector; secondary requires connecting that account.",
+  "note": "Last 10 messages in your primary inbox — mostly promotions, receipts, and your own job-digest sends today.",
   "accounts": [
     {
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-08-13T21:43:00Z",
+      "updated": "2026-08-17T07:26:10Z",
       "emails": [
         {
-          "from": "Atlassian",
-          "subject": "Last chance: your subscription will be deactivated soon",
-          "snippet": "It's not too late to keep the work you've done so far! This is your last chance to add payment details before your subscription is deactivated.",
-          "date": "2026-08-13T19:32:03Z",
+          "from": "Apple",
+          "subject": "Thank You for Submitting Your App",
+          "snippet": "We've received your app for review. FADE - Pick 'Em iOS. Thanks for submitting FADE - Pick 'Em for review.",
+          "date": "2026-08-17T17:22:24Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/19ffc9c364cd3621"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a010bef58ba6432"
         },
         {
-          "from": "FootballTicketNet",
-          "subject": "Missing La Liga, Premier League, Serie A or the Bundesliga?",
-          "snippet": "We have you covered — FTN saved the ultimate tickets for you.",
-          "date": "2026-08-13T18:05:43Z",
+          "from": "Google",
+          "subject": "You shared some Google Account data with Claude",
+          "snippet": "You're receiving this email because you used Sign in with Google to sign in to Claude on August 17 at 9:41 AM.",
+          "date": "2026-08-17T16:41:59Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/19ffc4db88a86078"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a01099f3be48512"
         },
         {
-          "from": "Amazon",
-          "subject": "Delivered: 3 Nutrition & Wellness items",
-          "snippet": "Your order of 3 Nutrition & Wellness items was delivered.",
-          "date": "2026-08-13T17:27:05Z",
+          "from": "Football Ticket Net",
+          "subject": "Your Wait Is Over & We Are Back ⚽ New Season! Top Leagues!",
+          "snippet": "The Best Time To Get The Tickets You Dreams On!",
+          "date": "2026-08-17T14:41:35Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/19ffc29caa836043"
-        },
-        {
-          "from": "Burke Williams",
-          "subject": "Recharge with our Summer Recovery Package",
-          "snippet": "Infuse your body with renewed energy and step back out into the world completely restored.",
-          "date": "2026-08-13T16:13:30Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/19ffbe66c41615a4"
-        },
-        {
-          "from": "FootballTicketNet",
-          "subject": "The leagues are back for 2026/27",
-          "snippet": "Grab the best seats at the best price before everyone else does. New transfers, new season — the wait is nearly over.",
-          "date": "2026-08-13T14:53:46Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/19ffb9ea1fafcf72"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0102d412bc5a83"
         },
         {
           "from": "Jack Buckingham",
-          "subject": "⚽🎰 43 new jobs — Aug 13",
-          "snippet": "Soccer & Betting Jobs daily digest · August 13, 2026. 43 new, 0 still open. Click 'Log Application' on any job to open your tracker.",
-          "date": "2026-08-13T14:21:01Z",
+          "subject": "⚽🎰 36 new jobs — Aug 17",
+          "snippet": "Soccer & Betting Jobs daily digest · August 17, 2026 · 36 new · 0 still open.",
+          "date": "2026-08-17T13:37:15Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/19ffb7f715b9ea2c"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a00ff0d2f376ab5"
         },
         {
-          "from": "Amazon",
-          "subject": "Shipped: 3 Nutrition & Wellness items",
-          "snippet": "Your order of 3 Nutrition & Wellness items has shipped.",
-          "date": "2026-08-13T14:10:23Z",
+          "from": "Liam Henshaw",
+          "subject": "The club that turned me down twice",
+          "snippet": "The positives about job rejection.",
+          "date": "2026-08-17T05:31:08Z",
           "unread": true,
-          "tag": "Important",
-          "url": "https://mail.google.com/mail/u/0/#inbox/19ffb75b8d9f60a1"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a00e33c5feadd00"
         },
         {
-          "from": "Simon Austin (TGG)",
-          "subject": "Premium Members offer: £76 off TGG Live '26",
-          "snippet": "£76 off your ticket to TGG Live '26.",
-          "date": "2026-08-13T11:45:15Z",
+          "from": "PayPal",
+          "subject": "Patreon: $1.50 USD",
+          "snippet": "Payment details are inside. You paid $1.50 USD to Patreon. Transaction date Aug 16, 2026.",
+          "date": "2026-08-17T00:20:53Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/19ffaf0de4f21e0a"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a00d17bae23c892"
         },
         {
-          "from": "Jane Buckingham",
-          "subject": "Re: NEW OUTBOUND LAX to JFK",
-          "snippet": "NOPE! good use of them! (Re: American Airlines trip confirmation, LAX–JFK.)",
-          "date": "2026-08-13T01:16:07Z",
+          "from": "Audible",
+          "subject": "The best of the best, all in one place",
+          "snippet": "Treat yourself to a best seller.",
+          "date": "2026-08-16T22:04:20Z",
           "unread": true,
-          "tag": "Important",
-          "url": "https://mail.google.com/mail/u/0/#inbox/19ff8767db480997"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a00c9ab43d95d35"
         },
         {
-          "from": "Amazon",
-          "subject": "Ordered: 2 Nutrition & Wellness items",
-          "snippet": "Your order of 2 Nutrition & Wellness items was placed.",
-          "date": "2026-08-13T01:05:51Z",
+          "from": "Burke Williams",
+          "subject": "Your End-of-Summer Staycation for Two",
+          "snippet": "Enjoy over 20% off summer gift card packages.",
+          "date": "2026-08-16T15:01:33Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/19ff8a775b243321"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a00b18ec08786ec"
+        },
+        {
+          "from": "Jack Buckingham",
+          "subject": "⚽🎰 44 new jobs — Aug 16",
+          "snippet": "Soccer & Betting Jobs daily digest · August 16, 2026 · 44 new · 0 still open.",
+          "date": "2026-08-16T13:28:29Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a00ac26f5295c79"
+        },
+        {
+          "from": "Apple",
+          "subject": "Your receipt from Apple.",
+          "snippet": "Receipt & Renewal Notice, August 15, 2026. AppleCare One Monthly, coverage for up to 3 devices.",
+          "date": "2026-08-16T01:31:40Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0083243b10eb0d"
         }
       ]
     },

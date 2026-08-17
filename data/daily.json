@@ -1,38 +1,65 @@
 {
-  "dateLabel": "Thursday, August 13",
-  "updatedLabel": "Thu Aug 13, 2:43 PM PT",
+  "dateLabel": "Monday, Aug 17",
+  "updatedLabel": "Mon Aug 17, 12:26 AM PT",
   "today": [
     {
-      "time": "3:15 PM",
-      "title": "PT"
+      "time": "10:00 AM",
+      "title": "Class"
     },
     {
-      "time": "8:00 PM",
-      "title": "Hang w Sam",
-      "accent": "eve"
+      "time": "3:30 PM",
+      "title": "Laser hair",
+      "loc": "Grossman Dermatology"
     }
   ],
-  "todayNote": "Quiet personal day — PT at 3:15, then Sam at 8. Work calendar has the JWO syncs and the SAS/LAFC Thursday hands-on block. No LAFC match today; next one is Sat vs. San Diego FC at BMO.",
+  "todayNote": "Two personal items today; LAFC calls (CP Sales Weekly, two 1-on-1s) live on your work calendar.",
   "week": [
     {
-      "day": "Fri Aug 14",
-      "items": []
-    },
-    {
-      "day": "Sat Aug 15",
+      "day": "Tue Aug 18",
       "items": [
         {
-          "time": "2:45 PM",
-          "title": "Odyssey"
+          "time": "2:00 PM",
+          "title": "PT"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Drinks w JVN"
         }
       ]
     },
     {
-      "day": "Sun Aug 16",
+      "day": "Wed Aug 19",
       "items": [
         {
           "time": "6:00 PM",
-          "title": "Hang w ava"
+          "title": "Video games with Jay"
+        }
+      ]
+    },
+    {
+      "day": "Fri Aug 21",
+      "items": [
+        {
+          "time": "6:00 PM",
+          "title": "Dinner w Erik and Jay"
+        }
+      ]
+    },
+    {
+      "day": "Sat Aug 22",
+      "items": [
+        {
+          "time": "6:00 PM",
+          "title": "Jay bday"
+        }
+      ]
+    },
+    {
+      "day": "Sun Aug 23",
+      "items": [
+        {
+          "time": "2:00 PM",
+          "title": "All Points East Festival — Deftones"
         }
       ]
     }
@@ -56,82 +83,64 @@
   },
   "followups": [
     {
+      "dot": "green",
+      "url": "https://mail.google.com/mail/u/0/#inbox/1a010bef58ba6432",
+      "title": "FADE – Pick 'Em submitted for App Store review",
+      "meta": "Apple · today"
+    },
+    {
       "dot": "amber",
       "url": "https://mail.google.com/mail/u/0/#inbox/19fdd019dbe51990",
       "title": "LA Sport & Entertainment Career Expo",
-      "meta": "Networking event Sept 16 — RSVP if you're going"
-    },
-    {
-      "dot": "green",
-      "url": "https://mail.google.com/mail/u/0/#inbox/19ff8767db480997",
-      "title": "Jane — LAX→JFK trip confirmed",
-      "meta": "She okayed using the miles; no reply needed"
+      "meta": "Sept 16 · RSVP to reserve a spot"
     }
   ],
   "inbox": {
-    "unread": 51,
+    "unread": 43,
     "items": [
       {
         "dot": "amber",
-        "url": "https://mail.google.com/mail/u/0/#inbox/19ff8767db480997",
-        "title": "Jane Buckingham — LAX→JFK trip",
-        "tag": "EVENT",
-        "meta": "Personal · Aug 13"
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a010bef58ba6432",
+        "title": "Thank You for Submitting Your App",
+        "meta": "Apple · App review · today"
       },
       {
         "dot": "amber",
         "url": "https://mail.google.com/mail/u/0/#inbox/19fdd019dbe51990",
         "title": "LA Sport & Entertainment Career Expo",
         "tag": "EVENT",
-        "meta": "Sept 16 · TeamWorkOnline"
+        "meta": "Sept 16 · Teamwork Online"
       },
       {
         "dot": "faint",
-        "url": "https://mail.google.com/mail/u/0/#inbox/19ff8976b10f7a7b",
-        "title": "Metrica Sports — receipt $225",
-        "meta": "Nexus Pro · Aug 13"
-      },
-      {
-        "dot": "faint",
-        "url": "https://mail.google.com/mail/u/0/#inbox/19ffc29caa836043",
-        "title": "Amazon — 3 items delivered",
-        "meta": "Aug 13"
-      },
-      {
-        "dot": "faint",
-        "url": "https://mail.google.com/mail/u/0/#inbox/19ffc9c364cd3621",
-        "title": "Atlassian — subscription deactivating",
-        "meta": "Billing nudge · Aug 13"
-      },
-      {
-        "dot": "faint",
-        "url": "https://mail.google.com/mail/u/0/#inbox/19ff1cdd256b1282",
-        "title": "The Transfer Flow",
-        "meta": "Newsletter · Aug 11"
+        "url": "https://mail.google.com/mail/u/0/#inbox/19feb90131545dc3",
+        "title": "Deep Learning & AI in Sports — free webinar",
+        "tag": "EVENT",
+        "meta": "Mon Aug 24 · twelve.football"
       }
     ],
-    "note": "51 unread in the last 14 days — mostly newsletters (football, US Soccer, TGG), promos, and Amazon/receipt updates. Jane's travel thread is the only personal one."
+    "note": "Most of the 43 unread in the last 14 days are newsletters, promos, and receipts."
   },
   "drive": [
     {
       "url": "https://docs.google.com/document/d/1VoMe13BGn7l1i3BRSxAVICiDY3-ySZKywY-pv9iunVk/edit",
-      "title": "rep_review_nathan",
-      "meta": "Google Doc · edited Aug 11"
+      "title": "rep_review_nathan.md",
+      "meta": "Doc · Aug 11"
     },
     {
       "url": "https://docs.google.com/document/d/1D5MKXgbSBG1Z6KSh9vBTJ1pPuixnpV4EzpqkPZAGfV0/edit",
-      "title": "Changelog-Outreach-Sequences",
-      "meta": "Google Doc · edited Aug 3"
+      "title": "Changelog-Outreach-Sequences.md",
+      "meta": "Doc · Aug 3"
     },
     {
       "url": "https://docs.google.com/document/d/1X1mx19PTblGafdfrOUg7RWxm6iYtLaDh1P7fYVJxXQM/edit",
       "title": "Nates-Outreach-Preferences",
-      "meta": "Google Doc · edited Aug 3"
+      "meta": "Doc · Aug 3"
     },
     {
-      "url": "https://docs.google.com/presentation/d/1V9ExWjpDpQt7I6aZTYjOXe32RorhXuLmM1CY3FhMG-w/edit",
-      "title": "LA_Galaxy_Audit_Jack_Buckingham",
-      "meta": "Slides · edited Jul 21"
+      "url": "https://drive.google.com/file/d/1aLViGsMTJcfxXWoAfkZj07ipZ150S33D/view",
+      "title": "1-what-charlotte-built.pdf",
+      "meta": "PDF · Jul 31"
     }
   ]
 }
