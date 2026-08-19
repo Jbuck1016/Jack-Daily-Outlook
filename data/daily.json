@@ -1,146 +1,65 @@
 {
-  "dateLabel": "Monday, Aug 17",
-  "updatedLabel": "Mon Aug 17, 12:26 AM PT",
+  "dateLabel": "Wednesday, Aug 19",
+  "updatedLabel": "Wed Aug 19, 9:47 AM PT",
   "today": [
-    {
-      "time": "10:00 AM",
-      "title": "Class"
-    },
-    {
-      "time": "3:30 PM",
-      "title": "Laser hair",
-      "loc": "Grossman Dermatology"
-    }
+    { "time": "1:30 PM", "title": "PT" },
+    { "time": "6:00 PM", "title": "Hang w momess", "accent": "eve" }
   ],
-  "todayNote": "Two personal items today; LAFC calls (CP Sales Weekly, two 1-on-1s) live on your work calendar.",
+  "todayNote": "Matchday: LAFC @ Colorado Rapids, 6:30 PM (away).",
   "week": [
     {
-      "day": "Tue Aug 18",
+      "day": "Thu · Aug 20",
       "items": [
-        {
-          "time": "2:00 PM",
-          "title": "PT"
-        },
-        {
-          "time": "6:00 PM",
-          "title": "Drinks w JVN"
-        }
+        { "time": "12:35 PM", "title": "Appointment at Apple Beverly Center" }
       ]
     },
     {
-      "day": "Wed Aug 19",
+      "day": "Fri · Aug 21",
       "items": [
-        {
-          "time": "6:00 PM",
-          "title": "Video games with Jay"
-        }
+        { "time": "6:00 PM", "title": "Dinner w Erik and Jay" }
       ]
     },
     {
-      "day": "Fri Aug 21",
+      "day": "Sat · Aug 22",
       "items": [
-        {
-          "time": "6:00 PM",
-          "title": "Dinner w Erik and Jay"
-        }
+        { "time": "6:00 PM", "title": "Jay bday" }
       ]
     },
     {
-      "day": "Sat Aug 22",
+      "day": "Sun · Aug 23",
       "items": [
-        {
-          "time": "6:00 PM",
-          "title": "Jay bday"
-        }
-      ]
-    },
-    {
-      "day": "Sun Aug 23",
-      "items": [
-        {
-          "time": "2:00 PM",
-          "title": "All Points East Festival — Deftones"
-        }
+        { "time": "2:00 PM", "title": "2026 All Points East Festival — Outbreak (Deftones)" }
       ]
     }
   ],
   "tasks": {
-    "pillText": "0 overdue · 2 today",
+    "pillText": "2 recurring · none overdue",
     "pillWarn": false,
     "overdue": [],
     "recurring": [
-      {
-        "title": "Take meds",
-        "url": "https://app.todoist.com/app/task/6fPrF5rMMcCF9Fpq",
-        "meta": "Daily · 9:00 AM"
-      },
-      {
-        "title": "Check WhatsApp",
-        "url": "https://app.todoist.com/app/task/6fPrHvm9qrMM44cH",
-        "meta": "Daily · 10:00 AM"
-      }
+      { "title": "Take meds", "url": "https://app.todoist.com/app/task/6fPrF5rMMcCF9Fpq", "meta": "Daily · 9:00 AM" },
+      { "title": "Check WhatsApp", "url": "https://app.todoist.com/app/task/6fPrHvm9qrMM44cH", "meta": "Daily · 10:00 AM" }
     ]
   },
   "followups": [
-    {
-      "dot": "green",
-      "url": "https://mail.google.com/mail/u/0/#inbox/1a010bef58ba6432",
-      "title": "FADE – Pick 'Em submitted for App Store review",
-      "meta": "Apple · today"
-    },
-    {
-      "dot": "amber",
-      "url": "https://mail.google.com/mail/u/0/#inbox/19fdd019dbe51990",
-      "title": "LA Sport & Entertainment Career Expo",
-      "meta": "Sept 16 · RSVP to reserve a spot"
-    }
+    { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/19fdd019dbe51990", "title": "LA Sport & Entertainment Career Expo — Sept 16", "meta": "Invite · TeamWork Online" },
+    { "dot": "green", "url": "https://mail.google.com/mail/u/0/#inbox/19feb90131545dc3", "title": "Free webinar: Deep Learning & AI in Sports — Aug 24", "meta": "twelve.football" },
+    { "dot": "green", "url": "https://mail.google.com/mail/u/0/#inbox/1a013d545552f92c", "title": "TGG Live '26 — choose your pass", "meta": "Simon Austin · one day or both?" }
   ],
   "inbox": {
-    "unread": 43,
+    "unread": 42,
     "items": [
-      {
-        "dot": "amber",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a010bef58ba6432",
-        "title": "Thank You for Submitting Your App",
-        "meta": "Apple · App review · today"
-      },
-      {
-        "dot": "amber",
-        "url": "https://mail.google.com/mail/u/0/#inbox/19fdd019dbe51990",
-        "title": "LA Sport & Entertainment Career Expo",
-        "tag": "EVENT",
-        "meta": "Sept 16 · Teamwork Online"
-      },
-      {
-        "dot": "faint",
-        "url": "https://mail.google.com/mail/u/0/#inbox/19feb90131545dc3",
-        "title": "Deep Learning & AI in Sports — free webinar",
-        "tag": "EVENT",
-        "meta": "Mon Aug 24 · twelve.football"
-      }
+      { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/19fdd019dbe51990", "title": "LA Sport & Entertainment Career Expo", "tag": "EVENT", "meta": "TeamWork Online · Sept 16" },
+      { "dot": "faint", "url": "https://mail.google.com/mail/u/0/#inbox/19feb90131545dc3", "title": "Deep Learning & AI in Sports — free webinar", "tag": "EVENT", "meta": "twelve.football · Aug 24" },
+      { "dot": "faint", "url": "https://mail.google.com/mail/u/0/#inbox/1a013d545552f92c", "title": "Choose your pass: TGG Live '26", "meta": "Simon Austin" },
+      { "dot": "faint", "url": "https://mail.google.com/mail/u/0/#inbox/1a016152ed57eefb", "title": "Billing correction for your Claude account", "meta": "Claude · no action required" }
     ],
-    "note": "Most of the 43 unread in the last 14 days are newsletters, promos, and receipts."
+    "note": "Most unread are newsletters and the LAFC job-digest / partner-brief emails you send yourself."
   },
   "drive": [
-    {
-      "url": "https://docs.google.com/document/d/1VoMe13BGn7l1i3BRSxAVICiDY3-ySZKywY-pv9iunVk/edit",
-      "title": "rep_review_nathan.md",
-      "meta": "Doc · Aug 11"
-    },
-    {
-      "url": "https://docs.google.com/document/d/1D5MKXgbSBG1Z6KSh9vBTJ1pPuixnpV4EzpqkPZAGfV0/edit",
-      "title": "Changelog-Outreach-Sequences.md",
-      "meta": "Doc · Aug 3"
-    },
-    {
-      "url": "https://docs.google.com/document/d/1X1mx19PTblGafdfrOUg7RWxm6iYtLaDh1P7fYVJxXQM/edit",
-      "title": "Nates-Outreach-Preferences",
-      "meta": "Doc · Aug 3"
-    },
-    {
-      "url": "https://drive.google.com/file/d/1aLViGsMTJcfxXWoAfkZj07ipZ150S33D/view",
-      "title": "1-what-charlotte-built.pdf",
-      "meta": "PDF · Jul 31"
-    }
+    { "url": "https://drive.google.com/file/d/157z7u08hySTgvOhW1q-gkRX1VP6P1SWV/view", "title": "2026 UPR Campaign", "meta": "Sheet · Aug 18" },
+    { "url": "https://docs.google.com/document/d/1VoMe13BGn7l1i3BRSxAVICiDY3-ySZKywY-pv9iunVk/edit", "title": "rep_review_nathan", "meta": "Doc · Aug 11" },
+    { "url": "https://docs.google.com/document/d/1D5MKXgbSBG1Z6KSh9vBTJ1pPuixnpV4EzpqkPZAGfV0/edit", "title": "Changelog-Outreach-Sequences", "meta": "Doc · Aug 3" },
+    { "url": "https://drive.google.com/file/d/1aLViGsMTJcfxXWoAfkZj07ipZ150S33D/view", "title": "1-what-charlotte-built", "meta": "PDF · Jul 31" }
   ]
 }
