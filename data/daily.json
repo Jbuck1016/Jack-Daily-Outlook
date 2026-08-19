@@ -1,6 +1,6 @@
 {
   "dateLabel": "Wednesday, Aug 19",
-  "updatedLabel": "Wed Aug 19, 9:47 AM PT",
+  "updatedLabel": "Wed Aug 19, 3:48 PM PT",
   "today": [
     { "time": "1:30 PM", "title": "PT" },
     { "time": "6:00 PM", "title": "Hang w momess", "accent": "eve" }
@@ -33,28 +33,31 @@
     }
   ],
   "tasks": {
-    "pillText": "2 recurring · none overdue",
+    "pillText": "4 to-do · 2 daily",
     "pillWarn": false,
+    "goalText": "2 of 5 done today",
+    "goalPct": 40,
     "overdue": [],
+    "todos": [
+      { "title": "Get new ID", "url": "https://app.todoist.com/app/task/6hHJvC4xFw9w78fH", "meta": "No due date · added Aug 16" },
+      { "title": "Check TGG dates", "url": "https://app.todoist.com/app/task/6hHJvCRHrX5jrPvq", "meta": "No due date · added Aug 16 · see TGG Live email" },
+      { "title": "Ask Nate about Brent Glecker inclusion", "url": "https://app.todoist.com/app/task/6hGhg8XwX468P7PH", "meta": "No due date · added Aug 13 · work" },
+      { "title": "Look into clear account", "url": "https://app.todoist.com/app/task/6hCP9M2F9xjJ88Qq", "meta": "No due date · added Aug 4 · oldest open" }
+    ],
     "recurring": [
-      { "title": "Take meds", "url": "https://app.todoist.com/app/task/6fPrF5rMMcCF9Fpq", "meta": "Daily · 9:00 AM" },
-      { "title": "Check WhatsApp", "url": "https://app.todoist.com/app/task/6fPrHvm9qrMM44cH", "meta": "Daily · 10:00 AM" }
+      { "title": "Take meds", "meta": "9:00 AM", "url": "https://app.todoist.com/app/task/6fPrF5rMMcCF9Fpq" },
+      { "title": "Check WhatsApp", "meta": "10:00 AM", "url": "https://app.todoist.com/app/task/6fPrHvm9qrMM44cH" }
     ]
   },
-  "followups": [
-    { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/19fdd019dbe51990", "title": "LA Sport & Entertainment Career Expo — Sept 16", "meta": "Invite · TeamWork Online" },
-    { "dot": "green", "url": "https://mail.google.com/mail/u/0/#inbox/19feb90131545dc3", "title": "Free webinar: Deep Learning & AI in Sports — Aug 24", "meta": "twelve.football" },
-    { "dot": "green", "url": "https://mail.google.com/mail/u/0/#inbox/1a013d545552f92c", "title": "TGG Live '26 — choose your pass", "meta": "Simon Austin · one day or both?" }
-  ],
   "inbox": {
+    "pillText": "3 to review",
     "unread": 42,
     "items": [
-      { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/19fdd019dbe51990", "title": "LA Sport & Entertainment Career Expo", "tag": "EVENT", "meta": "TeamWork Online · Sept 16" },
-      { "dot": "faint", "url": "https://mail.google.com/mail/u/0/#inbox/19feb90131545dc3", "title": "Deep Learning & AI in Sports — free webinar", "tag": "EVENT", "meta": "twelve.football · Aug 24" },
-      { "dot": "faint", "url": "https://mail.google.com/mail/u/0/#inbox/1a013d545552f92c", "title": "Choose your pass: TGG Live '26", "meta": "Simon Austin" },
-      { "dot": "faint", "url": "https://mail.google.com/mail/u/0/#inbox/1a016152ed57eefb", "title": "Billing correction for your Claude account", "meta": "Claude · no action required" }
+      { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/19fdd019dbe51990", "title": "LA Sport & Entertainment Career Expo", "tag": "EVENT", "meta": "TeamWork Online · Sept 16 · RSVP to reserve a spot" },
+      { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/1a013d545552f92c", "title": "Choose your pass: TGG Live '26", "meta": "Simon Austin asked \"one day or both?\" · ties to your Check-TGG-dates task" },
+      { "dot": "faint", "url": "https://mail.google.com/mail/u/0/#inbox/19feb90131545dc3", "title": "Deep Learning & AI in Sports — free webinar", "tag": "EVENT", "meta": "twelve.football · Mon Aug 24, 18:00 CET" }
     ],
-    "note": "Most unread are newsletters and the LAFC job-digest / partner-brief emails you send yourself."
+    "note": "42 unread in the last 14 days, but almost all are your own LAFC partner briefs and job-digest emails, plus newsletters and receipts. These three are the only ones that look like they need you."
   },
   "drive": [
     { "url": "https://drive.google.com/file/d/157z7u08hySTgvOhW1q-gkRX1VP6P1SWV/view", "title": "2026 UPR Campaign", "meta": "Sheet · Aug 18" },

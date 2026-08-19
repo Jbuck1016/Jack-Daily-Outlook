@@ -59,6 +59,16 @@ export default async function Daily() {
   const d = await loadData("daily.json", dataFallback);
   const tasks = d.tasks || {};
   const inbox = d.inbox || {};
+  const overdue = tasks.overdue || [];
+  const todos = tasks.todos || [];
+  const recurring = tasks.recurring || [];
+  const attn = inbox.items || [];
+  const inboxPill = inbox.pillText
+    ? inbox.pillText
+    : typeof inbox.unread === "number"
+    ? inbox.unread + " unread"
+    : null;
+
   return (
     <div className="wrap">
       <Nav />
@@ -106,30 +116,53 @@ export default async function Daily() {
                 <span className={"pill " + (tasks.pillWarn ? "warn" : "ok")}>{tasks.pillText}</span>
               ) : null}
             </h2>
-            {tasks.overdue && tasks.overdue.length ? (
+
+            {tasks.goalText ? (
+              <div className="goalrow">
+                <div className="goalbar"><span style={{ width: (tasks.goalPct || 0) + "%" }} /></div>
+                <span className="goaltxt">{tasks.goalText}</span>
+              </div>
+            ) : null}
+
+            {overdue.length ? (
               <>
                 <div className="divlabel odue">Overdue</div>
-                <ul className="items">{tasks.overdue.map((t, i) => <Task key={i} t={{ ...t, overdue: true }} />)}</ul>
+                <ul className="items">{overdue.map((t, i) => <Task key={i} t={{ ...t, overdue: true }} />)}</ul>
               </>
             ) : null}
-            {tasks.recurring && tasks.recurring.length ? (
+
+            {todos.length ? (
               <>
-                <div className="divlabel">Today · recurring</div>
-                <ul className="items">{tasks.recurring.map((t, i) => <Task key={i} t={t} />)}</ul>
+                <div className="divlabel">To-do</div>
+                <ul className="items">{todos.map((t, i) => <Task key={i} t={t} />)}</ul>
               </>
+            ) : !overdue.length ? (
+              <div className="emptyline">No open to-dos. Clear.</div>
+            ) : null}
+
+            {recurring.length ? (
+              <div className="routine">
+                <div className="divlabel">Daily routine</div>
+                <div className="routrip">
+                  {recurring.map((r, i) => (
+                    <span className="rchip" key={i}>
+                      {r.meta ? <span className="rk">{r.meta}</span> : null}{r.title}
+                    </span>
+                  ))}
+                </div>
+              </div>
             ) : null}
           </div>
 
           <div className="card acc-coral">
-            <h2><span className="hicon" />Follow-ups</h2>
-            <ul className="items">{(d.followups || []).map((it, i) => <Item key={i} it={it} />)}</ul>
-          </div>
-
-          <div className="card acc-sky">
-            <h2><span className="hicon" />Inbox — needs attention
-              {typeof inbox.unread === "number" ? <span className="pill">{inbox.unread} unread</span> : null}
+            <h2><span className="hicon" />Needs attention
+              {inboxPill ? <span className="pill">{inboxPill}</span> : null}
             </h2>
-            <ul className="items">{(inbox.items || []).map((it, i) => <Item key={i} it={it} />)}</ul>
+            {attn.length ? (
+              <ul className="items">{attn.map((it, i) => <Item key={i} it={it} />)}</ul>
+            ) : (
+              <div className="emptyline">Inbox clear — nothing needs a reply.</div>
+            )}
             {inbox.note ? <div className="foot-note">{inbox.note}</div> : null}
           </div>
 
