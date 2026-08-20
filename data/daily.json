@@ -1,18 +1,11 @@
 {
-  "dateLabel": "Wednesday, Aug 19",
-  "updatedLabel": "Wed Aug 19, 3:48 PM PT",
+  "dateLabel": "Thursday, Aug 20",
+  "updatedLabel": "Thu Aug 20, 12:19 AM PT",
   "today": [
-    { "time": "1:30 PM", "title": "PT" },
-    { "time": "6:00 PM", "title": "Hang w momess", "accent": "eve" }
+    { "time": "12:35 PM", "title": "Appointment at Apple Beverly Center", "loc": "Beverly Center, LA" }
   ],
-  "todayNote": "Matchday: LAFC @ Colorado Rapids, 6:30 PM (away).",
+  "todayNote": "Packed LAFC work day before it: Zani 1:1 (9:30 AM), SAS hands-on (11:00 AM), Mike 1:1 (1:00 PM). No match today.",
   "week": [
-    {
-      "day": "Thu · Aug 20",
-      "items": [
-        { "time": "12:35 PM", "title": "Appointment at Apple Beverly Center" }
-      ]
-    },
     {
       "day": "Fri · Aug 21",
       "items": [
@@ -22,7 +15,8 @@
     {
       "day": "Sat · Aug 22",
       "items": [
-        { "time": "6:00 PM", "title": "Jay bday" }
+        { "time": "7:30 PM", "title": "LAFC vs. Portland Timbers (BMO Stadium)" },
+        { "time": "10:00 PM", "title": "Jay bday" }
       ]
     },
     {
@@ -33,34 +27,29 @@
     }
   ],
   "tasks": {
-    "pillText": "4 to-do · 2 daily",
+    "pillText": "0 overdue · 2 daily",
     "pillWarn": false,
-    "goalText": "2 of 5 done today",
-    "goalPct": 40,
     "overdue": [],
-    "todos": [
-      { "title": "Get new ID", "url": "https://app.todoist.com/app/task/6hHJvC4xFw9w78fH", "meta": "No due date · added Aug 16" },
-      { "title": "Check TGG dates", "url": "https://app.todoist.com/app/task/6hHJvCRHrX5jrPvq", "meta": "No due date · added Aug 16 · see TGG Live email" },
-      { "title": "Ask Nate about Brent Glecker inclusion", "url": "https://app.todoist.com/app/task/6hGhg8XwX468P7PH", "meta": "No due date · added Aug 13 · work" },
-      { "title": "Look into clear account", "url": "https://app.todoist.com/app/task/6hCP9M2F9xjJ88Qq", "meta": "No due date · added Aug 4 · oldest open" }
-    ],
     "recurring": [
       { "title": "Take meds", "meta": "9:00 AM", "url": "https://app.todoist.com/app/task/6fPrF5rMMcCF9Fpq" },
       { "title": "Check WhatsApp", "meta": "10:00 AM", "url": "https://app.todoist.com/app/task/6fPrHvm9qrMM44cH" }
     ]
   },
+  "followups": [
+    { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/1a013d545552f92c", "title": "Choose your pass: TGG Live '26", "meta": "Simon Austin asked \"one day or both?\" — needs a decision" },
+    { "dot": "green", "url": "https://mail.google.com/mail/u/0/#inbox/19feb90131545dc3", "title": "Deep Learning & AI in Sports — free webinar", "meta": "twelve.football · Mon Aug 24, 18:00 CET" }
+  ],
   "inbox": {
-    "pillText": "3 to review",
-    "unread": 42,
+    "unread": 49,
     "items": [
-      { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/19fdd019dbe51990", "title": "LA Sport & Entertainment Career Expo", "tag": "EVENT", "meta": "TeamWork Online · Sept 16 · RSVP to reserve a spot" },
-      { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/1a013d545552f92c", "title": "Choose your pass: TGG Live '26", "meta": "Simon Austin asked \"one day or both?\" · ties to your Check-TGG-dates task" },
-      { "dot": "faint", "url": "https://mail.google.com/mail/u/0/#inbox/19feb90131545dc3", "title": "Deep Learning & AI in Sports — free webinar", "tag": "EVENT", "meta": "twelve.football · Mon Aug 24, 18:00 CET" }
+      { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/1a013d545552f92c", "title": "Choose your pass: TGG Live '26", "tag": "EVENT", "meta": "Simon Austin · one day or both?" },
+      { "dot": "faint", "url": "https://mail.google.com/mail/u/0/#inbox/19feb90131545dc3", "title": "Deep Learning & AI in Sports — free webinar", "tag": "EVENT", "meta": "twelve.football · Mon Aug 24" },
+      { "dot": "faint", "url": "https://mail.google.com/mail/u/0/#inbox/1a01aeba834b49b2", "title": "Aston Villa have 2 weeks to buy half a team", "meta": "The Transfer Flow · newsletter · Aug 19" }
     ],
-    "note": "42 unread in the last 14 days, but almost all are your own LAFC partner briefs and job-digest emails, plus newsletters and receipts. These three are the only ones that look like they need you."
+    "note": "49 unread in the last 14 days, but almost all are your own LAFC partner briefs, job digests, newsletters and receipts. Only the TGG pass really needs a call from you."
   },
   "drive": [
-    { "url": "https://drive.google.com/file/d/157z7u08hySTgvOhW1q-gkRX1VP6P1SWV/view", "title": "2026 UPR Campaign", "meta": "Sheet · Aug 18" },
+    { "url": "https://drive.google.com/file/d/157z7u08hySTgvOhW1q-gkRX1VP6P1SWV/view", "title": "2026 UPR Campaign", "meta": "Sheet · Aug 19" },
     { "url": "https://docs.google.com/document/d/1VoMe13BGn7l1i3BRSxAVICiDY3-ySZKywY-pv9iunVk/edit", "title": "rep_review_nathan", "meta": "Doc · Aug 11" },
     { "url": "https://docs.google.com/document/d/1D5MKXgbSBG1Z6KSh9vBTJ1pPuixnpV4EzpqkPZAGfV0/edit", "title": "Changelog-Outreach-Sequences", "meta": "Doc · Aug 3" },
     { "url": "https://drive.google.com/file/d/1aLViGsMTJcfxXWoAfkZj07ipZ150S33D/view", "title": "1-what-charlotte-built", "meta": "PDF · Jul 31" }

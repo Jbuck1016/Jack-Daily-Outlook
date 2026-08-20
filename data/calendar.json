@@ -1,5 +1,5 @@
 {
-  "updatedLabel": "Wed Aug 19, 9:47 AM PT",
+  "updatedLabel": "Thu Aug 20, 12:19 AM PT",
   "sources": [
     { "key": "personal", "name": "Personal", "connected": true },
     { "key": "lafc-work", "name": "LAFC Work", "connected": true },
@@ -7,21 +7,14 @@
   ],
   "days": [
     {
-      "label": "Wed · Aug 19",
+      "label": "Thu · Aug 20",
       "today": true,
       "events": [
-        { "time": "10:00 AM", "title": "SAS/LAFC | Weekly Status Sync", "loc": "Teams", "src": "lafc-work" },
-        { "time": "1:30 PM", "title": "PT", "src": "personal" },
-        { "time": "6:00 PM", "title": "Hang w momess", "src": "personal" },
-        { "time": "6:30 PM", "title": "LAFC @ Colorado Rapids", "loc": "Dick's Sporting Goods Park", "src": "lafc-match" }
-      ]
-    },
-    {
-      "label": "Thu · Aug 20",
-      "events": [
         { "time": "9:30 AM", "title": "Zani x Jackson 1on1 re: Brand Impression Integration", "src": "lafc-work" },
+        { "time": "10:00 AM", "title": "Busy", "src": "lafc-work" },
         { "time": "11:00 AM", "title": "SAS/LAFC Weekly Thursday Hands-On Time", "loc": "Teams", "src": "lafc-work" },
-        { "time": "12:35 PM", "title": "Appointment at Apple Beverly Center", "loc": "Beverly Center, LA", "src": "personal" }
+        { "time": "12:35 PM", "title": "Appointment at Apple Beverly Center", "loc": "Beverly Center, LA", "src": "personal" },
+        { "time": "1:00 PM", "title": "Mike x Jackson 1on1", "src": "lafc-work" }
       ]
     },
     {
@@ -34,8 +27,8 @@
     {
       "label": "Sat · Aug 22",
       "events": [
-        { "time": "6:00 PM", "title": "Jay bday", "src": "personal" },
-        { "time": "7:30 PM", "title": "LAFC vs. Portland Timbers", "loc": "BMO Stadium", "src": "lafc-match" }
+        { "time": "7:30 PM", "title": "LAFC vs. Portland Timbers", "loc": "BMO Stadium", "src": "lafc-match" },
+        { "time": "10:00 PM", "title": "Jay bday", "src": "personal" }
       ]
     },
     {
@@ -65,7 +58,7 @@
       "label": "Wed · Aug 26",
       "events": [
         { "time": "10:00 AM", "title": "SAS/LAFC | Weekly Status Sync", "loc": "Teams", "src": "lafc-work" },
-        { "time": "7:00 PM", "title": "Dinner w ava", "src": "personal" }
+        { "time": "7:00 PM", "title": "Dinner w Jared", "src": "personal" }
       ]
     },
     {
@@ -106,6 +99,13 @@
       "label": "Wed · Sep 2",
       "events": [
         { "time": "10:00 AM", "title": "SAS/LAFC | Weekly Status Sync", "loc": "Teams", "src": "lafc-work" }
+      ]
+    },
+    {
+      "label": "Thu · Sep 3",
+      "events": [
+        { "time": "11:00 AM", "title": "SAS/LAFC Weekly Thursday Hands-On Time", "loc": "Teams", "src": "lafc-work" },
+        { "time": "3:00 PM", "title": "Mike x Jackson Monthly 1on1", "src": "lafc-work" }
       ]
     }
   ]

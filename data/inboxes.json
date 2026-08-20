@@ -1,91 +1,91 @@
 {
-  "note": "Last 10 messages in your primary inbox — mostly the LAFC partner-brief / job-digest emails you send yourself, plus a few promos and receipts.",
+  "note": "Last 10 messages in your primary inbox — mostly the LAFC partner-brief emails you send yourself, plus a couple of promos and Google account notices.",
   "accounts": [
     {
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-08-19T16:47:06Z",
+      "updated": "2026-08-20T07:19:05Z",
       "emails": [
         {
           "from": "Jack Buckingham",
-          "subject": "LAFC partner brief, 22 Sep — Paris Baguette: expansion or footprint",
-          "snippet": "LAFC PARTNER BRIEF — Jack Buckingham, week of 22 Sep 2026. K-Fish renews in 87 days, 2 more on the same date. 1 partner made news, led by Paris Baguette.",
-          "date": "2026-08-19T05:37:05Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a01885f1ef32456"
-        },
-        {
-          "from": "Audible",
-          "subject": "Start listening for $0.99 a month",
-          "snippet": "For a limited time, save over 80%. Just $0.99/mo for the first 3 months.",
-          "date": "2026-08-19T01:46:48Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a017b31dfa29df4"
-        },
-        {
-          "from": "Jack Buckingham",
-          "subject": "LAFC partner brief, 22 Sep — Kansas State Wildcats announce new field sponsor",
+          "subject": "[Nathan Schlatter] LAFC partner brief, 22 Sep — Tennessee Athletics Announces Landmark Partnership with…",
           "snippet": "LAFC PARTNER BRIEF — Nathan Schlatter, week of 22 Sep 2026. 5 new deals announced across sport. 5 in categories we're open in.",
-          "date": "2026-08-19T01:44:35Z",
-          "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a017b11324048a0"
-        },
-        {
-          "from": "Jack Buckingham",
-          "subject": "LAFC partner brief, 22 Sep — Paris Baguette: expansion or footprint",
-          "snippet": "LAFC PARTNER BRIEF — Jack Buckingham, week of 22 Sep 2026. K-Fish renews in 87 days, 2 more on the same date.",
-          "date": "2026-08-19T01:44:29Z",
-          "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a017b0fcf4c5658"
-        },
-        {
-          "from": "Jack Buckingham",
-          "subject": "LAFC partner brief, 22 Sep — Paris Baguette: expansion or footprint",
-          "snippet": "LAFC PARTNER BRIEF — Jack Buckingham, week of 22 Sep 2026. K-Fish renews in 87 days, 2 more on the same date.",
-          "date": "2026-08-19T01:19:05Z",
-          "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a01799baa9fe4cf"
-        },
-        {
-          "from": "Jack Buckingham",
-          "subject": "LAFC partner brief, 22 Sep — Paris Baguette: expansion or footprint",
-          "snippet": "LAFC PARTNER BRIEF — Jack Buckingham, week of 22 Sep 2026. K-Fish renews in 87 days, 2 more on the same date.",
-          "date": "2026-08-19T00:49:15Z",
-          "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0177e694a430c2"
-        },
-        {
-          "from": "Jack Buckingham",
-          "subject": "LAFC partner brief, 22 Sep — 1 lapsed contract",
-          "snippet": "LAFC PARTNER BRIEF — Tomas Delgado, week of 22 Sep 2026. Pacsun has lapsed. 4 partners made news, led by Pacsun.",
-          "date": "2026-08-19T00:38:36Z",
+          "date": "2026-08-20T03:31:50Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a01774abc9b9df5"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a01d39a00db16fd"
         },
         {
           "from": "Jack Buckingham",
-          "subject": "LAFC partner brief, 22 Sep — 1 lapsed contract",
-          "snippet": "LAFC PARTNER BRIEF — Dana Whitfield, week of 22 Sep 2026. Bushmills has lapsed. 4 partners made news, led by BMO.",
-          "date": "2026-08-19T00:29:17Z",
-          "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0176c23f70cb02"
-        },
-        {
-          "from": "Jack Buckingham",
-          "subject": "LAFC partner brief, 18 Aug — BMO: ownership change",
-          "snippet": "LAFC PARTNER BRIEF — Dana Whitfield, week of 18 Aug 2026. Bushmills renews in 19 days. 4 partners made news, led by BMO.",
-          "date": "2026-08-19T00:06:21Z",
-          "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a01757231cf6b6b"
-        },
-        {
-          "from": "Claude",
-          "subject": "[No Action Required]: Billing correction for your Claude account",
-          "snippet": "A bug caused extra charges between July 24 and August 11. We've credited your account — no action needed.",
-          "date": "2026-08-18T18:14:41Z",
+          "subject": "[Alex Rivera] LAFC partner brief, 22 Sep — Tennessee Athletics Announces Landmark Partnership with…",
+          "snippet": "LAFC PARTNER BRIEF — Alex Rivera, week of 22 Sep 2026. 5 new deals announced across sport. 5 in categories we're open in.",
+          "date": "2026-08-20T03:31:48Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a016152ed57eefb"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a01d3998bb33970"
+        },
+        {
+          "from": "Jack Buckingham",
+          "subject": "[Dana Whitfield] LAFC partner brief, 22 Sep — 1 lapsed contract",
+          "snippet": "LAFC PARTNER BRIEF — Dana Whitfield, week of 22 Sep 2026. Bushmills has lapsed. 1 of your partners made news, led by BMO.",
+          "date": "2026-08-20T03:31:47Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a01d3993bc21968"
+        },
+        {
+          "from": "Jack Buckingham",
+          "subject": "[Tomas Delgado] LAFC partner brief, 22 Sep — 1 lapsed contract",
+          "snippet": "LAFC PARTNER BRIEF — Tomas Delgado, week of 22 Sep 2026. Pacsun has lapsed. 4 of your partners made news, led by Pacsun.",
+          "date": "2026-08-20T03:31:45Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a01d398e1fed2b9"
+        },
+        {
+          "from": "Google Nest",
+          "subject": "Last chance to earn a reward from your energy provider.",
+          "snippet": "Earn rewards for using less energy during high demand. It's not too late to sign up and make a difference this summer.",
+          "date": "2026-08-20T02:03:09Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a01ce8709df6544"
+        },
+        {
+          "from": "Jack Buckingham",
+          "subject": "[Nathan Schlatter] LAFC partner brief, 22 Sep — Nottingham Forest announce new shirt sponsor four days…",
+          "snippet": "LAFC PARTNER BRIEF — Nathan Schlatter, week of 22 Sep 2026. 5 new deals announced across sport. 5 in categories we're open in.",
+          "date": "2026-08-19T21:51:55Z",
+          "unread": false,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a01c02693ce9273"
+        },
+        {
+          "from": "Jack Buckingham",
+          "subject": "[Alex Rivera] LAFC partner brief, 22 Sep — Nottingham Forest announce new shirt sponsor four days…",
+          "snippet": "LAFC PARTNER BRIEF — Alex Rivera, week of 22 Sep 2026. 5 new deals announced across sport. 5 in categories we're open in.",
+          "date": "2026-08-19T21:51:54Z",
+          "unread": false,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a01c0265ff5b606"
+        },
+        {
+          "from": "Jack Buckingham",
+          "subject": "[Dana Whitfield] LAFC partner brief, 22 Sep — 1 lapsed contract",
+          "snippet": "LAFC PARTNER BRIEF — Dana Whitfield, week of 22 Sep 2026. Bushmills has lapsed. 1 of your partners made news, led by BMO.",
+          "date": "2026-08-19T21:51:53Z",
+          "unread": false,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a01c0262f11e6d1"
+        },
+        {
+          "from": "Jack Buckingham",
+          "subject": "[Tomas Delgado] LAFC partner brief, 22 Sep — 1 lapsed contract",
+          "snippet": "LAFC PARTNER BRIEF — Tomas Delgado, week of 22 Sep 2026. Pacsun has lapsed. 4 of your partners made news, led by Pacsun.",
+          "date": "2026-08-19T21:51:52Z",
+          "unread": false,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a01c025dc47f9ea"
+        },
+        {
+          "from": "Google",
+          "subject": "You shared some Google Account data with Claude",
+          "snippet": "You're receiving this email because you used Sign in with Google to sign in to Claude on August 19 at 2:24 PM.",
+          "date": "2026-08-19T21:24:42Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a01be97eb773d03"
         }
       ]
     },
