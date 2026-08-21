@@ -1,91 +1,94 @@
 {
-  "note": "Last 10 messages in your primary inbox — mostly the LAFC partner-brief emails you send yourself, plus a couple of promos and Google account notices.",
+  "note": "Last 10 messages in your primary inbox — a ticket confirmation and a couple of Google/Claude account notices, but mostly newsletters and promos.",
   "accounts": [
     {
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-08-20T07:19:05Z",
+      "updated": "2026-08-21T07:14:12Z",
       "emails": [
-        {
-          "from": "Jack Buckingham",
-          "subject": "[Nathan Schlatter] LAFC partner brief, 22 Sep — Tennessee Athletics Announces Landmark Partnership with…",
-          "snippet": "LAFC PARTNER BRIEF — Nathan Schlatter, week of 22 Sep 2026. 5 new deals announced across sport. 5 in categories we're open in.",
-          "date": "2026-08-20T03:31:50Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a01d39a00db16fd"
-        },
-        {
-          "from": "Jack Buckingham",
-          "subject": "[Alex Rivera] LAFC partner brief, 22 Sep — Tennessee Athletics Announces Landmark Partnership with…",
-          "snippet": "LAFC PARTNER BRIEF — Alex Rivera, week of 22 Sep 2026. 5 new deals announced across sport. 5 in categories we're open in.",
-          "date": "2026-08-20T03:31:48Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a01d3998bb33970"
-        },
-        {
-          "from": "Jack Buckingham",
-          "subject": "[Dana Whitfield] LAFC partner brief, 22 Sep — 1 lapsed contract",
-          "snippet": "LAFC PARTNER BRIEF — Dana Whitfield, week of 22 Sep 2026. Bushmills has lapsed. 1 of your partners made news, led by BMO.",
-          "date": "2026-08-20T03:31:47Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a01d3993bc21968"
-        },
-        {
-          "from": "Jack Buckingham",
-          "subject": "[Tomas Delgado] LAFC partner brief, 22 Sep — 1 lapsed contract",
-          "snippet": "LAFC PARTNER BRIEF — Tomas Delgado, week of 22 Sep 2026. Pacsun has lapsed. 4 of your partners made news, led by Pacsun.",
-          "date": "2026-08-20T03:31:45Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a01d398e1fed2b9"
-        },
-        {
-          "from": "Google Nest",
-          "subject": "Last chance to earn a reward from your energy provider.",
-          "snippet": "Earn rewards for using less energy during high demand. It's not too late to sign up and make a difference this summer.",
-          "date": "2026-08-20T02:03:09Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a01ce8709df6544"
-        },
-        {
-          "from": "Jack Buckingham",
-          "subject": "[Nathan Schlatter] LAFC partner brief, 22 Sep — Nottingham Forest announce new shirt sponsor four days…",
-          "snippet": "LAFC PARTNER BRIEF — Nathan Schlatter, week of 22 Sep 2026. 5 new deals announced across sport. 5 in categories we're open in.",
-          "date": "2026-08-19T21:51:55Z",
-          "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a01c02693ce9273"
-        },
-        {
-          "from": "Jack Buckingham",
-          "subject": "[Alex Rivera] LAFC partner brief, 22 Sep — Nottingham Forest announce new shirt sponsor four days…",
-          "snippet": "LAFC PARTNER BRIEF — Alex Rivera, week of 22 Sep 2026. 5 new deals announced across sport. 5 in categories we're open in.",
-          "date": "2026-08-19T21:51:54Z",
-          "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a01c0265ff5b606"
-        },
-        {
-          "from": "Jack Buckingham",
-          "subject": "[Dana Whitfield] LAFC partner brief, 22 Sep — 1 lapsed contract",
-          "snippet": "LAFC PARTNER BRIEF — Dana Whitfield, week of 22 Sep 2026. Bushmills has lapsed. 1 of your partners made news, led by BMO.",
-          "date": "2026-08-19T21:51:53Z",
-          "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a01c0262f11e6d1"
-        },
-        {
-          "from": "Jack Buckingham",
-          "subject": "[Tomas Delgado] LAFC partner brief, 22 Sep — 1 lapsed contract",
-          "snippet": "LAFC PARTNER BRIEF — Tomas Delgado, week of 22 Sep 2026. Pacsun has lapsed. 4 of your partners made news, led by Pacsun.",
-          "date": "2026-08-19T21:51:52Z",
-          "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a01c025dc47f9ea"
-        },
         {
           "from": "Google",
           "subject": "You shared some Google Account data with Claude",
-          "snippet": "You're receiving this email because you used Sign in with Google to sign in to Claude on August 19 at 2:24 PM.",
-          "date": "2026-08-19T21:24:42Z",
+          "snippet": "You're receiving this email because you used Sign in with Google to sign in to Claude on August 20 at 4:02 PM.",
+          "date": "2026-08-20T23:02:48Z",
+          "unread": false,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a02169af90c42e7"
+        },
+        {
+          "from": "Claude",
+          "subject": "Security alert: new trusted device added to your Claude account",
+          "snippet": "A new trusted device was added to your Claude account. If this was you, no action is needed.",
+          "date": "2026-08-20T23:02:48Z",
+          "unread": false,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a02169af16a4cf5"
+        },
+        {
+          "from": "TCL Chinese Theatres",
+          "subject": "Booking for (IMAX 70mm) The Odyssey",
+          "snippet": "Reference #: WLF8KM8. Thanks for your order! We are excited to see you at the show. Click the link below to view your ticket.",
+          "date": "2026-08-20T21:12:21Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a01be97eb773d03"
+          "tag": "Important",
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0210494d6a5895"
+        },
+        {
+          "from": "Eventbrite",
+          "subject": "Events worth stepping outside for.",
+          "snippet": "Find your reason to get out and explore.",
+          "date": "2026-08-20T20:29:50Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a020dda2a7cad6c"
+        },
+        {
+          "from": "U.S. Soccer",
+          "subject": "Win a trip to see the USWNT play live with American Airlines",
+          "snippet": "Airfare, hotel & tickets for one Insider and guest.",
+          "date": "2026-08-20T16:16:23Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a01ff59b9797cb6"
+        },
+        {
+          "from": "The Transfer Flow",
+          "subject": "Fiorentina built a squad that can go from relegation battle to Europe",
+          "snippet": "The most ambitious, aggressive transfer window in Serie A looks like money well spent.",
+          "date": "2026-08-20T15:25:20Z",
+          "unread": true,
+          "tag": "Important",
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a01fc7ad4d6d48d"
+        },
+        {
+          "from": "Jack Buckingham",
+          "subject": "⚽🎰 60 new jobs 🔥1 posted today! — Aug 20",
+          "snippet": "Soccer & Betting Jobs Daily digest · August 20, 2026 · 60 new · 0 still open · 1 posted today.",
+          "date": "2026-08-20T13:43:11Z",
+          "unread": false,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a01f695717645bc"
+        },
+        {
+          "from": "Liam Henshaw",
+          "subject": "How I went from office job to football scout and analyst",
+          "snippet": "Something new from me.",
+          "date": "2026-08-20T08:27:39Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a01e487485a13eb"
+        },
+        {
+          "from": "UCLA Health",
+          "subject": "How to help kids maintain focus as they head back to school",
+          "snippet": "Plus, learn about the cyclosporiasis outbreak.",
+          "date": "2026-08-19T18:33:36Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a01b50f788d52ad"
+        },
+        {
+          "from": "The Transfer Flow",
+          "subject": "Aston Villa have 2 weeks to buy half a team",
+          "snippet": "Plus Man City's midfield mess, Serie A sides making moves.",
+          "date": "2026-08-19T16:47:26Z",
+          "unread": true,
+          "tag": "Important",
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a01aeba834b49b2"
         }
       ]
     },

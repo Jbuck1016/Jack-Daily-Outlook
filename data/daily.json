@@ -1,22 +1,16 @@
 {
-  "dateLabel": "Thursday, Aug 20",
-  "updatedLabel": "Thu Aug 20, 12:19 AM PT",
+  "dateLabel": "Friday, Aug 21",
+  "updatedLabel": "Fri Aug 21, 12:14 AM PT",
   "today": [
-    { "time": "12:35 PM", "title": "Appointment at Apple Beverly Center", "loc": "Beverly Center, LA" }
+    { "time": "6:00 PM", "title": "Dinner w Erik and Jay", "accent": "eve" }
   ],
-  "todayNote": "Packed LAFC work day before it: Zani 1:1 (9:30 AM), SAS hands-on (11:00 AM), Mike 1:1 (1:00 PM). No match today.",
+  "todayNote": "LAFC work first: Zani 1:1 and AI Hour both at 10:00 AM. No match today — just dinner with Erik and Jay tonight.",
   "week": [
-    {
-      "day": "Fri · Aug 21",
-      "items": [
-        { "time": "6:00 PM", "title": "Dinner w Erik and Jay" }
-      ]
-    },
     {
       "day": "Sat · Aug 22",
       "items": [
-        { "time": "7:30 PM", "title": "LAFC vs. Portland Timbers (BMO Stadium)" },
-        { "time": "10:00 PM", "title": "Jay bday" }
+        { "time": "12:00 PM", "title": "Lunch w Anj" },
+        { "time": "8:00 PM", "title": "Jay bday" }
       ]
     },
     {
@@ -36,22 +30,23 @@
     ]
   },
   "followups": [
-    { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/1a013d545552f92c", "title": "Choose your pass: TGG Live '26", "meta": "Simon Austin asked \"one day or both?\" — needs a decision" },
-    { "dot": "green", "url": "https://mail.google.com/mail/u/0/#inbox/19feb90131545dc3", "title": "Deep Learning & AI in Sports — free webinar", "meta": "twelve.football · Mon Aug 24, 18:00 CET" }
+    { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/1a013d545552f92c", "title": "Choose your pass: TGG Live '26", "meta": "Simon Austin asked \"one day or both?\" — still needs a call" },
+    { "dot": "green", "url": "https://mail.google.com/mail/u/0/#inbox/19feb90131545dc3", "title": "Deep Learning & AI in Sports — free webinar", "meta": "twelve.football · Mon Aug 24, 18:00 CET" },
+    { "dot": "green", "url": "https://mail.google.com/mail/u/0/#inbox/19fdd019dbe51990", "title": "LA Sport & Entertainment Career Expo", "meta": "TeamWork Online · Sept 16" }
   ],
   "inbox": {
-    "unread": 49,
+    "unread": 39,
     "items": [
       { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/1a013d545552f92c", "title": "Choose your pass: TGG Live '26", "tag": "EVENT", "meta": "Simon Austin · one day or both?" },
-      { "dot": "faint", "url": "https://mail.google.com/mail/u/0/#inbox/19feb90131545dc3", "title": "Deep Learning & AI in Sports — free webinar", "tag": "EVENT", "meta": "twelve.football · Mon Aug 24" },
-      { "dot": "faint", "url": "https://mail.google.com/mail/u/0/#inbox/1a01aeba834b49b2", "title": "Aston Villa have 2 weeks to buy half a team", "meta": "The Transfer Flow · newsletter · Aug 19" }
+      { "dot": "faint", "url": "https://mail.google.com/mail/u/0/#inbox/1a0210494d6a5895", "title": "Booking for (IMAX 70mm) The Odyssey", "tag": "EVENT", "meta": "TCL Chinese Theatres · ticket confirmed" },
+      { "dot": "faint", "url": "https://mail.google.com/mail/u/0/#inbox/19fdd019dbe51990", "title": "LA Sport & Entertainment Career Expo", "tag": "EVENT", "meta": "TeamWork Online · Sept 16" }
     ],
-    "note": "49 unread in the last 14 days, but almost all are your own LAFC partner briefs, job digests, newsletters and receipts. Only the TGG pass really needs a call from you."
+    "note": "39 unread in the last 14 days — mostly newsletters, job digests and promos (Transfer Flow, Audible, Barça, FootballTicketNet). Only the TGG pass really needs a decision."
   },
   "drive": [
+    { "url": "https://docs.google.com/document/d/1eQGVfXo_tL0K2HVmJmBJNelXA5tdMxfI_zD9vvLSq_M/edit", "title": "MLS 2026 Analytics — Site Walkthrough Script", "meta": "Doc · Aug 20" },
     { "url": "https://drive.google.com/file/d/157z7u08hySTgvOhW1q-gkRX1VP6P1SWV/view", "title": "2026 UPR Campaign", "meta": "Sheet · Aug 19" },
     { "url": "https://docs.google.com/document/d/1VoMe13BGn7l1i3BRSxAVICiDY3-ySZKywY-pv9iunVk/edit", "title": "rep_review_nathan", "meta": "Doc · Aug 11" },
-    { "url": "https://docs.google.com/document/d/1D5MKXgbSBG1Z6KSh9vBTJ1pPuixnpV4EzpqkPZAGfV0/edit", "title": "Changelog-Outreach-Sequences", "meta": "Doc · Aug 3" },
-    { "url": "https://drive.google.com/file/d/1aLViGsMTJcfxXWoAfkZj07ipZ150S33D/view", "title": "1-what-charlotte-built", "meta": "PDF · Jul 31" }
+    { "url": "https://docs.google.com/document/d/1D5MKXgbSBG1Z6KSh9vBTJ1pPuixnpV4EzpqkPZAGfV0/edit", "title": "Changelog-Outreach-Sequences", "meta": "Doc · Aug 3" }
   ]
 }
