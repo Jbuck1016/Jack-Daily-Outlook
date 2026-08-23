@@ -1,52 +1,105 @@
 {
-  "dateLabel": "Friday, Aug 21",
-  "updatedLabel": "Fri Aug 21, 12:14 AM PT",
+  "dateLabel": "Sunday, Aug 23",
+  "updatedLabel": "Sun Aug 23, 12:11 AM PT",
   "today": [
-    { "time": "6:00 PM", "title": "Dinner w Erik and Jay", "accent": "eve" }
-  ],
-  "todayNote": "LAFC work first: Zani 1:1 and AI Hour both at 10:00 AM. No match today — just dinner with Erik and Jay tonight.",
-  "week": [
     {
-      "day": "Sat · Aug 22",
-      "items": [
-        { "time": "12:00 PM", "title": "Lunch w Anj" },
-        { "time": "8:00 PM", "title": "Jay bday" }
-      ]
-    },
-    {
-      "day": "Sun · Aug 23",
-      "items": [
-        { "time": "2:00 PM", "title": "2026 All Points East Festival — Outbreak (Deftones)" }
-      ]
+      "time": "2:00 PM",
+      "title": "All Points East Festival — Outbreak (Deftones)",
+      "loc": "Victoria Park, London",
+      "accent": "span"
     }
   ],
+  "todayNote": "Quiet Sunday — one event on the calendar and just your daily recurring tasks. The work week kicks off tomorrow.",
+  "week": [],
   "tasks": {
-    "pillText": "0 overdue · 2 daily",
+    "pillText": "2 recurring · none overdue",
     "pillWarn": false,
     "overdue": [],
     "recurring": [
-      { "title": "Take meds", "meta": "9:00 AM", "url": "https://app.todoist.com/app/task/6fPrF5rMMcCF9Fpq" },
-      { "title": "Check WhatsApp", "meta": "10:00 AM", "url": "https://app.todoist.com/app/task/6fPrHvm9qrMM44cH" }
+      {
+        "title": "Take meds",
+        "url": "https://app.todoist.com/app/task/6fPrF5rMMcCF9Fpq",
+        "meta": "9:00 AM · daily"
+      },
+      {
+        "title": "Check WhatsApp",
+        "url": "https://app.todoist.com/app/task/6fPrHvm9qrMM44cH",
+        "meta": "10:00 AM · daily"
+      }
     ]
   },
   "followups": [
-    { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/1a013d545552f92c", "title": "Choose your pass: TGG Live '26", "meta": "Simon Austin asked \"one day or both?\" — still needs a call" },
-    { "dot": "green", "url": "https://mail.google.com/mail/u/0/#inbox/19feb90131545dc3", "title": "Deep Learning & AI in Sports — free webinar", "meta": "twelve.football · Mon Aug 24, 18:00 CET" },
-    { "dot": "green", "url": "https://mail.google.com/mail/u/0/#inbox/19fdd019dbe51990", "title": "LA Sport & Entertainment Career Expo", "meta": "TeamWork Online · Sept 16" }
+    {
+      "dot": "amber",
+      "url": "https://mail.google.com/mail/u/0/#inbox/1a02c13ee59766c3",
+      "title": "Lily Annenberg's Bat Mitzvah",
+      "meta": "Paperless Post invite · RSVP · Sat Nov 14"
+    },
+    {
+      "dot": "green",
+      "url": "https://mail.google.com/mail/u/0/#inbox/1a025bbc7b32ee4c",
+      "title": "LA Sport & Entertainment Career Expo",
+      "meta": "TeamWork Online invite · Sep 16"
+    }
   ],
   "inbox": {
-    "unread": 39,
+    "unread": 37,
     "items": [
-      { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/1a013d545552f92c", "title": "Choose your pass: TGG Live '26", "tag": "EVENT", "meta": "Simon Austin · one day or both?" },
-      { "dot": "faint", "url": "https://mail.google.com/mail/u/0/#inbox/1a0210494d6a5895", "title": "Booking for (IMAX 70mm) The Odyssey", "tag": "EVENT", "meta": "TCL Chinese Theatres · ticket confirmed" },
-      { "dot": "faint", "url": "https://mail.google.com/mail/u/0/#inbox/19fdd019dbe51990", "title": "LA Sport & Entertainment Career Expo", "tag": "EVENT", "meta": "TeamWork Online · Sept 16" }
+      {
+        "dot": "amber",
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a02c13ee59766c3",
+        "title": "Lily Annenberg's Bat Mitzvah",
+        "tag": "EVENT",
+        "meta": "Paperless Post · Nov 14"
+      },
+      {
+        "dot": "amber",
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a0210494d6a5895",
+        "title": "Booking for (IMAX 70mm) The Odyssey",
+        "meta": "TCL Chinese Theatres · ticket confirmation"
+      },
+      {
+        "dot": "faint",
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a025bbc7b32ee4c",
+        "title": "LA Sport & Entertainment Career Expo",
+        "tag": "EVENT",
+        "meta": "TeamWork Online · Sep 16"
+      },
+      {
+        "dot": "faint",
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a013d545552f92c",
+        "title": "Choose your pass: TGG Live '26",
+        "meta": "Training Ground Guru"
+      },
+      {
+        "dot": "faint",
+        "url": "https://mail.google.com/mail/u/0/#inbox/19feb90131545dc3",
+        "title": "Deep Learning & AI in Sports — free webinar",
+        "meta": "Twelve.football · Mon Aug 24"
+      }
     ],
-    "note": "39 unread in the last 14 days — mostly newsletters, job digests and promos (Transfer Flow, Audible, Barça, FootballTicketNet). Only the TGG pass really needs a decision."
+    "note": "Most of the 37 unread are newsletters and promos (Audible, Barça Innovation Hub, Burke Williams, FootballTicketNet, Zapier)."
   },
   "drive": [
-    { "url": "https://docs.google.com/document/d/1eQGVfXo_tL0K2HVmJmBJNelXA5tdMxfI_zD9vvLSq_M/edit", "title": "MLS 2026 Analytics — Site Walkthrough Script", "meta": "Doc · Aug 20" },
-    { "url": "https://drive.google.com/file/d/157z7u08hySTgvOhW1q-gkRX1VP6P1SWV/view", "title": "2026 UPR Campaign", "meta": "Sheet · Aug 19" },
-    { "url": "https://docs.google.com/document/d/1VoMe13BGn7l1i3BRSxAVICiDY3-ySZKywY-pv9iunVk/edit", "title": "rep_review_nathan", "meta": "Doc · Aug 11" },
-    { "url": "https://docs.google.com/document/d/1D5MKXgbSBG1Z6KSh9vBTJ1pPuixnpV4EzpqkPZAGfV0/edit", "title": "Changelog-Outreach-Sequences", "meta": "Doc · Aug 3" }
+    {
+      "url": "https://docs.google.com/document/d/1eQGVfXo_tL0K2HVmJmBJNelXA5tdMxfI_zD9vvLSq_M/edit",
+      "title": "MLS 2026 Analytics — Site Walkthrough Script",
+      "meta": "Google Doc · edited Aug 20"
+    },
+    {
+      "url": "https://drive.google.com/file/d/157z7u08hySTgvOhW1q-gkRX1VP6P1SWV/view",
+      "title": "2026 UPR Campaign.xlsx",
+      "meta": "Spreadsheet · edited Aug 19"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1VoMe13BGn7l1i3BRSxAVICiDY3-ySZKywY-pv9iunVk/edit",
+      "title": "rep_review_nathan.md",
+      "meta": "Google Doc · edited Aug 11"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1D5MKXgbSBG1Z6KSh9vBTJ1pPuixnpV4EzpqkPZAGfV0/edit",
+      "title": "Changelog-Outreach-Sequences.md",
+      "meta": "Google Doc · edited Aug 3"
+    }
   ]
 }

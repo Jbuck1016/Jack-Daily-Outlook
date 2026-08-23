@@ -1,12 +1,85 @@
 {
-  "note": "Last 10 messages in your primary inbox — a ticket confirmation and a couple of Google/Claude account notices, but mostly newsletters and promos.",
+  "note": "Last 10 messages in your primary inbox — a couple of Apple App Store review notices and a Bat Mitzvah invite, but mostly promos and account notices.",
   "accounts": [
     {
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-08-21T07:14:12Z",
+      "updated": "2026-08-23T07:11:05Z",
       "emails": [
+        {
+          "from": "Paperless Post",
+          "subject": "Lily Annenberg's Bat Mitzvah",
+          "snippet": "For: Jack Buckingham — Event Invitation. Lily Annenberg's Bat Mitzvah, Saturday, November 14. Add to calendar.",
+          "date": "2026-08-23T00:44:58Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a02c13ee59766c3"
+        },
+        {
+          "from": "Apple",
+          "subject": "There's an issue with your BestWhen (iOS) submission.",
+          "snippet": "Thank you for submitting your items for review. We noticed an issue with your submission that requires your attention. Submitted: Aug 21, 2026.",
+          "date": "2026-08-22T19:29:09Z",
+          "unread": false,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a02af2cd2cd2d30"
+        },
+        {
+          "from": "Apple",
+          "subject": "Your App Review Feedback",
+          "snippet": "Changes needed. BestWhen iOS. During our review, we noticed a few things that you'll need to address before your app can be approved for distribution.",
+          "date": "2026-08-22T19:28:45Z",
+          "unread": false,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a02af2714cb22cd"
+        },
+        {
+          "from": "Burke Williams",
+          "subject": "Your summer reset, extended☀️",
+          "snippet": "Enjoy more time to restore with the Summer Renewal gift card package and H₂V Protect SPF 30.",
+          "date": "2026-08-22T15:03:39Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a02a000c17c135a"
+        },
+        {
+          "from": "Jack Buckingham",
+          "subject": "⚽🎰 46 new jobs — Aug 22",
+          "snippet": "Soccer & Betting Jobs Daily digest · August 22, 2026. 46 new · 0 still open. Track your applications in your Google Sheet tracker.",
+          "date": "2026-08-22T13:29:12Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a029a93d15606d3"
+        },
+        {
+          "from": "Lugg",
+          "subject": "Your Lugg Pickup (#OZPYL7) is confirmed!",
+          "snippet": "You'll receive a notification when your luggers are on their way to your pickup location.",
+          "date": "2026-08-21T21:25:52Z",
+          "unread": false,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a02637488be940b"
+        },
+        {
+          "from": "TeamWork Online",
+          "subject": "YOU'RE INVITED: Los Angeles Sport & Entertainment Career Expo",
+          "snippet": "Looking to work in sports in Los Angeles? Come impress employers on September 16th. Don't miss out on this unique opportunity.",
+          "date": "2026-08-21T19:10:56Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a025bbc7b32ee4c"
+        },
+        {
+          "from": "The Transfer Flow",
+          "subject": "The Premier League has a relegation 6-pointer in Week 1",
+          "snippet": "Plus FPL tips, games we're watching and stuff we're reading.",
+          "date": "2026-08-21T14:55:27Z",
+          "unread": false,
+          "tag": "Important",
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a024d1dc7750e04"
+        },
+        {
+          "from": "Zapier",
+          "subject": "A framework for knowing when (and when not) to use AI",
+          "snippet": "We're sharing what we found in our ZapConnect keynote.",
+          "date": "2026-08-21T14:46:19Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a024c9816237714"
+        },
         {
           "from": "Google",
           "subject": "You shared some Google Account data with Claude",
@@ -14,81 +87,6 @@
           "date": "2026-08-20T23:02:48Z",
           "unread": false,
           "url": "https://mail.google.com/mail/u/0/#inbox/1a02169af90c42e7"
-        },
-        {
-          "from": "Claude",
-          "subject": "Security alert: new trusted device added to your Claude account",
-          "snippet": "A new trusted device was added to your Claude account. If this was you, no action is needed.",
-          "date": "2026-08-20T23:02:48Z",
-          "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a02169af16a4cf5"
-        },
-        {
-          "from": "TCL Chinese Theatres",
-          "subject": "Booking for (IMAX 70mm) The Odyssey",
-          "snippet": "Reference #: WLF8KM8. Thanks for your order! We are excited to see you at the show. Click the link below to view your ticket.",
-          "date": "2026-08-20T21:12:21Z",
-          "unread": true,
-          "tag": "Important",
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0210494d6a5895"
-        },
-        {
-          "from": "Eventbrite",
-          "subject": "Events worth stepping outside for.",
-          "snippet": "Find your reason to get out and explore.",
-          "date": "2026-08-20T20:29:50Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a020dda2a7cad6c"
-        },
-        {
-          "from": "U.S. Soccer",
-          "subject": "Win a trip to see the USWNT play live with American Airlines",
-          "snippet": "Airfare, hotel & tickets for one Insider and guest.",
-          "date": "2026-08-20T16:16:23Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a01ff59b9797cb6"
-        },
-        {
-          "from": "The Transfer Flow",
-          "subject": "Fiorentina built a squad that can go from relegation battle to Europe",
-          "snippet": "The most ambitious, aggressive transfer window in Serie A looks like money well spent.",
-          "date": "2026-08-20T15:25:20Z",
-          "unread": true,
-          "tag": "Important",
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a01fc7ad4d6d48d"
-        },
-        {
-          "from": "Jack Buckingham",
-          "subject": "⚽🎰 60 new jobs 🔥1 posted today! — Aug 20",
-          "snippet": "Soccer & Betting Jobs Daily digest · August 20, 2026 · 60 new · 0 still open · 1 posted today.",
-          "date": "2026-08-20T13:43:11Z",
-          "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a01f695717645bc"
-        },
-        {
-          "from": "Liam Henshaw",
-          "subject": "How I went from office job to football scout and analyst",
-          "snippet": "Something new from me.",
-          "date": "2026-08-20T08:27:39Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a01e487485a13eb"
-        },
-        {
-          "from": "UCLA Health",
-          "subject": "How to help kids maintain focus as they head back to school",
-          "snippet": "Plus, learn about the cyclosporiasis outbreak.",
-          "date": "2026-08-19T18:33:36Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a01b50f788d52ad"
-        },
-        {
-          "from": "The Transfer Flow",
-          "subject": "Aston Villa have 2 weeks to buy half a team",
-          "snippet": "Plus Man City's midfield mess, Serie A sides making moves.",
-          "date": "2026-08-19T16:47:26Z",
-          "unread": true,
-          "tag": "Important",
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a01aeba834b49b2"
         }
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "updatedLabel": "Fri Aug 21, 12:14 AM PT",
+  "updatedLabel": "Sun Aug 23, 12:11 AM PT",
   "sources": [
     { "key": "personal", "name": "Personal", "connected": true },
     { "key": "lafc-work", "name": "LAFC Work", "connected": true },
@@ -7,26 +7,10 @@
   ],
   "days": [
     {
-      "label": "Fri · Aug 21",
+      "label": "Sun · Aug 23",
       "today": true,
       "events": [
-        { "time": "10:00 AM", "title": "Zani x Jackson 1on1 re: Brand Impression Integration", "src": "lafc-work" },
-        { "time": "10:00 AM", "title": "AI Hour", "src": "lafc-work" },
-        { "time": "6:00 PM", "title": "Dinner w Erik and Jay", "src": "personal" }
-      ]
-    },
-    {
-      "label": "Sat · Aug 22",
-      "events": [
-        { "time": "12:00 PM", "title": "Lunch w Anj", "src": "personal" },
-        { "time": "7:30 PM", "title": "⚽ LAFC vs. Portland Timbers", "loc": "BMO Stadium", "src": "lafc-match" },
-        { "time": "8:00 PM", "title": "Jay bday", "src": "personal" }
-      ]
-    },
-    {
-      "label": "Sun · Aug 23",
-      "events": [
-        { "time": "2:00 PM", "title": "2026 All Points East Festival — Outbreak (Deftones)", "loc": "Victoria Park, London", "src": "personal" }
+        { "time": "2:00 PM", "title": "All Points East Festival — Outbreak (Deftones)", "loc": "Victoria Park, London", "src": "personal" }
       ]
     },
     {
@@ -35,7 +19,8 @@
         { "time": "10:00 AM", "title": "Class", "src": "personal" },
         { "time": "11:00 AM", "title": "CP Sales Weekly", "loc": "Zoom", "src": "lafc-work" },
         { "time": "12:30 PM", "title": "Nate x Jack 1on1 re: CP Outreach", "src": "lafc-work" },
-        { "time": "1:00 PM", "title": "JWO Analysis", "loc": "Zoom", "src": "lafc-work" }
+        { "time": "1:00 PM", "title": "JWO Analysis", "loc": "Zoom", "src": "lafc-work" },
+        { "time": "1:45 PM", "title": "Jackson Weekly Check In", "src": "lafc-work" }
       ]
     },
     {
@@ -50,7 +35,8 @@
     {
       "label": "Wed · Aug 26",
       "events": [
-        { "time": "7:00 AM", "title": "SAS/LAFC Weekly Status Sync", "loc": "Teams", "src": "lafc-work" },
+        { "time": "10:00 AM", "title": "SAS/LAFC | Weekly Status Sync", "loc": "Microsoft Teams", "src": "lafc-work" },
+        { "time": "3:00 PM", "title": "Javier's w shiby", "loc": "Javier's", "src": "personal" },
         { "time": "7:00 PM", "title": "Dinner w Jared", "src": "personal" }
       ]
     },
@@ -58,7 +44,8 @@
       "label": "Thu · Aug 27",
       "events": [
         { "time": "All day", "title": "CWRK 2 DUE", "src": "personal" },
-        { "time": "8:00 AM", "title": "SAS/LAFC Weekly Thursday Hands-On Time", "loc": "Teams", "src": "lafc-work" },
+        { "time": "11:00 AM", "title": "SAS/LAFC Thursday Hands-On Time", "loc": "Microsoft Teams", "src": "lafc-work" },
+        { "time": "3:00 PM", "title": "Mike x Jackson 1on1 re: Artist/Venue Dashboard", "src": "lafc-work" },
         { "time": "3:30 PM", "title": "Dr Dugar", "src": "personal" }
       ]
     },
@@ -80,7 +67,8 @@
         { "time": "10:00 AM", "title": "Class", "src": "personal" },
         { "time": "11:00 AM", "title": "CP Sales Weekly", "loc": "Zoom", "src": "lafc-work" },
         { "time": "12:30 PM", "title": "Nate x Jack 1on1 re: CP Outreach", "src": "lafc-work" },
-        { "time": "1:15 PM", "title": "Jack x Jack(son) 1on1", "src": "lafc-work" }
+        { "time": "1:15 PM", "title": "Jack x Jack(son) 1on1", "src": "lafc-work" },
+        { "time": "1:45 PM", "title": "Jackson Weekly Check In", "src": "lafc-work" }
       ]
     },
     {
@@ -92,13 +80,13 @@
     {
       "label": "Wed · Sep 2",
       "events": [
-        { "time": "7:00 AM", "title": "SAS/LAFC Weekly Status Sync", "loc": "Teams", "src": "lafc-work" }
+        { "time": "10:00 AM", "title": "SAS/LAFC | Weekly Status Sync", "loc": "Microsoft Teams", "src": "lafc-work" }
       ]
     },
     {
       "label": "Thu · Sep 3",
       "events": [
-        { "time": "8:00 AM", "title": "SAS/LAFC Weekly Thursday Hands-On Time", "loc": "Teams", "src": "lafc-work" },
+        { "time": "11:00 AM", "title": "SAS/LAFC Thursday Hands-On Time", "loc": "Microsoft Teams", "src": "lafc-work" },
         { "time": "3:00 PM", "title": "Mike x Jackson Monthly 1on1", "src": "lafc-work" }
       ]
     },
@@ -106,6 +94,12 @@
       "label": "Fri · Sep 4",
       "events": [
         { "time": "10:00 AM", "title": "AI Hour", "src": "lafc-work" }
+      ]
+    },
+    {
+      "label": "Sat · Sep 5",
+      "events": [
+        { "time": "6:30 PM", "title": "⚽ LAFC @ Real Salt Lake", "loc": "America First Field", "src": "lafc-match" }
       ]
     }
   ]
