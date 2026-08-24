@@ -1,24 +1,73 @@
 {
-  "note": "Last 10 messages in your primary inbox — a couple of Apple App Store review notices and a Bat Mitzvah invite, but mostly promos and account notices.",
+  "note": "Last ~10 received messages in the primary inbox. Secondary account is not connected.",
   "accounts": [
     {
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-08-23T07:11:05Z",
+      "updated": "2026-08-24T07:16:58Z",
       "emails": [
         {
-          "from": "Paperless Post",
-          "subject": "Lily Annenberg's Bat Mitzvah",
-          "snippet": "For: Jack Buckingham — Event Invitation. Lily Annenberg's Bat Mitzvah, Saturday, November 14. Add to calendar.",
-          "date": "2026-08-23T00:44:58Z",
+          "from": "Siobhan · PR Moment",
+          "subject": "Action required: Choose your TGG Live 26 breakout sessions (Deadline today!)",
+          "snippet": "Dear TGG Live delegate, We're getting close to TGG Live 26, and this is a quick reminder to select your breakout sessions for day one and two.",
+          "date": "2026-08-24T07:11:11Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a02c13ee59766c3"
+          "tag": "Important",
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0329bea7074366"
+        },
+        {
+          "from": "Liam Henshaw",
+          "subject": "The network of one",
+          "snippet": "Why opportunities in football don't last.",
+          "date": "2026-08-24T05:31:02Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0324033bfd2167"
+        },
+        {
+          "from": "Apple",
+          "subject": "Your recent purchase with your Apple Account.",
+          "snippet": "Recent Purchase — Your Apple Account was just used to make a purchase in Pace by Athlytic on a device that has not previously been used.",
+          "date": "2026-08-24T00:37:56Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a03133de0209d47"
+        },
+        {
+          "from": "Google",
+          "subject": "Jack, review your Google Account settings",
+          "snippet": "Hi Jack, Welcome to Google on your new PC. Here are a few tips to get you started.",
+          "date": "2026-08-24T00:05:45Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a03116624457ef0"
+        },
+        {
+          "from": "Google",
+          "subject": "Security alert",
+          "snippet": "A new sign-in on Mac OS. We noticed a new sign-in to your Google Account on a Mac OS device.",
+          "date": "2026-08-24T00:04:42Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a031157332ea31a"
+        },
+        {
+          "from": "Lugg",
+          "subject": "We're so glad you had a great experience! 💪",
+          "snippet": "Would you mind leaving a short BBB review?",
+          "date": "2026-08-23T22:29:49Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a030be8e7705799"
+        },
+        {
+          "from": "Soccer & Betting Jobs Digest",
+          "subject": "⚽🎰 50 new jobs — Aug 23",
+          "snippet": "Daily digest · August 23, 2026 — 50 new · 0 still open. Track your applications in your Google Sheet tracker.",
+          "date": "2026-08-23T13:29:50Z",
+          "unread": false,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a02ed02ef00b659"
         },
         {
           "from": "Apple",
           "subject": "There's an issue with your BestWhen (iOS) submission.",
-          "snippet": "Thank you for submitting your items for review. We noticed an issue with your submission that requires your attention. Submitted: Aug 21, 2026.",
+          "snippet": "Hello Jack, Thank you for submitting your items for review. We noticed an issue with your submission that requires your attention.",
           "date": "2026-08-22T19:29:09Z",
           "unread": false,
           "url": "https://mail.google.com/mail/u/0/#inbox/1a02af2cd2cd2d30"
@@ -26,7 +75,7 @@
         {
           "from": "Apple",
           "subject": "Your App Review Feedback",
-          "snippet": "Changes needed. BestWhen iOS. During our review, we noticed a few things that you'll need to address before your app can be approved for distribution.",
+          "snippet": "Changes needed. BestWhen iOS — during our review, we noticed a few things that you'll need to address before your app can be approved for distribution.",
           "date": "2026-08-22T19:28:45Z",
           "unread": false,
           "url": "https://mail.google.com/mail/u/0/#inbox/1a02af2714cb22cd"
@@ -38,55 +87,6 @@
           "date": "2026-08-22T15:03:39Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/1a02a000c17c135a"
-        },
-        {
-          "from": "Jack Buckingham",
-          "subject": "⚽🎰 46 new jobs — Aug 22",
-          "snippet": "Soccer & Betting Jobs Daily digest · August 22, 2026. 46 new · 0 still open. Track your applications in your Google Sheet tracker.",
-          "date": "2026-08-22T13:29:12Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a029a93d15606d3"
-        },
-        {
-          "from": "Lugg",
-          "subject": "Your Lugg Pickup (#OZPYL7) is confirmed!",
-          "snippet": "You'll receive a notification when your luggers are on their way to your pickup location.",
-          "date": "2026-08-21T21:25:52Z",
-          "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a02637488be940b"
-        },
-        {
-          "from": "TeamWork Online",
-          "subject": "YOU'RE INVITED: Los Angeles Sport & Entertainment Career Expo",
-          "snippet": "Looking to work in sports in Los Angeles? Come impress employers on September 16th. Don't miss out on this unique opportunity.",
-          "date": "2026-08-21T19:10:56Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a025bbc7b32ee4c"
-        },
-        {
-          "from": "The Transfer Flow",
-          "subject": "The Premier League has a relegation 6-pointer in Week 1",
-          "snippet": "Plus FPL tips, games we're watching and stuff we're reading.",
-          "date": "2026-08-21T14:55:27Z",
-          "unread": false,
-          "tag": "Important",
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a024d1dc7750e04"
-        },
-        {
-          "from": "Zapier",
-          "subject": "A framework for knowing when (and when not) to use AI",
-          "snippet": "We're sharing what we found in our ZapConnect keynote.",
-          "date": "2026-08-21T14:46:19Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a024c9816237714"
-        },
-        {
-          "from": "Google",
-          "subject": "You shared some Google Account data with Claude",
-          "snippet": "You're receiving this email because you used Sign in with Google to sign in to Claude on August 20 at 4:02 PM.",
-          "date": "2026-08-20T23:02:48Z",
-          "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a02169af90c42e7"
         }
       ]
     },

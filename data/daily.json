@@ -1,16 +1,41 @@
 {
-  "dateLabel": "Sunday, Aug 23",
-  "updatedLabel": "Sun Aug 23, 12:11 AM PT",
+  "dateLabel": "Monday, Aug 24",
+  "updatedLabel": "Mon Aug 24, 12:16 AM PT",
   "today": [
     {
+      "time": "10:00 AM",
+      "title": "Class",
+      "loc": "Teams"
+    },
+    {
       "time": "2:00 PM",
-      "title": "All Points East Festival — Outbreak (Deftones)",
-      "loc": "Victoria Park, London",
-      "accent": "span"
+      "title": "PT"
     }
   ],
-  "todayNote": "Quiet Sunday — one event on the calendar and just your daily recurring tasks. The work week kicks off tomorrow.",
-  "week": [],
+  "todayNote": "Busy Monday — Class at 10 and PT at 2 on your personal calendar, plus a full LAFC work slate (CP Sales Weekly, Nate 1on1, JWO Analysis, weekly check-in). See the Calendar tab for the work meetings.",
+  "week": [
+    {
+      "day": "Tue · Aug 25",
+      "items": [
+        { "time": "6:00 PM", "title": "WME drinks" },
+        { "time": "7:00 PM", "title": "lil yuh draft" }
+      ]
+    },
+    {
+      "day": "Wed · Aug 26",
+      "items": [
+        { "time": "3:00 PM", "title": "Javier's w shiby" }
+      ]
+    },
+    {
+      "day": "Thu · Aug 27",
+      "items": [
+        { "time": "All day", "title": "CWRK 2 DUE" },
+        { "time": "12:00 PM", "title": "Jared lunch" },
+        { "time": "3:30 PM", "title": "Dr Dugar" }
+      ]
+    }
+  ],
   "tasks": {
     "pillText": "2 recurring · none overdue",
     "pillWarn": false,
@@ -30,10 +55,16 @@
   },
   "followups": [
     {
-      "dot": "amber",
-      "url": "https://mail.google.com/mail/u/0/#inbox/1a02c13ee59766c3",
-      "title": "Lily Annenberg's Bat Mitzvah",
-      "meta": "Paperless Post invite · RSVP · Sat Nov 14"
+      "dot": "red",
+      "url": "https://mail.google.com/mail/u/0/#inbox/1a02af2714cb22cd",
+      "title": "BestWhen (iOS) — App Review Feedback",
+      "meta": "Apple · changes needed before approval"
+    },
+    {
+      "dot": "red",
+      "url": "https://mail.google.com/mail/u/0/#inbox/1a0329bea7074366",
+      "title": "Choose your TGG Live 26 breakout sessions",
+      "meta": "PR Moment · deadline today"
     },
     {
       "dot": "green",
@@ -43,14 +74,14 @@
     }
   ],
   "inbox": {
-    "unread": 37,
+    "unread": 40,
     "items": [
       {
-        "dot": "amber",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a02c13ee59766c3",
-        "title": "Lily Annenberg's Bat Mitzvah",
+        "dot": "red",
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a0329bea7074366",
+        "title": "Action required: Choose your TGG Live 26 breakout sessions",
         "tag": "EVENT",
-        "meta": "Paperless Post · Nov 14"
+        "meta": "PR Moment · deadline today"
       },
       {
         "dot": "amber",
@@ -69,16 +100,17 @@
         "dot": "faint",
         "url": "https://mail.google.com/mail/u/0/#inbox/1a013d545552f92c",
         "title": "Choose your pass: TGG Live '26",
-        "meta": "Training Ground Guru"
+        "meta": "Simon Austin · Training Ground Guru"
       },
       {
         "dot": "faint",
         "url": "https://mail.google.com/mail/u/0/#inbox/19feb90131545dc3",
         "title": "Deep Learning & AI in Sports — free webinar",
-        "meta": "Twelve.football · Mon Aug 24"
+        "tag": "EVENT",
+        "meta": "Twelve.football · today 9am PT"
       }
     ],
-    "note": "Most of the 37 unread are newsletters and promos (Audible, Barça Innovation Hub, Burke Williams, FootballTicketNet, Zapier)."
+    "note": "Most of the 40 unread are newsletters and promos (Audible, Barça Innovation Hub, Burke Williams, FootballTicketNet, Zapier)."
   },
   "drive": [
     {
