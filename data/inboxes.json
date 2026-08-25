@@ -5,14 +5,38 @@
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-08-24T07:16:58Z",
+      "updated": "2026-08-25T07:17:49Z",
       "emails": [
+        {
+          "from": "Zapier",
+          "subject": "What can be shared with AI?",
+          "snippet": "We surveyed 1,005 US workers at companies with 500+ employees to understand how business data is being handled in the age of AI.",
+          "date": "2026-08-24T15:30:04Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a03464a47ea3598"
+        },
+        {
+          "from": "Simon Austin · Training Ground Guru",
+          "subject": "The final agenda for TGG Live '26 is here",
+          "snippet": "See every session for TGG Live '26.",
+          "date": "2026-08-24T11:45:22Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a03396e659dcce6"
+        },
+        {
+          "from": "Scouted Football",
+          "subject": "Full-backs are evolving again",
+          "snippet": "Throughout history, coaches have used full-backs to solve problems and push the meta forward. This summer, the tides are changing again.",
+          "date": "2026-08-24T10:28:54Z",
+          "unread": false,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a033512abcacbf9"
+        },
         {
           "from": "Siobhan · PR Moment",
           "subject": "Action required: Choose your TGG Live 26 breakout sessions (Deadline today!)",
-          "snippet": "Dear TGG Live delegate, We're getting close to TGG Live 26, and this is a quick reminder to select your breakout sessions for day one and two.",
+          "snippet": "We're getting close to TGG Live 26 — a quick reminder to select your breakout sessions for day one and two.",
           "date": "2026-08-24T07:11:11Z",
-          "unread": true,
+          "unread": false,
           "tag": "Important",
           "url": "https://mail.google.com/mail/u/0/#inbox/1a0329bea7074366"
         },
@@ -23,30 +47,6 @@
           "date": "2026-08-24T05:31:02Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/1a0324033bfd2167"
-        },
-        {
-          "from": "Apple",
-          "subject": "Your recent purchase with your Apple Account.",
-          "snippet": "Recent Purchase — Your Apple Account was just used to make a purchase in Pace by Athlytic on a device that has not previously been used.",
-          "date": "2026-08-24T00:37:56Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a03133de0209d47"
-        },
-        {
-          "from": "Google",
-          "subject": "Jack, review your Google Account settings",
-          "snippet": "Hi Jack, Welcome to Google on your new PC. Here are a few tips to get you started.",
-          "date": "2026-08-24T00:05:45Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a03116624457ef0"
-        },
-        {
-          "from": "Google",
-          "subject": "Security alert",
-          "snippet": "A new sign-in on Mac OS. We noticed a new sign-in to your Google Account on a Mac OS device.",
-          "date": "2026-08-24T00:04:42Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a031157332ea31a"
         },
         {
           "from": "Lugg",
@@ -67,7 +67,7 @@
         {
           "from": "Apple",
           "subject": "There's an issue with your BestWhen (iOS) submission.",
-          "snippet": "Hello Jack, Thank you for submitting your items for review. We noticed an issue with your submission that requires your attention.",
+          "snippet": "Thank you for submitting your items for review. We noticed an issue with your submission that requires your attention.",
           "date": "2026-08-22T19:29:09Z",
           "unread": false,
           "url": "https://mail.google.com/mail/u/0/#inbox/1a02af2cd2cd2d30"
@@ -75,7 +75,7 @@
         {
           "from": "Apple",
           "subject": "Your App Review Feedback",
-          "snippet": "Changes needed. BestWhen iOS — during our review, we noticed a few things that you'll need to address before your app can be approved for distribution.",
+          "snippet": "Changes needed. BestWhen iOS — during our review, we noticed a few things you'll need to address before your app can be approved for distribution.",
           "date": "2026-08-22T19:28:45Z",
           "unread": false,
           "url": "https://mail.google.com/mail/u/0/#inbox/1a02af2714cb22cd"

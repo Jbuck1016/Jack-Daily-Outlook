@@ -1,5 +1,5 @@
 {
-  "updatedLabel": "Mon Aug 24, 12:16 AM PT",
+  "updatedLabel": "Tue Aug 25, 12:17 AM PT",
   "sources": [
     { "key": "personal", "name": "Personal", "connected": true },
     { "key": "lafc-work", "name": "LAFC Work", "connected": true },
@@ -7,20 +7,8 @@
   ],
   "days": [
     {
-      "label": "Mon · Aug 24",
-      "today": true,
-      "events": [
-        { "time": "10:00 AM", "title": "Class", "loc": "Teams", "src": "personal" },
-        { "time": "11:00 AM", "title": "CP Sales Weekly", "loc": "Zoom", "src": "lafc-work" },
-        { "time": "12:30 PM", "title": "Nate x Jack 1on1 re: CP Outreach", "src": "lafc-work" },
-        { "time": "1:00 PM", "title": "JWO Analysis", "loc": "Zoom", "src": "lafc-work" },
-        { "time": "1:45 PM", "title": "Jackson Weekly Check In", "src": "lafc-work" },
-        { "time": "2:00 PM", "title": "PT", "src": "personal" },
-        { "time": "2:00 PM", "title": "Busy", "src": "lafc-work" }
-      ]
-    },
-    {
       "label": "Tue · Aug 25",
+      "today": true,
       "events": [
         { "time": "8:15 AM", "title": "BDS Bi-Weekly", "loc": "Zoom", "src": "lafc-work" },
         { "time": "11:00 AM", "title": "CP Weekly", "loc": "Zoom", "src": "lafc-work" },
@@ -31,7 +19,7 @@
     {
       "label": "Wed · Aug 26",
       "events": [
-        { "time": "7:00 AM", "title": "SAS/LAFC | Weekly Status Sync", "loc": "Teams", "src": "lafc-work" },
+        { "time": "10:00 AM", "title": "SAS/LAFC | Weekly Status Sync", "loc": "Teams", "src": "lafc-work" },
         { "time": "3:00 PM", "title": "Javier's w shiby", "loc": "Javier's", "src": "personal" }
       ]
     },
@@ -39,7 +27,7 @@
       "label": "Thu · Aug 27",
       "events": [
         { "time": "All day", "title": "CWRK 2 DUE", "src": "personal" },
-        { "time": "8:00 AM", "title": "SAS/LAFC Weekly Thursday Hands-On Time", "loc": "Teams", "src": "lafc-work" },
+        { "time": "11:00 AM", "title": "SAS/LAFC Weekly Thursday Hands-On Time", "loc": "Teams", "src": "lafc-work" },
         { "time": "12:00 PM", "title": "Jared lunch", "src": "personal" },
         { "time": "3:00 PM", "title": "Mike x Jackson 1on1 re: Artist/Venue Dashboard", "src": "lafc-work" },
         { "time": "3:30 PM", "title": "Dr Dugar", "src": "personal" }
@@ -76,13 +64,13 @@
     {
       "label": "Wed · Sep 2",
       "events": [
-        { "time": "7:00 AM", "title": "SAS/LAFC | Weekly Status Sync", "loc": "Teams", "src": "lafc-work" }
+        { "time": "10:00 AM", "title": "SAS/LAFC | Weekly Status Sync", "loc": "Teams", "src": "lafc-work" }
       ]
     },
     {
       "label": "Thu · Sep 3",
       "events": [
-        { "time": "8:00 AM", "title": "SAS/LAFC Weekly Thursday Hands-On Time", "loc": "Teams", "src": "lafc-work" },
+        { "time": "11:00 AM", "title": "SAS/LAFC Weekly Thursday Hands-On Time", "loc": "Teams", "src": "lafc-work" },
         { "time": "3:00 PM", "title": "Mike x Jackson Monthly 1on1", "src": "lafc-work" }
       ]
     },
@@ -105,6 +93,13 @@
         { "time": "11:00 AM", "title": "CP Sales Weekly", "loc": "Zoom", "src": "lafc-work" },
         { "time": "12:30 PM", "title": "Nate x Jack 1on1 re: CP Outreach", "src": "lafc-work" },
         { "time": "1:45 PM", "title": "Jackson Weekly Check In", "src": "lafc-work" }
+      ]
+    },
+    {
+      "label": "Tue · Sep 8",
+      "events": [
+        { "time": "8:15 AM", "title": "BDS Bi-Weekly", "loc": "Zoom", "src": "lafc-work" },
+        { "time": "11:00 AM", "title": "CP Weekly", "loc": "Zoom", "src": "lafc-work" }
       ]
     }
   ]

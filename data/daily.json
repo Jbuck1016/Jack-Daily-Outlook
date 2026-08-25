@@ -1,26 +1,20 @@
 {
-  "dateLabel": "Monday, Aug 24",
-  "updatedLabel": "Mon Aug 24, 12:16 AM PT",
+  "dateLabel": "Tuesday, Aug 25",
+  "updatedLabel": "Tue Aug 25, 12:17 AM PT",
   "today": [
     {
-      "time": "10:00 AM",
-      "title": "Class",
-      "loc": "Teams"
+      "time": "6:00 PM",
+      "title": "WME drinks",
+      "accent": "eve"
     },
     {
-      "time": "2:00 PM",
-      "title": "PT"
+      "time": "7:00 PM",
+      "title": "lil yuh draft",
+      "accent": "eve"
     }
   ],
-  "todayNote": "Busy Monday — Class at 10 and PT at 2 on your personal calendar, plus a full LAFC work slate (CP Sales Weekly, Nate 1on1, JWO Analysis, weekly check-in). See the Calendar tab for the work meetings.",
+  "todayNote": "Light personal calendar — just WME drinks at 6 and lil yuh draft at 7 this evening. Work day has BDS Bi-Weekly at 8:15 and CP Weekly at 11 on the LAFC calendar; see the Calendar tab.",
   "week": [
-    {
-      "day": "Tue · Aug 25",
-      "items": [
-        { "time": "6:00 PM", "title": "WME drinks" },
-        { "time": "7:00 PM", "title": "lil yuh draft" }
-      ]
-    },
     {
       "day": "Wed · Aug 26",
       "items": [
@@ -61,12 +55,6 @@
       "meta": "Apple · changes needed before approval"
     },
     {
-      "dot": "red",
-      "url": "https://mail.google.com/mail/u/0/#inbox/1a0329bea7074366",
-      "title": "Choose your TGG Live 26 breakout sessions",
-      "meta": "PR Moment · deadline today"
-    },
-    {
       "dot": "green",
       "url": "https://mail.google.com/mail/u/0/#inbox/1a025bbc7b32ee4c",
       "title": "LA Sport & Entertainment Career Expo",
@@ -74,23 +62,10 @@
     }
   ],
   "inbox": {
-    "unread": 40,
+    "unread": 32,
     "items": [
       {
-        "dot": "red",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a0329bea7074366",
-        "title": "Action required: Choose your TGG Live 26 breakout sessions",
-        "tag": "EVENT",
-        "meta": "PR Moment · deadline today"
-      },
-      {
         "dot": "amber",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a0210494d6a5895",
-        "title": "Booking for (IMAX 70mm) The Odyssey",
-        "meta": "TCL Chinese Theatres · ticket confirmation"
-      },
-      {
-        "dot": "faint",
         "url": "https://mail.google.com/mail/u/0/#inbox/1a025bbc7b32ee4c",
         "title": "LA Sport & Entertainment Career Expo",
         "tag": "EVENT",
@@ -98,30 +73,29 @@
       },
       {
         "dot": "faint",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a013d545552f92c",
-        "title": "Choose your pass: TGG Live '26",
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a03396e659dcce6",
+        "title": "The final agenda for TGG Live '26 is here",
         "meta": "Simon Austin · Training Ground Guru"
       },
       {
         "dot": "faint",
-        "url": "https://mail.google.com/mail/u/0/#inbox/19feb90131545dc3",
-        "title": "Deep Learning & AI in Sports — free webinar",
-        "tag": "EVENT",
-        "meta": "Twelve.football · today 9am PT"
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a0324033bfd2167",
+        "title": "The network of one",
+        "meta": "Liam Henshaw · newsletter"
       }
     ],
-    "note": "Most of the 40 unread are newsletters and promos (Audible, Barça Innovation Hub, Burke Williams, FootballTicketNet, Zapier)."
+    "note": "Most of the 32 unread are newsletters and promos (Audible, Barça Innovation Hub, Burke Williams, FootballTicketNet, Zapier, US Soccer)."
   },
   "drive": [
+    {
+      "url": "https://drive.google.com/file/d/157z7u08hySTgvOhW1q-gkRX1VP6P1SWV/view",
+      "title": "2026 UPR Campaign.xlsx",
+      "meta": "Spreadsheet · edited Aug 25"
+    },
     {
       "url": "https://docs.google.com/document/d/1eQGVfXo_tL0K2HVmJmBJNelXA5tdMxfI_zD9vvLSq_M/edit",
       "title": "MLS 2026 Analytics — Site Walkthrough Script",
       "meta": "Google Doc · edited Aug 20"
-    },
-    {
-      "url": "https://drive.google.com/file/d/157z7u08hySTgvOhW1q-gkRX1VP6P1SWV/view",
-      "title": "2026 UPR Campaign.xlsx",
-      "meta": "Spreadsheet · edited Aug 19"
     },
     {
       "url": "https://docs.google.com/document/d/1VoMe13BGn7l1i3BRSxAVICiDY3-ySZKywY-pv9iunVk/edit",
