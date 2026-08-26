@@ -1,92 +1,91 @@
 {
-  "note": "Last ~10 received messages in the primary inbox. Secondary account is not connected.",
+  "note": "Showing the 10 most recent inbox messages for the primary account. The secondary account isn't connected.",
   "accounts": [
     {
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-08-25T07:17:49Z",
+      "updated": "2026-08-26T07:19:37Z",
       "emails": [
         {
-          "from": "Zapier",
-          "subject": "What can be shared with AI?",
-          "snippet": "We surveyed 1,005 US workers at companies with 500+ employees to understand how business data is being handled in the age of AI.",
-          "date": "2026-08-24T15:30:04Z",
+          "from": "Audible",
+          "subject": "Hundreds of titles, up to 80% off!",
+          "snippet": "Shop August's Monthly Deals — latest sales & deals. Don't miss out on our top offers.",
+          "date": "2026-08-26T01:10:20Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a03464a47ea3598"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a03b9e3afcb9aa8"
         },
         {
-          "from": "Simon Austin · Training Ground Guru",
-          "subject": "The final agenda for TGG Live '26 is here",
-          "snippet": "See every session for TGG Live '26.",
-          "date": "2026-08-24T11:45:22Z",
+          "from": "Audible",
+          "subject": "Still time for $0.99/mo",
+          "snippet": "For a limited time, save over 80% — just $0.99/mo for the first 3 months.",
+          "date": "2026-08-25T23:23:59Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a03396e659dcce6"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a03b3ce47bba377"
+        },
+        {
+          "from": "Zapier",
+          "subject": "The first-timer's guide to ZapConnect 2026",
+          "snippet": "Here's what to explore at our annual user conference.",
+          "date": "2026-08-25T19:28:40Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a03a656f9e031c6"
+        },
+        {
+          "from": "Google",
+          "subject": "You shared some Google Account data with Claude",
+          "snippet": "You're receiving this email because you used Sign in with Google to sign in to Claude on August 25.",
+          "date": "2026-08-25T15:54:59Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a039a1cca57d36c"
+        },
+        {
+          "from": "Anthropic",
+          "subject": "Security alert: new trusted device added to your Claude account",
+          "snippet": "A new trusted device was added to your Claude account. If this was you, no action is needed.",
+          "date": "2026-08-25T15:54:55Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a039a1c15da58a1"
         },
         {
           "from": "Scouted Football",
-          "subject": "Full-backs are evolving again",
-          "snippet": "Throughout history, coaches have used full-backs to solve problems and push the meta forward. This summer, the tides are changing again.",
-          "date": "2026-08-24T10:28:54Z",
-          "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a033512abcacbf9"
-        },
-        {
-          "from": "Siobhan · PR Moment",
-          "subject": "Action required: Choose your TGG Live 26 breakout sessions (Deadline today!)",
-          "snippet": "We're getting close to TGG Live 26 — a quick reminder to select your breakout sessions for day one and two.",
-          "date": "2026-08-24T07:11:11Z",
-          "unread": false,
-          "tag": "Important",
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0329bea7074366"
-        },
-        {
-          "from": "Liam Henshaw",
-          "subject": "The network of one",
-          "snippet": "Why opportunities in football don't last.",
-          "date": "2026-08-24T05:31:02Z",
+          "subject": "Fabian Hürzeler's quest to kill the orthodoxy",
+          "snippet": "For years, positional play has had a stranglehold on football tactics. A young German's discordant symphony seeks to topple it.",
+          "date": "2026-08-25T15:25:40Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0324033bfd2167"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a03987372968510"
         },
         {
-          "from": "Lugg",
-          "subject": "We're so glad you had a great experience! 💪",
-          "snippet": "Would you mind leaving a short BBB review?",
-          "date": "2026-08-23T22:29:49Z",
+          "from": "Memorial Sloan Kettering",
+          "subject": "Join the movement that has raised $450M for rare cancer research",
+          "snippet": "Cycle for Survival 2027 is coming soon — sign up for the interest list today.",
+          "date": "2026-08-25T15:08:59Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a030be8e7705799"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a039787548c2492"
         },
         {
-          "from": "Soccer & Betting Jobs Digest",
-          "subject": "⚽🎰 50 new jobs — Aug 23",
-          "snippet": "Daily digest · August 23, 2026 — 50 new · 0 still open. Track your applications in your Google Sheet tracker.",
-          "date": "2026-08-23T13:29:50Z",
-          "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a02ed02ef00b659"
-        },
-        {
-          "from": "Apple",
-          "subject": "There's an issue with your BestWhen (iOS) submission.",
-          "snippet": "Thank you for submitting your items for review. We noticed an issue with your submission that requires your attention.",
-          "date": "2026-08-22T19:29:09Z",
-          "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a02af2cd2cd2d30"
-        },
-        {
-          "from": "Apple",
-          "subject": "Your App Review Feedback",
-          "snippet": "Changes needed. BestWhen iOS — during our review, we noticed a few things you'll need to address before your app can be approved for distribution.",
-          "date": "2026-08-22T19:28:45Z",
-          "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a02af2714cb22cd"
-        },
-        {
-          "from": "Burke Williams",
-          "subject": "Your summer reset, extended☀️",
-          "snippet": "Enjoy more time to restore with the Summer Renewal gift card package and H₂V Protect SPF 30.",
-          "date": "2026-08-22T15:03:39Z",
+          "from": "Simon Austin · Training Ground Guru",
+          "subject": "Two Masterclasses coming up: MLS development + international data analysis",
+          "snippet": "We have a double header of Masterclasses coming up over the next seven days.",
+          "date": "2026-08-25T13:57:48Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a02a000c17c135a"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0393719c88ad5b"
+        },
+        {
+          "from": "Jack Buckingham",
+          "subject": "⚽🎰 34 new jobs — Aug 25",
+          "snippet": "Soccer & Betting Jobs Daily digest · August 25, 2026 — 34 new, 0 still open.",
+          "date": "2026-08-25T13:45:59Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0392bb01d8a036"
+        },
+        {
+          "from": "Barça Innovation Hub",
+          "subject": "Champions also start from scratch - 40% off until August 30th",
+          "snippet": "Champions also start from scratch. 40% off with START40 until August 30th.",
+          "date": "2026-08-25T13:30:09Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0391d405044f58"
         }
       ]
     },

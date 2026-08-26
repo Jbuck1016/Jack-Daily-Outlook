@@ -1,90 +1,79 @@
 {
-  "dateLabel": "Tuesday, Aug 25",
-  "updatedLabel": "Tue Aug 25, 12:17 AM PT",
+  "dateLabel": "Wednesday, August 26",
+  "updatedLabel": "Wed Aug 26, 12:19 AM PT",
   "today": [
     {
-      "time": "6:00 PM",
-      "title": "WME drinks",
-      "accent": "eve"
-    },
-    {
-      "time": "7:00 PM",
-      "title": "lil yuh draft",
-      "accent": "eve"
+      "time": "3:00 PM",
+      "title": "Javier’s w shiby",
+      "loc": "Javier’s"
     }
   ],
-  "todayNote": "Light personal calendar — just WME drinks at 6 and lil yuh draft at 7 this evening. Work day has BDS Bi-Weekly at 8:15 and CP Weekly at 11 on the LAFC calendar; see the Calendar tab.",
+  "todayNote": "Light personal day — CWRK 2 is due tomorrow (Thu).",
   "week": [
-    {
-      "day": "Wed · Aug 26",
-      "items": [
-        { "time": "3:00 PM", "title": "Javier's w shiby" }
-      ]
-    },
     {
       "day": "Thu · Aug 27",
       "items": [
-        { "time": "All day", "title": "CWRK 2 DUE" },
-        { "time": "12:00 PM", "title": "Jared lunch" },
-        { "time": "3:30 PM", "title": "Dr Dugar" }
+        {
+          "time": "All day",
+          "title": "CWRK 2 DUE"
+        },
+        {
+          "time": "12:00 PM",
+          "title": "Jared lunch"
+        },
+        {
+          "time": "3:30 PM",
+          "title": "Dr Dugar"
+        }
+      ]
+    },
+    {
+      "day": "Sun · Aug 30",
+      "items": [
+        {
+          "time": "7:00 PM",
+          "title": "Dinner w Asher seb Rosch"
+        }
       ]
     }
   ],
   "tasks": {
-    "pillText": "2 recurring · none overdue",
+    "pillText": "0 overdue · 2 recurring",
     "pillWarn": false,
     "overdue": [],
     "recurring": [
       {
         "title": "Take meds",
         "url": "https://app.todoist.com/app/task/6fPrF5rMMcCF9Fpq",
-        "meta": "9:00 AM · daily"
+        "meta": "Daily · 9:00 AM"
       },
       {
         "title": "Check WhatsApp",
         "url": "https://app.todoist.com/app/task/6fPrHvm9qrMM44cH",
-        "meta": "10:00 AM · daily"
+        "meta": "Daily · 10:00 AM"
       }
     ]
   },
   "followups": [
     {
-      "dot": "red",
-      "url": "https://mail.google.com/mail/u/0/#inbox/1a02af2714cb22cd",
-      "title": "BestWhen (iOS) — App Review Feedback",
-      "meta": "Apple · changes needed before approval"
-    },
-    {
-      "dot": "green",
+      "dot": "amber",
       "url": "https://mail.google.com/mail/u/0/#inbox/1a025bbc7b32ee4c",
-      "title": "LA Sport & Entertainment Career Expo",
-      "meta": "TeamWork Online invite · Sep 16"
+      "title": "LA Sport & Entertainment Career Expo — Sept 16",
+      "meta": "Invite · TeamWork Online"
     }
   ],
   "inbox": {
-    "unread": 32,
+    "unread": 40,
     "items": [
       {
         "dot": "amber",
         "url": "https://mail.google.com/mail/u/0/#inbox/1a025bbc7b32ee4c",
         "title": "LA Sport & Entertainment Career Expo",
         "tag": "EVENT",
-        "meta": "TeamWork Online · Sep 16"
-      },
-      {
-        "dot": "faint",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a03396e659dcce6",
-        "title": "The final agenda for TGG Live '26 is here",
-        "meta": "Simon Austin · Training Ground Guru"
-      },
-      {
-        "dot": "faint",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a0324033bfd2167",
-        "title": "The network of one",
-        "meta": "Liam Henshaw · newsletter"
+        "meta": "TeamWork Online · Sept 16"
       }
     ],
-    "note": "Most of the 32 unread are newsletters and promos (Audible, Barça Innovation Hub, Burke Williams, FootballTicketNet, Zapier, US Soccer)."
+    "note": "The rest of the ~40 unread are newsletters and promos (Audible, Zapier, Barça Innovation Hub, Scouted, The Transfer Flow) plus account/security notices — nothing needing a reply."
   },
   "drive": [
     {
@@ -93,19 +82,19 @@
       "meta": "Spreadsheet · edited Aug 25"
     },
     {
+      "url": "https://docs.google.com/document/d/1O43WXll6wlSi8740ZgxgB7e8byh0SWg0scnafne9f30/edit",
+      "title": "LAFC-Outreach-Sequences-EBikes",
+      "meta": "Doc · edited Aug 25"
+    },
+    {
       "url": "https://docs.google.com/document/d/1eQGVfXo_tL0K2HVmJmBJNelXA5tdMxfI_zD9vvLSq_M/edit",
       "title": "MLS 2026 Analytics — Site Walkthrough Script",
-      "meta": "Google Doc · edited Aug 20"
+      "meta": "Doc · edited Aug 20"
     },
     {
       "url": "https://docs.google.com/document/d/1VoMe13BGn7l1i3BRSxAVICiDY3-ySZKywY-pv9iunVk/edit",
       "title": "rep_review_nathan.md",
-      "meta": "Google Doc · edited Aug 11"
-    },
-    {
-      "url": "https://docs.google.com/document/d/1D5MKXgbSBG1Z6KSh9vBTJ1pPuixnpV4EzpqkPZAGfV0/edit",
-      "title": "Changelog-Outreach-Sequences.md",
-      "meta": "Google Doc · edited Aug 3"
+      "meta": "Doc · edited Aug 11"
     }
   ]
 }
