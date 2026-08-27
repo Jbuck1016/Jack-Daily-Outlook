@@ -5,87 +5,89 @@
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-08-26T07:19:37Z",
+      "updated": "2026-08-27T07:18:17Z",
       "emails": [
         {
-          "from": "Audible",
-          "subject": "Hundreds of titles, up to 80% off!",
-          "snippet": "Shop August's Monthly Deals — latest sales & deals. Don't miss out on our top offers.",
-          "date": "2026-08-26T01:10:20Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a03b9e3afcb9aa8"
-        },
-        {
-          "from": "Audible",
-          "subject": "Still time for $0.99/mo",
-          "snippet": "For a limited time, save over 80% — just $0.99/mo for the first 3 months.",
-          "date": "2026-08-25T23:23:59Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a03b3ce47bba377"
-        },
-        {
           "from": "Zapier",
-          "subject": "The first-timer's guide to ZapConnect 2026",
-          "snippet": "Here's what to explore at our annual user conference.",
-          "date": "2026-08-25T19:28:40Z",
+          "subject": "We're cooking up something special 👀",
+          "snippet": "Take a sneak peek at the ZapConnect 2026 finale.",
+          "date": "2026-08-27T16:31:43Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a03a656f9e031c6"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a04410349e31789"
+        },
+        {
+          "from": "The Transfer Flow",
+          "subject": "What is Yankuba Minteh's ceiling?",
+          "snippet": "The Brighton winger has been linked to Liverpool for up to £80m.",
+          "date": "2026-08-27T14:09:21Z",
+          "unread": true,
+          "tag": "Important",
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0438dcf672797f"
+        },
+        {
+          "from": "Scouted Football",
+          "subject": "The whispered rise of Polish football",
+          "snippet": "As their youth teams claim surprising victories and best talents flood across Europe, scouts are quietly asking: just how excited should we be about Poland?",
+          "date": "2026-08-27T08:04:05Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0423fb0aff21e4"
+        },
+        {
+          "from": "Simon Austin · Training Ground Guru",
+          "subject": "Have you used your Premium Members discount for TGG Live '26 yet?",
+          "snippet": "The final agenda for TGG Live '26 is here — and so is your discount.",
+          "date": "2026-08-27T07:39:25Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a04228d1b1bfbad"
+        },
+        {
+          "from": "Nest",
+          "subject": "Potentially urgent cooling system issue at Arden • Jack room",
+          "snippet": "Your A/C system likely failed to cool your home. When the A/C was on between 12:03 PM and 2:54 PM on August 26, your home got 6°F warmer than expected.",
+          "date": "2026-08-27T06:03:28Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a041d0f81994200"
+        },
+        {
+          "from": "PayPal",
+          "subject": "Microsoft Corporation: $22.99 USD",
+          "snippet": "You paid $22.99 USD to Microsoft Corporation. Transaction date Aug 26, 2026.",
+          "date": "2026-08-27T05:28:40Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a041b11c04e847a"
+        },
+        {
+          "from": "LA Court",
+          "subject": "Personal Info verified!",
+          "snippet": "You have completed your Personal Info verification on the My Jury Duty Portal. Please return to the portal for further instructions.",
+          "date": "2026-08-27T00:16:59Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a04093cb1b5b044"
+        },
+        {
+          "from": "Audible",
+          "subject": "Grab a bestseller for $0.00",
+          "snippet": "Start a free trial today.",
+          "date": "2026-08-26T20:58:42Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a03fde39e435c4a"
+        },
+        {
+          "from": "Apple",
+          "subject": "Get ready for the Genius Bar",
+          "snippet": "Your upcoming Genius Bar appointment. Review the steps below and check in with a Specialist when you arrive.",
+          "date": "2026-08-26T18:29:48Z",
+          "unread": true,
+          "tag": "Important",
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a03f55e47f9ec33"
         },
         {
           "from": "Google",
           "subject": "You shared some Google Account data with Claude",
-          "snippet": "You're receiving this email because you used Sign in with Google to sign in to Claude on August 25.",
-          "date": "2026-08-25T15:54:59Z",
+          "snippet": "You're receiving this email because you used Sign in with Google to sign in to Claude on August 26.",
+          "date": "2026-08-26T17:14:50Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a039a1cca57d36c"
-        },
-        {
-          "from": "Anthropic",
-          "subject": "Security alert: new trusted device added to your Claude account",
-          "snippet": "A new trusted device was added to your Claude account. If this was you, no action is needed.",
-          "date": "2026-08-25T15:54:55Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a039a1c15da58a1"
-        },
-        {
-          "from": "Scouted Football",
-          "subject": "Fabian Hürzeler's quest to kill the orthodoxy",
-          "snippet": "For years, positional play has had a stranglehold on football tactics. A young German's discordant symphony seeks to topple it.",
-          "date": "2026-08-25T15:25:40Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a03987372968510"
-        },
-        {
-          "from": "Memorial Sloan Kettering",
-          "subject": "Join the movement that has raised $450M for rare cancer research",
-          "snippet": "Cycle for Survival 2027 is coming soon — sign up for the interest list today.",
-          "date": "2026-08-25T15:08:59Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a039787548c2492"
-        },
-        {
-          "from": "Simon Austin · Training Ground Guru",
-          "subject": "Two Masterclasses coming up: MLS development + international data analysis",
-          "snippet": "We have a double header of Masterclasses coming up over the next seven days.",
-          "date": "2026-08-25T13:57:48Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0393719c88ad5b"
-        },
-        {
-          "from": "Jack Buckingham",
-          "subject": "⚽🎰 34 new jobs — Aug 25",
-          "snippet": "Soccer & Betting Jobs Daily digest · August 25, 2026 — 34 new, 0 still open.",
-          "date": "2026-08-25T13:45:59Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0392bb01d8a036"
-        },
-        {
-          "from": "Barça Innovation Hub",
-          "subject": "Champions also start from scratch - 40% off until August 30th",
-          "snippet": "Champions also start from scratch. 40% off with START40 until August 30th.",
-          "date": "2026-08-25T13:30:09Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0391d405044f58"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a03f1967012ab72"
         }
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "updatedLabel": "Wed Aug 26, 12:19 AM PT",
+  "updatedLabel": "Thu Aug 27, 12:18 AM PT",
   "sources": [
     {
       "key": "personal",
@@ -19,25 +19,8 @@
   ],
   "days": [
     {
-      "label": "Wed · Aug 26",
-      "today": true,
-      "events": [
-        {
-          "time": "10:00 AM",
-          "title": "SAS/LAFC | Weekly Status Sync",
-          "loc": "Teams",
-          "src": "lafc-work"
-        },
-        {
-          "time": "3:00 PM",
-          "title": "Javier’s w shiby",
-          "loc": "Javier’s",
-          "src": "personal"
-        }
-      ]
-    },
-    {
       "label": "Thu · Aug 27",
+      "today": true,
       "events": [
         {
           "time": "All day",
@@ -45,20 +28,14 @@
           "src": "personal"
         },
         {
-          "time": "11:00 AM",
-          "title": "SAS/LAFC Weekly Thursday Hands-On Time",
-          "loc": "Teams",
+          "time": "10:00 AM",
+          "title": "Jackson x Jack 1on1 re: Artist Discovery Dashboard",
           "src": "lafc-work"
         },
         {
-          "time": "12:00 PM",
+          "time": "1:00 PM",
           "title": "Jared lunch",
           "src": "personal"
-        },
-        {
-          "time": "3:00 PM",
-          "title": "Mike x Jackson 1on1 re: Artist/Venue Dashboard",
-          "src": "lafc-work"
         },
         {
           "time": "3:30 PM",
@@ -74,6 +51,16 @@
           "time": "10:00 AM",
           "title": "AI Hour",
           "src": "lafc-work"
+        },
+        {
+          "time": "12:00 PM",
+          "title": "Work w THIJMEN",
+          "src": "personal"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Dinner w Seb, Asher, Roach",
+          "src": "personal"
         }
       ]
     },
@@ -89,16 +76,6 @@
       ]
     },
     {
-      "label": "Sun · Aug 30",
-      "events": [
-        {
-          "time": "7:00 PM",
-          "title": "Dinner w Asher seb Rosch",
-          "src": "personal"
-        }
-      ]
-    },
-    {
       "label": "Mon · Aug 31",
       "events": [
         {
@@ -109,6 +86,7 @@
         {
           "time": "11:00 AM",
           "title": "CP Sales Weekly",
+          "loc": "Zoom",
           "src": "lafc-work"
         },
         {
@@ -125,6 +103,17 @@
           "time": "1:45 PM",
           "title": "Jackson Weekly Check In",
           "src": "lafc-work"
+        },
+        {
+          "time": "3:30 PM",
+          "title": "Artist/Venue Dashboard",
+          "src": "lafc-work"
+        },
+        {
+          "time": "4:35 PM",
+          "title": "Appointment at Apple Beverly Center",
+          "loc": "Apple Beverly Center",
+          "src": "personal"
         }
       ]
     },
@@ -134,6 +123,7 @@
         {
           "time": "11:00 AM",
           "title": "CP Weekly",
+          "loc": "Zoom",
           "src": "lafc-work"
         }
       ]
@@ -154,7 +144,7 @@
       "events": [
         {
           "time": "11:00 AM",
-          "title": "SAS/LAFC Weekly Thursday Hands-On Time",
+          "title": "SAS/LAFC | Weekly Thursday Hands-On Time",
           "loc": "Teams",
           "src": "lafc-work"
         },
@@ -197,6 +187,7 @@
         {
           "time": "11:00 AM",
           "title": "CP Sales Weekly",
+          "loc": "Zoom",
           "src": "lafc-work"
         },
         {
@@ -217,11 +208,13 @@
         {
           "time": "8:15 AM",
           "title": "BDS Bi-Weekly",
+          "loc": "Zoom",
           "src": "lafc-work"
         },
         {
           "time": "11:00 AM",
           "title": "CP Weekly",
+          "loc": "Zoom",
           "src": "lafc-work"
         }
       ]
@@ -239,6 +232,16 @@
           "title": "⚽ LAFC vs. Red Bull New York",
           "loc": "BMO Stadium",
           "src": "lafc-match"
+        }
+      ]
+    },
+    {
+      "label": "Thu · Sep 10",
+      "events": [
+        {
+          "time": "All day",
+          "title": "Lilia show",
+          "src": "personal"
         }
       ]
     }
