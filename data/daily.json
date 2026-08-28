@@ -1,132 +1,47 @@
 {
-  "dateLabel": "Thursday, August 27",
-  "updatedLabel": "Thu Aug 27, 12:18 AM PT",
+  "dateLabel": "Friday, August 28",
+  "updatedLabel": "Fri Aug 28, 12:19 AM PT",
   "today": [
-    {
-      "time": "All day",
-      "title": "CWRK 2 DUE",
-      "accent": "span"
-    },
-    {
-      "time": "1:00 PM",
-      "title": "Jared lunch"
-    },
-    {
-      "time": "3:30 PM",
-      "title": "Dr Dugar"
-    }
+    { "time": "12:00 PM", "title": "Work w/ Thijmen" },
+    { "time": "7:00 PM", "title": "Dinner w/ Seb, Asher, Roach", "accent": "eve" }
   ],
-  "todayNote": "CWRK 2 is due today. Two personal appointments in the afternoon; work meetings live on the LAFC calendar.",
+  "todayNote": "Two personal events today. LAFC @ D.C. United kicks off tomorrow (Sat) at 4:30 PM.",
   "week": [
     {
-      "day": "Fri · Aug 28",
+      "day": "Saturday, Aug 29",
       "items": [
-        {
-          "time": "12:00 PM",
-          "title": "Work w THIJMEN"
-        },
-        {
-          "time": "7:00 PM",
-          "title": "Dinner w Seb, Asher, Roach"
-        }
+        { "time": "4:30 PM", "title": "⚽ LAFC @ D.C. United (Audi Field)" }
       ]
     }
   ],
   "tasks": {
-    "pillText": "0 overdue · 2 recurring",
+    "pillText": "2 due today",
     "pillWarn": false,
     "overdue": [],
     "recurring": [
-      {
-        "title": "Take meds",
-        "url": "https://app.todoist.com/app/task/6fPrF5rMMcCF9Fpq",
-        "meta": "Daily · 9:00 AM"
-      },
-      {
-        "title": "Check WhatsApp",
-        "url": "https://app.todoist.com/app/task/6fPrHvm9qrMM44cH",
-        "meta": "Daily · 10:00 AM"
-      }
+      { "title": "Take meds", "url": "https://app.todoist.com/app/task/6fPrF5rMMcCF9Fpq", "meta": "9:00 AM · daily" },
+      { "title": "Check WhatsApp", "url": "https://app.todoist.com/app/task/6fPrHvm9qrMM44cH", "meta": "10:00 AM · daily" }
     ]
   },
   "followups": [
-    {
-      "dot": "red",
-      "url": "https://mail.google.com/mail/u/0/#inbox/1a041d0f81994200",
-      "title": "A/C cooling issue at Arden · Jack room",
-      "meta": "Nest alert · home got 6°F warmer"
-    },
-    {
-      "dot": "amber",
-      "url": "https://mail.google.com/mail/u/0/#inbox/1a03f55e47f9ec33",
-      "title": "Genius Bar appointment — Mon Aug 31",
-      "meta": "Apple · 4:35 PM, Beverly Center"
-    },
-    {
-      "dot": "amber",
-      "url": "https://mail.google.com/mail/u/0/#inbox/1a04093cb1b5b044",
-      "title": "Jury Duty portal — next steps",
-      "meta": "LA Court · info verified"
-    },
-    {
-      "dot": "amber",
-      "url": "https://mail.google.com/mail/u/0/#inbox/1a025bbc7b32ee4c",
-      "title": "LA Sport & Entertainment Career Expo — Sept 16",
-      "meta": "Invite · TeamWork Online"
-    }
+    { "dot": "red", "url": "https://mail.google.com/mail/u/0/#inbox/1a041d0f81994200", "title": "A/C cooling issue at Arden — Jack room", "meta": "Nest · home got 6°F warmer" },
+    { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/1a03f55e47f9ec33", "title": "Get ready for your Genius Bar appointment", "meta": "Apple · Mon Aug 31, 4:35 PM" },
+    { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/1a04093cb1b5b044", "title": "Jury duty portal — return for further instructions", "meta": "LA Court" }
   ],
   "inbox": {
-    "unread": 57,
+    "unread": 60,
     "items": [
-      {
-        "dot": "red",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a041d0f81994200",
-        "title": "Potentially urgent cooling system issue at Arden",
-        "meta": "Nest · A/C likely failed to cool"
-      },
-      {
-        "dot": "amber",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a03f55e47f9ec33",
-        "title": "Get ready for the Genius Bar",
-        "tag": "EVENT",
-        "meta": "Apple · Aug 31, 4:35 PM"
-      },
-      {
-        "dot": "amber",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a04093cb1b5b044",
-        "title": "Jury Duty — Personal Info verified",
-        "meta": "LA Court · return to portal"
-      },
-      {
-        "dot": "amber",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a025bbc7b32ee4c",
-        "title": "LA Sport & Entertainment Career Expo",
-        "tag": "EVENT",
-        "meta": "TeamWork Online · Sept 16"
-      }
+      { "dot": "red", "url": "https://mail.google.com/mail/u/0/#inbox/1a041d0f81994200", "title": "Potentially urgent cooling system issue at Arden", "meta": "Nest" },
+      { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/1a03f55e47f9ec33", "title": "Get ready for the Genius Bar", "tag": "EVENT", "meta": "Apple · Aug 31" },
+      { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/1a04093cb1b5b044", "title": "Personal Info verified! (Jury Duty Portal)", "meta": "LA Court" },
+      { "dot": "faint", "url": "https://mail.google.com/mail/u/0/#inbox/1a0452e0561ae68f", "title": "Network with Top Los Angeles Orgs.", "meta": "TeamWork Online" }
     ],
-    "note": "The rest of the ~57 unread are newsletters and promos (The Transfer Flow, Scouted, TGG, Zapier, Audible, Barça Innovation Hub) plus receipts and account/security notices — nothing needing a reply."
+    "note": "~60 unread in the last 14 days — the rest are newsletters (Scouted, Transfer Flow, TGG), promos, and receipts."
   },
   "drive": [
-    {
-      "url": "https://drive.google.com/file/d/157z7u08hySTgvOhW1q-gkRX1VP6P1SWV/view",
-      "title": "2026 UPR Campaign.xlsx",
-      "meta": "Spreadsheet · edited Aug 27"
-    },
-    {
-      "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit",
-      "title": "UD7016 — High Performance Environments — Group Presentation",
-      "meta": "Doc · edited Aug 26"
-    },
-    {
-      "url": "https://docs.google.com/document/d/1B8ZIHYX437nyrCi8KCIPxpinfPzSEKrCqkMNl69yuUA/edit",
-      "title": "CWRK1_LA_Galaxy_Strategic_Recommendations",
-      "meta": "Doc · edited Aug 26"
-    },
-    {
-      "url": "https://docs.google.com/document/d/1O43WXll6wlSi8740ZgxgB7e8byh0SWg0scnafne9f30/edit",
-      "title": "LAFC-Outreach-Sequences-EBikes",
-      "meta": "Doc · edited Aug 25"
-    }
+    { "url": "https://drive.google.com/file/d/157z7u08hySTgvOhW1q-gkRX1VP6P1SWV/view?usp=drivesdk", "title": "2026 UPR Campaign.xlsx", "meta": "Edited Aug 27" },
+    { "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit", "title": "UD7016 — High Performance Environments (Group Presentation)", "meta": "Edited Aug 26" },
+    { "url": "https://docs.google.com/document/d/1B8ZIHYX437nyrCi8KCIPxpinfPzSEKrCqkMNl69yuUA/edit", "title": "CWRK1 — LA Galaxy Strategic Recommendations", "meta": "Edited Aug 26" },
+    { "url": "https://docs.google.com/document/d/1O43WXll6wlSi8740ZgxgB7e8byh0SWg0scnafne9f30/edit", "title": "LAFC Outreach Sequences — E-Bikes", "meta": "Edited Aug 25" }
   ]
 }
