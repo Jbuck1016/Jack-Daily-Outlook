@@ -1,19 +1,9 @@
 {
-  "dateLabel": "Friday, August 28",
-  "updatedLabel": "Fri Aug 28, 12:19 AM PT",
-  "today": [
-    { "time": "12:00 PM", "title": "Work w/ Thijmen" },
-    { "time": "7:00 PM", "title": "Dinner w/ Seb, Asher, Roach", "accent": "eve" }
-  ],
-  "todayNote": "Two personal events today. LAFC @ D.C. United kicks off tomorrow (Sat) at 4:30 PM.",
-  "week": [
-    {
-      "day": "Saturday, Aug 29",
-      "items": [
-        { "time": "4:30 PM", "title": "⚽ LAFC @ D.C. United (Audi Field)" }
-      ]
-    }
-  ],
+  "dateLabel": "Sunday, August 30",
+  "updatedLabel": "Sun Aug 30, 1:58 PM PT",
+  "today": [],
+  "todayNote": "Quiet Sunday — nothing on the calendar today. Busy Monday ahead: Class at 10 AM plus five LAFC meetings (CP Sales Weekly, two 1on1s, Jackson check-in, Artist/Venue Dashboard) and a 4:35 PM Apple Beverly Center appointment. Next LAFC match: @ Real Salt Lake, Sat Sep 5, 6:30 PM.",
+  "week": [],
   "tasks": {
     "pillText": "2 due today",
     "pillWarn": false,
@@ -24,22 +14,21 @@
     ]
   },
   "followups": [
-    { "dot": "red", "url": "https://mail.google.com/mail/u/0/#inbox/1a041d0f81994200", "title": "A/C cooling issue at Arden — Jack room", "meta": "Nest · home got 6°F warmer" },
-    { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/1a03f55e47f9ec33", "title": "Get ready for your Genius Bar appointment", "meta": "Apple · Mon Aug 31, 4:35 PM" },
-    { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/1a04093cb1b5b044", "title": "Jury duty portal — return for further instructions", "meta": "LA Court" }
+    { "dot": "red", "url": "https://mail.google.com/mail/u/0/#inbox/1a04b279e3d334a8", "title": "Issue with your FADE – Pick 'Em (iOS) submission", "meta": "Apple · needs changes before review" },
+    { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/1a0543925b36dbfd", "title": "Masterclass: Data Analysis at Int'l Level — live tomorrow", "meta": "TGG · Mon Aug 31, 11 AM · you're registered" }
   ],
   "inbox": {
-    "unread": 60,
+    "unread": 49,
     "items": [
-      { "dot": "red", "url": "https://mail.google.com/mail/u/0/#inbox/1a041d0f81994200", "title": "Potentially urgent cooling system issue at Arden", "meta": "Nest" },
-      { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/1a03f55e47f9ec33", "title": "Get ready for the Genius Bar", "tag": "EVENT", "meta": "Apple · Aug 31" },
-      { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/1a04093cb1b5b044", "title": "Personal Info verified! (Jury Duty Portal)", "meta": "LA Court" },
-      { "dot": "faint", "url": "https://mail.google.com/mail/u/0/#inbox/1a0452e0561ae68f", "title": "Network with Top Los Angeles Orgs.", "meta": "TeamWork Online" }
+      { "dot": "red", "url": "https://mail.google.com/mail/u/0/#inbox/1a04b279e3d334a8", "title": "Issue with your FADE – Pick 'Em (iOS) submission", "meta": "Apple" },
+      { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/1a0543925b36dbfd", "title": "Data Analysis at International Level — live Masterclass", "tag": "EVENT", "meta": "TGG · Mon Aug 31" },
+      { "dot": "faint", "url": "https://mail.google.com/mail/u/0/#inbox/1a025bbc7b32ee4c", "title": "LA Sport & Entertainment Career Expo", "tag": "EVENT", "meta": "TeamWork Online · Sep 16" },
+      { "dot": "faint", "url": "https://mail.google.com/mail/u/0/#inbox/1a04dd7643251b17", "title": "This week in Claude Code: /resume, phone sessions", "meta": "Claude" }
     ],
-    "note": "~60 unread in the last 14 days — the rest are newsletters (Scouted, Transfer Flow, TGG), promos, and receipts."
+    "note": "49 unread in the last 14 days — the rest are newsletters (TGG, APFA, Barça Innovation Hub, US Soccer), promos, and your own daily job digests."
   },
   "drive": [
-    { "url": "https://drive.google.com/file/d/157z7u08hySTgvOhW1q-gkRX1VP6P1SWV/view?usp=drivesdk", "title": "2026 UPR Campaign.xlsx", "meta": "Edited Aug 27" },
+    { "url": "https://drive.google.com/file/d/157z7u08hySTgvOhW1q-gkRX1VP6P1SWV/view?usp=drivesdk", "title": "2026 UPR Campaign.xlsx", "meta": "Edited Aug 28" },
     { "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit", "title": "UD7016 — High Performance Environments (Group Presentation)", "meta": "Edited Aug 26" },
     { "url": "https://docs.google.com/document/d/1B8ZIHYX437nyrCi8KCIPxpinfPzSEKrCqkMNl69yuUA/edit", "title": "CWRK1 — LA Galaxy Strategic Recommendations", "meta": "Edited Aug 26" },
     { "url": "https://docs.google.com/document/d/1O43WXll6wlSi8740ZgxgB7e8byh0SWg0scnafne9f30/edit", "title": "LAFC Outreach Sequences — E-Bikes", "meta": "Edited Aug 25" }
