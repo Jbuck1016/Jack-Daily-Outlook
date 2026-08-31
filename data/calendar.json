@@ -1,5 +1,5 @@
 {
-  "updatedLabel": "Sun Aug 30, 1:58 PM PT",
+  "updatedLabel": "Mon Aug 31, 12:22 AM PT",
   "sources": [
     { "key": "personal", "name": "Personal", "connected": true },
     { "key": "lafc-work", "name": "LAFC Work", "connected": true },
@@ -8,8 +8,9 @@
   "days": [
     {
       "label": "Mon · Aug 31",
+      "today": true,
       "events": [
-        { "time": "All day", "title": "Masterclass: Data Analysis at Int'l Level", "src": "personal" },
+        { "time": "All day", "title": "Masterclass: Data Analysis at International Level", "src": "personal" },
         { "time": "10:00 AM", "title": "Class", "src": "personal" },
         { "time": "11:00 AM", "title": "CP Sales Weekly", "src": "lafc-work" },
         { "time": "12:30 PM", "title": "Nate x Jack 1on1 re: CP Outreach", "src": "lafc-work" },
@@ -22,8 +23,8 @@
     {
       "label": "Tue · Sep 1",
       "events": [
-        { "time": "11:00 AM", "title": "CP Weekly", "loc": "OLLY", "src": "lafc-work" },
-        { "time": "5:00 PM", "title": "Dinner w/ Ava", "src": "personal" }
+        { "time": "11:00 AM", "title": "CP Weekly", "src": "lafc-work" },
+        { "time": "5:00 PM", "title": "Dinner w Ava", "src": "personal" }
       ]
     },
     {
@@ -57,13 +58,13 @@
       "events": [
         { "time": "8:15 AM", "title": "BDS Bi-Weekly", "src": "lafc-work" },
         { "time": "9:30 AM", "title": "CP Sales Weekly", "src": "lafc-work" },
-        { "time": "11:00 AM", "title": "CP Weekly", "loc": "OLLY", "src": "lafc-work" }
+        { "time": "11:00 AM", "title": "CP Weekly", "src": "lafc-work" }
       ]
     },
     {
       "label": "Wed · Sep 9",
       "events": [
-        { "time": "7:00 AM", "title": "SAS/LAFC | Weekly Status Sync", "src": "lafc-work" },
+        { "time": "10:00 AM", "title": "SAS/LAFC | Weekly Status Sync", "loc": "Microsoft Teams", "src": "lafc-work" },
         { "time": "11:30 AM", "title": "Teeth cleaning", "src": "personal" },
         { "time": "7:30 PM", "title": "⚽ LAFC vs. Red Bull New York", "loc": "BMO Stadium", "src": "lafc-match" }
       ]
@@ -72,22 +73,31 @@
       "label": "Thu · Sep 10",
       "events": [
         { "time": "All day", "title": "Lilia show", "src": "personal" },
-        { "time": "8:00 AM", "title": "SAS/LAFC Weekly Thursday Hands-On Time", "src": "lafc-work" }
+        { "time": "11:00 AM", "title": "SAS / LAFC - Thursday Hands On Call", "loc": "Microsoft Teams", "src": "lafc-work" }
       ]
     },
     {
       "label": "Fri · Sep 11",
       "events": [
-        { "time": "All day", "title": "Lilia show", "src": "personal" },
-        { "time": "All day", "title": "ELLA BDAY PARTY", "src": "personal" },
+        { "time": "All day", "title": "Ella Bday Party", "src": "personal" },
         { "time": "10:00 AM", "title": "AI Hour", "src": "lafc-work" }
       ]
     },
     {
       "label": "Sat · Sep 12",
       "events": [
-        { "time": "All day", "title": "Galaxy game w/ Tom, Heather & Reuben", "src": "personal" },
+        { "time": "All day", "title": "Galaxy game with Tom, Heather and Reuben", "src": "personal" },
         { "time": "5:30 PM", "title": "⚽ LAFC @ Sporting Kansas City", "loc": "Children's Mercy Park", "src": "lafc-match" }
+      ]
+    },
+    {
+      "label": "Mon · Sep 14",
+      "events": [
+        { "time": "10:00 AM", "title": "Class", "src": "personal" },
+        { "time": "11:00 AM", "title": "CP Sales Weekly", "src": "lafc-work" },
+        { "time": "12:30 PM", "title": "Nate x Jack 1on1 re: CP Outreach", "src": "lafc-work" },
+        { "time": "1:15 PM", "title": "Jack x Jack(son) 1on1", "src": "lafc-work" },
+        { "time": "1:45 PM", "title": "Jackson Weekly Check In", "src": "lafc-work" }
       ]
     }
   ]

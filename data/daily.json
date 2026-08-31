@@ -1,36 +1,105 @@
 {
-  "dateLabel": "Sunday, August 30",
-  "updatedLabel": "Sun Aug 30, 1:58 PM PT",
-  "today": [],
-  "todayNote": "Quiet Sunday — nothing on the calendar today. Busy Monday ahead: Class at 10 AM plus five LAFC meetings (CP Sales Weekly, two 1on1s, Jackson check-in, Artist/Venue Dashboard) and a 4:35 PM Apple Beverly Center appointment. Next LAFC match: @ Real Salt Lake, Sat Sep 5, 6:30 PM.",
-  "week": [],
+  "dateLabel": "Monday, August 31",
+  "updatedLabel": "Mon Aug 31, 12:22 AM PT",
+  "today": [
+    {
+      "time": "All day",
+      "title": "Masterclass: Data Analysis at International Level",
+      "accent": "span"
+    },
+    {
+      "time": "10:00 AM",
+      "title": "Class"
+    },
+    {
+      "time": "4:35 PM",
+      "title": "Appointment at Apple Beverly Center",
+      "loc": "Apple Beverly Center",
+      "accent": "eve"
+    }
+  ],
+  "todayNote": "Light personal day. Work calendar has five LAFC meetings back-to-back from 11:00 AM (see Calendar tab). Next LAFC match: @ Real Salt Lake, Sat Sep 5, 6:30 PM.",
+  "week": [
+    {
+      "day": "Tue · Sep 1",
+      "items": [
+        {
+          "time": "5:00 PM",
+          "title": "Dinner w Ava"
+        }
+      ]
+    }
+  ],
   "tasks": {
-    "pillText": "2 due today",
+    "pillText": "0 overdue · 2 recurring today",
     "pillWarn": false,
     "overdue": [],
     "recurring": [
-      { "title": "Take meds", "url": "https://app.todoist.com/app/task/6fPrF5rMMcCF9Fpq", "meta": "9:00 AM · daily" },
-      { "title": "Check WhatsApp", "url": "https://app.todoist.com/app/task/6fPrHvm9qrMM44cH", "meta": "10:00 AM · daily" }
+      {
+        "title": "Take meds",
+        "url": "https://app.todoist.com/app/task/6fPrF5rMMcCF9Fpq",
+        "meta": "Daily · 9:00 AM"
+      },
+      {
+        "title": "Check WhatsApp",
+        "url": "https://app.todoist.com/app/task/6fPrHvm9qrMM44cH",
+        "meta": "Daily · 10:00 AM"
+      }
     ]
   },
   "followups": [
-    { "dot": "red", "url": "https://mail.google.com/mail/u/0/#inbox/1a04b279e3d334a8", "title": "Issue with your FADE – Pick 'Em (iOS) submission", "meta": "Apple · needs changes before review" },
-    { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/1a0543925b36dbfd", "title": "Masterclass: Data Analysis at Int'l Level — live tomorrow", "meta": "TGG · Mon Aug 31, 11 AM · you're registered" }
+    {
+      "dot": "red",
+      "url": "https://mail.google.com/mail/u/0/#inbox/1a04b279e3d334a8",
+      "title": "Apple: issue with your FADE - Pick 'Em (iOS) submission",
+      "meta": "Needs action · submitted Aug 17"
+    },
+    {
+      "dot": "amber",
+      "url": "https://mail.google.com/mail/u/0/#inbox/1a025bbc7b32ee4c",
+      "title": "LA Sport & Entertainment Career Expo invite",
+      "meta": "Event Sep 16 · RSVP"
+    }
   ],
   "inbox": {
-    "unread": 49,
+    "unread": 201,
     "items": [
-      { "dot": "red", "url": "https://mail.google.com/mail/u/0/#inbox/1a04b279e3d334a8", "title": "Issue with your FADE – Pick 'Em (iOS) submission", "meta": "Apple" },
-      { "dot": "amber", "url": "https://mail.google.com/mail/u/0/#inbox/1a0543925b36dbfd", "title": "Data Analysis at International Level — live Masterclass", "tag": "EVENT", "meta": "TGG · Mon Aug 31" },
-      { "dot": "faint", "url": "https://mail.google.com/mail/u/0/#inbox/1a025bbc7b32ee4c", "title": "LA Sport & Entertainment Career Expo", "tag": "EVENT", "meta": "TeamWork Online · Sep 16" },
-      { "dot": "faint", "url": "https://mail.google.com/mail/u/0/#inbox/1a04dd7643251b17", "title": "This week in Claude Code: /resume, phone sessions", "meta": "Claude" }
+      {
+        "dot": "red",
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a04b279e3d334a8",
+        "title": "Apple — issue with FADE - Pick 'Em submission",
+        "meta": "Apple · Aug 29"
+      },
+      {
+        "dot": "amber",
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a025bbc7b32ee4c",
+        "title": "LA Sport & Entertainment Career Expo",
+        "tag": "EVENT",
+        "meta": "TeamWork Online · Sep 16"
+      }
     ],
-    "note": "49 unread in the last 14 days — the rest are newsletters (TGG, APFA, Barça Innovation Hub, US Soccer), promos, and your own daily job digests."
+    "note": "Inbox is almost entirely newsletters and promos right now — nothing from a real person awaiting a reply. The Apple submission issue is the only true action item. ~201 unread total."
   },
   "drive": [
-    { "url": "https://drive.google.com/file/d/157z7u08hySTgvOhW1q-gkRX1VP6P1SWV/view?usp=drivesdk", "title": "2026 UPR Campaign.xlsx", "meta": "Edited Aug 28" },
-    { "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit", "title": "UD7016 — High Performance Environments (Group Presentation)", "meta": "Edited Aug 26" },
-    { "url": "https://docs.google.com/document/d/1B8ZIHYX437nyrCi8KCIPxpinfPzSEKrCqkMNl69yuUA/edit", "title": "CWRK1 — LA Galaxy Strategic Recommendations", "meta": "Edited Aug 26" },
-    { "url": "https://docs.google.com/document/d/1O43WXll6wlSi8740ZgxgB7e8byh0SWg0scnafne9f30/edit", "title": "LAFC Outreach Sequences — E-Bikes", "meta": "Edited Aug 25" }
+    {
+      "url": "https://drive.google.com/file/d/157z7u08hySTgvOhW1q-gkRX1VP6P1SWV/view",
+      "title": "2026 UPR Campaign.xlsx",
+      "meta": "Spreadsheet · edited Aug 28"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit",
+      "title": "UD7016 - High Performance Environments - Group Presentation",
+      "meta": "Doc · edited Aug 26"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1B8ZIHYX437nyrCi8KCIPxpinfPzSEKrCqkMNl69yuUA/edit",
+      "title": "CWRK1 LA Galaxy Strategic Recommendations",
+      "meta": "Doc · edited Aug 26"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1O43WXll6wlSi8740ZgxgB7e8byh0SWg0scnafne9f30/edit",
+      "title": "LAFC Outreach Sequences — EBikes",
+      "meta": "Doc · edited Aug 25"
+    }
   ]
 }
