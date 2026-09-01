@@ -1,35 +1,15 @@
 {
-  "dateLabel": "Monday, August 31",
-  "updatedLabel": "Mon Aug 31, 12:22 AM PT",
+  "dateLabel": "Tuesday, September 1",
+  "updatedLabel": "Tue Sep 1, 12:20 AM PT",
   "today": [
     {
-      "time": "All day",
-      "title": "Masterclass: Data Analysis at International Level",
-      "accent": "span"
-    },
-    {
-      "time": "10:00 AM",
-      "title": "Class"
-    },
-    {
-      "time": "4:35 PM",
-      "title": "Appointment at Apple Beverly Center",
-      "loc": "Apple Beverly Center",
+      "time": "5:00 PM",
+      "title": "Dinner w Ava",
       "accent": "eve"
     }
   ],
-  "todayNote": "Light personal day. Work calendar has five LAFC meetings back-to-back from 11:00 AM (see Calendar tab). Next LAFC match: @ Real Salt Lake, Sat Sep 5, 6:30 PM.",
-  "week": [
-    {
-      "day": "Tue · Sep 1",
-      "items": [
-        {
-          "time": "5:00 PM",
-          "title": "Dinner w Ava"
-        }
-      ]
-    }
-  ],
+  "todayNote": "Light personal day. Work calendar has one LAFC meeting: CP Weekly at 11:00 AM (see Calendar tab). Next LAFC match: @ Real Salt Lake, Sat Sep 5, 6:30 PM.",
+  "week": [],
   "tasks": {
     "pillText": "0 overdue · 2 recurring today",
     "pillWarn": false,
@@ -78,18 +58,13 @@
         "meta": "TeamWork Online · Sep 16"
       }
     ],
-    "note": "Inbox is almost entirely newsletters and promos right now — nothing from a real person awaiting a reply. The Apple submission issue is the only true action item. ~201 unread total."
+    "note": "Inbox is almost entirely newsletters, promos, and my own auto-digests right now — nothing from a real person awaiting a reply. The Apple submission issue is the only true action item. ~201 unread total."
   },
   "drive": [
     {
       "url": "https://drive.google.com/file/d/157z7u08hySTgvOhW1q-gkRX1VP6P1SWV/view",
       "title": "2026 UPR Campaign.xlsx",
-      "meta": "Spreadsheet · edited Aug 28"
-    },
-    {
-      "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit",
-      "title": "UD7016 - High Performance Environments - Group Presentation",
-      "meta": "Doc · edited Aug 26"
+      "meta": "Spreadsheet · edited Aug 31"
     },
     {
       "url": "https://docs.google.com/document/d/1B8ZIHYX437nyrCi8KCIPxpinfPzSEKrCqkMNl69yuUA/edit",
@@ -100,6 +75,11 @@
       "url": "https://docs.google.com/document/d/1O43WXll6wlSi8740ZgxgB7e8byh0SWg0scnafne9f30/edit",
       "title": "LAFC Outreach Sequences — EBikes",
       "meta": "Doc · edited Aug 25"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1eQGVfXo_tL0K2HVmJmBJNelXA5tdMxfI_zD9vvLSq_M/edit",
+      "title": "MLS 2026 Analytics — Site Walkthrough Script",
+      "meta": "Doc · edited Aug 20"
     }
   ]
 }

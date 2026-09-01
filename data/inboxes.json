@@ -1,109 +1,91 @@
 {
-  "note": "Showing the 12 most recent inbox messages for the primary account. The secondary account isn't connected. Almost all of this is newsletters and promos; the Apple submission issue is the only real action item.",
+  "note": "Showing the 10 most recent inbox messages for the primary account. The secondary account isn't connected. The top of the inbox is mostly my own auto-generated digests (The Continental, The 7:30 Wire, the jobs digest) plus a few promos and a Google sign-in notice — nothing from a real person awaiting a reply.",
   "accounts": [
     {
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-08-31T07:22:37Z",
+      "updated": "2026-09-01T07:20:00Z",
       "emails": [
         {
-          "from": "Liam Henshaw",
-          "subject": "I spent two years fixing the wrong thing",
-          "snippet": "Rewriting my CV and cover letters",
-          "date": "2026-08-31T06:00:45Z",
+          "from": "Jack Buckingham",
+          "subject": "The Continental — Mon 31 Aug",
+          "snippet": "European football, Monday 31 August 2026. Barcola Leaves Paris for Liverpool at £123m.",
+          "date": "2026-09-01T01:31:56Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a05667eabf9350e"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a05a982a319e0fb"
+        },
+        {
+          "from": "Jack Buckingham",
+          "subject": "The Continental — Mon 31 Aug",
+          "snippet": "European football, Monday 31 August 2026. Barcola Leaves Paris for Liverpool at £123m.",
+          "date": "2026-09-01T01:27:10Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a05a93cae8ecc5e"
+        },
+        {
+          "from": "Jack Buckingham",
+          "subject": "The 7:30 Wire — Mon 31 Aug",
+          "snippet": "Monday 31 August 2026 · Los Angeles. Ninth Circuit breaks the preemption shield, and the circuit split is now real.",
+          "date": "2026-09-01T01:26:58Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a05a939c8eaa880"
+        },
+        {
+          "from": "Google",
+          "subject": "You shared some Google Account data with Claude",
+          "snippet": "You're receiving this email because you used Sign in with Google to sign in to Claude.",
+          "date": "2026-09-01T01:16:28Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a058a4c5cd40a3a"
+        },
+        {
+          "from": "Jack Buckingham",
+          "subject": "The Continental — Monday 31 Aug",
+          "snippet": "The Big Five. Arsenal sold the front three to buy one striker, and the striker said no.",
+          "date": "2026-08-31T22:34:08Z",
+          "unread": false,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a059f560ff6f7e8"
         },
         {
           "from": "APFA",
-          "subject": "Less than 48 hours left. Develop with the APFA ⚽",
-          "snippet": "20% off any of our courses! Ends Monday.",
-          "date": "2026-08-30T20:38:46Z",
+          "subject": "Final few hours! Sale ends tonight! 20% off...",
+          "snippet": "Level up as a Professional Analyst with the APFA.",
+          "date": "2026-08-31T21:29:36Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a05465f65df8d32"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a059baf93c4f744"
         },
         {
-          "from": "Simon Austin",
-          "subject": "Tomorrow: Data analysis at international level, live with Bence Kocsis",
-          "snippet": "Dear Premium Member, we have another Masterclass coming up tomorrow (Monday 31 August): Data Analysis at International Level, with Bence Kocsis.",
-          "date": "2026-08-30T19:49:46Z",
+          "from": "Jack Buckingham",
+          "subject": "⚽🎰 32 new jobs — Aug 31",
+          "snippet": "Soccer & Betting Jobs Daily digest · August 31, 2026. 32 new · 0 still open.",
+          "date": "2026-08-31T19:22:42Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a059461e0a0abff"
+        },
+        {
+          "from": "Jack Buckingham",
+          "subject": "The 7:30 Wire — Monday 31 Aug",
+          "snippet": "A circuit split puts sports event contracts on two different legal maps.",
+          "date": "2026-08-31T18:53:06Z",
           "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0543925b36dbfd"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0592b02eeaae75"
         },
         {
-          "from": "U.S. Soccer",
-          "subject": "Be part of the future: join the movement to transform soccer in America!",
-          "snippet": "The best days of soccer in America are ahead of us",
-          "date": "2026-08-29T20:38:42Z",
+          "from": "Jack Buckingham",
+          "subject": "The LAFC Desk — Monday 31 Aug",
+          "snippet": "Pacific. Half One / You Today: 5 meetings · 2h 25m booked · 11:00 AM to 4:00 PM.",
+          "date": "2026-08-31T18:52:47Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a04f5176ab8d7aa"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0592ab8e59492f"
         },
         {
-          "from": "APFA",
-          "subject": "Summer sale ends soon! Newsletter drop ✅",
-          "snippet": "Your free APFA membership upgrade is here. 20% off all courses and more...",
-          "date": "2026-08-29T17:39:35Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a04e9b964bfb946"
-        },
-        {
-          "from": "Claude",
-          "subject": "This week in Claude Code: /resume on desktop, start sessions from your phone, and more",
-          "snippet": "Plus: --restricted mode, Auto mode rules in /permissions, and Claude-drafted bug reports",
-          "date": "2026-08-29T14:05:56Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a04dd7643251b17"
-        },
-        {
-          "from": "Barça Innovation Hub",
-          "subject": "We miss you, Jack 👋",
-          "snippet": "As a BIHUB alumni, you have access to an exclusive promotion: 70% off any Diploma program.",
-          "date": "2026-08-29T13:36:22Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a04dbc7dbe95ca7"
-        },
-        {
-          "from": "Apple",
-          "subject": "There's an issue with your FADE - Pick 'Em (iOS) submission.",
-          "snippet": "We noticed an issue with your submission that requires your attention. Submitted: Aug 17, 2026.",
-          "date": "2026-08-29T01:34:42Z",
+          "from": "Jack Buckingham",
+          "subject": "Morning brief — Monday 31 Aug",
+          "snippet": "Monday · August 31 2026. One class, one errand, Jack. The rest of the day is yours to spend.",
+          "date": "2026-08-31T18:52:52Z",
           "unread": false,
-          "tag": "Important",
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a04b279e3d334a8"
-        },
-        {
-          "from": "Trustpilot",
-          "subject": "A reminder to review Lugg On-Demand Movers",
-          "snippet": "A quick reminder for you. Thanks again for choosing Lugg On-Demand Movers.",
-          "date": "2026-08-28T22:30:23Z",
-          "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a04a7ee384a8a40"
-        },
-        {
-          "from": "Lugg",
-          "subject": "A 2-minute review helps local movers in Los Angeles",
-          "snippet": "Share your experience on Google - it's quick and really appreciated.",
-          "date": "2026-08-28T22:29:51Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a04a7e63f6ee956"
-        },
-        {
-          "from": "Football Ticket Net",
-          "subject": "UEFA Champions League ⚽ New Season, New Champion ?",
-          "snippet": "The draw is done. Eight opponents each, one European night you will want to be there for.",
-          "date": "2026-08-28T19:59:15Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a049f88b0fe0b1c"
-        },
-        {
-          "from": "The Transfer Flow",
-          "subject": "Carlos Baleba really needs to learn how to pass",
-          "snippet": "Plus the most popular FPL midfield transfer, games we're watching and stuff we're reading.",
-          "date": "2026-08-28T14:10:45Z",
-          "unread": false,
-          "tag": "Important",
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a048b56efcb97e9"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0592accddefc5e"
         }
       ]
     },
