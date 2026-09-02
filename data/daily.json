@@ -1,15 +1,34 @@
 {
-  "dateLabel": "Tuesday, September 1",
-  "updatedLabel": "Tue Sep 1, 12:20 AM PT",
+  "dateLabel": "Wednesday, September 2",
+  "updatedLabel": "Wed Sep 2, 12:13 AM PT",
   "today": [
     {
       "time": "5:00 PM",
-      "title": "Dinner w Ava",
+      "title": "Therapy",
       "accent": "eve"
     }
   ],
-  "todayNote": "Light personal day. Work calendar has one LAFC meeting: CP Weekly at 11:00 AM (see Calendar tab). Next LAFC match: @ Real Salt Lake, Sat Sep 5, 6:30 PM.",
-  "week": [],
+  "todayNote": "Two LAFC meetings on the work calendar today: Nate x Jack 1on1 re: CP Outreach at 2:00 PM and Mike x Jackson Monthly 1on1 at 3:00 PM (see Calendar tab). Next LAFC match: @ Real Salt Lake, Sat Sep 5, 6:30 PM.",
+  "week": [
+    {
+      "day": "Thu · Sep 3",
+      "items": [
+        { "time": "6:00 PM", "title": "Dinner w Nick" }
+      ]
+    },
+    {
+      "day": "Fri · Sep 4",
+      "items": [
+        { "time": "10:00 AM", "title": "AI Hour (LAFC)" }
+      ]
+    },
+    {
+      "day": "Sat · Sep 5",
+      "items": [
+        { "time": "6:30 PM", "title": "LAFC @ Real Salt Lake" }
+      ]
+    }
+  ],
   "tasks": {
     "pillText": "0 overdue · 2 recurring today",
     "pillWarn": false,
@@ -29,12 +48,6 @@
   },
   "followups": [
     {
-      "dot": "red",
-      "url": "https://mail.google.com/mail/u/0/#inbox/1a04b279e3d334a8",
-      "title": "Apple: issue with your FADE - Pick 'Em (iOS) submission",
-      "meta": "Needs action · submitted Aug 17"
-    },
-    {
       "dot": "amber",
       "url": "https://mail.google.com/mail/u/0/#inbox/1a025bbc7b32ee4c",
       "title": "LA Sport & Entertainment Career Expo invite",
@@ -45,26 +58,31 @@
     "unread": 201,
     "items": [
       {
-        "dot": "red",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a04b279e3d334a8",
-        "title": "Apple — issue with FADE - Pick 'Em submission",
-        "meta": "Apple · Aug 29"
-      },
-      {
         "dot": "amber",
         "url": "https://mail.google.com/mail/u/0/#inbox/1a025bbc7b32ee4c",
         "title": "LA Sport & Entertainment Career Expo",
         "tag": "EVENT",
         "meta": "TeamWork Online · Sep 16"
+      },
+      {
+        "dot": "faint",
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a060328681e67ef",
+        "title": "Fly.io — $3.77 bill discounted 100% this month",
+        "meta": "Fly.io · Sep 2"
       }
     ],
-    "note": "Inbox is almost entirely newsletters, promos, and my own auto-digests right now — nothing from a real person awaiting a reply. The Apple submission issue is the only true action item. ~201 unread total."
+    "note": "Inbox is almost entirely newsletters, promos, and my own auto-digests right now — nothing from a real person awaiting a reply. The Career Expo invite (Sep 16) is the only item with a real action. ~201 unread total."
   },
   "drive": [
     {
       "url": "https://drive.google.com/file/d/157z7u08hySTgvOhW1q-gkRX1VP6P1SWV/view",
       "title": "2026 UPR Campaign.xlsx",
       "meta": "Spreadsheet · edited Aug 31"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit",
+      "title": "UD7016 High Performance Environments — Group Presentation",
+      "meta": "Doc · edited Aug 26"
     },
     {
       "url": "https://docs.google.com/document/d/1B8ZIHYX437nyrCi8KCIPxpinfPzSEKrCqkMNl69yuUA/edit",
@@ -75,11 +93,6 @@
       "url": "https://docs.google.com/document/d/1O43WXll6wlSi8740ZgxgB7e8byh0SWg0scnafne9f30/edit",
       "title": "LAFC Outreach Sequences — EBikes",
       "meta": "Doc · edited Aug 25"
-    },
-    {
-      "url": "https://docs.google.com/document/d/1eQGVfXo_tL0K2HVmJmBJNelXA5tdMxfI_zD9vvLSq_M/edit",
-      "title": "MLS 2026 Analytics — Site Walkthrough Script",
-      "meta": "Doc · edited Aug 20"
     }
   ]
 }

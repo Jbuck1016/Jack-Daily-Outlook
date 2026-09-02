@@ -1,91 +1,92 @@
 {
-  "note": "Showing the 10 most recent inbox messages for the primary account. The secondary account isn't connected. The top of the inbox is mostly my own auto-generated digests (The Continental, The 7:30 Wire, the jobs digest) plus a few promos and a Google sign-in notice — nothing from a real person awaiting a reply.",
+  "note": "Showing the 10 most recent inbox messages for the primary account. The secondary account isn't connected. The top of the inbox is a mix of my own auto-generated digests (The 7:30 Wire, The Continental, Morning brief) plus promos and newsletters (Audible, Barça Innovation Hub, TGG, Scouted, US Soccer) and a couple of service notices (Fly.io billing, Resend) — nothing from a real person awaiting a reply.",
   "accounts": [
     {
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-09-01T07:20:00Z",
+      "updated": "2026-09-02T07:13:09Z",
       "emails": [
         {
-          "from": "Jack Buckingham",
-          "subject": "The Continental — Mon 31 Aug",
-          "snippet": "European football, Monday 31 August 2026. Barcola Leaves Paris for Liverpool at £123m.",
-          "date": "2026-09-01T01:31:56Z",
+          "from": "Fly.io",
+          "subject": "Your organization jack-buckingham got 100% discount this month!",
+          "snippet": "Good news from Fly.io! We don't collect bills smaller than $5.00 on your default organization. This month, your bill of $3.77 falls below that threshold, so we're discounting it.",
+          "date": "2026-09-02T03:38:38Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a05a982a319e0fb"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a060328681e67ef"
+        },
+        {
+          "from": "Resend",
+          "subject": "Bigger free tier, metrics API, and MCP spec support",
+          "snippet": "Plus agent plugins, suppression list control, and our first conference.",
+          "date": "2026-09-01T21:35:18Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a05ee5e1a65b225"
         },
         {
           "from": "Jack Buckingham",
-          "subject": "The Continental — Mon 31 Aug",
-          "snippet": "European football, Monday 31 August 2026. Barcola Leaves Paris for Liverpool at £123m.",
-          "date": "2026-09-01T01:27:10Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a05a93cae8ecc5e"
-        },
-        {
-          "from": "Jack Buckingham",
-          "subject": "The 7:30 Wire — Mon 31 Aug",
-          "snippet": "Monday 31 August 2026 · Los Angeles. Ninth Circuit breaks the preemption shield, and the circuit split is now real.",
-          "date": "2026-09-01T01:26:58Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a05a939c8eaa880"
-        },
-        {
-          "from": "Google",
-          "subject": "You shared some Google Account data with Claude",
-          "snippet": "You're receiving this email because you used Sign in with Google to sign in to Claude.",
-          "date": "2026-09-01T01:16:28Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a058a4c5cd40a3a"
-        },
-        {
-          "from": "Jack Buckingham",
-          "subject": "The Continental — Monday 31 Aug",
-          "snippet": "The Big Five. Arsenal sold the front three to buy one striker, and the striker said no.",
-          "date": "2026-08-31T22:34:08Z",
+          "subject": "The 7:30 Wire — Tuesday 1 Sep",
+          "snippet": "Tuesday 1 September 2026 · Los Angeles. The Ninth Circuit hands the states their opening on the Kalshi injunction.",
+          "date": "2026-09-01T19:28:07Z",
           "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a059f560ff6f7e8"
-        },
-        {
-          "from": "APFA",
-          "subject": "Final few hours! Sale ends tonight! 20% off...",
-          "snippet": "Level up as a Professional Analyst with the APFA.",
-          "date": "2026-08-31T21:29:36Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a059baf93c4f744"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a05e716e1a2fe87"
         },
         {
           "from": "Jack Buckingham",
-          "subject": "⚽🎰 32 new jobs — Aug 31",
-          "snippet": "Soccer & Betting Jobs Daily digest · August 31, 2026. 32 new · 0 still open.",
-          "date": "2026-08-31T19:22:42Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a059461e0a0abff"
-        },
-        {
-          "from": "Jack Buckingham",
-          "subject": "The 7:30 Wire — Monday 31 Aug",
-          "snippet": "A circuit split puts sports event contracts on two different legal maps.",
-          "date": "2026-08-31T18:53:06Z",
+          "subject": "The Continental — Tue 1 Sep",
+          "snippet": "European football daily. Liverpool break the bank for Barcola as the window shuts — a £123m signing from Paris Saint-Germain.",
+          "date": "2026-09-01T18:43:51Z",
           "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0592b02eeaae75"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a05e48e91413032"
         },
         {
-          "from": "Jack Buckingham",
-          "subject": "The LAFC Desk — Monday 31 Aug",
-          "snippet": "Pacific. Half One / You Today: 5 meetings · 2h 25m booked · 11:00 AM to 4:00 PM.",
-          "date": "2026-08-31T18:52:47Z",
+          "from": "Audible",
+          "subject": "Hundreds of titles, up to 80% off!",
+          "snippet": "Shop September's Monthly Deals. Latest sales & deals — what's new for September.",
+          "date": "2026-09-01T17:47:17Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0592ab8e59492f"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a05e1523496d8be"
         },
         {
           "from": "Jack Buckingham",
-          "subject": "Morning brief — Monday 31 Aug",
-          "snippet": "Monday · August 31 2026. One class, one errand, Jack. The rest of the day is yours to spend.",
-          "date": "2026-08-31T18:52:52Z",
+          "subject": "Morning brief — Tuesday 1 Sep",
+          "snippet": "Tuesday · 1 September 2026. Apple sent Fade back, and today has the room to fix it. One hour booked at midday, dinner at five.",
+          "date": "2026-09-01T15:20:31Z",
           "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0592accddefc5e"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a05d8ebe9eb29e7"
+        },
+        {
+          "from": "Barça Innovation Hub",
+          "subject": "Last hours for the 70% off promotion, Jack",
+          "snippet": "As a BIHUB alumni, you have access to an exclusive promotion that ends in just a few hours — 70% off any Diploma program.",
+          "date": "2026-09-01T13:58:13Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a05d43a51b131be"
+        },
+        {
+          "from": "The Transfer Flow",
+          "subject": "Deadline day final rumour roundup",
+          "snippet": "Chelsea's Enzo replacements, Sunderland, Spurs, Everton all super active.",
+          "date": "2026-09-01T13:41:13Z",
+          "unread": false,
+          "tag": "Important",
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a05d33d9e734432"
+        },
+        {
+          "from": "Training Ground Guru",
+          "subject": "Inside the agenda: themes and sessions",
+          "snippet": "More sessions. Sharper break-outs. Every theme covered at TGG Live '26.",
+          "date": "2026-09-01T11:45:22Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a05cc9d3a897261"
+        },
+        {
+          "from": "Scouted Football",
+          "subject": "The Odyssey(s)",
+          "snippet": "Five years after Lucas Piazon finally left Chelsea, loan farms are still prominent in European football.",
+          "date": "2026-09-01T08:13:56Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a05c087c6e9fe79"
         }
       ]
     },
