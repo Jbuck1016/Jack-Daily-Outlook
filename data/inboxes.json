@@ -1,92 +1,92 @@
 {
-  "note": "Showing the 10 most recent inbox messages for the primary account. The secondary account isn't connected. The top of the inbox is a mix of my own auto-generated digests (The 7:30 Wire, The Continental, Morning brief) plus promos and newsletters (Audible, Barça Innovation Hub, TGG, Scouted, US Soccer) and a couple of service notices (Fly.io billing, Resend) — nothing from a real person awaiting a reply.",
+  "note": "Last 10 messages in the primary inbox. Mostly newsletters, travel notifications, receipts, and my own auto-digests; 201 unread total.",
   "accounts": [
     {
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-09-02T07:13:09Z",
+      "updated": "2026-09-03T07:15:37Z",
       "emails": [
         {
-          "from": "Fly.io",
-          "subject": "Your organization jack-buckingham got 100% discount this month!",
-          "snippet": "Good news from Fly.io! We don't collect bills smaller than $5.00 on your default organization. This month, your bill of $3.77 falls below that threshold, so we're discounting it.",
-          "date": "2026-09-02T03:38:38Z",
+          "from": "TripIt",
+          "subject": "Jackson, check out your TripIt itinerary for It's Time To Check In For Your Flight",
+          "snippet": "Your itinerary is ready! We got your email and added it to your itinerary.",
+          "date": "2026-09-03T04:21:05Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a060328681e67ef"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0657fbf810855b"
         },
         {
-          "from": "Resend",
-          "subject": "Bigger free tier, metrics API, and MCP spec support",
-          "snippet": "Plus agent plugins, suppression list control, and our first conference.",
-          "date": "2026-09-01T21:35:18Z",
+          "from": "Delta Air Lines",
+          "subject": "It's Time To Check In For Your Flight",
+          "snippet": "Confirmation Number HCQW4E. Your flight on Thursday, September 03 is available for check-in.",
+          "date": "2026-09-03T04:01:06Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a05ee5e1a65b225"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0656d8bcf7479d"
         },
         {
-          "from": "Jack Buckingham",
-          "subject": "The 7:30 Wire — Tuesday 1 Sep",
-          "snippet": "Tuesday 1 September 2026 · Los Angeles. The Ninth Circuit hands the states their opening on the Kalshi injunction.",
-          "date": "2026-09-01T19:28:07Z",
-          "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a05e716e1a2fe87"
-        },
-        {
-          "from": "Jack Buckingham",
-          "subject": "The Continental — Tue 1 Sep",
-          "snippet": "European football daily. Liverpool break the bank for Barcola as the window shuts — a £123m signing from Paris Saint-Germain.",
-          "date": "2026-09-01T18:43:51Z",
-          "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a05e48e91413032"
+          "from": "Apple",
+          "subject": "Your receipt from Apple.",
+          "snippet": "Receipt September 2, 2026. Order ID: MLYD8YZS22. Apple Account: jackbuckiingham@gmail.com.",
+          "date": "2026-09-03T01:35:16Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a064e7f556cfc9c",
+          "tag": "Important"
         },
         {
           "from": "Audible",
-          "subject": "Hundreds of titles, up to 80% off!",
-          "snippet": "Shop September's Monthly Deals. Latest sales & deals — what's new for September.",
-          "date": "2026-09-01T17:47:17Z",
+          "subject": "Choose any title. It's on us",
+          "snippet": "Start a free trial today.",
+          "date": "2026-09-02T22:15:04Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a05e1523496d8be"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a06430a8287fe11"
+        },
+        {
+          "from": "Alaska Airlines",
+          "subject": "Atmos Members Day is here",
+          "snippet": "September's best updates, offers and more. For members only.",
+          "date": "2026-09-02T21:08:32Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a063f61b7ead50f"
+        },
+        {
+          "from": "TeamWork Online",
+          "subject": "Ready for the Los Angeles Sports & Ent. Career Expo?",
+          "snippet": "September 16th - Learn from and network with sports business employers in Los Angeles. Still interested in joining us?",
+          "date": "2026-09-02T20:49:59Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a063e2ca80256c0"
+        },
+        {
+          "from": "Apple Developer",
+          "subject": "Hello Developer: Grow your business.",
+          "snippet": "Get ready for a special Apple Event, take advantage of Analytics in App Store Connect, and sign up for new developer events.",
+          "date": "2026-09-02T19:40:36Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a063a33aff08d71"
         },
         {
           "from": "Jack Buckingham",
-          "subject": "Morning brief — Tuesday 1 Sep",
-          "snippet": "Tuesday · 1 September 2026. Apple sent Fade back, and today has the room to fix it. One hour booked at midday, dinner at five.",
-          "date": "2026-09-01T15:20:31Z",
+          "subject": "The Continental — Wednesday 2 Sep",
+          "snippet": "Daily European football brief. THE LEAD: City break the bank for Enzo Fernandez.",
+          "date": "2026-09-02T18:44:12Z",
           "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a05d8ebe9eb29e7"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0636f996ab4b97"
         },
         {
-          "from": "Barça Innovation Hub",
-          "subject": "Last hours for the 70% off promotion, Jack",
-          "snippet": "As a BIHUB alumni, you have access to an exclusive promotion that ends in just a few hours — 70% off any Diploma program.",
-          "date": "2026-09-01T13:58:13Z",
+          "from": "UCLA Health",
+          "subject": "Get ready for flu season",
+          "snippet": "Plus, a lifesaving cancer treatment inspires a young boy to become a doctor.",
+          "date": "2026-09-02T18:33:00Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a05d43a51b131be"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0636b38cd35e09"
         },
         {
-          "from": "The Transfer Flow",
-          "subject": "Deadline day final rumour roundup",
-          "snippet": "Chelsea's Enzo replacements, Sunderland, Spurs, Everton all super active.",
-          "date": "2026-09-01T13:41:13Z",
-          "unread": false,
-          "tag": "Important",
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a05d33d9e734432"
-        },
-        {
-          "from": "Training Ground Guru",
-          "subject": "Inside the agenda: themes and sessions",
-          "snippet": "More sessions. Sharper break-outs. Every theme covered at TGG Live '26.",
-          "date": "2026-09-01T11:45:22Z",
+          "from": "Jack Buckingham",
+          "subject": "⚽🎰 23 new jobs — Sep 02",
+          "snippet": "Soccer & Betting Jobs daily digest. 23 new, 0 still open.",
+          "date": "2026-09-02T16:59:48Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a05cc9d3a897261"
-        },
-        {
-          "from": "Scouted Football",
-          "subject": "The Odyssey(s)",
-          "snippet": "Five years after Lucas Piazon finally left Chelsea, loan farms are still prominent in European football.",
-          "date": "2026-09-01T08:13:56Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a05c087c6e9fe79"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0631004f148be3"
         }
       ]
     },

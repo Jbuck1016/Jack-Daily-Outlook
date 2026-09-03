@@ -1,31 +1,35 @@
 {
-  "dateLabel": "Wednesday, September 2",
-  "updatedLabel": "Wed Sep 2, 12:13 AM PT",
+  "dateLabel": "Thursday, September 3",
+  "updatedLabel": "Thu Sep 3, 12:15 AM PT",
   "today": [
     {
-      "time": "5:00 PM",
-      "title": "Therapy",
+      "time": "3:30 PM",
+      "title": "Therapy"
+    },
+    {
+      "time": "6:00 PM",
+      "title": "Dinner w Nick",
       "accent": "eve"
     }
   ],
-  "todayNote": "Two LAFC meetings on the work calendar today: Nate x Jack 1on1 re: CP Outreach at 2:00 PM and Mike x Jackson Monthly 1on1 at 3:00 PM (see Calendar tab). Next LAFC match: @ Real Salt Lake, Sat Sep 5, 6:30 PM.",
+  "todayNote": "No LAFC work meetings on the calendar today — first is AI Hour tomorrow (Fri) at 10:00 AM. Delta flight check-in is open for a flight today (conf HCQW4E). Next LAFC match: @ Real Salt Lake, Sat Sep 5, 6:30 PM.",
   "week": [
-    {
-      "day": "Thu · Sep 3",
-      "items": [
-        { "time": "6:00 PM", "title": "Dinner w Nick" }
-      ]
-    },
     {
       "day": "Fri · Sep 4",
       "items": [
-        { "time": "10:00 AM", "title": "AI Hour (LAFC)" }
+        {
+          "time": "10:00 AM",
+          "title": "AI Hour (LAFC)"
+        }
       ]
     },
     {
       "day": "Sat · Sep 5",
       "items": [
-        { "time": "6:30 PM", "title": "LAFC @ Real Salt Lake" }
+        {
+          "time": "6:30 PM",
+          "title": "LAFC @ Real Salt Lake"
+        }
       ]
     }
   ],
@@ -48,9 +52,15 @@
   },
   "followups": [
     {
+      "dot": "red",
+      "url": "https://mail.google.com/mail/u/0/#inbox/1a0656d8bcf7479d",
+      "title": "Check in for today's flight (Delta)",
+      "meta": "Today Sep 3 · conf HCQW4E"
+    },
+    {
       "dot": "amber",
-      "url": "https://mail.google.com/mail/u/0/#inbox/1a025bbc7b32ee4c",
-      "title": "LA Sport & Entertainment Career Expo invite",
+      "url": "https://mail.google.com/mail/u/0/#inbox/1a063e2ca80256c0",
+      "title": "LA Sports & Entertainment Career Expo",
       "meta": "Event Sep 16 · RSVP"
     }
   ],
@@ -58,20 +68,27 @@
     "unread": 201,
     "items": [
       {
+        "dot": "red",
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a0656d8bcf7479d",
+        "title": "It's Time To Check In For Your Flight",
+        "tag": "EVENT",
+        "meta": "Delta · flight today Sep 3"
+      },
+      {
         "dot": "amber",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a025bbc7b32ee4c",
-        "title": "LA Sport & Entertainment Career Expo",
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a063e2ca80256c0",
+        "title": "LA Sports & Entertainment Career Expo",
         "tag": "EVENT",
         "meta": "TeamWork Online · Sep 16"
       },
       {
         "dot": "faint",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a060328681e67ef",
-        "title": "Fly.io — $3.77 bill discounted 100% this month",
-        "meta": "Fly.io · Sep 2"
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a0657fbf810855b",
+        "title": "TripIt itinerary ready for your flight",
+        "meta": "TripIt · Sep 3"
       }
     ],
-    "note": "Inbox is almost entirely newsletters, promos, and my own auto-digests right now — nothing from a real person awaiting a reply. The Career Expo invite (Sep 16) is the only item with a real action. ~201 unread total."
+    "note": "Inbox is almost entirely newsletters, promos, receipts, and my own auto-digests right now — nothing from a real person awaiting a reply. The Delta flight check-in (today) and the Career Expo (Sep 16) are the only real actions. ~201 unread total."
   },
   "drive": [
     {
