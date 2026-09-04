@@ -1,5 +1,5 @@
 {
-  "updatedLabel": "Thu Sep 3, 12:15 AM PT",
+  "updatedLabel": "Fri Sep 4, 12:15 AM PT",
   "sources": [
     {
       "key": "personal",
@@ -19,23 +19,8 @@
   ],
   "days": [
     {
-      "label": "Thu · Sep 3",
-      "today": true,
-      "events": [
-        {
-          "time": "3:30 PM",
-          "title": "Therapy",
-          "src": "personal"
-        },
-        {
-          "time": "6:00 PM",
-          "title": "Dinner w Nick",
-          "src": "personal"
-        }
-      ]
-    },
-    {
       "label": "Fri · Sep 4",
+      "today": true,
       "events": [
         {
           "time": "10:00 AM",
@@ -64,11 +49,6 @@
           "src": "personal"
         },
         {
-          "time": "12:30 PM",
-          "title": "Nate x Jack 1on1 re: CP Outreach",
-          "src": "lafc-work"
-        },
-        {
           "time": "1:45 PM",
           "title": "Jackson Weekly Check In",
           "src": "lafc-work"
@@ -94,6 +74,11 @@
           "src": "lafc-work"
         },
         {
+          "time": "2:00 PM",
+          "title": "Nate x Jack 1on1 re: CP Outreach",
+          "src": "lafc-work"
+        },
+        {
           "time": "6:30 PM",
           "title": "LAFC x Heybike Partnership Proposal Review",
           "src": "lafc-work"
@@ -108,6 +93,11 @@
           "title": "SAS/LAFC | Weekly Status Sync",
           "loc": "Microsoft Teams Meeting",
           "src": "lafc-work"
+        },
+        {
+          "time": "11:30 AM",
+          "title": "Teeth cleaning",
+          "src": "personal"
         },
         {
           "time": "3:00 PM",
@@ -245,9 +235,24 @@
           "src": "lafc-work"
         },
         {
+          "time": "5:30 PM",
+          "title": "Therapy",
+          "src": "personal"
+        },
+        {
           "time": "7:00 PM",
           "title": "Drinks w Conor",
           "src": "personal"
+        }
+      ]
+    },
+    {
+      "label": "Fri · Sep 18",
+      "events": [
+        {
+          "time": "10:00 AM",
+          "title": "AI Hour",
+          "src": "lafc-work"
         }
       ]
     }

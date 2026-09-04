@@ -1,28 +1,14 @@
 {
-  "dateLabel": "Thursday, September 3",
-  "updatedLabel": "Thu Sep 3, 12:15 AM PT",
+  "dateLabel": "Friday, September 4",
+  "updatedLabel": "Fri Sep 4, 12:15 AM PT",
   "today": [
     {
-      "time": "3:30 PM",
-      "title": "Therapy"
-    },
-    {
-      "time": "6:00 PM",
-      "title": "Dinner w Nick",
-      "accent": "eve"
+      "time": "10:00 AM",
+      "title": "AI Hour (LAFC)"
     }
   ],
-  "todayNote": "No LAFC work meetings on the calendar today — first is AI Hour tomorrow (Fri) at 10:00 AM. Delta flight check-in is open for a flight today (conf HCQW4E). Next LAFC match: @ Real Salt Lake, Sat Sep 5, 6:30 PM.",
+  "todayNote": "Light day — AI Hour (LAFC) at 10:00 AM is the only thing on the calendar. No personal events today, and the weekend is otherwise open. Next LAFC match: @ Real Salt Lake tomorrow (Sat Sep 5), 6:30 PM.",
   "week": [
-    {
-      "day": "Fri · Sep 4",
-      "items": [
-        {
-          "time": "10:00 AM",
-          "title": "AI Hour (LAFC)"
-        }
-      ]
-    },
     {
       "day": "Sat · Sep 5",
       "items": [
@@ -52,12 +38,6 @@
   },
   "followups": [
     {
-      "dot": "red",
-      "url": "https://mail.google.com/mail/u/0/#inbox/1a0656d8bcf7479d",
-      "title": "Check in for today's flight (Delta)",
-      "meta": "Today Sep 3 · conf HCQW4E"
-    },
-    {
       "dot": "amber",
       "url": "https://mail.google.com/mail/u/0/#inbox/1a063e2ca80256c0",
       "title": "LA Sports & Entertainment Career Expo",
@@ -68,33 +48,20 @@
     "unread": 201,
     "items": [
       {
-        "dot": "red",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a0656d8bcf7479d",
-        "title": "It's Time To Check In For Your Flight",
-        "tag": "EVENT",
-        "meta": "Delta · flight today Sep 3"
-      },
-      {
         "dot": "amber",
         "url": "https://mail.google.com/mail/u/0/#inbox/1a063e2ca80256c0",
         "title": "LA Sports & Entertainment Career Expo",
         "tag": "EVENT",
         "meta": "TeamWork Online · Sep 16"
-      },
-      {
-        "dot": "faint",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a0657fbf810855b",
-        "title": "TripIt itinerary ready for your flight",
-        "meta": "TripIt · Sep 3"
       }
     ],
-    "note": "Inbox is almost entirely newsletters, promos, receipts, and my own auto-digests right now — nothing from a real person awaiting a reply. The Delta flight check-in (today) and the Career Expo (Sep 16) are the only real actions. ~201 unread total."
+    "note": "Inbox is almost entirely newsletters, promos, receipts, and my own auto-digests right now — nothing from a real person awaiting a reply. The LA Sports & Ent Career Expo (Sep 16) is the only real action. ~201 unread total."
   },
   "drive": [
     {
       "url": "https://drive.google.com/file/d/157z7u08hySTgvOhW1q-gkRX1VP6P1SWV/view",
       "title": "2026 UPR Campaign.xlsx",
-      "meta": "Spreadsheet · edited Aug 31"
+      "meta": "Spreadsheet · edited Sep 3"
     },
     {
       "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit",

@@ -1,36 +1,76 @@
 {
-  "note": "Last 10 messages in the primary inbox. Mostly newsletters, travel notifications, receipts, and my own auto-digests; 201 unread total.",
+  "note": "Last 10 messages in the primary inbox. Mostly newsletters, promos, receipts, and my own auto-digests; ~201 unread total.",
   "accounts": [
     {
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-09-03T07:15:37Z",
+      "updated": "2026-09-04T07:15:37Z",
       "emails": [
         {
-          "from": "TripIt",
-          "subject": "Jackson, check out your TripIt itinerary for It's Time To Check In For Your Flight",
-          "snippet": "Your itinerary is ready! We got your email and added it to your itinerary.",
-          "date": "2026-09-03T04:21:05Z",
+          "from": "US Soccer",
+          "subject": "Insiders early access to Labor Day sale starts now",
+          "snippet": "Up to 50% off select products.",
+          "date": "2026-09-03T19:22:23Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0657fbf810855b"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a068b90e9021e39"
         },
         {
-          "from": "Delta Air Lines",
-          "subject": "It's Time To Check In For Your Flight",
-          "snippet": "Confirmation Number HCQW4E. Your flight on Thursday, September 03 is available for check-in.",
-          "date": "2026-09-03T04:01:06Z",
+          "from": "Jack Buckingham",
+          "subject": "The Continental — Thursday 3 Sep",
+          "snippet": "Daily European football brief. THE LEAD: England's £3.4bn window shuts with the record equalled.",
+          "date": "2026-09-03T18:47:14Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0656d8bcf7479d"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a06898bb94fae2a"
         },
         {
-          "from": "Apple",
-          "subject": "Your receipt from Apple.",
-          "snippet": "Receipt September 2, 2026. Order ID: MLYD8YZS22. Apple Account: jackbuckiingham@gmail.com.",
-          "date": "2026-09-03T01:35:16Z",
+          "from": "Zapier",
+          "subject": "6 reasons you'll want to join ZapConnect live on Sept. 23",
+          "snippet": "Live build sessions, exclusive announcements, and more.",
+          "date": "2026-09-03T18:35:46Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a064e7f556cfc9c",
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0688e42dffc1af"
+        },
+        {
+          "from": "Jack Buckingham",
+          "subject": "⚽🎰 18 new jobs — Sep 03",
+          "snippet": "Soccer & Betting Jobs daily digest. 18 new, 0 still open.",
+          "date": "2026-09-03T16:54:48Z",
+          "unread": false,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a06831cbeb92cef"
+        },
+        {
+          "from": "Burke Williams",
+          "subject": "Ends today: Summer gift card savings 🫧",
+          "snippet": "Save on curated gift card packages. Treat yourself or someone you love before these seasonal offers end.",
+          "date": "2026-09-03T15:09:24Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a067d315e21ad7a"
+        },
+        {
+          "from": "Miles & More",
+          "subject": "Don't Miss Out: Earn 70,000 Miles",
+          "snippet": "Pre-qualify today before this offer takes off.",
+          "date": "2026-09-03T14:47:30Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a067bd3cbc67214"
+        },
+        {
+          "from": "The Transfer Flow",
+          "subject": "What can Sávio and Omar Marmoush bring to Tottenham?",
+          "snippet": "Spurs give their front line a much needed overhaul.",
+          "date": "2026-09-03T14:09:30Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0679a740cf4da3",
           "tag": "Important"
+        },
+        {
+          "from": "Barça Innovation Hub",
+          "subject": "New course, new goals - 50% off until September 14th on your training",
+          "snippet": "New season. 50% off with NEWCOURSE50 until September 14th.",
+          "date": "2026-09-03T13:26:58Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a06773892e3d914"
         },
         {
           "from": "Audible",
@@ -47,46 +87,6 @@
           "date": "2026-09-02T21:08:32Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/1a063f61b7ead50f"
-        },
-        {
-          "from": "TeamWork Online",
-          "subject": "Ready for the Los Angeles Sports & Ent. Career Expo?",
-          "snippet": "September 16th - Learn from and network with sports business employers in Los Angeles. Still interested in joining us?",
-          "date": "2026-09-02T20:49:59Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a063e2ca80256c0"
-        },
-        {
-          "from": "Apple Developer",
-          "subject": "Hello Developer: Grow your business.",
-          "snippet": "Get ready for a special Apple Event, take advantage of Analytics in App Store Connect, and sign up for new developer events.",
-          "date": "2026-09-02T19:40:36Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a063a33aff08d71"
-        },
-        {
-          "from": "Jack Buckingham",
-          "subject": "The Continental — Wednesday 2 Sep",
-          "snippet": "Daily European football brief. THE LEAD: City break the bank for Enzo Fernandez.",
-          "date": "2026-09-02T18:44:12Z",
-          "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0636f996ab4b97"
-        },
-        {
-          "from": "UCLA Health",
-          "subject": "Get ready for flu season",
-          "snippet": "Plus, a lifesaving cancer treatment inspires a young boy to become a doctor.",
-          "date": "2026-09-02T18:33:00Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0636b38cd35e09"
-        },
-        {
-          "from": "Jack Buckingham",
-          "subject": "⚽🎰 23 new jobs — Sep 02",
-          "snippet": "Soccer & Betting Jobs daily digest. 23 new, 0 still open.",
-          "date": "2026-09-02T16:59:48Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0631004f148be3"
         }
       ]
     },
