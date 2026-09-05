@@ -1,5 +1,5 @@
 {
-  "updatedLabel": "Fri Sep 4, 12:15 AM PT",
+  "updatedLabel": "Sat Sep 5, 12:12 AM PT",
   "sources": [
     {
       "key": "personal",
@@ -19,18 +19,8 @@
   ],
   "days": [
     {
-      "label": "Fri · Sep 4",
-      "today": true,
-      "events": [
-        {
-          "time": "10:00 AM",
-          "title": "AI Hour",
-          "src": "lafc-work"
-        }
-      ]
-    },
-    {
       "label": "Sat · Sep 5",
+      "today": true,
       "events": [
         {
           "time": "6:30 PM",
@@ -49,6 +39,11 @@
           "src": "personal"
         },
         {
+          "time": "11:00 AM",
+          "title": "Academy Productivity Rankings Masterclass",
+          "src": "personal"
+        },
+        {
           "time": "1:45 PM",
           "title": "Jackson Weekly Check In",
           "src": "lafc-work"
@@ -59,8 +54,8 @@
       "label": "Tue · Sep 8",
       "events": [
         {
-          "time": "8:15 AM",
-          "title": "BDS Bi-Weekly",
+          "time": "8:30 AM",
+          "title": "Opportunity Dashboard 1on1",
           "src": "lafc-work"
         },
         {
@@ -253,6 +248,17 @@
           "time": "10:00 AM",
           "title": "AI Hour",
           "src": "lafc-work"
+        }
+      ]
+    },
+    {
+      "label": "Sat · Sep 19",
+      "events": [
+        {
+          "time": "4:30 PM",
+          "title": "LAFC @ San Jose Earthquakes",
+          "loc": "Levi's Stadium",
+          "src": "lafc-match"
         }
       ]
     }
