@@ -1,94 +1,93 @@
 {
-  "note": "Last 10 messages in the primary inbox. Mostly newsletters, promos, receipts, and my own auto-digests; ~201 unread total.",
+  "note": "Primary Gmail — last 10 received. Secondary account not connected.",
   "accounts": [
     {
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-09-05T07:12:14Z",
+      "updated": "2026-09-08T20:18:43Z",
       "emails": [
         {
           "from": "Jack Buckingham",
-          "subject": "The Continental — Friday 4 Sep",
-          "snippet": "Daily European football brief. THE LEAD: the window shuts on a record English summer.",
-          "date": "2026-09-04T18:46:00Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a06dbdf5bcf2f2f"
-        },
-        {
-          "from": "Apple",
-          "subject": "Your receipt from Apple.",
-          "snippet": "Receipt & renewal notice — AppleCare+ with Theft & Loss. Order ID: MLYD9DWQHT.",
-          "date": "2026-09-04T18:03:34Z",
+          "subject": "The Continental — Tuesday 8 Sep",
+          "snippet": "The Continental · Tuesday 8 September 2026 · Five leagues, one page. The Lead: English money is keeping the lights on in France.",
+          "date": "2026-09-08T18:46:33Z",
           "unread": false,
-          "tag": "Important",
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a06d973614cfc09"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a08257e7d0cc4bf"
         },
         {
           "from": "Jack Buckingham",
-          "subject": "⚽🎰 15 new jobs — Sep 04",
-          "snippet": "Soccer & Betting Jobs daily digest. 15 new, 0 still open.",
-          "date": "2026-09-04T16:43:55Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a06d4e2c46f7d08"
-        },
-        {
-          "from": "The Transfer Flow",
-          "subject": "Arsenal vs. Chelsea a very fun clash of styles",
-          "snippet": "Plus FPL tips, games we're watching and stuff we're reading.",
-          "date": "2026-09-04T15:22:32Z",
-          "unread": true,
-          "tag": "Important",
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a06d03aaf828e82"
-        },
-        {
-          "from": "The Transfer Flow",
-          "subject": "Variance Betting - EPL + MLS 4 September 2026",
-          "snippet": "Our early, higher-risk foray into the Premier League didn't get off to an ideal start.",
-          "date": "2026-09-04T15:20:14Z",
+          "subject": "5 new jobs — Sep 08",
+          "snippet": "Soccer & Betting Jobs Daily digest · September 08, 2026 · 5 new, 0 still open.",
+          "date": "2026-09-08T17:03:50Z",
           "unread": false,
-          "tag": "Important",
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a06d019278f6566"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a081f9da7b37f34"
+        },
+        {
+          "from": "Google",
+          "subject": "Critical security alert",
+          "snippet": "Some of your saved passwords were found in a data breach from a site or app that you use. Your Google Account is not affected.",
+          "date": "2026-09-07T09:24:52Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a081e9b9d80123f"
         },
         {
           "from": "Football Ticket Net",
-          "subject": "Secure Your Big Night With Early Bird Price !",
-          "snippet": "El Clasico, Der Klassiker, the Milan derby, Arsenal at Anfield — eight days at the end of October.",
-          "date": "2026-09-04T14:19:52Z",
+          "subject": "This Weekend Recap — European Football At Its Best!",
+          "snippet": "Mbappe missed, Gatti didn't, Barca hit five. Now lock in Anfield, the Bernabeu and San Siro for October.",
+          "date": "2026-09-08T14:40:16Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a06ccba13b6513b"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a08176b23583e41"
         },
         {
-          "from": "Simon Austin (TGG)",
-          "subject": "2025/26 Academy Rankings land Monday – plus Ryan's Masterclass",
-          "snippet": "Premium members get the full table, methodology, and Ryan Inghilterra's masterclass on Monday.",
-          "date": "2026-09-04T13:45:17Z",
+          "from": "The Transfer Flow",
+          "subject": "Transfer grades: Arsenal bolster title favorite squad",
+          "snippet": "Plus Aston Villa, Bournemouth, Brentford, and Brighton.",
+          "date": "2026-09-08T14:13:53Z",
           "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a06cab391806fd7"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0815e4264eaed7"
         },
         {
-          "from": "US Soccer",
-          "subject": "Insiders early access to Labor Day sale starts now",
-          "snippet": "Up to 50% off select products.",
-          "date": "2026-09-03T19:22:23Z",
+          "from": "Training Ground Guru",
+          "subject": "Look who's coming to TGG Live '26",
+          "snippet": "Your peers have booked. Have you?",
+          "date": "2026-09-08T08:00:48Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a068b90e9021e39"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a08008d3ed1d6d8"
         },
         {
-          "from": "Zapier",
-          "subject": "6 reasons you'll want to join ZapConnect live on Sept. 23",
-          "snippet": "Live build sessions, exclusive announcements, and more.",
-          "date": "2026-09-03T18:35:46Z",
+          "from": "Audible",
+          "subject": "Hundreds of titles, up to 80% off!",
+          "snippet": "Shop September's Monthly Deals. Latest sales & deals — what's new for September.",
+          "date": "2026-09-07T19:34:43Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0688e42dffc1af"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a07d5da4ce9bfc9"
         },
         {
-          "from": "Jack Buckingham",
-          "subject": "⚽🎰 18 new jobs — Sep 03",
-          "snippet": "Soccer & Betting Jobs daily digest. 18 new, 0 still open.",
-          "date": "2026-09-03T16:54:48Z",
+          "from": "U.S. Soccer",
+          "subject": "Last call to shop the Labor Day sale",
+          "snippet": "Scarves starting at $9, tees starting at $20, and more!",
+          "date": "2026-09-07T14:31:23Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a07c47ed8d715d2"
+        },
+        {
+          "from": "The Transfer Flow",
+          "subject": "Premier League Roundup - Arsenal dominant, everyone else...?",
+          "snippet": "Welcome back to the Monday Premier League recap. A fun, exciting weekend of pre-European football.",
+          "date": "2026-09-07T13:04:43Z",
           "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a06831cbeb92cef"
+          "tag": "Important",
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a07bf8938f92c12"
+        },
+        {
+          "from": "VSI Events",
+          "subject": "Invitation: LMA & LCA Webinar - Mindset For Success with Dr Jessamy Hibberd",
+          "snippet": "Please see the below invitation for the LMA & LCA Webinar on Thursday 24th September (4-...).",
+          "date": "2026-09-07T11:18:04Z",
+          "unread": false,
+          "tag": "Important",
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a07b970053daf80"
         }
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "updatedLabel": "Sat Sep 5, 12:12 AM PT",
+  "updatedLabel": "Tue Sep 8, 1:18 PM PT",
   "sources": [
     {
       "key": "personal",
@@ -19,38 +19,6 @@
   ],
   "days": [
     {
-      "label": "Sat · Sep 5",
-      "today": true,
-      "events": [
-        {
-          "time": "6:30 PM",
-          "title": "LAFC @ Real Salt Lake",
-          "loc": "America First Field",
-          "src": "lafc-match"
-        }
-      ]
-    },
-    {
-      "label": "Mon · Sep 7",
-      "events": [
-        {
-          "time": "10:00 AM",
-          "title": "Class",
-          "src": "personal"
-        },
-        {
-          "time": "11:00 AM",
-          "title": "Academy Productivity Rankings Masterclass",
-          "src": "personal"
-        },
-        {
-          "time": "1:45 PM",
-          "title": "Jackson Weekly Check In",
-          "src": "lafc-work"
-        }
-      ]
-    },
-    {
       "label": "Tue · Sep 8",
       "events": [
         {
@@ -61,11 +29,13 @@
         {
           "time": "9:30 AM",
           "title": "CP Sales Weekly",
+          "loc": "Ziggy 818",
           "src": "lafc-work"
         },
         {
           "time": "11:00 AM",
           "title": "CP Weekly",
+          "loc": "Olly (818)",
           "src": "lafc-work"
         },
         {
@@ -78,21 +48,22 @@
           "title": "LAFC x Heybike Partnership Proposal Review",
           "src": "lafc-work"
         }
-      ]
+      ],
+      "today": true
     },
     {
       "label": "Wed · Sep 9",
       "events": [
         {
-          "time": "10:00 AM",
-          "title": "SAS/LAFC | Weekly Status Sync",
-          "loc": "Microsoft Teams Meeting",
-          "src": "lafc-work"
+          "time": "9:00 AM",
+          "title": "Lunch w Bruce",
+          "src": "personal"
         },
         {
-          "time": "11:30 AM",
-          "title": "Teeth cleaning",
-          "src": "personal"
+          "time": "10:00 AM",
+          "title": "SAS/LAFC | Weekly Status Sync",
+          "loc": "Teams",
+          "src": "lafc-work"
         },
         {
           "time": "3:00 PM",
@@ -117,8 +88,8 @@
         },
         {
           "time": "11:00 AM",
-          "title": "SAS / LAFC - Thursday Hands On Call",
-          "loc": "Microsoft Teams Meeting",
+          "title": "SAS / LAFC — Thursday Hands On Call",
+          "loc": "Teams",
           "src": "lafc-work"
         }
       ]
@@ -128,7 +99,7 @@
       "events": [
         {
           "time": "All day",
-          "title": "Ella bday party",
+          "title": "ELLA BDAY PARTY",
           "src": "personal"
         },
         {
@@ -165,6 +136,7 @@
         {
           "time": "11:00 AM",
           "title": "CP Sales Weekly",
+          "loc": "Zoom",
           "src": "lafc-work"
         },
         {
@@ -190,6 +162,7 @@
         {
           "time": "11:00 AM",
           "title": "CP Weekly",
+          "loc": "Olly (818)",
           "src": "lafc-work"
         }
       ]
@@ -200,7 +173,7 @@
         {
           "time": "10:00 AM",
           "title": "SAS/LAFC | Weekly Status Sync",
-          "loc": "Microsoft Teams Meeting",
+          "loc": "Teams",
           "src": "lafc-work"
         },
         {
@@ -225,8 +198,8 @@
         },
         {
           "time": "11:00 AM",
-          "title": "SAS / LAFC - Thursday Hands On Call",
-          "loc": "Microsoft Teams Meeting",
+          "title": "SAS / LAFC — Thursday Hands On Call",
+          "loc": "Teams",
           "src": "lafc-work"
         },
         {
@@ -259,6 +232,54 @@
           "title": "LAFC @ San Jose Earthquakes",
           "loc": "Levi's Stadium",
           "src": "lafc-match"
+        }
+      ]
+    },
+    {
+      "label": "Mon · Sep 21",
+      "events": [
+        {
+          "time": "10:00 AM",
+          "title": "Class",
+          "src": "personal"
+        },
+        {
+          "time": "11:00 AM",
+          "title": "CP Sales Weekly",
+          "loc": "Zoom",
+          "src": "lafc-work"
+        },
+        {
+          "time": "12:30 PM",
+          "title": "Nate x Jack 1on1 re: CP Outreach",
+          "src": "lafc-work"
+        },
+        {
+          "time": "1:45 PM",
+          "title": "Jackson Weekly Check In",
+          "src": "lafc-work"
+        }
+      ]
+    },
+    {
+      "label": "Tue · Sep 22",
+      "events": [
+        {
+          "time": "8:15 AM",
+          "title": "BDS Bi-Weekly",
+          "loc": "818 · Olly",
+          "src": "lafc-work"
+        },
+        {
+          "time": "11:00 AM",
+          "title": "CP Weekly",
+          "loc": "Olly (818)",
+          "src": "lafc-work"
+        },
+        {
+          "time": "2:30 PM",
+          "title": "Removery",
+          "src": "personal"
         }
       ]
     }

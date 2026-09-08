@@ -1,18 +1,48 @@
 {
-  "dateLabel": "Saturday, September 5",
-  "updatedLabel": "Sat Sep 5, 12:12 AM PT",
-  "today": [
+  "dateLabel": "Tuesday, September 8",
+  "updatedLabel": "Tue Sep 8, 1:18 PM PT",
+  "today": [],
+  "todayNote": "Nothing on your personal calendar today — a full LAFC work day (see the merged agenda). First personal item is lunch with Bruce tomorrow.",
+  "week": [
     {
-      "time": "6:30 PM",
-      "title": "LAFC @ Real Salt Lake",
-      "loc": "America First Field",
-      "accent": "eve"
+      "day": "Wed · Sep 9",
+      "items": [
+        {
+          "time": "9:00 AM",
+          "title": "Lunch w Bruce"
+        }
+      ]
+    },
+    {
+      "day": "Thu · Sep 10",
+      "items": [
+        {
+          "time": "All day",
+          "title": "Lilia show"
+        }
+      ]
+    },
+    {
+      "day": "Fri · Sep 11",
+      "items": [
+        {
+          "time": "All day",
+          "title": "ELLA BDAY PARTY"
+        }
+      ]
+    },
+    {
+      "day": "Sat · Sep 12",
+      "items": [
+        {
+          "time": "All day",
+          "title": "Galaxy game with Tom, Heather and Reuben"
+        }
+      ]
     }
   ],
-  "todayNote": "Weekend, and a quiet one on paper — nothing on the work or personal calendar today. The only thing on is tonight's match: LAFC @ Real Salt Lake, 6:30 PM (America First Field). Sunday is completely open. Work picks back up Monday.",
-  "week": [],
   "tasks": {
-    "pillText": "0 overdue · 2 recurring today",
+    "pillText": "2 due today · 0 overdue",
     "pillWarn": false,
     "overdue": [],
     "recurring": [
@@ -30,45 +60,69 @@
   },
   "followups": [
     {
+      "dot": "red",
+      "url": "https://mail.google.com/mail/u/0/#inbox/1a081e9b9d80123f",
+      "title": "Google: saved passwords found in a data breach",
+      "meta": "Security · review & rotate affected logins"
+    },
+    {
       "dot": "amber",
       "url": "https://mail.google.com/mail/u/0/#inbox/1a063e2ca80256c0",
-      "title": "LA Sports & Entertainment Career Expo",
-      "meta": "Event Sep 16 · RSVP"
+      "title": "LA Sports & Ent. Career Expo",
+      "meta": "Teamwork Online · Sep 16 · RSVP"
+    },
+    {
+      "dot": "amber",
+      "url": "https://mail.google.com/mail/u/0/#inbox/1a07b970053daf80",
+      "title": "Invitation: LMA & LCA Webinar — Mindset for Success",
+      "meta": "VSI / UCFB · Thu Sep 24 · RSVP"
     }
   ],
   "inbox": {
-    "unread": 201,
+    "unread": 50,
     "items": [
+      {
+        "dot": "red",
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a081e9b9d80123f",
+        "title": "Critical security alert",
+        "meta": "Google · Sep 7 · saved passwords in breach"
+      },
       {
         "dot": "amber",
         "url": "https://mail.google.com/mail/u/0/#inbox/1a063e2ca80256c0",
-        "title": "LA Sports & Entertainment Career Expo",
+        "title": "Ready for the LA Sports & Ent. Career Expo?",
         "tag": "EVENT",
-        "meta": "TeamWork Online · Sep 16"
+        "meta": "Teamwork Online · Sep 16"
+      },
+      {
+        "dot": "faint",
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a082a53619e7e5e",
+        "title": "A sound was played on Jack's MacBook Pro",
+        "meta": "Apple Find My · Sep 8"
       }
     ],
-    "note": "Inbox is almost entirely newsletters, promos, receipts, and my own auto-digests right now — nothing from a real person awaiting a reply. The LA Sports & Ent Career Expo (Sep 16) is the only real action item. ~201 unread total."
+    "note": "The rest of the ~50 unread are newsletters & promos — BIHUB, APFA, US Soccer, Football Ticket Net, Audible, TGG, The Transfer Flow."
   },
   "drive": [
     {
-      "url": "https://drive.google.com/file/d/157z7u08hySTgvOhW1q-gkRX1VP6P1SWV/view",
-      "title": "2026 UPR Campaign.xlsx",
+      "url": "https://drive.google.com/file/d/157z7u08hySTgvOhW1q-gkRX1VP6P1SWV/view?usp=drivesdk",
+      "title": "2026 UPR Campaign",
       "meta": "Spreadsheet · edited Sep 3"
     },
     {
-      "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit",
-      "title": "UD7016 High Performance Environments — Group Presentation",
+      "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit?usp=drivesdk",
+      "title": "UD7016 — High Performance Environments (Group Presentation)",
       "meta": "Doc · edited Aug 26"
     },
     {
-      "url": "https://docs.google.com/document/d/1B8ZIHYX437nyrCi8KCIPxpinfPzSEKrCqkMNl69yuUA/edit",
-      "title": "CWRK1 LA Galaxy Strategic Recommendations",
+      "url": "https://docs.google.com/document/d/1B8ZIHYX437nyrCi8KCIPxpinfPzSEKrCqkMNl69yuUA/edit?usp=drivesdk",
+      "title": "CWRK1 — LA Galaxy Strategic Recommendations",
       "meta": "Doc · edited Aug 26"
     },
     {
-      "url": "https://docs.google.com/document/d/1O43WXll6wlSi8740ZgxgB7e8byh0SWg0scnafne9f30/edit",
-      "title": "LAFC Outreach Sequences — EBikes",
-      "meta": "Doc · edited Aug 25"
+      "url": "https://drive.google.com/file/d/1uIPr4bK6oYDiNbcdH9PS1qvqaKvVBDV5/view?usp=drivesdk",
+      "title": "CW1 — LA Galaxy Strategic Recommendations",
+      "meta": "PDF · added Aug 26"
     }
   ]
 }
