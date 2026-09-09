@@ -1,5 +1,5 @@
 {
-  "updatedLabel": "Tue Sep 8, 1:18 PM PT",
+  "updatedLabel": "Wed Sep 9, 12:15 AM PT",
   "sources": [
     {
       "key": "personal",
@@ -19,40 +19,8 @@
   ],
   "days": [
     {
-      "label": "Tue · Sep 8",
-      "events": [
-        {
-          "time": "8:30 AM",
-          "title": "Opportunity Dashboard 1on1",
-          "src": "lafc-work"
-        },
-        {
-          "time": "9:30 AM",
-          "title": "CP Sales Weekly",
-          "loc": "Ziggy 818",
-          "src": "lafc-work"
-        },
-        {
-          "time": "11:00 AM",
-          "title": "CP Weekly",
-          "loc": "Olly (818)",
-          "src": "lafc-work"
-        },
-        {
-          "time": "2:00 PM",
-          "title": "Nate x Jack 1on1 re: CP Outreach",
-          "src": "lafc-work"
-        },
-        {
-          "time": "6:30 PM",
-          "title": "LAFC x Heybike Partnership Proposal Review",
-          "src": "lafc-work"
-        }
-      ],
-      "today": true
-    },
-    {
       "label": "Wed · Sep 9",
+      "today": true,
       "events": [
         {
           "time": "9:00 AM",
@@ -62,7 +30,7 @@
         {
           "time": "10:00 AM",
           "title": "SAS/LAFC | Weekly Status Sync",
-          "loc": "Teams",
+          "loc": "Microsoft Teams",
           "src": "lafc-work"
         },
         {
@@ -72,7 +40,7 @@
         },
         {
           "time": "7:30 PM",
-          "title": "LAFC vs. Red Bull New York",
+          "title": "⚽ LAFC vs. Red Bull New York",
           "loc": "BMO Stadium",
           "src": "lafc-match"
         }
@@ -89,7 +57,7 @@
         {
           "time": "11:00 AM",
           "title": "SAS / LAFC — Thursday Hands On Call",
-          "loc": "Teams",
+          "loc": "Microsoft Teams",
           "src": "lafc-work"
         }
       ]
@@ -119,7 +87,7 @@
         },
         {
           "time": "5:30 PM",
-          "title": "LAFC @ Sporting Kansas City",
+          "title": "⚽ LAFC @ Sporting Kansas City",
           "loc": "Children's Mercy Park",
           "src": "lafc-match"
         }
@@ -128,11 +96,6 @@
     {
       "label": "Mon · Sep 14",
       "events": [
-        {
-          "time": "10:00 AM",
-          "title": "Class",
-          "src": "personal"
-        },
         {
           "time": "11:00 AM",
           "title": "CP Sales Weekly",
@@ -173,7 +136,7 @@
         {
           "time": "10:00 AM",
           "title": "SAS/LAFC | Weekly Status Sync",
-          "loc": "Teams",
+          "loc": "Microsoft Teams",
           "src": "lafc-work"
         },
         {
@@ -199,7 +162,7 @@
         {
           "time": "11:00 AM",
           "title": "SAS / LAFC — Thursday Hands On Call",
-          "loc": "Teams",
+          "loc": "Microsoft Teams",
           "src": "lafc-work"
         },
         {
@@ -218,6 +181,11 @@
       "label": "Fri · Sep 18",
       "events": [
         {
+          "time": "All day",
+          "title": "Greg in LA",
+          "src": "personal"
+        },
+        {
           "time": "10:00 AM",
           "title": "AI Hour",
           "src": "lafc-work"
@@ -228,21 +196,31 @@
       "label": "Sat · Sep 19",
       "events": [
         {
+          "time": "All day",
+          "title": "Greg in LA",
+          "src": "personal"
+        },
+        {
           "time": "4:30 PM",
-          "title": "LAFC @ San Jose Earthquakes",
+          "title": "⚽ LAFC @ San Jose Earthquakes",
           "loc": "Levi's Stadium",
           "src": "lafc-match"
         }
       ]
     },
     {
-      "label": "Mon · Sep 21",
+      "label": "Sun · Sep 20",
       "events": [
         {
-          "time": "10:00 AM",
-          "title": "Class",
+          "time": "All day",
+          "title": "Greg in LA",
           "src": "personal"
-        },
+        }
+      ]
+    },
+    {
+      "label": "Mon · Sep 21",
+      "events": [
         {
           "time": "11:00 AM",
           "title": "CP Sales Weekly",
@@ -267,7 +245,7 @@
         {
           "time": "8:15 AM",
           "title": "BDS Bi-Weekly",
-          "loc": "818 · Olly",
+          "loc": "Zoom (818-Olly)",
           "src": "lafc-work"
         },
         {
@@ -279,6 +257,22 @@
         {
           "time": "2:30 PM",
           "title": "Removery",
+          "src": "personal"
+        }
+      ]
+    },
+    {
+      "label": "Wed · Sep 23",
+      "events": [
+        {
+          "time": "10:00 AM",
+          "title": "SAS/LAFC | Weekly Status Sync",
+          "loc": "Microsoft Teams",
+          "src": "lafc-work"
+        },
+        {
+          "time": "1:00 PM",
+          "title": "Stedman clinic",
           "src": "personal"
         }
       ]

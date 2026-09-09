@@ -1,18 +1,14 @@
 {
-  "dateLabel": "Tuesday, September 8",
-  "updatedLabel": "Tue Sep 8, 1:18 PM PT",
-  "today": [],
-  "todayNote": "Nothing on your personal calendar today — a full LAFC work day (see the merged agenda). First personal item is lunch with Bruce tomorrow.",
-  "week": [
+  "dateLabel": "Wednesday, September 9",
+  "updatedLabel": "Wed Sep 9, 12:15 AM PT",
+  "today": [
     {
-      "day": "Wed · Sep 9",
-      "items": [
-        {
-          "time": "9:00 AM",
-          "title": "Lunch w Bruce"
-        }
-      ]
-    },
+      "time": "9:00 AM",
+      "title": "Lunch w Bruce"
+    }
+  ],
+  "todayNote": "Only one thing on your personal calendar today, but a full LAFC work day plus LAFC vs. Red Bull New York at 7:30 PM (BMO) tonight — see the merged agenda.",
+  "week": [
     {
       "day": "Thu · Sep 10",
       "items": [
@@ -61,31 +57,26 @@
   "followups": [
     {
       "dot": "red",
-      "url": "https://mail.google.com/mail/u/0/#inbox/1a081e9b9d80123f",
-      "title": "Google: saved passwords found in a data breach",
-      "meta": "Security · review & rotate affected logins"
+      "url": "https://mail.google.com/mail/u/0/#inbox/1a08325a4271cbe4",
+      "title": "Fwd: Reservation confirmed for Wednesday, September 9",
+      "meta": "Jane (Trendera) · Uber ride booked for today"
     },
     {
       "dot": "amber",
       "url": "https://mail.google.com/mail/u/0/#inbox/1a063e2ca80256c0",
       "title": "LA Sports & Ent. Career Expo",
       "meta": "Teamwork Online · Sep 16 · RSVP"
-    },
-    {
-      "dot": "amber",
-      "url": "https://mail.google.com/mail/u/0/#inbox/1a07b970053daf80",
-      "title": "Invitation: LMA & LCA Webinar — Mindset for Success",
-      "meta": "VSI / UCFB · Thu Sep 24 · RSVP"
     }
   ],
   "inbox": {
-    "unread": 50,
+    "unread": 52,
     "items": [
       {
         "dot": "red",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a081e9b9d80123f",
-        "title": "Critical security alert",
-        "meta": "Google · Sep 7 · saved passwords in breach"
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a08325a4271cbe4",
+        "title": "Fwd: Reservation confirmed for Wednesday, September 9",
+        "tag": "EVENT",
+        "meta": "Jane (Trendera) · Uber ride today"
       },
       {
         "dot": "amber",
@@ -96,12 +87,12 @@
       },
       {
         "dot": "faint",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a082a53619e7e5e",
-        "title": "A sound was played on Jack's MacBook Pro",
-        "meta": "Apple Find My · Sep 8"
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a0831a927e4c0a5",
+        "title": "Hampton Jitney Reservation #7749710",
+        "meta": "Travel · Sep 8 · booked"
       }
     ],
-    "note": "The rest of the ~50 unread are newsletters & promos — BIHUB, APFA, US Soccer, Football Ticket Net, Audible, TGG, The Transfer Flow."
+    "note": "The rest of the ~52 unread are newsletters, promos & auto-notices — BIHUB, APFA, US Soccer, Football Ticket Net, Audible, TGG, Miles & More, Alaska, plus Google/Porkbun/Apple security codes."
   },
   "drive": [
     {
@@ -120,9 +111,9 @@
       "meta": "Doc · edited Aug 26"
     },
     {
-      "url": "https://drive.google.com/file/d/1uIPr4bK6oYDiNbcdH9PS1qvqaKvVBDV5/view?usp=drivesdk",
-      "title": "CW1 — LA Galaxy Strategic Recommendations",
-      "meta": "PDF · added Aug 26"
+      "url": "https://docs.google.com/document/d/1O43WXll6wlSi8740ZgxgB7e8byh0SWg0scnafne9f30/edit?usp=drivesdk",
+      "title": "LAFC Outreach Sequences — E-Bikes",
+      "meta": "Doc · edited Aug 25"
     }
   ]
 }
