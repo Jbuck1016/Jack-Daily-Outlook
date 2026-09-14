@@ -1,5 +1,5 @@
 {
-  "updatedLabel": "Wed Sep 9, 12:15 AM PT",
+  "updatedLabel": "Mon Sep 14, 12:17 AM PT",
   "sources": [
     {
       "key": "personal",
@@ -19,83 +19,14 @@
   ],
   "days": [
     {
-      "label": "Wed · Sep 9",
+      "label": "Mon · Sep 14",
       "today": true,
       "events": [
         {
-          "time": "9:00 AM",
-          "title": "Lunch w Bruce",
-          "src": "personal"
-        },
-        {
           "time": "10:00 AM",
-          "title": "SAS/LAFC | Weekly Status Sync",
-          "loc": "Microsoft Teams",
-          "src": "lafc-work"
-        },
-        {
-          "time": "3:00 PM",
-          "title": "BMO Opportunity Dashboard Follow-Up",
-          "src": "lafc-work"
-        },
-        {
-          "time": "7:30 PM",
-          "title": "⚽ LAFC vs. Red Bull New York",
-          "loc": "BMO Stadium",
-          "src": "lafc-match"
-        }
-      ]
-    },
-    {
-      "label": "Thu · Sep 10",
-      "events": [
-        {
-          "time": "All day",
-          "title": "Lilia show",
+          "title": "Class",
           "src": "personal"
         },
-        {
-          "time": "11:00 AM",
-          "title": "SAS / LAFC — Thursday Hands On Call",
-          "loc": "Microsoft Teams",
-          "src": "lafc-work"
-        }
-      ]
-    },
-    {
-      "label": "Fri · Sep 11",
-      "events": [
-        {
-          "time": "All day",
-          "title": "ELLA BDAY PARTY",
-          "src": "personal"
-        },
-        {
-          "time": "10:00 AM",
-          "title": "AI Hour",
-          "src": "lafc-work"
-        }
-      ]
-    },
-    {
-      "label": "Sat · Sep 12",
-      "events": [
-        {
-          "time": "All day",
-          "title": "Galaxy game with Tom, Heather and Reuben",
-          "src": "personal"
-        },
-        {
-          "time": "5:30 PM",
-          "title": "⚽ LAFC @ Sporting Kansas City",
-          "loc": "Children's Mercy Park",
-          "src": "lafc-match"
-        }
-      ]
-    },
-    {
-      "label": "Mon · Sep 14",
-      "events": [
         {
           "time": "11:00 AM",
           "title": "CP Sales Weekly",
@@ -125,7 +56,7 @@
         {
           "time": "11:00 AM",
           "title": "CP Weekly",
-          "loc": "Olly (818)",
+          "loc": "Zoom",
           "src": "lafc-work"
         }
       ]
@@ -133,12 +64,6 @@
     {
       "label": "Wed · Sep 16",
       "events": [
-        {
-          "time": "10:00 AM",
-          "title": "SAS/LAFC | Weekly Status Sync",
-          "loc": "Microsoft Teams",
-          "src": "lafc-work"
-        },
         {
           "time": "3:00 PM",
           "title": "Laser hair",
@@ -151,12 +76,12 @@
       "events": [
         {
           "time": "All day",
-          "title": "Lilia show",
+          "title": "Greg in LA",
           "src": "personal"
         },
         {
           "time": "All day",
-          "title": "Greg in LA",
+          "title": "Lilia show",
           "src": "personal"
         },
         {
@@ -186,6 +111,11 @@
           "src": "personal"
         },
         {
+          "time": "All day",
+          "title": "Lilia show",
+          "src": "personal"
+        },
+        {
           "time": "10:00 AM",
           "title": "AI Hour",
           "src": "lafc-work"
@@ -198,6 +128,11 @@
         {
           "time": "All day",
           "title": "Greg in LA",
+          "src": "personal"
+        },
+        {
+          "time": "4:00 PM",
+          "title": "ALBa",
           "src": "personal"
         },
         {
@@ -222,6 +157,11 @@
       "label": "Mon · Sep 21",
       "events": [
         {
+          "time": "10:00 AM",
+          "title": "Class",
+          "src": "personal"
+        },
+        {
           "time": "11:00 AM",
           "title": "CP Sales Weekly",
           "loc": "Zoom",
@@ -245,13 +185,13 @@
         {
           "time": "8:15 AM",
           "title": "BDS Bi-Weekly",
-          "loc": "Zoom (818-Olly)",
+          "loc": "Zoom",
           "src": "lafc-work"
         },
         {
           "time": "11:00 AM",
           "title": "CP Weekly",
-          "loc": "Olly (818)",
+          "loc": "Zoom",
           "src": "lafc-work"
         },
         {
@@ -274,6 +214,101 @@
           "time": "1:00 PM",
           "title": "Stedman clinic",
           "src": "personal"
+        }
+      ]
+    },
+    {
+      "label": "Thu · Sep 24",
+      "events": [
+        {
+          "time": "11:00 AM",
+          "title": "SAS / LAFC — Thursday Hands On Call",
+          "loc": "Microsoft Teams",
+          "src": "lafc-work"
+        },
+        {
+          "time": "3:30 PM",
+          "title": "Dr Dugar",
+          "src": "personal"
+        },
+        {
+          "time": "5:32 PM",
+          "title": "Flight to Dallas/Fort Worth (AA 1322)",
+          "loc": "Denver (DEN)",
+          "src": "personal"
+        }
+      ]
+    },
+    {
+      "label": "Fri · Sep 25",
+      "events": [
+        {
+          "time": "10:00 AM",
+          "title": "AI Hour",
+          "src": "lafc-work"
+        },
+        {
+          "time": "11:00 PM",
+          "title": "Potential Dallas",
+          "src": "personal"
+        }
+      ]
+    },
+    {
+      "label": "Sat · Sep 26",
+      "events": [
+        {
+          "time": "5:30 PM",
+          "title": "⚽ LAFC @ FC Dallas",
+          "loc": "Toyota Stadium",
+          "src": "lafc-match"
+        }
+      ]
+    },
+    {
+      "label": "Sun · Sep 27",
+      "events": [
+        {
+          "time": "9:44 AM",
+          "title": "Flight to Los Angeles (AA 442)",
+          "loc": "Dallas/Fort Worth (DFW)",
+          "src": "personal"
+        }
+      ]
+    },
+    {
+      "label": "Mon · Sep 28",
+      "events": [
+        {
+          "time": "8:00 AM",
+          "title": "Teeth cleaning",
+          "src": "personal"
+        },
+        {
+          "time": "10:00 AM",
+          "title": "Class",
+          "src": "personal"
+        },
+        {
+          "time": "11:00 AM",
+          "title": "CP Sales Weekly",
+          "loc": "Zoom",
+          "src": "lafc-work"
+        },
+        {
+          "time": "12:30 PM",
+          "title": "Nate x Jack 1on1 re: CP Outreach",
+          "src": "lafc-work"
+        },
+        {
+          "time": "1:15 PM",
+          "title": "Jack x Jack(son) 1on1",
+          "src": "lafc-work"
+        },
+        {
+          "time": "1:45 PM",
+          "title": "Jackson Weekly Check In",
+          "src": "lafc-work"
         }
       ]
     }

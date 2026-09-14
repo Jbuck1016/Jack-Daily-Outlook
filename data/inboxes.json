@@ -5,89 +5,87 @@
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-09-09T07:15:12Z",
+      "updated": "2026-09-14T07:17:03Z",
       "emails": [
         {
-          "from": "TripIt",
-          "subject": "Check out your TripIt itinerary for Fwd: Reservation confirmed for Wednesday, September 9",
-          "snippet": "Your itinerary is ready! We added the forwarded reservation confirmation to your itinerary.",
-          "date": "2026-09-08T23:53:45Z",
+          "from": "Liam Henshaw",
+          "subject": "Retail supervisor to first team scout",
+          "snippet": "How Craig did it with no experience.",
+          "date": "2026-09-14T05:30:53Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0837124d2eed94"
-        },
-        {
-          "from": "TripIt",
-          "subject": "Check out your TripIt itinerary for Hampton Jitney Reservation #7749710",
-          "snippet": "Your itinerary is ready! We added your Hampton Jitney reservation to your itinerary.",
-          "date": "2026-09-08T23:53:35Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a08370ff8e567eb"
-        },
-        {
-          "from": "Jane",
-          "subject": "Fwd: Reservation confirmed for Wednesday, September 9",
-          "snippet": "Forwarded from Uber: your reservation is confirmed. Pickup is at 8:00 for Wednesday, September 9.",
-          "date": "2026-09-08T22:30:43Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a08325a4271cbe4",
-          "tag": "Important"
-        },
-        {
-          "from": "Hampton Jitney",
-          "subject": "Hampton Jitney Reservation #7749710",
-          "snippet": "Thank you for your reservation via Hampton Jitney's online system. Passenger: Buckingham, Jack.",
-          "date": "2026-09-08T22:19:11Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0831a927e4c0a5"
-        },
-        {
-          "from": "Apple",
-          "subject": "A sound was played on Jack's MacBook Pro",
-          "snippet": "A sound was played on Jack's MacBook Pro at 4:10 PM EDT on September 8, 2026 via Find My.",
-          "date": "2026-09-08T20:10:59Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a082a53619e7e5e"
-        },
-        {
-          "from": "Porkbun",
-          "subject": "porkbun.com | Email Code — via backup email address",
-          "snippet": "Your email code is: IMAAMXCBIP. Please enter it into the appropriate field.",
-          "date": "2026-09-08T19:40:52Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a08289a3b0a0fb5",
-          "tag": "Important"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a09e659e5bd7d02"
         },
         {
           "from": "Jack Buckingham",
-          "subject": "The Continental — Tuesday 8 Sep",
-          "snippet": "The Continental · Tuesday 8 September 2026 · Five leagues, one page. The Lead: English money is keeping the lights on in France.",
-          "date": "2026-09-08T18:46:33Z",
-          "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a08257e7d0cc4bf"
-        },
-        {
-          "from": "Jack Buckingham",
-          "subject": "⚽🎰 5 new jobs — Sep 08",
-          "snippet": "Soccer & Betting Jobs daily digest · September 08, 2026 · 5 new, 0 still open. Track your applications in your Google Sheet.",
-          "date": "2026-09-08T17:03:50Z",
-          "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a081f9da7b37f34"
+          "subject": "The Watchtower — 13 Sep (SAMPLE): 2 failures, Firecrawl out of credits",
+          "snippet": "Systems Check · Sample run. 2 failures, 1 warning — Firecrawl is out of credits and two briefs are down. A live probe returned HTTP 402.",
+          "date": "2026-09-14T05:09:13Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a09e51c3d92633d"
         },
         {
           "from": "Google",
-          "subject": "Critical security alert",
-          "snippet": "Some of your saved passwords were found in a data breach from a site or app you use. Your Google Account is not affected.",
-          "date": "2026-09-07T09:24:52Z",
+          "subject": "Security alert",
+          "snippet": "You allowed Claude for Gmail access to some of your Google Account data.",
+          "date": "2026-09-14T05:03:15Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a081e9b9d80123f"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a09e4c51d91bca1"
         },
         {
-          "from": "Football Ticket Net",
-          "subject": "This Weekend Recap ⚽ European Football At Its Best!",
-          "snippet": "Your weekend in 5 scores, your October in 5 matches. Lock in Anfield, the Bernabéu and San Siro for October.",
-          "date": "2026-09-08T14:40:16Z",
+          "from": "PayPal",
+          "subject": "Your money's on its way to your bank account.",
+          "snippet": "We've received your request to withdraw money from your PayPal account to your bank account.",
+          "date": "2026-09-14T03:35:48Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a08176b23583e41"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a09dfc3c82715fa"
+        },
+        {
+          "from": "PayPal",
+          "subject": "Kalshi sent you $300.00 USD",
+          "snippet": "Kalshi sent you money. Transaction date September 13, 2026.",
+          "date": "2026-09-14T03:24:54Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a09df24f99878ae"
+        },
+        {
+          "from": "TripIt",
+          "subject": "Welcome to LAX, Jackson!",
+          "snippet": "AA 1 arrived at LAX and will disembark at terminal 4, gate 43. Checked bags at carousel T4C2.",
+          "date": "2026-09-14T03:10:38Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a09de5325726fe0"
+        },
+        {
+          "from": "PayPal",
+          "subject": "Kalshi sent you $350.00 USD",
+          "snippet": "Kalshi sent you money. Transaction date September 13, 2026.",
+          "date": "2026-09-13T23:01:01Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a09d00b0a2668ff"
+        },
+        {
+          "from": "PayPal",
+          "subject": "Kalshi: $25.00 USD",
+          "snippet": "You paid Kalshi. Transaction date Sep 13, 2026.",
+          "date": "2026-09-13T21:34:54Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a09cb1d246ddc88"
+        },
+        {
+          "from": "Teamwork Online",
+          "subject": "The LA Galaxy, LA Kings, LA Dodgers, and more are HIRING on 10/13!",
+          "snippet": "Join us on October 13th for the LA Kings Sports & Entertainment Career Fair.",
+          "date": "2026-09-13T20:48:59Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a09c87cef35cf79"
+        },
+        {
+          "from": "Audible",
+          "subject": "Hundreds of titles, up to 80% off!",
+          "snippet": "Shop September's Monthly Deals — latest sales & deals.",
+          "date": "2026-09-13T19:00:21Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a09c2454d022042"
         }
       ]
     },
