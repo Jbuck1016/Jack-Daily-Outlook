@@ -1,23 +1,19 @@
 {
-  "dateLabel": "Monday, September 14",
-  "updatedLabel": "Mon Sep 14, 12:17 AM PT",
+  "dateLabel": "Wednesday, September 16",
+  "updatedLabel": "Wed Sep 16, 12:08 AM PT",
   "today": [
     {
-      "time": "10:00 AM",
-      "title": "Class"
+      "time": "3:00 PM",
+      "title": "Laser hair"
+    },
+    {
+      "time": "7:00 PM",
+      "title": "Drinks w Conor",
+      "accent": "eve"
     }
   ],
-  "todayNote": "Just class at 10 AM on your personal calendar, but it's a full LAFC work day (CP Sales Weekly, 1:1 with Nate, Jack x Jack(son), Jackson check-in) and no match tonight — see the merged agenda.",
+  "todayNote": "Two personal things tonight — Laser hair at 3, drinks with Conor at 7 — on top of a light LAFC day (Category Attack finalization at 1 PM). Greg's in town starting tomorrow through Sunday, and the Lilia show runs Thu–Fri.",
   "week": [
-    {
-      "day": "Wed · Sep 16",
-      "items": [
-        {
-          "time": "3:00 PM",
-          "title": "Laser hair"
-        }
-      ]
-    },
     {
       "day": "Thu · Sep 17",
       "items": [
@@ -30,12 +26,12 @@
           "title": "Lilia show"
         },
         {
-          "time": "5:30 PM",
-          "title": "Therapy"
+          "time": "12:00 PM",
+          "title": "Apt tour"
         },
         {
-          "time": "7:00 PM",
-          "title": "Drinks w Conor"
+          "time": "5:30 PM",
+          "title": "Therapy"
         }
       ]
     },
@@ -71,6 +67,10 @@
         {
           "time": "All day",
           "title": "Greg in LA"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Dinner with Mom"
         }
       ]
     }
@@ -95,26 +95,39 @@
   "followups": [
     {
       "dot": "amber",
+      "url": "https://mail.google.com/mail/u/0/#inbox/1a0a63c008af77f0",
+      "title": "Party planners",
+      "meta": "Jane (Trendera) · vendor list, reply owed"
+    },
+    {
+      "dot": "amber",
       "url": "https://mail.google.com/mail/u/0/#inbox/1a09610850408935",
       "title": "Fwd: It's time to check in - JHZXDM",
       "meta": "Jane (Trendera) · AA check-in + trip confirmations"
     },
     {
       "dot": "amber",
-      "url": "https://mail.google.com/mail/u/0/#inbox/1a09821caa008675",
-      "title": "LA Sports & Ent. Career Expo — few days away",
-      "meta": "Teamwork Online · RSVP, tickets almost gone"
+      "url": "https://mail.google.com/mail/u/0/#inbox/1a0a126b8189a003",
+      "title": "Run failed: Daily Job Search",
+      "meta": "GitHub Actions · job-tracker workflow failing"
     },
     {
       "dot": "amber",
-      "url": "https://mail.google.com/mail/u/0/#inbox/1a091c2bdbb86c7d",
-      "title": "You've used your included Firecrawl credits",
-      "meta": "Watchtower flagged 2 briefs down"
+      "url": "https://mail.google.com/mail/u/0/#inbox/1a0a1c281647db65",
+      "title": "WEDNESDAY: Open Jobs + Angel City Game Ticket",
+      "meta": "Teamwork Online · LA Sports & Ent. Expo today"
     }
   ],
   "inbox": {
     "unread": 201,
     "items": [
+      {
+        "dot": "amber",
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a0a63c008af77f0",
+        "title": "Party planners",
+        "tag": "REPLY",
+        "meta": "Jane (Trendera) · vendor list"
+      },
       {
         "dot": "amber",
         "url": "https://mail.google.com/mail/u/0/#inbox/1a09610850408935",
@@ -131,32 +144,25 @@
       },
       {
         "dot": "amber",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a09821caa008675",
-        "title": "🚨 Few Days Away - Are You In?",
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a0a1c281647db65",
+        "title": "WEDNESDAY: Open Jobs + Angel City Game Ticket",
         "tag": "EVENT",
-        "meta": "Teamwork Online · Career Expo RSVP"
-      },
-      {
-        "dot": "faint",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a09c87cef35cf79",
-        "title": "LA Galaxy, LA Kings, LA Dodgers & more are HIRING (10/13)",
-        "tag": "EVENT",
-        "meta": "Teamwork Online · career fair"
+        "meta": "Teamwork Online · Career Expo today"
       },
       {
         "dot": "amber",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a091c2bdbb86c7d",
-        "title": "You've used your included Firecrawl credits",
-        "meta": "Firecrawl · briefs down until renewal"
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a0a126b8189a003",
+        "title": "Run failed: Daily Job Search",
+        "meta": "GitHub Actions · job-tracker workflow"
       }
     ],
-    "note": "The rest of the ~201 unread are transactional & promo — PayPal/Kalshi payouts & receipts, TripIt gate/delay alerts, Apple/Google Play receipts, Audible, Soho House, plus Transfer Flow & Variance betting newsletters and Google/Claude security notices."
+    "note": "The rest of the ~201 unread are your own auto-sent LAFC partner briefs plus transactional & promo mail — Apple/RapidAPI receipts, U.S. Soccer & Audible offers, Soho House, Transfer Flow / Variance betting newsletters, Teamwork Online career-fair blasts, and Google/Claude security notices."
   },
   "drive": [
     {
       "url": "https://drive.google.com/file/d/157z7u08hySTgvOhW1q-gkRX1VP6P1SWV/view?usp=drivesdk",
       "title": "2026 UPR Campaign",
-      "meta": "Spreadsheet · edited Sep 3"
+      "meta": "Spreadsheet · edited Sep 15"
     },
     {
       "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit?usp=drivesdk",

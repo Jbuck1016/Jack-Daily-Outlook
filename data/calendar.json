@@ -1,5 +1,5 @@
 {
-  "updatedLabel": "Mon Sep 14, 12:17 AM PT",
+  "updatedLabel": "Wed Sep 16, 12:08 AM PT",
   "sources": [
     {
       "key": "personal",
@@ -19,54 +19,22 @@
   ],
   "days": [
     {
-      "label": "Mon · Sep 14",
+      "label": "Wed · Sep 16",
       "today": true,
       "events": [
         {
-          "time": "10:00 AM",
-          "title": "Class",
-          "src": "personal"
-        },
-        {
-          "time": "11:00 AM",
-          "title": "CP Sales Weekly",
-          "loc": "Zoom",
+          "time": "1:00 PM",
+          "title": "Category Attack Finalization",
           "src": "lafc-work"
         },
-        {
-          "time": "12:30 PM",
-          "title": "Nate x Jack 1on1 re: CP Outreach",
-          "src": "lafc-work"
-        },
-        {
-          "time": "1:15 PM",
-          "title": "Jack x Jack(son) 1on1",
-          "src": "lafc-work"
-        },
-        {
-          "time": "1:45 PM",
-          "title": "Jackson Weekly Check In",
-          "src": "lafc-work"
-        }
-      ]
-    },
-    {
-      "label": "Tue · Sep 15",
-      "events": [
-        {
-          "time": "11:00 AM",
-          "title": "CP Weekly",
-          "loc": "Zoom",
-          "src": "lafc-work"
-        }
-      ]
-    },
-    {
-      "label": "Wed · Sep 16",
-      "events": [
         {
           "time": "3:00 PM",
           "title": "Laser hair",
+          "src": "personal"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Drinks w Conor",
           "src": "personal"
         }
       ]
@@ -85,19 +53,13 @@
           "src": "personal"
         },
         {
-          "time": "11:00 AM",
-          "title": "SAS / LAFC — Thursday Hands On Call",
-          "loc": "Microsoft Teams",
-          "src": "lafc-work"
+          "time": "12:00 PM",
+          "title": "Apt tour",
+          "src": "personal"
         },
         {
           "time": "5:30 PM",
           "title": "Therapy",
-          "src": "personal"
-        },
-        {
-          "time": "7:00 PM",
-          "title": "Drinks w Conor",
           "src": "personal"
         }
       ]
@@ -150,6 +112,11 @@
           "time": "All day",
           "title": "Greg in LA",
           "src": "personal"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Dinner with Mom",
+          "src": "personal"
         }
       ]
     },
@@ -164,7 +131,6 @@
         {
           "time": "11:00 AM",
           "title": "CP Sales Weekly",
-          "loc": "Zoom",
           "src": "lafc-work"
         },
         {
@@ -185,18 +151,12 @@
         {
           "time": "8:15 AM",
           "title": "BDS Bi-Weekly",
-          "loc": "Zoom",
-          "src": "lafc-work"
-        },
-        {
-          "time": "11:00 AM",
-          "title": "CP Weekly",
-          "loc": "Zoom",
           "src": "lafc-work"
         },
         {
           "time": "2:30 PM",
-          "title": "Removery",
+          "title": "Removery appointment",
+          "loc": "Removery - Beverly Grove",
           "src": "personal"
         }
       ]
@@ -206,7 +166,7 @@
       "events": [
         {
           "time": "10:00 AM",
-          "title": "SAS/LAFC | Weekly Status Sync",
+          "title": "SAS/LAFC Weekly Status Sync",
           "loc": "Microsoft Teams",
           "src": "lafc-work"
         },
@@ -222,7 +182,7 @@
       "events": [
         {
           "time": "11:00 AM",
-          "title": "SAS / LAFC — Thursday Hands On Call",
+          "title": "SAS / LAFC Thursday Hands-On Call",
           "loc": "Microsoft Teams",
           "src": "lafc-work"
         },
@@ -234,7 +194,7 @@
         {
           "time": "5:32 PM",
           "title": "Flight to Dallas/Fort Worth (AA 1322)",
-          "loc": "Denver (DEN)",
+          "loc": "Denver DEN",
           "src": "personal"
         }
       ]
@@ -271,7 +231,7 @@
         {
           "time": "9:44 AM",
           "title": "Flight to Los Angeles (AA 442)",
-          "loc": "Dallas/Fort Worth (DFW)",
+          "loc": "Dallas/Fort Worth DFW",
           "src": "personal"
         }
       ]
@@ -292,7 +252,6 @@
         {
           "time": "11:00 AM",
           "title": "CP Sales Weekly",
-          "loc": "Zoom",
           "src": "lafc-work"
         },
         {
@@ -308,6 +267,33 @@
         {
           "time": "1:45 PM",
           "title": "Jackson Weekly Check In",
+          "src": "lafc-work"
+        }
+      ]
+    },
+    {
+      "label": "Tue · Sep 29",
+      "events": [
+        {
+          "time": "12:30 AM",
+          "title": "TGG Live 2026",
+          "loc": "Old Trafford, Manchester",
+          "src": "personal"
+        },
+        {
+          "time": "11:00 AM",
+          "title": "CP Weekly / Summize Training (MANDATORY)",
+          "src": "lafc-work"
+        }
+      ]
+    },
+    {
+      "label": "Wed · Sep 30",
+      "events": [
+        {
+          "time": "10:00 AM",
+          "title": "SAS/LAFC Weekly Status Sync",
+          "loc": "Microsoft Teams",
           "src": "lafc-work"
         }
       ]

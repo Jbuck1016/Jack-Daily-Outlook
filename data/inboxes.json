@@ -5,87 +5,90 @@
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-09-14T07:17:03Z",
+      "updated": "2026-09-16T07:08:20Z",
       "emails": [
         {
-          "from": "Liam Henshaw",
-          "subject": "Retail supervisor to first team scout",
-          "snippet": "How Craig did it with no experience.",
-          "date": "2026-09-14T05:30:53Z",
+          "from": "Apple",
+          "subject": "Your receipt from Apple.",
+          "snippet": "Receipt & Renewal Notice — Order ID MLYDBFTQM6. AppleCare One Individual (Monthly).",
+          "date": "2026-09-16T02:03:58Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a09e659e5bd7d02"
+          "tag": "Important",
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0a7f4e7b1b75b2"
         },
         {
           "from": "Jack Buckingham",
-          "subject": "The Watchtower — 13 Sep (SAMPLE): 2 failures, Firecrawl out of credits",
-          "snippet": "Systems Check · Sample run. 2 failures, 1 warning — Firecrawl is out of credits and two briefs are down. A live probe returned HTTP 402.",
-          "date": "2026-09-14T05:09:13Z",
+          "subject": "[Renee Castellanos] LAFC partner brief, 22 Sep — Verizon: regulatory or safety",
+          "snippet": "LAFC PARTNER BRIEF — Renee Castellanos, week of 22 Sep. 5 brands we're pitching made news, led by Verizon.",
+          "date": "2026-09-15T22:57:38Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a09e51c3d92633d"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0a74a483c26c28"
         },
         {
-          "from": "Google",
-          "subject": "Security alert",
-          "snippet": "You allowed Claude for Gmail access to some of your Google Account data.",
-          "date": "2026-09-14T05:03:15Z",
+          "from": "Jack Buckingham",
+          "subject": "[Alex Rivera] LAFC partner brief, 22 Sep — State Farm: company news",
+          "snippet": "LAFC PARTNER BRIEF — Alex Rivera, week of 22 Sep. 5 brands we're pitching made news, led by State Farm.",
+          "date": "2026-09-15T22:57:37Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a09e4c51d91bca1"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0a74a44dd7edec"
         },
         {
-          "from": "PayPal",
-          "subject": "Your money's on its way to your bank account.",
-          "snippet": "We've received your request to withdraw money from your PayPal account to your bank account.",
-          "date": "2026-09-14T03:35:48Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a09dfc3c82715fa"
+          "from": "Jack Buckingham",
+          "subject": "[Tomas Delgado] LAFC partner brief, 22 Sep — Toyota: sponsorship elsewhere",
+          "snippet": "LAFC PARTNER BRIEF — Tomas Delgado, week of 22 Sep. Bandai Namco renews in 57 days. 4 of your partners made news, led by Toyota.",
+          "date": "2026-09-15T22:57:36Z",
+          "unread": false,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0a74a420456b0b"
         },
         {
-          "from": "PayPal",
-          "subject": "Kalshi sent you $300.00 USD",
-          "snippet": "Kalshi sent you money. Transaction date September 13, 2026.",
-          "date": "2026-09-14T03:24:54Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a09df24f99878ae"
+          "from": "Jack Buckingham",
+          "subject": "[Dana Whitfield] LAFC partner brief, 22 Sep — adidas: sponsorship elsewhere",
+          "snippet": "LAFC PARTNER BRIEF — Dana Whitfield, week of 22 Sep. Liquid IV renews in 11 days. 2 of your partners made news, led by adidas.",
+          "date": "2026-09-15T22:57:34Z",
+          "unread": false,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0a74a3d0f46027"
         },
         {
-          "from": "TripIt",
-          "subject": "Welcome to LAX, Jackson!",
-          "snippet": "AA 1 arrived at LAX and will disembark at terminal 4, gate 43. Checked bags at carousel T4C2.",
-          "date": "2026-09-14T03:10:38Z",
+          "from": "RapidAPI",
+          "subject": "New announcement for JSearch API",
+          "snippet": "A new announcement has been posted for JSearch API. View and reply to the announcement in your Console inbox.",
+          "date": "2026-09-15T19:21:37Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a09de5325726fe0"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0a6848d30a4bff"
         },
         {
-          "from": "PayPal",
-          "subject": "Kalshi sent you $350.00 USD",
-          "snippet": "Kalshi sent you money. Transaction date September 13, 2026.",
-          "date": "2026-09-13T23:01:01Z",
+          "from": "Jane (Trendera)",
+          "subject": "Party planners",
+          "snippet": "Francesca Grossman: Sugar - LA. Mindy Weiss (major wedding planner). Contacts and phone numbers for LA party/wedding planners.",
+          "date": "2026-09-15T17:58:14Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a09d00b0a2668ff"
+          "tag": "Important",
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0a63c008af77f0"
         },
         {
-          "from": "PayPal",
-          "subject": "Kalshi: $25.00 USD",
-          "snippet": "You paid Kalshi. Transaction date Sep 13, 2026.",
-          "date": "2026-09-13T21:34:54Z",
+          "from": "U.S. Soccer",
+          "subject": "Just announced: Concacaf Nations League is headed to Cincinnati",
+          "snippet": "The USMNT is back this November.",
+          "date": "2026-09-15T15:21:57Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a09cb1d246ddc88"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0a5a92172ba374"
         },
         {
-          "from": "Teamwork Online",
-          "subject": "The LA Galaxy, LA Kings, LA Dodgers, and more are HIRING on 10/13!",
-          "snippet": "Join us on October 13th for the LA Kings Sports & Entertainment Career Fair.",
-          "date": "2026-09-13T20:48:59Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a09c87cef35cf79"
+          "from": "The Transfer Flow",
+          "subject": "Transfer grades: Not sure if Real Madrid and Barcelona got better",
+          "snippet": "Plus Atlético Madrid, Real Betis and Villarreal.",
+          "date": "2026-09-15T14:37:49Z",
+          "unread": false,
+          "tag": "Important",
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0a580b3a87eb20"
         },
         {
-          "from": "Audible",
-          "subject": "Hundreds of titles, up to 80% off!",
-          "snippet": "Shop September's Monthly Deals — latest sales & deals.",
-          "date": "2026-09-13T19:00:21Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a09c2454d022042"
+          "from": "The Transfer Flow",
+          "subject": "Variance Betting - Championship 15 Sept 2026",
+          "snippet": "+3 in the Premier League, +1.5 in the Championship, +0.5 in MLS makes for a +5 weekend.",
+          "date": "2026-09-15T12:43:38Z",
+          "unread": false,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0a518276030db4"
         }
       ]
     },
