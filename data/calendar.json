@@ -1,5 +1,5 @@
 {
-  "updatedLabel": "Wed Sep 16, 12:08 AM PT",
+  "updatedLabel": "Fri Sep 18, 12:14 AM PT",
   "sources": [
     {
       "key": "personal",
@@ -19,62 +19,22 @@
   ],
   "days": [
     {
-      "label": "Wed · Sep 16",
+      "label": "Fri · Sep 18",
       "today": true,
       "events": [
         {
-          "time": "1:00 PM",
-          "title": "Category Attack Finalization",
-          "src": "lafc-work"
-        },
-        {
-          "time": "3:00 PM",
-          "title": "Laser hair",
+          "time": "All day",
+          "title": "Lilia show",
           "src": "personal"
         },
-        {
-          "time": "7:00 PM",
-          "title": "Drinks w Conor",
-          "src": "personal"
-        }
-      ]
-    },
-    {
-      "label": "Thu · Sep 17",
-      "events": [
         {
           "time": "All day",
           "title": "Greg in LA",
           "src": "personal"
         },
         {
-          "time": "All day",
-          "title": "Lilia show",
-          "src": "personal"
-        },
-        {
-          "time": "12:00 PM",
-          "title": "Apt tour",
-          "src": "personal"
-        },
-        {
-          "time": "5:30 PM",
-          "title": "Therapy",
-          "src": "personal"
-        }
-      ]
-    },
-    {
-      "label": "Fri · Sep 18",
-      "events": [
-        {
-          "time": "All day",
-          "title": "Greg in LA",
-          "src": "personal"
-        },
-        {
-          "time": "All day",
-          "title": "Lilia show",
+          "time": "8:00 AM",
+          "title": "Zoom w Darren",
           "src": "personal"
         },
         {
@@ -90,6 +50,12 @@
         {
           "time": "All day",
           "title": "Greg in LA",
+          "src": "personal"
+        },
+        {
+          "time": "12:30 PM",
+          "title": "Brunch at Madre Oaxacan",
+          "loc": "801 N Fairfax Ave",
           "src": "personal"
         },
         {
@@ -142,6 +108,11 @@
           "time": "1:45 PM",
           "title": "Jackson Weekly Check In",
           "src": "lafc-work"
+        },
+        {
+          "time": "2:00 PM",
+          "title": "Call w Erika",
+          "src": "personal"
         }
       ]
     },
@@ -149,14 +120,20 @@
       "label": "Tue · Sep 22",
       "events": [
         {
-          "time": "8:15 AM",
-          "title": "BDS Bi-Weekly",
-          "src": "lafc-work"
+          "time": "11:00 AM",
+          "title": "Haircut",
+          "loc": "Mèche",
+          "src": "personal"
         },
         {
           "time": "2:30 PM",
           "title": "Removery appointment",
-          "loc": "Removery - Beverly Grove",
+          "loc": "Beverly Grove",
+          "src": "personal"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Dinner w Claire",
           "src": "personal"
         }
       ]
@@ -166,8 +143,7 @@
       "events": [
         {
           "time": "10:00 AM",
-          "title": "SAS/LAFC Weekly Status Sync",
-          "loc": "Microsoft Teams",
+          "title": "SAS/LAFC | Weekly Status Sync - New",
           "src": "lafc-work"
         },
         {
@@ -182,8 +158,7 @@
       "events": [
         {
           "time": "11:00 AM",
-          "title": "SAS / LAFC Thursday Hands-On Call",
-          "loc": "Microsoft Teams",
+          "title": "SAS / LAFC - Thursday Hands On Call - New",
           "src": "lafc-work"
         },
         {
@@ -277,12 +252,17 @@
         {
           "time": "12:30 AM",
           "title": "TGG Live 2026",
-          "loc": "Old Trafford, Manchester",
+          "loc": "Old Trafford",
           "src": "personal"
         },
         {
+          "time": "8:15 AM",
+          "title": "BDS Bi-Weekly",
+          "src": "lafc-work"
+        },
+        {
           "time": "11:00 AM",
-          "title": "CP Weekly / Summize Training (MANDATORY)",
+          "title": "CP Weekly/Summize Training (MANDATORY)",
           "src": "lafc-work"
         }
       ]
@@ -292,8 +272,37 @@
       "events": [
         {
           "time": "10:00 AM",
-          "title": "SAS/LAFC Weekly Status Sync",
-          "loc": "Microsoft Teams",
+          "title": "SAS/LAFC | Weekly Status Sync - New",
+          "src": "lafc-work"
+        }
+      ]
+    },
+    {
+      "label": "Thu · Oct 1",
+      "events": [
+        {
+          "time": "11:00 AM",
+          "title": "SAS / LAFC - Thursday Hands On Call - New",
+          "src": "lafc-work"
+        },
+        {
+          "time": "3:00 PM",
+          "title": "Mike x Jackson Monthly 1on1",
+          "src": "lafc-work"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Drinks w Conor",
+          "src": "personal"
+        }
+      ]
+    },
+    {
+      "label": "Fri · Oct 2",
+      "events": [
+        {
+          "time": "10:00 AM",
+          "title": "AI Hour",
           "src": "lafc-work"
         }
       ]

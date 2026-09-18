@@ -5,90 +5,88 @@
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-09-16T07:08:20Z",
+      "updated": "2026-09-18T07:14:16Z",
       "emails": [
         {
-          "from": "Apple",
-          "subject": "Your receipt from Apple.",
-          "snippet": "Receipt & Renewal Notice — Order ID MLYDBFTQM6. AppleCare One Individual (Monthly).",
-          "date": "2026-09-16T02:03:58Z",
+          "from": "PayPal",
+          "subject": "Microsoft Corporation: $44.99 USD",
+          "snippet": "You paid $44.99 USD to Microsoft Corporation. Transaction ID 6LA98760HT4950423, Sep 17.",
+          "date": "2026-09-18T05:14:13Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0b2efc824ff811"
+        },
+        {
+          "from": "PayPal",
+          "subject": "Your August account statement is available",
+          "snippet": "Hi Jackson — your August PayPal account statement is ready to view online.",
+          "date": "2026-09-17T21:04:56Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0b12fd3300b4c3"
+        },
+        {
+          "from": "PayPal",
+          "subject": "Microsoft Corporation: $62.99 USD",
+          "snippet": "You paid $62.99 USD to Microsoft Corporation. Transaction ID 0YK73138LS3279830, Sep 17.",
+          "date": "2026-09-17T21:02:28Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0b12d910227f14"
+        },
+        {
+          "from": "Paperless Post",
+          "subject": "Reminder to RSVP to Lily Annenberg's Bat Mitzvah",
+          "snippet": "Friendly reminder to RSVP by Thursday, October 1, when the RSVP window closes.",
+          "date": "2026-09-17T19:24:08Z",
           "unread": true,
           "tag": "Important",
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0a7f4e7b1b75b2"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0b0d38ce1f3c98"
+        },
+        {
+          "from": "Zapier",
+          "subject": "The session we've been waiting all year to share with you",
+          "snippet": "AI vs. automation: which to choose? See which wins next week at ZapConnect.",
+          "date": "2026-09-17T17:36:17Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0b070d3daf1967"
         },
         {
           "from": "Jack Buckingham",
-          "subject": "[Renee Castellanos] LAFC partner brief, 22 Sep — Verizon: regulatory or safety",
-          "snippet": "LAFC PARTNER BRIEF — Renee Castellanos, week of 22 Sep. 5 brands we're pitching made news, led by Verizon.",
-          "date": "2026-09-15T22:57:38Z",
+          "subject": "⚽🎰 18 new jobs 🔥1 posted today! — Sep 17",
+          "snippet": "Soccer & Betting Jobs daily digest — 18 new, 1 posted today. Track your applications.",
+          "date": "2026-09-17T17:32:03Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0a74a483c26c28"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0b06ced97443c0"
         },
         {
-          "from": "Jack Buckingham",
-          "subject": "[Alex Rivera] LAFC partner brief, 22 Sep — State Farm: company news",
-          "snippet": "LAFC PARTNER BRIEF — Alex Rivera, week of 22 Sep. 5 brands we're pitching made news, led by State Farm.",
-          "date": "2026-09-15T22:57:37Z",
+          "from": "The Transfer Flow",
+          "subject": "Inter widen their advantage over AC Milan",
+          "snippet": "Plus transfer grades for Roma, Como, and Napoli.",
+          "date": "2026-09-17T16:17:46Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0a74a44dd7edec"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0b028e94f9b770"
         },
         {
-          "from": "Jack Buckingham",
-          "subject": "[Tomas Delgado] LAFC partner brief, 22 Sep — Toyota: sponsorship elsewhere",
-          "snippet": "LAFC PARTNER BRIEF — Tomas Delgado, week of 22 Sep. Bandai Namco renews in 57 days. 4 of your partners made news, led by Toyota.",
-          "date": "2026-09-15T22:57:36Z",
-          "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0a74a420456b0b"
-        },
-        {
-          "from": "Jack Buckingham",
-          "subject": "[Dana Whitfield] LAFC partner brief, 22 Sep — adidas: sponsorship elsewhere",
-          "snippet": "LAFC PARTNER BRIEF — Dana Whitfield, week of 22 Sep. Liquid IV renews in 11 days. 2 of your partners made news, led by adidas.",
-          "date": "2026-09-15T22:57:34Z",
-          "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0a74a3d0f46027"
-        },
-        {
-          "from": "RapidAPI",
-          "subject": "New announcement for JSearch API",
-          "snippet": "A new announcement has been posted for JSearch API. View and reply to the announcement in your Console inbox.",
-          "date": "2026-09-15T19:21:37Z",
+          "from": "Barça Innovation Hub",
+          "subject": "We have the gold ones — 40% off until September 20th",
+          "snippet": "40% off with code GOLD40 on your training until September 20th.",
+          "date": "2026-09-17T16:04:58Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0a6848d30a4bff"
-        },
-        {
-          "from": "Jane (Trendera)",
-          "subject": "Party planners",
-          "snippet": "Francesca Grossman: Sugar - LA. Mindy Weiss (major wedding planner). Contacts and phone numbers for LA party/wedding planners.",
-          "date": "2026-09-15T17:58:14Z",
-          "unread": true,
-          "tag": "Important",
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0a63c008af77f0"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0af922493ac0e6"
         },
         {
           "from": "U.S. Soccer",
-          "subject": "Just announced: Concacaf Nations League is headed to Cincinnati",
-          "snippet": "The USMNT is back this November.",
-          "date": "2026-09-15T15:21:57Z",
+          "subject": "Your Concacaf Nations League presale starts soon",
+          "snippet": "Don't miss your chance to grab tickets before the general public.",
+          "date": "2026-09-17T12:36:30Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0a5a92172ba374"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0af5e5946e9705"
         },
         {
-          "from": "The Transfer Flow",
-          "subject": "Transfer grades: Not sure if Real Madrid and Barcelona got better",
-          "snippet": "Plus Atlético Madrid, Real Betis and Villarreal.",
-          "date": "2026-09-15T14:37:49Z",
-          "unread": false,
-          "tag": "Important",
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0a580b3a87eb20"
-        },
-        {
-          "from": "The Transfer Flow",
-          "subject": "Variance Betting - Championship 15 Sept 2026",
-          "snippet": "+3 in the Premier League, +1.5 in the Championship, +0.5 in MLS makes for a +5 weekend.",
-          "date": "2026-09-15T12:43:38Z",
-          "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0a518276030db4"
+          "from": "Amazon",
+          "subject": "Amazon.com order of Knives Out",
+          "snippet": "Thank you for shopping with us — find your Prime Video purchases in your Library.",
+          "date": "2026-09-17T06:08:13Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0adfadc4dec807"
         }
       ]
     },

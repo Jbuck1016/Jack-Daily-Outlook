@@ -1,59 +1,34 @@
 {
-  "dateLabel": "Wednesday, September 16",
-  "updatedLabel": "Wed Sep 16, 12:08 AM PT",
+  "dateLabel": "Friday, September 18",
+  "updatedLabel": "Fri Sep 18, 12:14 AM PT",
   "today": [
     {
-      "time": "3:00 PM",
-      "title": "Laser hair"
+      "time": "All day",
+      "title": "Lilia show",
+      "accent": "span"
     },
     {
-      "time": "7:00 PM",
-      "title": "Drinks w Conor",
-      "accent": "eve"
+      "time": "All day",
+      "title": "Greg in LA",
+      "accent": "span"
+    },
+    {
+      "time": "8:00 AM",
+      "title": "Zoom w Darren"
     }
   ],
-  "todayNote": "Two personal things tonight — Laser hair at 3, drinks with Conor at 7 — on top of a light LAFC day (Category Attack finalization at 1 PM). Greg's in town starting tomorrow through Sunday, and the Lilia show runs Thu–Fri.",
+  "todayNote": "Last day of the Lilia show, and Greg's in town through Sunday. Light personal day — just the 8 AM Zoom with Darren — with AI Hour at 10 on the work side. Weekend ahead: brunch and ALBa Saturday (LAFC @ San Jose, 4:30 PM), dinner with Mom Sunday.",
   "week": [
-    {
-      "day": "Thu · Sep 17",
-      "items": [
-        {
-          "time": "All day",
-          "title": "Greg in LA"
-        },
-        {
-          "time": "All day",
-          "title": "Lilia show"
-        },
-        {
-          "time": "12:00 PM",
-          "title": "Apt tour"
-        },
-        {
-          "time": "5:30 PM",
-          "title": "Therapy"
-        }
-      ]
-    },
-    {
-      "day": "Fri · Sep 18",
-      "items": [
-        {
-          "time": "All day",
-          "title": "Greg in LA"
-        },
-        {
-          "time": "All day",
-          "title": "Lilia show"
-        }
-      ]
-    },
     {
       "day": "Sat · Sep 19",
       "items": [
         {
           "time": "All day",
           "title": "Greg in LA"
+        },
+        {
+          "time": "12:30 PM",
+          "title": "Brunch at Madre Oaxacan"
         },
         {
           "time": "4:00 PM",
@@ -94,90 +69,81 @@
   },
   "followups": [
     {
+      "dot": "red",
+      "url": "https://mail.google.com/mail/u/0/#inbox/1a0a126b8189a003",
+      "title": "Daily Job Search workflow failed",
+      "meta": "GitHub Actions · Sep 14"
+    },
+    {
       "dot": "amber",
-      "url": "https://mail.google.com/mail/u/0/#inbox/1a0a63c008af77f0",
-      "title": "Party planners",
-      "meta": "Jane (Trendera) · vendor list, reply owed"
+      "url": "https://mail.google.com/mail/u/0/#inbox/1a0b0d38ce1f3c98",
+      "title": "RSVP to Lily Annenberg's Bat Mitzvah",
+      "meta": "Paperless Post · due Oct 1"
     },
     {
       "dot": "amber",
       "url": "https://mail.google.com/mail/u/0/#inbox/1a09610850408935",
-      "title": "Fwd: It's time to check in - JHZXDM",
-      "meta": "Jane (Trendera) · AA check-in + trip confirmations"
-    },
-    {
-      "dot": "amber",
-      "url": "https://mail.google.com/mail/u/0/#inbox/1a0a126b8189a003",
-      "title": "Run failed: Daily Job Search",
-      "meta": "GitHub Actions · job-tracker workflow failing"
-    },
-    {
-      "dot": "amber",
-      "url": "https://mail.google.com/mail/u/0/#inbox/1a0a1c281647db65",
-      "title": "WEDNESDAY: Open Jobs + Angel City Game Ticket",
-      "meta": "Teamwork Online · LA Sports & Ent. Expo today"
+      "title": "Jane — flight check-in & trip confirmations",
+      "meta": "Trendera · Sep 12"
     }
   ],
   "inbox": {
-    "unread": 201,
+    "unread": 54,
     "items": [
       {
         "dot": "amber",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a0a63c008af77f0",
-        "title": "Party planners",
-        "tag": "REPLY",
-        "meta": "Jane (Trendera) · vendor list"
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a0b0d38ce1f3c98",
+        "title": "RSVP reminder: Lily Annenberg's Bat Mitzvah",
+        "tag": "EVENT",
+        "meta": "Paperless Post · Sep 17"
       },
       {
         "dot": "amber",
         "url": "https://mail.google.com/mail/u/0/#inbox/1a09610850408935",
-        "title": "Fwd: It's time to check in - JHZXDM",
-        "tag": "EVENT",
-        "meta": "Jane (Trendera) · AA check-in"
+        "title": "Fwd: It's time to check in — JHZXDM",
+        "meta": "Jane · Sep 12"
+      },
+      {
+        "dot": "red",
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a0a126b8189a003",
+        "title": "Run failed: Daily Job Search",
+        "meta": "GitHub · Sep 14"
       },
       {
         "dot": "faint",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a093896feeb68a8",
-        "title": "Fwd: Your trip confirmation (DFW - LAX)",
-        "tag": "EVENT",
-        "meta": "Jane (Trendera) · flight itinerary"
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a0b2efc824ff811",
+        "title": "Microsoft Corporation — $44.99",
+        "meta": "PayPal · Sep 18"
       },
       {
-        "dot": "amber",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a0a1c281647db65",
-        "title": "WEDNESDAY: Open Jobs + Angel City Game Ticket",
-        "tag": "EVENT",
-        "meta": "Teamwork Online · Career Expo today"
-      },
-      {
-        "dot": "amber",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a0a126b8189a003",
-        "title": "Run failed: Daily Job Search",
-        "meta": "GitHub Actions · job-tracker workflow"
+        "dot": "faint",
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a0adfadc4dec807",
+        "title": "Amazon order of Knives Out",
+        "meta": "Amazon · Sep 17"
       }
     ],
-    "note": "The rest of the ~201 unread are your own auto-sent LAFC partner briefs plus transactional & promo mail — Apple/RapidAPI receipts, U.S. Soccer & Audible offers, Soho House, Transfer Flow / Variance betting newsletters, Teamwork Online career-fair blasts, and Google/Claude security notices."
+    "note": "~54 unread in the last 14 days — mostly soccer/scouting newsletters, career-fair invites, and receipts."
   },
   "drive": [
     {
       "url": "https://drive.google.com/file/d/157z7u08hySTgvOhW1q-gkRX1VP6P1SWV/view?usp=drivesdk",
       "title": "2026 UPR Campaign",
-      "meta": "Spreadsheet · edited Sep 15"
-    },
-    {
-      "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit?usp=drivesdk",
-      "title": "UD7016 — High Performance Environments (Group Presentation)",
-      "meta": "Doc · edited Aug 26"
+      "meta": "Sheet · modified Sep 15"
     },
     {
       "url": "https://docs.google.com/document/d/1B8ZIHYX437nyrCi8KCIPxpinfPzSEKrCqkMNl69yuUA/edit?usp=drivesdk",
       "title": "CWRK1 — LA Galaxy Strategic Recommendations",
-      "meta": "Doc · edited Aug 26"
+      "meta": "Doc · Aug 26"
     },
     {
-      "url": "https://docs.google.com/document/d/1O43WXll6wlSi8740ZgxgB7e8byh0SWg0scnafne9f30/edit?usp=drivesdk",
-      "title": "LAFC Outreach Sequences — E-Bikes",
-      "meta": "Doc · edited Aug 25"
+      "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit?usp=drivesdk",
+      "title": "UD7016 — High Performance Environments (Group Presentation)",
+      "meta": "Doc · Aug 26"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1eQGVfXo_tL0K2HVmJmBJNelXA5tdMxfI_zD9vvLSq_M/edit?usp=drivesdk",
+      "title": "MLS 2026 Analytics — Site Walkthrough Script",
+      "meta": "Doc · Aug 20"
     }
   ]
 }
