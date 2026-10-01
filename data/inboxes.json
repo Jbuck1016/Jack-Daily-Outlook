@@ -1,92 +1,92 @@
 {
-  "note": "Primary Gmail — last 10 received. Secondary account not connected.",
+  "note": "Primary inbox — last 10 received messages. Secondary account is not connected.",
   "accounts": [
     {
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-09-18T07:14:16Z",
+      "updated": "2026-10-01T07:08:40Z",
       "emails": [
         {
-          "from": "PayPal",
-          "subject": "Microsoft Corporation: $44.99 USD",
-          "snippet": "You paid $44.99 USD to Microsoft Corporation. Transaction ID 6LA98760HT4950423, Sep 17.",
-          "date": "2026-09-18T05:14:13Z",
+          "from": "UCLA Health",
+          "subject": "The importance of cancer screening",
+          "snippet": "Plus, a new tool makes leading neuroscience research easier to explore.",
+          "date": "2026-09-30T21:34:30Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0b2efc824ff811"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0f441f030a4ba4"
         },
         {
-          "from": "PayPal",
-          "subject": "Your August account statement is available",
-          "snippet": "Hi Jackson — your August PayPal account statement is ready to view online.",
-          "date": "2026-09-17T21:04:56Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0b12fd3300b4c3"
-        },
-        {
-          "from": "PayPal",
-          "subject": "Microsoft Corporation: $62.99 USD",
-          "snippet": "You paid $62.99 USD to Microsoft Corporation. Transaction ID 0YK73138LS3279830, Sep 17.",
-          "date": "2026-09-17T21:02:28Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0b12d910227f14"
-        },
-        {
-          "from": "Paperless Post",
-          "subject": "Reminder to RSVP to Lily Annenberg's Bat Mitzvah",
-          "snippet": "Friendly reminder to RSVP by Thursday, October 1, when the RSVP window closes.",
-          "date": "2026-09-17T19:24:08Z",
-          "unread": true,
+          "from": "Tamar Meszaros",
+          "subject": "Re: Re:",
+          "snippet": "Great, you are past the worst. Let me know if anyone in your family was exposed.",
+          "date": "2026-09-30T20:37:39Z",
+          "unread": false,
           "tag": "Important",
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0b0d38ce1f3c98"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0ee90e13271267"
         },
         {
-          "from": "Zapier",
-          "subject": "The session we've been waiting all year to share with you",
-          "snippet": "AI vs. automation: which to choose? See which wins next week at ZapConnect.",
-          "date": "2026-09-17T17:36:17Z",
+          "from": "TeamWork Online",
+          "subject": "OPEN JOBS: LA Kings Sports & Entertainment Career Fair",
+          "snippet": "Looking to work in sports in Los Angeles? Come impress employers on October 13th.",
+          "date": "2026-09-30T19:23:58Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0b070d3daf1967"
-        },
-        {
-          "from": "Jack Buckingham",
-          "subject": "⚽🎰 18 new jobs 🔥1 posted today! — Sep 17",
-          "snippet": "Soccer & Betting Jobs daily digest — 18 new, 1 posted today. Track your applications.",
-          "date": "2026-09-17T17:32:03Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0b06ced97443c0"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0f3c613b15eecc"
         },
         {
           "from": "The Transfer Flow",
-          "subject": "Inter widen their advantage over AC Milan",
-          "snippet": "Plus transfer grades for Roma, Como, and Napoli.",
-          "date": "2026-09-17T16:17:46Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0b028e94f9b770"
+          "subject": "Franco Mastantuono appears to be experiencing a breakout",
+          "snippet": "In which Kim has to take an L.",
+          "date": "2026-09-30T14:24:03Z",
+          "unread": false,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0f2b37baef1bcb"
         },
         {
           "from": "Barça Innovation Hub",
-          "subject": "We have the gold ones — 40% off until September 20th",
-          "snippet": "40% off with code GOLD40 on your training until September 20th.",
-          "date": "2026-09-17T16:04:58Z",
+          "subject": "Something new is coming to BIHUB - 40% off until October 4th",
+          "snippet": "40% off with NEW40 until October 4th.",
+          "date": "2026-09-30T13:44:01Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0af922493ac0e6"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0f28ed27eb18de"
+        },
+        {
+          "from": "Barça Innovation Hub",
+          "subject": "Jack, the natural next step after scouting",
+          "snippet": "You don't want to be one more spectator of this game. You want to make the calls.",
+          "date": "2026-09-30T13:34:42Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0f2864cac910a6"
         },
         {
           "from": "U.S. Soccer",
-          "subject": "Your Concacaf Nations League presale starts soon",
-          "snippet": "Don't miss your chance to grab tickets before the general public.",
-          "date": "2026-09-17T12:36:30Z",
+          "subject": "Your commemorative patch is waiting",
+          "snippet": "Make it official with Premium Insiders.",
+          "date": "2026-09-30T13:05:00Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0af5e5946e9705"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0f26b1b80041a6"
         },
         {
-          "from": "Amazon",
-          "subject": "Amazon.com order of Knives Out",
-          "snippet": "Thank you for shopping with us — find your Prime Video purchases in your Library.",
-          "date": "2026-09-17T06:08:13Z",
+          "from": "Football Ticket Net",
+          "subject": "25 Days To Go — Back At The New Spotify Camp Nou",
+          "snippet": "This El Clásico is different — will you be there live?",
+          "date": "2026-09-30T09:56:50Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0adfadc4dec807"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0f1bfc5bd57d1c"
+        },
+        {
+          "from": "UEL Credit Control",
+          "subject": "Student no 3254715 - Tuition Important Notice",
+          "snippet": "Our records show the following tuition account balance(s) are outstanding and now overdue.",
+          "date": "2026-09-30T08:13:26Z",
+          "unread": false,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0f1602f033d166"
+        },
+        {
+          "from": "Claude",
+          "subject": "Introducing Claude Sonnet 5.5",
+          "snippet": "A clear upgrade over Sonnet 5 that runs 30%+ faster and costs up to 30% less for most work.",
+          "date": "2026-09-29T15:46:53Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0edd8f7421e080"
         }
       ]
     },

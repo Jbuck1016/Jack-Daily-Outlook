@@ -1,57 +1,53 @@
 {
-  "dateLabel": "Friday, September 18",
-  "updatedLabel": "Fri Sep 18, 12:14 AM PT",
+  "dateLabel": "Thursday · October 1",
+  "updatedLabel": "Thu Oct 01, 12:08 AM PT",
   "today": [
     {
-      "time": "All day",
-      "title": "Lilia show",
-      "accent": "span"
+      "time": "11:00 AM",
+      "title": "SAS / LAFC — Thursday Hands On Call",
+      "loc": "Microsoft Teams"
     },
     {
-      "time": "All day",
-      "title": "Greg in LA",
-      "accent": "span"
+      "time": "1:00 PM",
+      "title": "Therapy"
     },
     {
-      "time": "8:00 AM",
-      "title": "Zoom w Darren"
+      "time": "3:00 PM",
+      "title": "Mike x Jackson Monthly 1on1"
+    },
+    {
+      "time": "6:00 PM",
+      "title": "Drinks w Conor",
+      "accent": "eve"
     }
   ],
-  "todayNote": "Last day of the Lilia show, and Greg's in town through Sunday. Light personal day — just the 8 AM Zoom with Darren — with AI Hour at 10 on the work side. Weekend ahead: brunch and ALBa Saturday (LAFC @ San Jose, 4:30 PM), dinner with Mom Sunday.",
+  "todayNote": "Two work calls bookending the day, then drinks with Conor in the evening.",
   "week": [
     {
-      "day": "Sat · Sep 19",
+      "day": "Fri · Oct 2",
       "items": [
         {
-          "time": "All day",
-          "title": "Greg in LA"
-        },
-        {
-          "time": "12:30 PM",
-          "title": "Brunch at Madre Oaxacan"
-        },
-        {
-          "time": "4:00 PM",
-          "title": "ALBa"
+          "time": "10:00 AM",
+          "title": "AI Hour"
         }
       ]
     },
     {
-      "day": "Sun · Sep 20",
+      "day": "Sat · Oct 3",
+      "items": []
+    },
+    {
+      "day": "Sun · Oct 4",
       "items": [
         {
           "time": "All day",
-          "title": "Greg in LA"
-        },
-        {
-          "time": "7:00 PM",
-          "title": "Dinner with Mom"
+          "title": "Young thug"
         }
       ]
     }
   ],
   "tasks": {
-    "pillText": "2 due today · 0 overdue",
+    "pillText": "2 due today",
     "pillWarn": false,
     "overdue": [],
     "recurring": [
@@ -70,80 +66,63 @@
   "followups": [
     {
       "dot": "red",
-      "url": "https://mail.google.com/mail/u/0/#inbox/1a0a126b8189a003",
-      "title": "Daily Job Search workflow failed",
-      "meta": "GitHub Actions · Sep 14"
+      "url": "https://mail.google.com/mail/u/0/#inbox/1a0f1602f033d166",
+      "title": "UEL tuition balance overdue",
+      "meta": "Credit control notice · Sep 30"
     },
     {
       "dot": "amber",
-      "url": "https://mail.google.com/mail/u/0/#inbox/1a0b0d38ce1f3c98",
-      "title": "RSVP to Lily Annenberg's Bat Mitzvah",
-      "meta": "Paperless Post · due Oct 1"
-    },
-    {
-      "dot": "amber",
-      "url": "https://mail.google.com/mail/u/0/#inbox/1a09610850408935",
-      "title": "Jane — flight check-in & trip confirmations",
-      "meta": "Trendera · Sep 12"
+      "url": "https://mail.google.com/mail/u/0/#inbox/1a0cf957bd229e34",
+      "title": "Lily Annenberg's Bat Mitzvah",
+      "meta": "RSVP confirmed · upcoming"
     }
   ],
   "inbox": {
-    "unread": 54,
+    "unread": 46,
     "items": [
       {
-        "dot": "amber",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a0b0d38ce1f3c98",
-        "title": "RSVP reminder: Lily Annenberg's Bat Mitzvah",
-        "tag": "EVENT",
-        "meta": "Paperless Post · Sep 17"
-      },
-      {
-        "dot": "amber",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a09610850408935",
-        "title": "Fwd: It's time to check in — JHZXDM",
-        "meta": "Jane · Sep 12"
-      },
-      {
         "dot": "red",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a0a126b8189a003",
-        "title": "Run failed: Daily Job Search",
-        "meta": "GitHub · Sep 14"
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a0f1602f033d166",
+        "title": "UEL — Tuition Important Notice",
+        "meta": "Credit Control · Sep 30"
+      },
+      {
+        "dot": "amber",
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a0cf957bd229e34",
+        "title": "Lily Annenberg's Bat Mitzvah",
+        "tag": "EVENT",
+        "meta": "Confirmed · Sep 23"
       },
       {
         "dot": "faint",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a0b2efc824ff811",
-        "title": "Microsoft Corporation — $44.99",
-        "meta": "PayPal · Sep 18"
-      },
-      {
-        "dot": "faint",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a0adfadc4dec807",
-        "title": "Amazon order of Knives Out",
-        "meta": "Amazon · Sep 17"
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a0f3c613b15eecc",
+        "title": "LA Kings Sports Career Fair (Oct 13)",
+        "tag": "EVENT",
+        "meta": "TeamWork Online · Sep 30"
       }
     ],
-    "note": "~54 unread in the last 14 days — mostly soccer/scouting newsletters, career-fair invites, and receipts."
+    "note": "Inbox is mostly newsletters and promos right now — the two flagged items are the ones worth a look."
   },
   "drive": [
     {
-      "url": "https://drive.google.com/file/d/157z7u08hySTgvOhW1q-gkRX1VP6P1SWV/view?usp=drivesdk",
-      "title": "2026 UPR Campaign",
-      "meta": "Sheet · modified Sep 15"
+      "url": "https://docs.google.com/document/d/169ke9bnsVAz6Y6Z592kvRgIipMgcC3XR4oOPbPd2jv8/edit",
+      "title": "KBYG - Iron Maiden 9.25.26 & 9.27.26",
+      "meta": "Shared by ginny.sze · Sep 24"
     },
     {
-      "url": "https://docs.google.com/document/d/1B8ZIHYX437nyrCi8KCIPxpinfPzSEKrCqkMNl69yuUA/edit?usp=drivesdk",
-      "title": "CWRK1 — LA Galaxy Strategic Recommendations",
-      "meta": "Doc · Aug 26"
+      "url": "https://docs.google.com/document/d/1AjQHwYh_6w7HHmGVRLggi0hcLx2mAZZzEyoAEIZpk2s/edit",
+      "title": "CW1_LA_Galaxy_Data_Reference",
+      "meta": "Edited Sep 18"
     },
     {
-      "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit?usp=drivesdk",
-      "title": "UD7016 — High Performance Environments (Group Presentation)",
-      "meta": "Doc · Aug 26"
+      "url": "https://docs.google.com/document/d/1B8ZIHYX437nyrCi8KCIPxpinfPzSEKrCqkMNl69yuUA/edit",
+      "title": "CWRK1_LA_Galaxy_Strategic_Recommendations",
+      "meta": "Edited Aug 26"
     },
     {
-      "url": "https://docs.google.com/document/d/1eQGVfXo_tL0K2HVmJmBJNelXA5tdMxfI_zD9vvLSq_M/edit?usp=drivesdk",
+      "url": "https://docs.google.com/document/d/1eQGVfXo_tL0K2HVmJmBJNelXA5tdMxfI_zD9vvLSq_M/edit",
       "title": "MLS 2026 Analytics — Site Walkthrough Script",
-      "meta": "Doc · Aug 20"
+      "meta": "Edited Aug 20"
     }
   ]
 }

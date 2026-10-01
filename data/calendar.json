@@ -1,5 +1,5 @@
 {
-  "updatedLabel": "Fri Sep 18, 12:14 AM PT",
+  "updatedLabel": "Thu Oct 01, 12:08 AM PT",
   "sources": [
     {
       "key": "personal",
@@ -19,271 +19,19 @@
   ],
   "days": [
     {
-      "label": "Fri · Sep 18",
+      "label": "Thu · Oct 1",
       "today": true,
       "events": [
         {
-          "time": "All day",
-          "title": "Lilia show",
-          "src": "personal"
-        },
-        {
-          "time": "All day",
-          "title": "Greg in LA",
-          "src": "personal"
-        },
-        {
-          "time": "8:00 AM",
-          "title": "Zoom w Darren",
-          "src": "personal"
-        },
-        {
-          "time": "10:00 AM",
-          "title": "AI Hour",
-          "src": "lafc-work"
-        }
-      ]
-    },
-    {
-      "label": "Sat · Sep 19",
-      "events": [
-        {
-          "time": "All day",
-          "title": "Greg in LA",
-          "src": "personal"
-        },
-        {
-          "time": "12:30 PM",
-          "title": "Brunch at Madre Oaxacan",
-          "loc": "801 N Fairfax Ave",
-          "src": "personal"
-        },
-        {
-          "time": "4:00 PM",
-          "title": "ALBa",
-          "src": "personal"
-        },
-        {
-          "time": "4:30 PM",
-          "title": "⚽ LAFC @ San Jose Earthquakes",
-          "loc": "Levi's Stadium",
-          "src": "lafc-match"
-        }
-      ]
-    },
-    {
-      "label": "Sun · Sep 20",
-      "events": [
-        {
-          "time": "All day",
-          "title": "Greg in LA",
-          "src": "personal"
-        },
-        {
-          "time": "7:00 PM",
-          "title": "Dinner with Mom",
-          "src": "personal"
-        }
-      ]
-    },
-    {
-      "label": "Mon · Sep 21",
-      "events": [
-        {
-          "time": "10:00 AM",
-          "title": "Class",
-          "src": "personal"
-        },
-        {
           "time": "11:00 AM",
-          "title": "CP Sales Weekly",
-          "src": "lafc-work"
-        },
-        {
-          "time": "12:30 PM",
-          "title": "Nate x Jack 1on1 re: CP Outreach",
-          "src": "lafc-work"
-        },
-        {
-          "time": "1:45 PM",
-          "title": "Jackson Weekly Check In",
-          "src": "lafc-work"
-        },
-        {
-          "time": "2:00 PM",
-          "title": "Call w Erika",
-          "src": "personal"
-        }
-      ]
-    },
-    {
-      "label": "Tue · Sep 22",
-      "events": [
-        {
-          "time": "11:00 AM",
-          "title": "Haircut",
-          "loc": "Mèche",
-          "src": "personal"
-        },
-        {
-          "time": "2:30 PM",
-          "title": "Removery appointment",
-          "loc": "Beverly Grove",
-          "src": "personal"
-        },
-        {
-          "time": "7:00 PM",
-          "title": "Dinner w Claire",
-          "src": "personal"
-        }
-      ]
-    },
-    {
-      "label": "Wed · Sep 23",
-      "events": [
-        {
-          "time": "10:00 AM",
-          "title": "SAS/LAFC | Weekly Status Sync - New",
+          "title": "SAS / LAFC — Thursday Hands On Call",
+          "loc": "Microsoft Teams",
           "src": "lafc-work"
         },
         {
           "time": "1:00 PM",
-          "title": "Stedman clinic",
+          "title": "Therapy",
           "src": "personal"
-        }
-      ]
-    },
-    {
-      "label": "Thu · Sep 24",
-      "events": [
-        {
-          "time": "11:00 AM",
-          "title": "SAS / LAFC - Thursday Hands On Call - New",
-          "src": "lafc-work"
-        },
-        {
-          "time": "3:30 PM",
-          "title": "Dr Dugar",
-          "src": "personal"
-        },
-        {
-          "time": "5:32 PM",
-          "title": "Flight to Dallas/Fort Worth (AA 1322)",
-          "loc": "Denver DEN",
-          "src": "personal"
-        }
-      ]
-    },
-    {
-      "label": "Fri · Sep 25",
-      "events": [
-        {
-          "time": "10:00 AM",
-          "title": "AI Hour",
-          "src": "lafc-work"
-        },
-        {
-          "time": "11:00 PM",
-          "title": "Potential Dallas",
-          "src": "personal"
-        }
-      ]
-    },
-    {
-      "label": "Sat · Sep 26",
-      "events": [
-        {
-          "time": "5:30 PM",
-          "title": "⚽ LAFC @ FC Dallas",
-          "loc": "Toyota Stadium",
-          "src": "lafc-match"
-        }
-      ]
-    },
-    {
-      "label": "Sun · Sep 27",
-      "events": [
-        {
-          "time": "9:44 AM",
-          "title": "Flight to Los Angeles (AA 442)",
-          "loc": "Dallas/Fort Worth DFW",
-          "src": "personal"
-        }
-      ]
-    },
-    {
-      "label": "Mon · Sep 28",
-      "events": [
-        {
-          "time": "8:00 AM",
-          "title": "Teeth cleaning",
-          "src": "personal"
-        },
-        {
-          "time": "10:00 AM",
-          "title": "Class",
-          "src": "personal"
-        },
-        {
-          "time": "11:00 AM",
-          "title": "CP Sales Weekly",
-          "src": "lafc-work"
-        },
-        {
-          "time": "12:30 PM",
-          "title": "Nate x Jack 1on1 re: CP Outreach",
-          "src": "lafc-work"
-        },
-        {
-          "time": "1:15 PM",
-          "title": "Jack x Jack(son) 1on1",
-          "src": "lafc-work"
-        },
-        {
-          "time": "1:45 PM",
-          "title": "Jackson Weekly Check In",
-          "src": "lafc-work"
-        }
-      ]
-    },
-    {
-      "label": "Tue · Sep 29",
-      "events": [
-        {
-          "time": "12:30 AM",
-          "title": "TGG Live 2026",
-          "loc": "Old Trafford",
-          "src": "personal"
-        },
-        {
-          "time": "8:15 AM",
-          "title": "BDS Bi-Weekly",
-          "src": "lafc-work"
-        },
-        {
-          "time": "11:00 AM",
-          "title": "CP Weekly/Summize Training (MANDATORY)",
-          "src": "lafc-work"
-        }
-      ]
-    },
-    {
-      "label": "Wed · Sep 30",
-      "events": [
-        {
-          "time": "10:00 AM",
-          "title": "SAS/LAFC | Weekly Status Sync - New",
-          "src": "lafc-work"
-        }
-      ]
-    },
-    {
-      "label": "Thu · Oct 1",
-      "events": [
-        {
-          "time": "11:00 AM",
-          "title": "SAS / LAFC - Thursday Hands On Call - New",
-          "src": "lafc-work"
         },
         {
           "time": "3:00 PM",
@@ -304,6 +52,177 @@
           "time": "10:00 AM",
           "title": "AI Hour",
           "src": "lafc-work"
+        }
+      ]
+    },
+    {
+      "label": "Sun · Oct 4",
+      "events": [
+        {
+          "time": "All day",
+          "title": "Young thug",
+          "src": "personal"
+        }
+      ]
+    },
+    {
+      "label": "Mon · Oct 5",
+      "events": [
+        {
+          "time": "10:00 AM",
+          "title": "Class",
+          "src": "personal"
+        },
+        {
+          "time": "11:00 AM",
+          "title": "CP Sales Weekly",
+          "loc": "Zoom",
+          "src": "lafc-work"
+        },
+        {
+          "time": "1:45 PM",
+          "title": "Jackson Weekly Check In",
+          "src": "lafc-work"
+        }
+      ]
+    },
+    {
+      "label": "Tue · Oct 6",
+      "events": [
+        {
+          "time": "11:00 AM",
+          "title": "CP Weekly (Partner Payment Review with Finance)",
+          "loc": "Zoom",
+          "src": "lafc-work"
+        }
+      ]
+    },
+    {
+      "label": "Wed · Oct 7",
+      "events": [
+        {
+          "time": "10:00 AM",
+          "title": "SAS/LAFC — Weekly Status Sync",
+          "loc": "Microsoft Teams",
+          "src": "lafc-work"
+        },
+        {
+          "time": "11:30 AM",
+          "title": "Teeth whitening",
+          "src": "personal"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Drinks w Noah",
+          "loc": "Jameson's Pub, Culver City",
+          "src": "personal"
+        }
+      ]
+    },
+    {
+      "label": "Thu · Oct 8",
+      "events": [
+        {
+          "time": "11:00 AM",
+          "title": "SAS / LAFC — Thursday Hands On Call",
+          "loc": "Microsoft Teams",
+          "src": "lafc-work"
+        }
+      ]
+    },
+    {
+      "label": "Fri · Oct 9",
+      "events": [
+        {
+          "time": "10:00 AM",
+          "title": "AI Hour",
+          "src": "lafc-work"
+        }
+      ]
+    },
+    {
+      "label": "Sat · Oct 10",
+      "events": [
+        {
+          "time": "7:30 PM",
+          "title": "⚽ LAFC vs. Vancouver Whitecaps",
+          "loc": "BMO Stadium",
+          "src": "lafc-match"
+        }
+      ]
+    },
+    {
+      "label": "Mon · Oct 12",
+      "events": [
+        {
+          "time": "10:00 AM",
+          "title": "Class",
+          "src": "personal"
+        },
+        {
+          "time": "12:30 PM",
+          "title": "Nate x Jack 1on1 re: CP Outreach",
+          "src": "lafc-work"
+        },
+        {
+          "time": "1:15 PM",
+          "title": "Jack x Jack(son) 1on1",
+          "src": "lafc-work"
+        },
+        {
+          "time": "1:45 PM",
+          "title": "Jackson Weekly Check In",
+          "src": "lafc-work"
+        }
+      ]
+    },
+    {
+      "label": "Tue · Oct 13",
+      "events": [
+        {
+          "time": "9:30 AM",
+          "title": "CP Sales Weekly",
+          "loc": "Zoom",
+          "src": "lafc-work"
+        },
+        {
+          "time": "11:00 AM",
+          "title": "CP Weekly / Summize Training (MANDATORY)",
+          "loc": "Zoom",
+          "src": "lafc-work"
+        }
+      ]
+    },
+    {
+      "label": "Wed · Oct 14",
+      "events": [
+        {
+          "time": "3:00 PM",
+          "title": "Laser hair",
+          "loc": "Grossman Dermatology, Santa Monica",
+          "src": "personal"
+        },
+        {
+          "time": "7:30 PM",
+          "title": "⚽ LAFC vs. Austin FC",
+          "loc": "BMO Stadium",
+          "src": "lafc-match"
+        }
+      ]
+    },
+    {
+      "label": "Thu · Oct 15",
+      "events": [
+        {
+          "time": "11:00 AM",
+          "title": "SAS / LAFC — Thursday Hands On Call",
+          "loc": "Microsoft Teams",
+          "src": "lafc-work"
+        },
+        {
+          "time": "12:30 PM",
+          "title": "Treyzon",
+          "src": "personal"
         }
       ]
     }
