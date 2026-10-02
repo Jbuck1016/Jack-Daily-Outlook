@@ -1,37 +1,14 @@
 {
-  "dateLabel": "Thursday · October 1",
-  "updatedLabel": "Thu Oct 01, 12:08 AM PT",
+  "dateLabel": "Friday · October 2",
+  "updatedLabel": "Fri Oct 02, 12:10 AM PT",
   "today": [
     {
-      "time": "11:00 AM",
-      "title": "SAS / LAFC — Thursday Hands On Call",
-      "loc": "Microsoft Teams"
-    },
-    {
-      "time": "1:00 PM",
-      "title": "Therapy"
-    },
-    {
-      "time": "3:00 PM",
-      "title": "Mike x Jackson Monthly 1on1"
-    },
-    {
-      "time": "6:00 PM",
-      "title": "Drinks w Conor",
-      "accent": "eve"
+      "time": "10:00 AM",
+      "title": "AI Hour"
     }
   ],
-  "todayNote": "Two work calls bookending the day, then drinks with Conor in the evening.",
+  "todayNote": "Just AI Hour at 10 — nothing personal on the calendar today, so the rest of the day is yours.",
   "week": [
-    {
-      "day": "Fri · Oct 2",
-      "items": [
-        {
-          "time": "10:00 AM",
-          "title": "AI Hour"
-        }
-      ]
-    },
     {
       "day": "Sat · Oct 3",
       "items": []
@@ -65,27 +42,21 @@
   },
   "followups": [
     {
-      "dot": "red",
-      "url": "https://mail.google.com/mail/u/0/#inbox/1a0f1602f033d166",
-      "title": "UEL tuition balance overdue",
-      "meta": "Credit control notice · Sep 30"
-    },
-    {
       "dot": "amber",
       "url": "https://mail.google.com/mail/u/0/#inbox/1a0cf957bd229e34",
       "title": "Lily Annenberg's Bat Mitzvah",
       "meta": "RSVP confirmed · upcoming"
+    },
+    {
+      "dot": "amber",
+      "url": "https://mail.google.com/mail/u/0/#inbox/1a0e9981e594da75",
+      "title": "Metrica Sports subscription",
+      "meta": "2nd vendor follow-up · decide on upgrade"
     }
   ],
   "inbox": {
-    "unread": 46,
+    "unread": 49,
     "items": [
-      {
-        "dot": "red",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a0f1602f033d166",
-        "title": "UEL — Tuition Important Notice",
-        "meta": "Credit Control · Sep 30"
-      },
       {
         "dot": "amber",
         "url": "https://mail.google.com/mail/u/0/#inbox/1a0cf957bd229e34",
@@ -94,14 +65,21 @@
         "meta": "Confirmed · Sep 23"
       },
       {
-        "dot": "faint",
+        "dot": "amber",
         "url": "https://mail.google.com/mail/u/0/#inbox/1a0f3c613b15eecc",
         "title": "LA Kings Sports Career Fair (Oct 13)",
         "tag": "EVENT",
         "meta": "TeamWork Online · Sep 30"
+      },
+      {
+        "dot": "faint",
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a0e9981e594da75",
+        "title": "Metrica Sports subscription",
+        "tag": "REPLY",
+        "meta": "2nd follow-up · Sep 28"
       }
     ],
-    "note": "Inbox is mostly newsletters and promos right now — the two flagged items are the ones worth a look."
+    "note": "Inbox is almost all newsletters and promos right now — the flagged items are the ones worth a look."
   },
   "drive": [
     {
@@ -115,14 +93,14 @@
       "meta": "Edited Sep 18"
     },
     {
+      "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit",
+      "title": "UD7016 - High Performance Environments - Group Presentation",
+      "meta": "Shared · Aug 26"
+    },
+    {
       "url": "https://docs.google.com/document/d/1B8ZIHYX437nyrCi8KCIPxpinfPzSEKrCqkMNl69yuUA/edit",
       "title": "CWRK1_LA_Galaxy_Strategic_Recommendations",
       "meta": "Edited Aug 26"
-    },
-    {
-      "url": "https://docs.google.com/document/d/1eQGVfXo_tL0K2HVmJmBJNelXA5tdMxfI_zD9vvLSq_M/edit",
-      "title": "MLS 2026 Analytics — Site Walkthrough Script",
-      "meta": "Edited Aug 20"
     }
   ]
 }

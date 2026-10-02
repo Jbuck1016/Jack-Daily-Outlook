@@ -1,5 +1,5 @@
 {
-  "updatedLabel": "Thu Oct 01, 12:08 AM PT",
+  "updatedLabel": "Fri Oct 02, 12:10 AM PT",
   "sources": [
     {
       "key": "personal",
@@ -19,34 +19,8 @@
   ],
   "days": [
     {
-      "label": "Thu · Oct 1",
-      "today": true,
-      "events": [
-        {
-          "time": "11:00 AM",
-          "title": "SAS / LAFC — Thursday Hands On Call",
-          "loc": "Microsoft Teams",
-          "src": "lafc-work"
-        },
-        {
-          "time": "1:00 PM",
-          "title": "Therapy",
-          "src": "personal"
-        },
-        {
-          "time": "3:00 PM",
-          "title": "Mike x Jackson Monthly 1on1",
-          "src": "lafc-work"
-        },
-        {
-          "time": "6:00 PM",
-          "title": "Drinks w Conor",
-          "src": "personal"
-        }
-      ]
-    },
-    {
       "label": "Fri · Oct 2",
+      "today": true,
       "events": [
         {
           "time": "10:00 AM",
@@ -112,6 +86,11 @@
           "src": "personal"
         },
         {
+          "time": "4:00 PM",
+          "title": "Therapy",
+          "src": "personal"
+        },
+        {
           "time": "6:00 PM",
           "title": "Drinks w Noah",
           "loc": "Jameson's Pub, Culver City",
@@ -126,6 +105,11 @@
           "time": "11:00 AM",
           "title": "SAS / LAFC — Thursday Hands On Call",
           "loc": "Microsoft Teams",
+          "src": "lafc-work"
+        },
+        {
+          "time": "3:00 PM",
+          "title": "Mike x Jackson Monthly 1on1",
           "src": "lafc-work"
         }
       ]
@@ -160,11 +144,6 @@
           "src": "personal"
         },
         {
-          "time": "12:30 PM",
-          "title": "Nate x Jack 1on1 re: CP Outreach",
-          "src": "lafc-work"
-        },
-        {
           "time": "1:15 PM",
           "title": "Jack x Jack(son) 1on1",
           "src": "lafc-work"
@@ -197,6 +176,11 @@
       "label": "Wed · Oct 14",
       "events": [
         {
+          "time": "11:30 AM",
+          "title": "Nate x Jack 1on1 re: CP Outreach",
+          "src": "lafc-work"
+        },
+        {
           "time": "3:00 PM",
           "title": "Laser hair",
           "loc": "Grossman Dermatology, Santa Monica",
@@ -214,15 +198,19 @@
       "label": "Thu · Oct 15",
       "events": [
         {
-          "time": "11:00 AM",
-          "title": "SAS / LAFC — Thursday Hands On Call",
-          "loc": "Microsoft Teams",
-          "src": "lafc-work"
-        },
-        {
           "time": "12:30 PM",
           "title": "Treyzon",
           "src": "personal"
+        }
+      ]
+    },
+    {
+      "label": "Fri · Oct 16",
+      "events": [
+        {
+          "time": "10:00 AM",
+          "title": "AI Hour",
+          "src": "lafc-work"
         }
       ]
     }
