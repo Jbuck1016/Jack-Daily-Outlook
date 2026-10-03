@@ -5,87 +5,89 @@
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-10-02T07:10:00Z",
+      "updated": "2026-10-03T07:08:00Z",
       "emails": [
         {
-          "from": "Resend",
-          "subject": "Early access, new integrations, and more",
-          "snippet": "Use Resend in different ways via new interfaces.",
-          "date": "2026-10-02T05:34:16Z",
+          "from": "Paperless Post",
+          "subject": "Lily's Bat Mitzvah Celebration Invite",
+          "snippet": "For: Jack Buckingham. Greeting card — Lily's Bat Mitzvah. Saturday, November 14, 8:30 PM to Sunday, November 15, 2:00 AM PST.",
+          "date": "2026-10-03T02:12:05Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0fb1b2b974be43"
+          "tag": "Important",
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0ff886d831e1c8"
         },
         {
-          "from": "Audible",
-          "subject": "Jack, $0.99/mo + a $20 credit awaits!",
-          "snippet": "Save over 80% and get a $20 Audible credit.",
-          "date": "2026-10-01T19:47:46Z",
+          "from": "Nest",
+          "subject": "Potentially urgent cooling system issue at Arden • Jack room",
+          "snippet": "When the A/C was on between 10:38 AM and 1:19 PM on October 2, your home got 9°F warmer — higher than expected for the weather.",
+          "date": "2026-10-02T20:34:15Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0f90234a84230b"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0fe53200a44a71"
+        },
+        {
+          "from": "Google",
+          "subject": "Security alert",
+          "snippet": "New passkey added to your account. If you didn't add a passkey, someone might be using your account — check and secure it.",
+          "date": "2026-10-02T19:30:13Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0fdb7e9fa829fa"
         },
         {
           "from": "Jack Buckingham",
-          "subject": "26 new jobs, 3 posted today — Oct 01",
-          "snippet": "Soccer & Betting Jobs daily digest · 26 new · 1 posted today.",
-          "date": "2026-10-01T18:41:33Z",
+          "subject": "⚽🎰 30 new jobs — Oct 02",
+          "snippet": "Soccer & Betting Jobs daily digest · 30 new · 0 still open.",
+          "date": "2026-10-02T18:12:28Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0f8c595aac2ba6"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0fdd153bbe403e"
         },
         {
           "from": "Arsenal Football Club",
           "subject": "One new job matching your profile",
-          "snippet": "Technical Services Analyst — Technology, Data and Analytics · Highbury House · Onsite.",
-          "date": "2026-10-01T17:15:45Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0f8770afebf08e"
-        },
-        {
-          "from": "Miles & More",
-          "subject": "Pack Your Bags: 70,000 Welcome Miles Are Waiting",
-          "snippet": "Pre-qualify for the Miles & More card with no impact to your credit score.",
-          "date": "2026-10-01T15:16:48Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0f80a24f6ed794"
-        },
-        {
-          "from": "Jack Buckingham",
-          "subject": "Morning brief — Thursday 1 Oct",
-          "snippet": "One call at 11, Jack, and the rest of the day answers to you.",
-          "date": "2026-10-01T15:13:43Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0f8074c6f9889a"
-        },
-        {
-          "from": "Simon Austin (TGG)",
-          "subject": "Thank you for coming to TGG Live '26",
-          "snippet": "Thank you for being part of it.",
-          "date": "2026-10-01T15:11:52Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0f805a7f7a2435"
+          "snippet": "Casual Facilities Coordinator — Operations · Emirates Stadium.",
+          "date": "2026-10-02T15:53:42Z",
+          "unread": false,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0fd52480a35860"
         },
         {
           "from": "The Transfer Flow",
-          "subject": "The Florian Wirtz dilemma",
-          "snippet": "Can Liverpool still get the best out of their expensive attacking midfielder?",
-          "date": "2026-10-01T14:26:50Z",
+          "subject": "5 under-21 breakout stars you need to know from Europe's top leagues",
+          "snippet": "And a couple of fun honorable mentions.",
+          "date": "2026-10-02T15:30:51Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0f7dc658221b89"
+          "tag": "Important",
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0fd3d5b56acd0d"
         },
         {
-          "from": "UCLA Health",
-          "subject": "The importance of cancer screening",
-          "snippet": "Plus, a new tool makes leading neuroscience research easier to explore.",
-          "date": "2026-09-30T21:34:30Z",
+          "from": "Football Ticket Net",
+          "subject": "Choose Your Halloween Top Clash",
+          "snippet": "Der Klassiker in Munich or the Milan derby at San Siro.",
+          "date": "2026-10-02T15:28:52Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0f441f030a4ba4"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0fd3e5e5817648"
         },
         {
-          "from": "TeamWork Online",
-          "subject": "OPEN JOBS: LA Kings Sports & Entertainment Career Fair",
-          "snippet": "Looking to work in sports in Los Angeles? Come impress employers on October 13th.",
-          "date": "2026-09-30T19:23:58Z",
+          "from": "Jack Buckingham",
+          "subject": "Morning brief — Friday 2 Oct",
+          "snippet": "One hour at ten, Jack, and the rest of the day is yours.",
+          "date": "2026-10-02T15:15:20Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0f3c613b15eecc"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0fd2f25dcc3b0c"
+        },
+        {
+          "from": "Barça Innovation Hub",
+          "subject": "Masterclass: Trademarks and Image Rights in the Sports Industry",
+          "snippet": "Masterclass [CE] — Announcements. Trademarks and image rights in the sports industry (English).",
+          "date": "2026-10-02T13:45:02Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0fcdc7c65e10a6"
+        },
+        {
+          "from": "Training Ground Guru",
+          "subject": "Monday: Identifying tactical formations, live with Dr Hadi Sotudeh",
+          "snippet": "A Masterclass coming up Monday 5 October — turning raw positional data into tactical formations.",
+          "date": "2026-10-02T10:35:21Z",
+          "unread": false,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a0fc2f6431953df"
         }
       ]
     },

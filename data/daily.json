@@ -1,18 +1,9 @@
 {
-  "dateLabel": "Friday · October 2",
-  "updatedLabel": "Fri Oct 02, 12:10 AM PT",
-  "today": [
-    {
-      "time": "10:00 AM",
-      "title": "AI Hour"
-    }
-  ],
-  "todayNote": "Just AI Hour at 10 — nothing personal on the calendar today, so the rest of the day is yours.",
+  "dateLabel": "Saturday · October 3",
+  "updatedLabel": "Sat Oct 03, 12:04 AM PT",
+  "today": [],
+  "todayNote": "Clear today — nothing on your personal calendar. First commitment is Sunday, then a full slate kicks off Monday.",
   "week": [
-    {
-      "day": "Sat · Oct 3",
-      "items": []
-    },
     {
       "day": "Sun · Oct 4",
       "items": [
@@ -24,7 +15,7 @@
     }
   ],
   "tasks": {
-    "pillText": "2 due today",
+    "pillText": "0 overdue · 2 recurring",
     "pillWarn": false,
     "overdue": [],
     "recurring": [
@@ -42,65 +33,76 @@
   },
   "followups": [
     {
-      "dot": "amber",
-      "url": "https://mail.google.com/mail/u/0/#inbox/1a0cf957bd229e34",
-      "title": "Lily Annenberg's Bat Mitzvah",
-      "meta": "RSVP confirmed · upcoming"
+      "dot": "red",
+      "url": "https://mail.google.com/mail/u/0/#inbox/1a0fe53200a44a71",
+      "title": "Nest: A/C cooling issue — Arden · Jack room",
+      "meta": "Flagged potentially urgent · Oct 2"
     },
     {
       "dot": "amber",
-      "url": "https://mail.google.com/mail/u/0/#inbox/1a0e9981e594da75",
-      "title": "Metrica Sports subscription",
-      "meta": "2nd vendor follow-up · decide on upgrade"
+      "url": "https://mail.google.com/mail/u/0/#inbox/1a0ff886d831e1c8",
+      "title": "Lily's Bat Mitzvah — celebration invite",
+      "meta": "Event Nov 14 · respond to invite"
+    },
+    {
+      "dot": "amber",
+      "url": "https://mail.google.com/mail/u/0/#inbox/1a0eaf826cdd528c",
+      "title": "Dr. Meszaros (Wilshire IM)",
+      "meta": "Waiting on her reply to confirm 11:30 appt"
     }
   ],
   "inbox": {
-    "unread": 49,
+    "unread": 55,
     "items": [
       {
-        "dot": "amber",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a0cf957bd229e34",
-        "title": "Lily Annenberg's Bat Mitzvah",
-        "tag": "EVENT",
-        "meta": "Confirmed · Sep 23"
+        "dot": "red",
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a0fe53200a44a71",
+        "title": "Potentially urgent cooling system issue at Arden",
+        "meta": "Nest · Oct 2"
       },
       {
         "dot": "amber",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a0f3c613b15eecc",
-        "title": "LA Kings Sports Career Fair (Oct 13)",
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a0ff886d831e1c8",
+        "title": "Lily's Bat Mitzvah Celebration Invite",
         "tag": "EVENT",
-        "meta": "TeamWork Online · Sep 30"
+        "meta": "Paperless Post · Oct 3"
+      },
+      {
+        "dot": "amber",
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a0eaf826cdd528c",
+        "title": "Appointment — Dr. Meszaros",
+        "tag": "REPLY",
+        "meta": "Wilshire IM · reply pending"
       },
       {
         "dot": "faint",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a0e9981e594da75",
-        "title": "Metrica Sports subscription",
-        "tag": "REPLY",
-        "meta": "2nd follow-up · Sep 28"
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a0fb7410e545fcb",
+        "title": "Fly.io — 100% discount this month",
+        "meta": "Billing · Oct 2"
       }
     ],
-    "note": "Inbox is almost all newsletters and promos right now — the flagged items are the ones worth a look."
+    "note": "55 unread in the last 14 days, almost all newsletters, job alerts and promos. The items above are the ones worth a look."
   },
   "drive": [
     {
+      "url": "https://docs.google.com/spreadsheets/d/1G6mlVASSfOmiATtbrtLaVa2PqXGdvPKaKyOprvKPpvY/edit",
+      "title": "Jack Budget — Spending & Income",
+      "meta": "Sheet · edited Oct 3"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1LFUkclz5qOcMaWzaEs4Ga3OimfRQC29ENuAAvOnZcoQ/edit",
+      "title": "Expenses Dad Should Have Paid",
+      "meta": "Sheet · edited Oct 2"
+    },
+    {
       "url": "https://docs.google.com/document/d/169ke9bnsVAz6Y6Z592kvRgIipMgcC3XR4oOPbPd2jv8/edit",
-      "title": "KBYG - Iron Maiden 9.25.26 & 9.27.26",
-      "meta": "Shared by ginny.sze · Sep 24"
+      "title": "KBYG — Iron Maiden 9.25.26 & 9.27.26",
+      "meta": "Doc · shared by Ginny Sze (LAFC)"
     },
     {
-      "url": "https://docs.google.com/document/d/1AjQHwYh_6w7HHmGVRLggi0hcLx2mAZZzEyoAEIZpk2s/edit",
-      "title": "CW1_LA_Galaxy_Data_Reference",
-      "meta": "Edited Sep 18"
-    },
-    {
-      "url": "https://docs.google.com/document/d/1XJLSnMJ5TzLgvLM06Jsp_Zf39VkqZylcujMzlbDHc1g/edit",
-      "title": "UD7016 - High Performance Environments - Group Presentation",
-      "meta": "Shared · Aug 26"
-    },
-    {
-      "url": "https://docs.google.com/document/d/1B8ZIHYX437nyrCi8KCIPxpinfPzSEKrCqkMNl69yuUA/edit",
-      "title": "CWRK1_LA_Galaxy_Strategic_Recommendations",
-      "meta": "Edited Aug 26"
+      "url": "https://drive.google.com/file/d/1GCAtZ8r6elIaGT3uu8MrUKniOJ9sWc6k/view",
+      "title": "Receipt (scanned PDF)",
+      "meta": "PDF · uploaded Oct 2"
     }
   ]
 }

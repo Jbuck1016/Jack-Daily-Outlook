@@ -1,5 +1,5 @@
 {
-  "updatedLabel": "Fri Oct 02, 12:10 AM PT",
+  "updatedLabel": "Sat Oct 03, 12:04 AM PT",
   "sources": [
     {
       "key": "personal",
@@ -19,17 +19,6 @@
   ],
   "days": [
     {
-      "label": "Fri · Oct 2",
-      "today": true,
-      "events": [
-        {
-          "time": "10:00 AM",
-          "title": "AI Hour",
-          "src": "lafc-work"
-        }
-      ]
-    },
-    {
       "label": "Sun · Oct 4",
       "events": [
         {
@@ -42,6 +31,12 @@
     {
       "label": "Mon · Oct 5",
       "events": [
+        {
+          "time": "3:00 AM",
+          "title": "Identifying & Understanding Tactical Formations (Dr Hadi Sotudeh)",
+          "loc": "Zoom · 11:00 AM London",
+          "src": "personal"
+        },
         {
           "time": "10:00 AM",
           "title": "Class",
@@ -56,6 +51,12 @@
         {
           "time": "1:45 PM",
           "title": "Jackson Weekly Check In",
+          "src": "lafc-work"
+        },
+        {
+          "time": "3:00 PM",
+          "title": "Zani x Jackson 1on1 re: Partnership F&B Dashboarding",
+          "loc": "Zoom",
           "src": "lafc-work"
         }
       ]
@@ -75,7 +76,7 @@
       "label": "Wed · Oct 7",
       "events": [
         {
-          "time": "10:00 AM",
+          "time": "7:00 AM",
           "title": "SAS/LAFC — Weekly Status Sync",
           "loc": "Microsoft Teams",
           "src": "lafc-work"
@@ -102,7 +103,7 @@
       "label": "Thu · Oct 8",
       "events": [
         {
-          "time": "11:00 AM",
+          "time": "8:00 AM",
           "title": "SAS / LAFC — Thursday Hands On Call",
           "loc": "Microsoft Teams",
           "src": "lafc-work"
@@ -110,6 +111,7 @@
         {
           "time": "3:00 PM",
           "title": "Mike x Jackson Monthly 1on1",
+          "loc": "Zoom",
           "src": "lafc-work"
         }
       ]
@@ -146,6 +148,7 @@
         {
           "time": "1:15 PM",
           "title": "Jack x Jack(son) 1on1",
+          "loc": "Zoom",
           "src": "lafc-work"
         },
         {
@@ -178,6 +181,7 @@
         {
           "time": "11:30 AM",
           "title": "Nate x Jack 1on1 re: CP Outreach",
+          "loc": "Zoom",
           "src": "lafc-work"
         },
         {
@@ -198,7 +202,7 @@
       "label": "Thu · Oct 15",
       "events": [
         {
-          "time": "12:30 PM",
+          "time": "11:30 AM",
           "title": "Treyzon",
           "src": "personal"
         }
@@ -211,6 +215,17 @@
           "time": "10:00 AM",
           "title": "AI Hour",
           "src": "lafc-work"
+        }
+      ]
+    },
+    {
+      "label": "Sat · Oct 17",
+      "events": [
+        {
+          "time": "4:30 PM",
+          "title": "⚽ LAFC @ NYCFC",
+          "loc": "Citi Field",
+          "src": "lafc-match"
         }
       ]
     }
