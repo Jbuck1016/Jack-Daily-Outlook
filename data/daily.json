@@ -1,19 +1,14 @@
 {
-  "dateLabel": "Saturday · October 3",
-  "updatedLabel": "Sat Oct 03, 12:04 AM PT",
-  "today": [],
-  "todayNote": "Clear today — nothing on your personal calendar. First commitment is Sunday, then a full slate kicks off Monday.",
-  "week": [
+  "dateLabel": "Sunday · October 4",
+  "updatedLabel": "Sun Oct 04, 12:04 AM PT",
+  "today": [
     {
-      "day": "Sun · Oct 4",
-      "items": [
-        {
-          "time": "All day",
-          "title": "Young thug"
-        }
-      ]
+      "time": "All day",
+      "title": "Young thug"
     }
   ],
+  "todayNote": "Quiet Sunday — just one all-day hold on the personal calendar. The work week picks up Monday with class, CP Sales Weekly and two 1on1s.",
+  "week": [],
   "tasks": {
     "pillText": "0 overdue · 2 recurring",
     "pillWarn": false,
@@ -34,9 +29,15 @@
   "followups": [
     {
       "dot": "red",
-      "url": "https://mail.google.com/mail/u/0/#inbox/1a0fe53200a44a71",
-      "title": "Nest: A/C cooling issue — Arden · Jack room",
-      "meta": "Flagged potentially urgent · Oct 2"
+      "url": "https://mail.google.com/mail/u/0/#inbox/1a1045310b6f4d18",
+      "title": "Nest: A/C cooling issue — Arden · Kitchen",
+      "meta": "Flagged potentially urgent · Oct 4 (2nd alert in 2 days)"
+    },
+    {
+      "dot": "amber",
+      "url": "https://mail.google.com/mail/u/0/#inbox/1a103233b7fccc97",
+      "title": "Jane — flight booked (BOS–LHR), return on hold",
+      "meta": "Forwarded Oct 3 · review the itinerary"
     },
     {
       "dot": "amber",
@@ -52,13 +53,20 @@
     }
   ],
   "inbox": {
-    "unread": 55,
+    "unread": 66,
     "items": [
       {
         "dot": "red",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a0fe53200a44a71",
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a1045310b6f4d18",
         "title": "Potentially urgent cooling system issue at Arden",
-        "meta": "Nest · Oct 2"
+        "meta": "Nest · Kitchen · Oct 4"
+      },
+      {
+        "dot": "amber",
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a103233b7fccc97",
+        "title": "Fwd: Trip confirmation (BOS – LHR)",
+        "tag": "REPLY",
+        "meta": "Jane · Oct 3"
       },
       {
         "dot": "amber",
@@ -76,12 +84,12 @@
       },
       {
         "dot": "faint",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a0fb7410e545fcb",
-        "title": "Fly.io — 100% discount this month",
-        "meta": "Billing · Oct 2"
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a1032f2db324963",
+        "title": "Your TripIt itinerary is ready (BOS – LHR)",
+        "meta": "TripIt · Oct 3"
       }
     ],
-    "note": "55 unread in the last 14 days, almost all newsletters, job alerts and promos. The items above are the ones worth a look."
+    "note": "66 unread in the last 14 days, almost all newsletters, job alerts and promos. The items above are the ones worth a look."
   },
   "drive": [
     {

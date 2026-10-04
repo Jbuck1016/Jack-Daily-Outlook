@@ -5,89 +5,90 @@
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-10-03T07:08:00Z",
+      "updated": "2026-10-04T07:08:00Z",
       "emails": [
         {
-          "from": "Paperless Post",
-          "subject": "Lily's Bat Mitzvah Celebration Invite",
-          "snippet": "For: Jack Buckingham. Greeting card — Lily's Bat Mitzvah. Saturday, November 14, 8:30 PM to Sunday, November 15, 2:00 AM PST.",
-          "date": "2026-10-03T02:12:05Z",
-          "unread": true,
-          "tag": "Important",
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0ff886d831e1c8"
-        },
-        {
           "from": "Nest",
-          "subject": "Potentially urgent cooling system issue at Arden • Jack room",
-          "snippet": "When the A/C was on between 10:38 AM and 1:19 PM on October 2, your home got 9°F warmer — higher than expected for the weather.",
-          "date": "2026-10-02T20:34:15Z",
+          "subject": "Potentially urgent cooling system issue at Arden • Kitchen",
+          "snippet": "When the A/C was on between 11:58 AM and 2:48 PM on October 3, your home got 5°F warmer — higher than expected for the weather.",
+          "date": "2026-10-04T00:31:54Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0fe53200a44a71"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a1045310b6f4d18"
         },
         {
-          "from": "Google",
-          "subject": "Security alert",
-          "snippet": "New passkey added to your account. If you didn't add a passkey, someone might be using your account — check and secure it.",
-          "date": "2026-10-02T19:30:13Z",
+          "from": "PayPal",
+          "subject": "You sent a $800.00 USD payment",
+          "snippet": "Here's your receipt — you sent $800.00 USD to Jane Buckingham on October 3, 2026.",
+          "date": "2026-10-03T19:44:00Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0fdb7e9fa829fa"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a1034b7d16dd20c"
         },
         {
-          "from": "Jack Buckingham",
-          "subject": "⚽🎰 30 new jobs — Oct 02",
-          "snippet": "Soccer & Betting Jobs daily digest · 30 new · 0 still open.",
-          "date": "2026-10-02T18:12:28Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0fdd153bbe403e"
-        },
-        {
-          "from": "Arsenal Football Club",
-          "subject": "One new job matching your profile",
-          "snippet": "Casual Facilities Coordinator — Operations · Emirates Stadium.",
-          "date": "2026-10-02T15:53:42Z",
+          "from": "Romi Lassally",
+          "subject": "Re: would you talk to someone about fcla",
+          "snippet": "I have to go on a radio show next week and give advice to job seekers — what's one thing you would share in today's market?",
+          "date": "2026-10-03T19:27:49Z",
           "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0fd52480a35860"
+          "tag": "Important",
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a102fbd9d9beb64"
         },
         {
-          "from": "The Transfer Flow",
-          "subject": "5 under-21 breakout stars you need to know from Europe's top leagues",
-          "snippet": "And a couple of fun honorable mentions.",
-          "date": "2026-10-02T15:30:51Z",
+          "from": "TripIt",
+          "subject": "Your TripIt itinerary is ready (BOS – LHR)",
+          "snippet": "We got your email and added it to your itinerary: Fwd: Your trip confirmation (BOS – LHR). View itinerary.",
+          "date": "2026-10-03T19:13:05Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a1032f2db324963"
+        },
+        {
+          "from": "Jane Buckingham",
+          "subject": "Fwd: Your trip confirmation (BOS – LHR)",
+          "snippet": "Boston to London. Begin forwarded message from American Airlines — your trip confirmation (BOS – LHR).",
+          "date": "2026-10-03T18:58:24Z",
           "unread": true,
           "tag": "Important",
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0fd3d5b56acd0d"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a103233b7fccc97"
         },
         {
-          "from": "Football Ticket Net",
-          "subject": "Choose Your Halloween Top Clash",
-          "snippet": "Der Klassiker in Munich or the Milan derby at San Siro.",
-          "date": "2026-10-02T15:28:52Z",
+          "from": "Jane Buckingham",
+          "subject": "Fwd: Trip on hold - GZOUTA",
+          "snippet": "THIS IS THE FLIGHT BACK. Forwarded from American Airlines — trip on hold, record GZOUTA.",
+          "date": "2026-10-03T18:33:03Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0fd3e5e5817648"
+          "tag": "Important",
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a1030b171f46e09"
         },
         {
-          "from": "Jack Buckingham",
-          "subject": "Morning brief — Friday 2 Oct",
-          "snippet": "One hour at ten, Jack, and the rest of the day is yours.",
-          "date": "2026-10-02T15:15:20Z",
+          "from": "Notion",
+          "subject": "Bring your favorite recipes together",
+          "snippet": "Create a database for dishes you love and recipes you want to try.",
+          "date": "2026-10-03T16:14:50Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0fd2f25dcc3b0c"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a1028bfe797d1ff"
+        },
+        {
+          "from": "U.S. Soccer",
+          "subject": "Your September Insiders newsletter",
+          "snippet": "News, sweepstakes, exclusive content, and more — your September Insiders newsletter.",
+          "date": "2026-10-03T14:07:35Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a1021780dac0462"
         },
         {
           "from": "Barça Innovation Hub",
-          "subject": "Masterclass: Trademarks and Image Rights in the Sports Industry",
-          "snippet": "Masterclass [CE] — Announcements. Trademarks and image rights in the sports industry (English).",
-          "date": "2026-10-02T13:45:02Z",
+          "subject": "Something new is coming to BIHUB — 40% off for alumni",
+          "snippet": "As an alumnus, this season's scholarship is waiting for you — 40% off.",
+          "date": "2026-10-03T13:35:31Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0fcdc7c65e10a6"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a101fa505ddf57e"
         },
         {
-          "from": "Training Ground Guru",
-          "subject": "Monday: Identifying tactical formations, live with Dr Hadi Sotudeh",
-          "snippet": "A Masterclass coming up Monday 5 October — turning raw positional data into tactical formations.",
-          "date": "2026-10-02T10:35:21Z",
-          "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a0fc2f6431953df"
+          "from": "Claude",
+          "subject": "This week in Claude Code: build your own mods, a wrap-up allowance, and more",
+          "snippet": "Plus: 20% higher limits, Opus and Sonnet 5.5, and extra usage to try cloud sessions.",
+          "date": "2026-10-03T12:18:44Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a101b3d664cf33a"
         }
       ]
     },

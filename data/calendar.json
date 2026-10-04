@@ -1,5 +1,5 @@
 {
-  "updatedLabel": "Sat Oct 03, 12:04 AM PT",
+  "updatedLabel": "Sun Oct 04, 12:04 AM PT",
   "sources": [
     {
       "key": "personal",
@@ -20,6 +20,7 @@
   "days": [
     {
       "label": "Sun · Oct 4",
+      "today": true,
       "events": [
         {
           "time": "All day",
