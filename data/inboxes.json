@@ -5,8 +5,81 @@
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-10-04T07:08:00Z",
+      "updated": "2026-10-05T07:05:08Z",
       "emails": [
+        {
+          "from": "Liam Henshaw",
+          "subject": "Post more work",
+          "snippet": "You're not spamming anyone — a nudge to keep posting your work.",
+          "date": "2026-10-05T06:38:46Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a10ac94f15bb77d"
+        },
+        {
+          "from": "TripIt",
+          "subject": "Your TripIt itinerary is ready (LHR - LAX)",
+          "snippet": "We got your email and added it to your itinerary: Fwd: Your trip confirmation (LHR - LAX). View itinerary.",
+          "date": "2026-10-04T21:36:21Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a108d8b0d546eee"
+        },
+        {
+          "from": "Jane Buckingham",
+          "subject": "Fwd: Your trip confirmation (LHR - LAX)",
+          "snippet": "Not ideal but it's something — forwarded American Airlines confirmation for the LHR - LAX leg.",
+          "date": "2026-10-04T21:09:18Z",
+          "unread": true,
+          "tag": "Important",
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a108c082750e1a1"
+        },
+        {
+          "from": "Audible",
+          "subject": "Get Audible for $0.99/mo + $20 credit",
+          "snippet": "Save over 80% and get a $20 Audible credit.",
+          "date": "2026-10-04T19:24:03Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a1085f92774d71d"
+        },
+        {
+          "from": "Apple",
+          "subject": "Your receipt from Apple.",
+          "snippet": "Receipt & renewal notice — AppleCare+ with Theft & Loss. Order ID MLYDF8JXB2.",
+          "date": "2026-10-04T19:14:34Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a10856e6d314091"
+        },
+        {
+          "from": "Liam Henshaw",
+          "subject": "Nobody gets a football job without these",
+          "snippet": "My new YouTube video — on what it takes to land a football job.",
+          "date": "2026-10-04T18:56:18Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a108462c3129610"
+        },
+        {
+          "from": "Audible",
+          "subject": "Hundreds of titles, up to 80% off!",
+          "snippet": "Shop October's monthly deals — latest sales and the daily deal.",
+          "date": "2026-10-04T17:44:52Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a10804c4b196eec"
+        },
+        {
+          "from": "PayPal",
+          "subject": "Coinbase Inc.: $375.00 USD",
+          "snippet": "Payment details inside — you paid $375.00 USD to Coinbase Inc. on Oct 4, 2026.",
+          "date": "2026-10-04T16:21:32Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a107b878386a809"
+        },
+        {
+          "from": "PayPal",
+          "subject": "Kalshi: $350.00 USD",
+          "snippet": "Payment details inside — you paid $350.00 USD to Kalshi on Oct 4, 2026.",
+          "date": "2026-10-04T09:43:05Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a1064bb1630f999"
+        },
         {
           "from": "Nest",
           "subject": "Potentially urgent cooling system issue at Arden • Kitchen",
@@ -14,81 +87,6 @@
           "date": "2026-10-04T00:31:54Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/1a1045310b6f4d18"
-        },
-        {
-          "from": "PayPal",
-          "subject": "You sent a $800.00 USD payment",
-          "snippet": "Here's your receipt — you sent $800.00 USD to Jane Buckingham on October 3, 2026.",
-          "date": "2026-10-03T19:44:00Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a1034b7d16dd20c"
-        },
-        {
-          "from": "Romi Lassally",
-          "subject": "Re: would you talk to someone about fcla",
-          "snippet": "I have to go on a radio show next week and give advice to job seekers — what's one thing you would share in today's market?",
-          "date": "2026-10-03T19:27:49Z",
-          "unread": false,
-          "tag": "Important",
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a102fbd9d9beb64"
-        },
-        {
-          "from": "TripIt",
-          "subject": "Your TripIt itinerary is ready (BOS – LHR)",
-          "snippet": "We got your email and added it to your itinerary: Fwd: Your trip confirmation (BOS – LHR). View itinerary.",
-          "date": "2026-10-03T19:13:05Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a1032f2db324963"
-        },
-        {
-          "from": "Jane Buckingham",
-          "subject": "Fwd: Your trip confirmation (BOS – LHR)",
-          "snippet": "Boston to London. Begin forwarded message from American Airlines — your trip confirmation (BOS – LHR).",
-          "date": "2026-10-03T18:58:24Z",
-          "unread": true,
-          "tag": "Important",
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a103233b7fccc97"
-        },
-        {
-          "from": "Jane Buckingham",
-          "subject": "Fwd: Trip on hold - GZOUTA",
-          "snippet": "THIS IS THE FLIGHT BACK. Forwarded from American Airlines — trip on hold, record GZOUTA.",
-          "date": "2026-10-03T18:33:03Z",
-          "unread": true,
-          "tag": "Important",
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a1030b171f46e09"
-        },
-        {
-          "from": "Notion",
-          "subject": "Bring your favorite recipes together",
-          "snippet": "Create a database for dishes you love and recipes you want to try.",
-          "date": "2026-10-03T16:14:50Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a1028bfe797d1ff"
-        },
-        {
-          "from": "U.S. Soccer",
-          "subject": "Your September Insiders newsletter",
-          "snippet": "News, sweepstakes, exclusive content, and more — your September Insiders newsletter.",
-          "date": "2026-10-03T14:07:35Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a1021780dac0462"
-        },
-        {
-          "from": "Barça Innovation Hub",
-          "subject": "Something new is coming to BIHUB — 40% off for alumni",
-          "snippet": "As an alumnus, this season's scholarship is waiting for you — 40% off.",
-          "date": "2026-10-03T13:35:31Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a101fa505ddf57e"
-        },
-        {
-          "from": "Claude",
-          "subject": "This week in Claude Code: build your own mods, a wrap-up allowance, and more",
-          "snippet": "Plus: 20% higher limits, Opus and Sonnet 5.5, and extra usage to try cloud sessions.",
-          "date": "2026-10-03T12:18:44Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a101b3d664cf33a"
         }
       ]
     },

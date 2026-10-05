@@ -1,5 +1,5 @@
 {
-  "updatedLabel": "Sun Oct 04, 12:04 AM PT",
+  "updatedLabel": "Mon Oct 05, 12:05 AM PT",
   "sources": [
     {
       "key": "personal",
@@ -19,18 +19,8 @@
   ],
   "days": [
     {
-      "label": "Sun · Oct 4",
-      "today": true,
-      "events": [
-        {
-          "time": "All day",
-          "title": "Young thug",
-          "src": "personal"
-        }
-      ]
-    },
-    {
       "label": "Mon · Oct 5",
+      "today": true,
       "events": [
         {
           "time": "3:00 AM",
@@ -57,8 +47,12 @@
         {
           "time": "3:00 PM",
           "title": "Zani x Jackson 1on1 re: Partnership F&B Dashboarding",
-          "loc": "Zoom",
           "src": "lafc-work"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Hang w Jay",
+          "src": "personal"
         }
       ]
     },
@@ -112,7 +106,6 @@
         {
           "time": "3:00 PM",
           "title": "Mike x Jackson Monthly 1on1",
-          "loc": "Zoom",
           "src": "lafc-work"
         }
       ]
@@ -149,7 +142,6 @@
         {
           "time": "1:15 PM",
           "title": "Jack x Jack(son) 1on1",
-          "loc": "Zoom",
           "src": "lafc-work"
         },
         {
@@ -182,7 +174,6 @@
         {
           "time": "11:30 AM",
           "title": "Nate x Jack 1on1 re: CP Outreach",
-          "loc": "Zoom",
           "src": "lafc-work"
         },
         {
@@ -227,6 +218,26 @@
           "title": "⚽ LAFC @ NYCFC",
           "loc": "Citi Field",
           "src": "lafc-match"
+        }
+      ]
+    },
+    {
+      "label": "Mon · Oct 19",
+      "events": [
+        {
+          "time": "10:00 AM",
+          "title": "Class",
+          "src": "personal"
+        },
+        {
+          "time": "12:30 PM",
+          "title": "Nate x Jack 1on1 re: CP Outreach",
+          "src": "lafc-work"
+        },
+        {
+          "time": "1:45 PM",
+          "title": "Jackson Weekly Check In",
+          "src": "lafc-work"
         }
       ]
     }

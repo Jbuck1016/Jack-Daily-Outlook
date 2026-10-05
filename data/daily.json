@@ -1,14 +1,42 @@
 {
-  "dateLabel": "Sunday · October 4",
-  "updatedLabel": "Sun Oct 04, 12:04 AM PT",
+  "dateLabel": "Monday · October 5",
+  "updatedLabel": "Mon Oct 05, 12:05 AM PT",
   "today": [
     {
-      "time": "All day",
-      "title": "Young thug"
+      "time": "3:00 AM",
+      "title": "Identifying & Understanding Tactical Formations (Dr Hadi Sotudeh)",
+      "loc": "Zoom · 11:00 AM London"
+    },
+    {
+      "time": "10:00 AM",
+      "title": "Class"
+    },
+    {
+      "time": "7:00 PM",
+      "title": "Hang w Jay",
+      "accent": "eve"
     }
   ],
-  "todayNote": "Quiet Sunday — just one all-day hold on the personal calendar. The work week picks up Monday with class, CP Sales Weekly and two 1on1s.",
-  "week": [],
+  "todayNote": "Odd-shaped Monday — the tactical-formations masterclass lands at 3 AM (11 AM London), class at 10, then it's quiet until Jay in the evening. Work calendar fills the middle: CP Sales Weekly and two 1on1s.",
+  "week": [
+    {
+      "day": "Wednesday · October 7",
+      "items": [
+        {
+          "time": "11:30 AM",
+          "title": "Teeth whitening"
+        },
+        {
+          "time": "4:00 PM",
+          "title": "Therapy"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Drinks w Noah — Jameson's Pub"
+        }
+      ]
+    }
+  ],
   "tasks": {
     "pillText": "0 overdue · 2 recurring",
     "pillWarn": false,
@@ -31,13 +59,13 @@
       "dot": "red",
       "url": "https://mail.google.com/mail/u/0/#inbox/1a1045310b6f4d18",
       "title": "Nest: A/C cooling issue — Arden · Kitchen",
-      "meta": "Flagged potentially urgent · Oct 4 (2nd alert in 2 days)"
+      "meta": "Flagged potentially urgent · Oct 3 (2nd alert in 2 days)"
     },
     {
       "dot": "amber",
-      "url": "https://mail.google.com/mail/u/0/#inbox/1a103233b7fccc97",
-      "title": "Jane — flight booked (BOS–LHR), return on hold",
-      "meta": "Forwarded Oct 3 · review the itinerary"
+      "url": "https://mail.google.com/mail/u/0/#inbox/1a108c082750e1a1",
+      "title": "Jane — return flight booked (LHR → LAX)",
+      "meta": "Forwarded Oct 4 · \"not ideal but it's something\""
     },
     {
       "dot": "amber",
@@ -49,47 +77,46 @@
       "dot": "amber",
       "url": "https://mail.google.com/mail/u/0/#inbox/1a0eaf826cdd528c",
       "title": "Dr. Meszaros (Wilshire IM)",
-      "meta": "Waiting on her reply to confirm 11:30 appt"
+      "meta": "Awaiting her reply to confirm appt time"
     }
   ],
   "inbox": {
-    "unread": 66,
+    "unread": 72,
     "items": [
+      {
+        "dot": "red",
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a108c082750e1a1",
+        "title": "Fwd: Your trip confirmation (LHR - LAX)",
+        "tag": "REPLY",
+        "meta": "Jane Buckingham · Oct 4"
+      },
       {
         "dot": "red",
         "url": "https://mail.google.com/mail/u/0/#inbox/1a1045310b6f4d18",
         "title": "Potentially urgent cooling system issue at Arden",
-        "meta": "Nest · Kitchen · Oct 4"
-      },
-      {
-        "dot": "amber",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a103233b7fccc97",
-        "title": "Fwd: Trip confirmation (BOS – LHR)",
-        "tag": "REPLY",
-        "meta": "Jane · Oct 3"
+        "meta": "Nest · Kitchen · Oct 3"
       },
       {
         "dot": "amber",
         "url": "https://mail.google.com/mail/u/0/#inbox/1a0ff886d831e1c8",
         "title": "Lily's Bat Mitzvah Celebration Invite",
         "tag": "EVENT",
-        "meta": "Paperless Post · Oct 3"
-      },
-      {
-        "dot": "amber",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a0eaf826cdd528c",
-        "title": "Appointment — Dr. Meszaros",
-        "tag": "REPLY",
-        "meta": "Wilshire IM · reply pending"
+        "meta": "Paperless Post · Oct 2"
       },
       {
         "dot": "faint",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a1032f2db324963",
-        "title": "Your TripIt itinerary is ready (BOS – LHR)",
-        "meta": "TripIt · Oct 3"
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a0f8770afebf08e",
+        "title": "Arsenal FC: one new job matching your profile",
+        "meta": "Technical Services Analyst · Oct 1"
+      },
+      {
+        "dot": "faint",
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a108d8b0d546eee",
+        "title": "Your TripIt itinerary is ready (LHR - LAX)",
+        "meta": "TripIt · Oct 4"
       }
     ],
-    "note": "66 unread in the last 14 days, almost all newsletters, job alerts and promos. The items above are the ones worth a look."
+    "note": "72 unread in the last 14 days — almost all receipts, newsletters and job alerts. The items above are the ones worth a look."
   },
   "drive": [
     {
@@ -108,9 +135,9 @@
       "meta": "Doc · shared by Ginny Sze (LAFC)"
     },
     {
-      "url": "https://drive.google.com/file/d/1GCAtZ8r6elIaGT3uu8MrUKniOJ9sWc6k/view",
-      "title": "Receipt (scanned PDF)",
-      "meta": "PDF · uploaded Oct 2"
+      "url": "https://docs.google.com/document/d/1AjQHwYh_6w7HHmGVRLggi0hcLx2mAZZzEyoAEIZpk2s/edit",
+      "title": "CW1_LA_Galaxy_Data_Reference",
+      "meta": "Doc · edited Sep 18"
     }
   ]
 }
