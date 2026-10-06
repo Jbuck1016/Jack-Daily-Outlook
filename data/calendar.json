@@ -1,5 +1,5 @@
 {
-  "updatedLabel": "Mon Oct 05, 12:05 AM PT",
+  "updatedLabel": "Tue Oct 06, 12:10 AM PT",
   "sources": [
     {
       "key": "personal",
@@ -19,50 +19,18 @@
   ],
   "days": [
     {
-      "label": "Mon · Oct 5",
-      "today": true,
-      "events": [
-        {
-          "time": "3:00 AM",
-          "title": "Identifying & Understanding Tactical Formations (Dr Hadi Sotudeh)",
-          "loc": "Zoom · 11:00 AM London",
-          "src": "personal"
-        },
-        {
-          "time": "10:00 AM",
-          "title": "Class",
-          "src": "personal"
-        },
-        {
-          "time": "11:00 AM",
-          "title": "CP Sales Weekly",
-          "loc": "Zoom",
-          "src": "lafc-work"
-        },
-        {
-          "time": "1:45 PM",
-          "title": "Jackson Weekly Check In",
-          "src": "lafc-work"
-        },
-        {
-          "time": "3:00 PM",
-          "title": "Zani x Jackson 1on1 re: Partnership F&B Dashboarding",
-          "src": "lafc-work"
-        },
-        {
-          "time": "7:00 PM",
-          "title": "Hang w Jay",
-          "src": "personal"
-        }
-      ]
-    },
-    {
       "label": "Tue · Oct 6",
+      "today": true,
       "events": [
         {
           "time": "11:00 AM",
           "title": "CP Weekly (Partner Payment Review with Finance)",
           "loc": "Zoom",
+          "src": "lafc-work"
+        },
+        {
+          "time": "3:00 PM",
+          "title": "Jackson Weekly Check In",
           "src": "lafc-work"
         }
       ]
@@ -71,7 +39,7 @@
       "label": "Wed · Oct 7",
       "events": [
         {
-          "time": "7:00 AM",
+          "time": "10:00 AM",
           "title": "SAS/LAFC — Weekly Status Sync",
           "loc": "Microsoft Teams",
           "src": "lafc-work"
@@ -80,6 +48,11 @@
           "time": "11:30 AM",
           "title": "Teeth whitening",
           "src": "personal"
+        },
+        {
+          "time": "2:00 PM",
+          "title": "Zani x Jackson 1on1 re: F&B Dashboard Check-In",
+          "src": "lafc-work"
         },
         {
           "time": "4:00 PM",
@@ -98,7 +71,7 @@
       "label": "Thu · Oct 8",
       "events": [
         {
-          "time": "8:00 AM",
+          "time": "11:00 AM",
           "title": "SAS / LAFC — Thursday Hands On Call",
           "loc": "Microsoft Teams",
           "src": "lafc-work"
@@ -157,7 +130,6 @@
         {
           "time": "9:30 AM",
           "title": "CP Sales Weekly",
-          "loc": "Zoom",
           "src": "lafc-work"
         },
         {
@@ -194,7 +166,7 @@
       "label": "Thu · Oct 15",
       "events": [
         {
-          "time": "11:30 AM",
+          "time": "12:30 PM",
           "title": "Treyzon",
           "src": "personal"
         }
@@ -207,6 +179,11 @@
           "time": "10:00 AM",
           "title": "AI Hour",
           "src": "lafc-work"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Eli Birthday KBBQ",
+          "src": "personal"
         }
       ]
     },
@@ -237,6 +214,28 @@
         {
           "time": "1:45 PM",
           "title": "Jackson Weekly Check In",
+          "src": "lafc-work"
+        }
+      ]
+    },
+    {
+      "label": "Tue · Oct 20",
+      "events": [
+        {
+          "time": "8:15 AM",
+          "title": "BDS Bi-Weekly",
+          "loc": "Zoom",
+          "src": "lafc-work"
+        },
+        {
+          "time": "9:30 AM",
+          "title": "CP Sales Weekly",
+          "src": "lafc-work"
+        },
+        {
+          "time": "11:00 AM",
+          "title": "CP Weekly",
+          "loc": "Zoom",
           "src": "lafc-work"
         }
       ]

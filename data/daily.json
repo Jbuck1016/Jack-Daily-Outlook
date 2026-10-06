@@ -1,23 +1,8 @@
 {
-  "dateLabel": "Monday · October 5",
-  "updatedLabel": "Mon Oct 05, 12:05 AM PT",
-  "today": [
-    {
-      "time": "3:00 AM",
-      "title": "Identifying & Understanding Tactical Formations (Dr Hadi Sotudeh)",
-      "loc": "Zoom · 11:00 AM London"
-    },
-    {
-      "time": "10:00 AM",
-      "title": "Class"
-    },
-    {
-      "time": "7:00 PM",
-      "title": "Hang w Jay",
-      "accent": "eve"
-    }
-  ],
-  "todayNote": "Odd-shaped Monday — the tactical-formations masterclass lands at 3 AM (11 AM London), class at 10, then it's quiet until Jay in the evening. Work calendar fills the middle: CP Sales Weekly and two 1on1s.",
+  "dateLabel": "Tuesday · October 6",
+  "updatedLabel": "Tue Oct 06, 12:10 AM PT",
+  "today": [],
+  "todayNote": "No personal events today — the day runs on the work calendar: CP Weekly (Partner Payment Review with Finance) at 11 AM, then your Jackson Weekly Check-In at 3 PM.",
   "week": [
     {
       "day": "Wednesday · October 7",
@@ -57,15 +42,9 @@
   "followups": [
     {
       "dot": "red",
-      "url": "https://mail.google.com/mail/u/0/#inbox/1a1045310b6f4d18",
-      "title": "Nest: A/C cooling issue — Arden · Kitchen",
-      "meta": "Flagged potentially urgent · Oct 3 (2nd alert in 2 days)"
-    },
-    {
-      "dot": "amber",
       "url": "https://mail.google.com/mail/u/0/#inbox/1a108c082750e1a1",
-      "title": "Jane — return flight booked (LHR → LAX)",
-      "meta": "Forwarded Oct 4 · \"not ideal but it's something\""
+      "title": "Jane — flight confirmation (LHR → LAX)",
+      "meta": "Forwarded Oct 4 · \"not ideal but it's something\" · plus two other legs"
     },
     {
       "dot": "amber",
@@ -81,7 +60,7 @@
     }
   ],
   "inbox": {
-    "unread": 72,
+    "unread": 54,
     "items": [
       {
         "dot": "red",
@@ -91,38 +70,32 @@
         "meta": "Jane Buckingham · Oct 4"
       },
       {
-        "dot": "red",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a1045310b6f4d18",
-        "title": "Potentially urgent cooling system issue at Arden",
-        "meta": "Nest · Kitchen · Oct 3"
-      },
-      {
         "dot": "amber",
         "url": "https://mail.google.com/mail/u/0/#inbox/1a0ff886d831e1c8",
         "title": "Lily's Bat Mitzvah Celebration Invite",
         "tag": "EVENT",
-        "meta": "Paperless Post · Oct 2"
+        "meta": "Paperless Post · Oct 3"
       },
       {
         "dot": "faint",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a0f8770afebf08e",
-        "title": "Arsenal FC: one new job matching your profile",
-        "meta": "Technical Services Analyst · Oct 1"
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a1030b171f46e09",
+        "title": "Fwd: Trip on hold — GZOUTA (return flight)",
+        "meta": "Jane Buckingham · Oct 3"
       },
       {
         "dot": "faint",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a108d8b0d546eee",
-        "title": "Your TripIt itinerary is ready (LHR - LAX)",
-        "meta": "TripIt · Oct 4"
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a0eaf826cdd528c",
+        "title": "Re: appointment — \"come in at 11:30?\"",
+        "meta": "Dr. Meszaros · Sep 29"
       }
     ],
-    "note": "72 unread in the last 14 days — almost all receipts, newsletters and job alerts. The items above are the ones worth a look."
+    "note": "54 unread in the last 14 days — almost all newsletters, promos and sign-in alerts. The items above are the ones worth a look; Jane also forwarded a BOS–LHR confirmation the same weekend."
   },
   "drive": [
     {
       "url": "https://docs.google.com/spreadsheets/d/1G6mlVASSfOmiATtbrtLaVa2PqXGdvPKaKyOprvKPpvY/edit",
       "title": "Jack Budget — Spending & Income",
-      "meta": "Sheet · edited Oct 3"
+      "meta": "Sheet · edited Oct 6"
     },
     {
       "url": "https://docs.google.com/spreadsheets/d/1LFUkclz5qOcMaWzaEs4Ga3OimfRQC29ENuAAvOnZcoQ/edit",
@@ -135,9 +108,9 @@
       "meta": "Doc · shared by Ginny Sze (LAFC)"
     },
     {
-      "url": "https://docs.google.com/document/d/1AjQHwYh_6w7HHmGVRLggi0hcLx2mAZZzEyoAEIZpk2s/edit",
-      "title": "CW1_LA_Galaxy_Data_Reference",
-      "meta": "Doc · edited Sep 18"
+      "url": "https://drive.google.com/file/d/1GCAtZ8r6elIaGT3uu8MrUKniOJ9sWc6k/view",
+      "title": "Receipt (PDF)",
+      "meta": "PDF · Receipts folder · Oct 2"
     }
   ]
 }

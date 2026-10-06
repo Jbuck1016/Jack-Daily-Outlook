@@ -5,8 +5,56 @@
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-10-05T07:05:08Z",
+      "updated": "2026-10-06T07:10:21Z",
       "emails": [
+        {
+          "from": "Firecrawl",
+          "subject": "Your Magic Link - Firecrawl 🔥",
+          "snippet": "Here's your link to sign in to Firecrawl. This link expires in 15 minutes.",
+          "date": "2026-10-06T01:56:29Z",
+          "unread": false,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a10eed38613cd73"
+        },
+        {
+          "from": "Google",
+          "subject": "You shared some Google Account data with Claude",
+          "snippet": "You're receiving this because you used Sign in with Google to sign in to Claude.",
+          "date": "2026-10-06T01:57:36Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a10e47e4265e107"
+        },
+        {
+          "from": "Liam Henshaw",
+          "subject": "I need your questions for a Q&A",
+          "snippet": "It's for my next video — send over the questions you want answered.",
+          "date": "2026-10-05T15:31:06Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a10cb0ad99a9e7c"
+        },
+        {
+          "from": "Barça Innovation Hub",
+          "subject": "Jack, the natural next step after sports psychology",
+          "snippet": "Make it a cross-cutting pillar of the club — athletes, coaching staff, mental health and decision-making.",
+          "date": "2026-10-05T15:14:03Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a10ca10ca0c119a"
+        },
+        {
+          "from": "Twelve Football",
+          "subject": "Join our free football analytics webinar this Wednesday",
+          "snippet": "Wednesday 7 October, 19:00 BST / 20:00 CET.",
+          "date": "2026-10-05T14:51:42Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a10c8c9972cba37"
+        },
+        {
+          "from": "Scouted Football",
+          "subject": "Cavan Sullivan, American mythmaker",
+          "snippet": "Two decades after Freddy Adu, the US finally has a new soccer icon — and must learn how to cope.",
+          "date": "2026-10-05T12:32:36Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a10c11401ac2e6a"
+        },
         {
           "from": "Liam Henshaw",
           "subject": "Post more work",
@@ -14,14 +62,6 @@
           "date": "2026-10-05T06:38:46Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/1a10ac94f15bb77d"
-        },
-        {
-          "from": "TripIt",
-          "subject": "Your TripIt itinerary is ready (LHR - LAX)",
-          "snippet": "We got your email and added it to your itinerary: Fwd: Your trip confirmation (LHR - LAX). View itinerary.",
-          "date": "2026-10-04T21:36:21Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a108d8b0d546eee"
         },
         {
           "from": "Jane Buckingham",
@@ -41,52 +81,12 @@
           "url": "https://mail.google.com/mail/u/0/#inbox/1a1085f92774d71d"
         },
         {
-          "from": "Apple",
-          "subject": "Your receipt from Apple.",
-          "snippet": "Receipt & renewal notice — AppleCare+ with Theft & Loss. Order ID MLYDF8JXB2.",
-          "date": "2026-10-04T19:14:34Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a10856e6d314091"
-        },
-        {
           "from": "Liam Henshaw",
           "subject": "Nobody gets a football job without these",
           "snippet": "My new YouTube video — on what it takes to land a football job.",
           "date": "2026-10-04T18:56:18Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/1a108462c3129610"
-        },
-        {
-          "from": "Audible",
-          "subject": "Hundreds of titles, up to 80% off!",
-          "snippet": "Shop October's monthly deals — latest sales and the daily deal.",
-          "date": "2026-10-04T17:44:52Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a10804c4b196eec"
-        },
-        {
-          "from": "PayPal",
-          "subject": "Coinbase Inc.: $375.00 USD",
-          "snippet": "Payment details inside — you paid $375.00 USD to Coinbase Inc. on Oct 4, 2026.",
-          "date": "2026-10-04T16:21:32Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a107b878386a809"
-        },
-        {
-          "from": "PayPal",
-          "subject": "Kalshi: $350.00 USD",
-          "snippet": "Payment details inside — you paid $350.00 USD to Kalshi on Oct 4, 2026.",
-          "date": "2026-10-04T09:43:05Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a1064bb1630f999"
-        },
-        {
-          "from": "Nest",
-          "subject": "Potentially urgent cooling system issue at Arden • Kitchen",
-          "snippet": "When the A/C was on between 11:58 AM and 2:48 PM on October 3, your home got 5°F warmer — higher than expected for the weather.",
-          "date": "2026-10-04T00:31:54Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a1045310b6f4d18"
         }
       ]
     },
