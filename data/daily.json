@@ -1,29 +1,27 @@
 {
-  "dateLabel": "Tuesday · October 6",
-  "updatedLabel": "Tue Oct 06, 12:10 AM PT",
-  "today": [],
-  "todayNote": "No personal events today — the day runs on the work calendar: CP Weekly (Partner Payment Review with Finance) at 11 AM, then your Jackson Weekly Check-In at 3 PM.",
-  "week": [
+  "dateLabel": "Wednesday, Oct 7",
+  "updatedLabel": "Wed Oct 07, 12:17 AM PT",
+  "today": [
     {
-      "day": "Wednesday · October 7",
-      "items": [
-        {
-          "time": "11:30 AM",
-          "title": "Teeth whitening"
-        },
-        {
-          "time": "4:00 PM",
-          "title": "Therapy"
-        },
-        {
-          "time": "6:00 PM",
-          "title": "Drinks w Noah — Jameson's Pub"
-        }
-      ]
+      "time": "11:30 AM",
+      "title": "Teeth whitening"
+    },
+    {
+      "time": "4:00 PM",
+      "title": "Therapy",
+      "accent": "eve"
+    },
+    {
+      "time": "6:00 PM",
+      "title": "Drinks w Noah",
+      "loc": "Jameson's Pub",
+      "accent": "eve"
     }
   ],
+  "todayNote": "Personal calendar only. Work day is stacked on the Calendar tab (Status Sync 10a, match surveying 1p).",
+  "week": [],
   "tasks": {
-    "pillText": "0 overdue · 2 recurring",
+    "pillText": "0 overdue · 2 today",
     "pillWarn": false,
     "overdue": [],
     "recurring": [
@@ -42,75 +40,88 @@
   "followups": [
     {
       "dot": "red",
-      "url": "https://mail.google.com/mail/u/0/#inbox/1a108c082750e1a1",
-      "title": "Jane — flight confirmation (LHR → LAX)",
-      "meta": "Forwarded Oct 4 · \"not ideal but it's something\" · plus two other legs"
+      "url": "https://mail.google.com/mail/u/0/#inbox/1a1143e0742182a5",
+      "title": "Jane re: Steadman follow-up — in person or Zoom?",
+      "meta": "Reply owed"
+    },
+    {
+      "dot": "amber",
+      "url": "https://mail.google.com/mail/u/0/#inbox/1a1030b171f46e09",
+      "title": "Return flight on hold (GZOUTA)",
+      "meta": "From Jane · needs decision"
     },
     {
       "dot": "amber",
       "url": "https://mail.google.com/mail/u/0/#inbox/1a0ff886d831e1c8",
-      "title": "Lily's Bat Mitzvah — celebration invite",
-      "meta": "Event Nov 14 · respond to invite"
+      "title": "RSVP: Lily's Bat Mitzvah — Nov 14",
+      "meta": "Invite"
     },
     {
-      "dot": "amber",
-      "url": "https://mail.google.com/mail/u/0/#inbox/1a0eaf826cdd528c",
-      "title": "Dr. Meszaros (Wilshire IM)",
-      "meta": "Awaiting her reply to confirm appt time"
+      "dot": "green",
+      "url": "https://mail.google.com/mail/u/0/#inbox/1a108c082750e1a1",
+      "title": "Trip confirmation (LHR → LAX)",
+      "meta": "From Jane · FYI"
+    },
+    {
+      "dot": "green",
+      "url": "https://mail.google.com/mail/u/0/#inbox/1a103233b7fccc97",
+      "title": "Trip confirmation (BOS → LHR)",
+      "meta": "From Jane · FYI"
     }
   ],
   "inbox": {
-    "unread": 54,
+    "unread": 201,
     "items": [
       {
         "dot": "red",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a108c082750e1a1",
-        "title": "Fwd: Your trip confirmation (LHR - LAX)",
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a1143e0742182a5",
+        "title": "Follow up Appointment questions",
         "tag": "REPLY",
-        "meta": "Jane Buckingham · Oct 4"
+        "meta": "Jane · 2:42 AM"
       },
       {
         "dot": "amber",
         "url": "https://mail.google.com/mail/u/0/#inbox/1a0ff886d831e1c8",
         "title": "Lily's Bat Mitzvah Celebration Invite",
         "tag": "EVENT",
-        "meta": "Paperless Post · Oct 3"
+        "meta": "Paperless Post · Nov 14"
       },
       {
-        "dot": "faint",
+        "dot": "amber",
         "url": "https://mail.google.com/mail/u/0/#inbox/1a1030b171f46e09",
-        "title": "Fwd: Trip on hold — GZOUTA (return flight)",
-        "meta": "Jane Buckingham · Oct 3"
+        "title": "Fwd: Trip on hold - GZOUTA",
+        "tag": "REPLY",
+        "meta": "Jane"
       },
       {
         "dot": "faint",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a0eaf826cdd528c",
-        "title": "Re: appointment — \"come in at 11:30?\"",
-        "meta": "Dr. Meszaros · Sep 29"
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a108c082750e1a1",
+        "title": "Fwd: Your trip confirmation (LHR - LAX)",
+        "meta": "Jane"
       }
     ],
-    "note": "54 unread in the last 14 days — almost all newsletters, promos and sign-in alerts. The items above are the ones worth a look; Jane also forwarded a BOS–LHR confirmation the same weekend."
+    "note": "~201 unread in inbox; the rest is newsletters, Firecrawl credit alerts, and receipts."
   },
   "drive": [
     {
       "url": "https://docs.google.com/spreadsheets/d/1G6mlVASSfOmiATtbrtLaVa2PqXGdvPKaKyOprvKPpvY/edit",
       "title": "Jack Budget — Spending & Income",
-      "meta": "Sheet · edited Oct 6"
+      "meta": "Sheet · updated Oct 7"
     },
     {
       "url": "https://docs.google.com/spreadsheets/d/1LFUkclz5qOcMaWzaEs4Ga3OimfRQC29ENuAAvOnZcoQ/edit",
       "title": "Expenses Dad Should Have Paid",
-      "meta": "Sheet · edited Oct 2"
+      "meta": "Sheet · updated Oct 2"
     },
     {
       "url": "https://docs.google.com/document/d/169ke9bnsVAz6Y6Z592kvRgIipMgcC3XR4oOPbPd2jv8/edit",
-      "title": "KBYG — Iron Maiden 9.25.26 & 9.27.26",
-      "meta": "Doc · shared by Ginny Sze (LAFC)"
+      "title": "KBYG - Iron Maiden 9.25.26 & 9.27.26",
+      "meta": "LAFC doc · updated Sep 24"
     },
     {
-      "url": "https://drive.google.com/file/d/1GCAtZ8r6elIaGT3uu8MrUKniOJ9sWc6k/view",
-      "title": "Receipt (PDF)",
-      "meta": "PDF · Receipts folder · Oct 2"
+      "url": "https://docs.google.com/document/d/1AjQHwYh_6w7HHmGVRLggi0hcLx2mAZZzEyoAEIZpk2s/edit",
+      "title": "CW1_LA_Galaxy_Data_Reference",
+      "meta": "Doc · updated Sep 18"
     }
   ]
 }

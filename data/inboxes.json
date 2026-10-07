@@ -1,92 +1,92 @@
 {
-  "note": "Primary inbox — last 10 received messages. Secondary account is not connected.",
+  "note": "Primary = jackbuckiingham@gmail.com, last 10 received. Secondary not connected.",
   "accounts": [
     {
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-10-06T07:10:21Z",
+      "updated": "2026-10-07T07:17:22Z",
       "emails": [
         {
-          "from": "Firecrawl",
-          "subject": "Your Magic Link - Firecrawl 🔥",
-          "snippet": "Here's your link to sign in to Firecrawl. This link expires in 15 minutes.",
-          "date": "2026-10-06T01:56:29Z",
-          "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a10eed38613cd73"
-        },
-        {
-          "from": "Google",
-          "subject": "You shared some Google Account data with Claude",
-          "snippet": "You're receiving this because you used Sign in with Google to sign in to Claude.",
-          "date": "2026-10-06T01:57:36Z",
+          "from": "Stripe",
+          "subject": "Your receipt from Firecrawl #2101-1689",
+          "snippet": "Your receipt from Firecrawl #2101-1689",
+          "date": "2026-10-07T05:02:19Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a10e47e4265e107"
-        },
-        {
-          "from": "Liam Henshaw",
-          "subject": "I need your questions for a Q&A",
-          "snippet": "It's for my next video — send over the questions you want answered.",
-          "date": "2026-10-05T15:31:06Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a10cb0ad99a9e7c"
-        },
-        {
-          "from": "Barça Innovation Hub",
-          "subject": "Jack, the natural next step after sports psychology",
-          "snippet": "Make it a cross-cutting pillar of the club — athletes, coaching staff, mental health and decision-making.",
-          "date": "2026-10-05T15:14:03Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a10ca10ca0c119a"
-        },
-        {
-          "from": "Twelve Football",
-          "subject": "Join our free football analytics webinar this Wednesday",
-          "snippet": "Wednesday 7 October, 19:00 BST / 20:00 CET.",
-          "date": "2026-10-05T14:51:42Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a10c8c9972cba37"
-        },
-        {
-          "from": "Scouted Football",
-          "subject": "Cavan Sullivan, American mythmaker",
-          "snippet": "Two decades after Freddy Adu, the US finally has a new soccer icon — and must learn how to cope.",
-          "date": "2026-10-05T12:32:36Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a10c11401ac2e6a"
-        },
-        {
-          "from": "Liam Henshaw",
-          "subject": "Post more work",
-          "snippet": "You're not spamming anyone — a nudge to keep posting your work.",
-          "date": "2026-10-05T06:38:46Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a10ac94f15bb77d"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a114bdb6d065ca0"
         },
         {
           "from": "Jane Buckingham",
-          "subject": "Fwd: Your trip confirmation (LHR - LAX)",
-          "snippet": "Not ideal but it's something — forwarded American Airlines confirmation for the LHR - LAX leg.",
-          "date": "2026-10-04T21:09:18Z",
+          "subject": "Follow up Appointment questions",
+          "snippet": "The clinic has been calling Jack to schedule a follow up and I wasn't sure if that was meant to be in person or via zoom?",
+          "date": "2026-10-07T02:42:14Z",
           "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a1143e0742182a5"
+        },
+        {
+          "from": "Firecrawl",
+          "subject": "You've used 95% of your Firecrawl credits",
+          "snippet": "Boost your free credits to 1500 to keep going when they run out.",
+          "date": "2026-10-07T00:20:17Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a113bb8114d827c"
+        },
+        {
+          "from": "Firecrawl",
+          "subject": "You've used 90% of your Firecrawl credits",
+          "snippet": "Boost your free credits to 1500 to keep going when they run out.",
+          "date": "2026-10-07T00:14:20Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a113b60fdaa8abf"
+        },
+        {
+          "from": "Firecrawl",
+          "subject": "You've used 80% of your Firecrawl credits",
+          "snippet": "Boost your free credits to 1500 to keep going when they run out.",
+          "date": "2026-10-07T00:08:01Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a113b04405d156d"
+        },
+        {
+          "from": "Prime Video",
+          "subject": "You subscribed to ViX Premium With Ads on Prime Video",
+          "snippet": "You recently started a free trial offer for ViX Premium With Ads on Prime Video.",
+          "date": "2026-10-06T23:04:23Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a113760219fb9db"
+        },
+        {
+          "from": "Firecrawl",
+          "subject": "You've used 70% of your Firecrawl credits",
+          "snippet": "Boost your free credits to 1500 to keep going when they run out.",
+          "date": "2026-10-06T22:07:00Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a113417a4dcd629"
+        },
+        {
+          "from": "Firecrawl",
+          "subject": "You've used 50% of your Firecrawl credits",
+          "snippet": "Boost your free credits to 1500 to keep going when they run out.",
+          "date": "2026-10-06T21:51:51Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a113339d6415329"
+        },
+        {
+          "from": "Apple Developer",
+          "subject": "Hello Developer: Three steps to iPhone Duo.",
+          "snippet": "Get tips on submitting your iPhone Duo app, sign up for new Group Labs, and much more.",
+          "date": "2026-10-06T21:07:46Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a1130b52d4d3a37"
+        },
+        {
+          "from": "Jane Buckingham",
+          "subject": "Fwd: Trying to reach you",
+          "snippet": "Forwarded message from AbbVie Ambassador.",
+          "date": "2026-10-06T19:15:23Z",
+          "unread": false,
           "tag": "Important",
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a108c082750e1a1"
-        },
-        {
-          "from": "Audible",
-          "subject": "Get Audible for $0.99/mo + $20 credit",
-          "snippet": "Save over 80% and get a $20 Audible credit.",
-          "date": "2026-10-04T19:24:03Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a1085f92774d71d"
-        },
-        {
-          "from": "Liam Henshaw",
-          "subject": "Nobody gets a football job without these",
-          "snippet": "My new YouTube video — on what it takes to land a football job.",
-          "date": "2026-10-04T18:56:18Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a108462c3129610"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a112a4f6d4b0ed9"
         }
       ]
     },
