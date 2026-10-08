@@ -1,83 +1,59 @@
 {
-  "note": "Primary = jackbuckiingham@gmail.com, last 10 received. Secondary not connected.",
+  "note": "Primary inbox — last 10 received. Secondary account not connected.",
   "accounts": [
     {
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-10-07T07:17:22Z",
+      "updated": "2026-10-08T07:06:00Z",
       "emails": [
         {
-          "from": "Stripe",
-          "subject": "Your receipt from Firecrawl #2101-1689",
-          "snippet": "Your receipt from Firecrawl #2101-1689",
-          "date": "2026-10-07T05:02:19Z",
+          "from": "Seat Unique",
+          "subject": "Your Emirates Stadium experience is waiting",
+          "snippet": "Complete your booking for Arsenal v Ipswich Town. You’re so close to an incredible day at Emirates Stadium.",
+          "date": "2026-10-08T03:27:00Z",
+          "unread": false,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a1198cd5403a28c"
+        },
+        {
+          "from": "Audible",
+          "subject": "Still time for $0.99/mo + $20 credit",
+          "snippet": "Save over 80% and get a $20 Audible credit.",
+          "date": "2026-10-07T19:53:51Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a114bdb6d065ca0"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a117edf1227c01e"
+        },
+        {
+          "from": "Barça Innovation Hub",
+          "subject": "The first official match at Camp Nou (6 Oct 1957) - 50% off until October 12th on your training",
+          "snippet": "50% off with FIRSTMATCH50 until October 12th.",
+          "date": "2026-10-07T13:37:19Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a1169544b54d4a8"
+        },
+        {
+          "from": "The Transfer Flow",
+          "subject": "What went down over this monster international break",
+          "snippet": "Cristiano Ronaldo’s meltdown, Ghana’s struggles, and more.",
+          "date": "2026-10-07T13:14:48Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a116809b9590909"
+        },
+        {
+          "from": "Scouted Football",
+          "subject": "Mining third-tier leagues for top-tier talent",
+          "snippet": "As prices go up, scouts must go down.",
+          "date": "2026-10-07T08:33:59Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a1157fcadc088d2"
         },
         {
           "from": "Jane Buckingham",
           "subject": "Follow up Appointment questions",
-          "snippet": "The clinic has been calling Jack to schedule a follow up and I wasn't sure if that was meant to be in person or via zoom?",
+          "snippet": "Hi Stephanie, the clinic has been calling Jack to schedule a follow up and I wasn’t sure if that was meant to be in person or via zoom?",
           "date": "2026-10-07T02:42:14Z",
-          "unread": true,
+          "unread": false,
           "url": "https://mail.google.com/mail/u/0/#inbox/1a1143e0742182a5"
-        },
-        {
-          "from": "Firecrawl",
-          "subject": "You've used 95% of your Firecrawl credits",
-          "snippet": "Boost your free credits to 1500 to keep going when they run out.",
-          "date": "2026-10-07T00:20:17Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a113bb8114d827c"
-        },
-        {
-          "from": "Firecrawl",
-          "subject": "You've used 90% of your Firecrawl credits",
-          "snippet": "Boost your free credits to 1500 to keep going when they run out.",
-          "date": "2026-10-07T00:14:20Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a113b60fdaa8abf"
-        },
-        {
-          "from": "Firecrawl",
-          "subject": "You've used 80% of your Firecrawl credits",
-          "snippet": "Boost your free credits to 1500 to keep going when they run out.",
-          "date": "2026-10-07T00:08:01Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a113b04405d156d"
-        },
-        {
-          "from": "Prime Video",
-          "subject": "You subscribed to ViX Premium With Ads on Prime Video",
-          "snippet": "You recently started a free trial offer for ViX Premium With Ads on Prime Video.",
-          "date": "2026-10-06T23:04:23Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a113760219fb9db"
-        },
-        {
-          "from": "Firecrawl",
-          "subject": "You've used 70% of your Firecrawl credits",
-          "snippet": "Boost your free credits to 1500 to keep going when they run out.",
-          "date": "2026-10-06T22:07:00Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a113417a4dcd629"
-        },
-        {
-          "from": "Firecrawl",
-          "subject": "You've used 50% of your Firecrawl credits",
-          "snippet": "Boost your free credits to 1500 to keep going when they run out.",
-          "date": "2026-10-06T21:51:51Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a113339d6415329"
-        },
-        {
-          "from": "Apple Developer",
-          "subject": "Hello Developer: Three steps to iPhone Duo.",
-          "snippet": "Get tips on submitting your iPhone Duo app, sign up for new Group Labs, and much more.",
-          "date": "2026-10-06T21:07:46Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a1130b52d4d3a37"
         },
         {
           "from": "Jane Buckingham",
@@ -87,6 +63,30 @@
           "unread": false,
           "tag": "Important",
           "url": "https://mail.google.com/mail/u/0/#inbox/1a112a4f6d4b0ed9"
+        },
+        {
+          "from": "TeamWork Online",
+          "subject": "🚨 Only 7 Days to Go — Are You In?",
+          "snippet": "Only 7 days until the LA Kings Sports & Entertainment Career Fair on Tuesday, October 13th.",
+          "date": "2026-10-06T18:58:59Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a1129558a741d5d"
+        },
+        {
+          "from": "Football Ticket Net",
+          "subject": "Camp Nou, Munich, Milan, Anfield. All Just Clicks Away From You",
+          "snippet": "Book Your Next Live Football Game Today.",
+          "date": "2026-10-06T15:15:24Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a111ce4db6e9016"
+        },
+        {
+          "from": "The Transfer Flow",
+          "subject": "3 underrated gems from France who could be set for big moves",
+          "snippet": "Despite financial problems, Ligue 1 remains a talent factory.",
+          "date": "2026-10-06T14:39:16Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a111a7902bd0144"
         }
       ]
     },

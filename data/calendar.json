@@ -1,5 +1,5 @@
 {
-  "updatedLabel": "Wed Oct 07, 12:17 AM PT",
+  "updatedLabel": "Thu Oct 8, 12:06 AM PT",
   "sources": [
     {
       "key": "personal",
@@ -19,57 +19,19 @@
   ],
   "days": [
     {
-      "label": "Wed · Oct 7",
-      "today": true,
-      "events": [
-        {
-          "time": "10:00 AM",
-          "title": "SAS/LAFC | Weekly Status Sync",
-          "src": "lafc-work",
-          "loc": "Teams"
-        },
-        {
-          "time": "11:30 AM",
-          "title": "Teeth whitening",
-          "src": "personal"
-        },
-        {
-          "time": "11:30 AM",
-          "title": "Busy",
-          "src": "lafc-work"
-        },
-        {
-          "time": "1:00 PM",
-          "title": "Post Event/Match Surveying",
-          "src": "lafc-work",
-          "loc": "Zoom"
-        },
-        {
-          "time": "2:00 PM",
-          "title": "Zani x Jackson 1on1 re: F&B Dashboard",
-          "src": "lafc-work"
-        },
-        {
-          "time": "4:00 PM",
-          "title": "Therapy",
-          "src": "personal"
-        },
-        {
-          "time": "6:00 PM",
-          "title": "Drinks w Noah",
-          "src": "personal",
-          "loc": "Jameson's Pub"
-        }
-      ]
-    },
-    {
       "label": "Thu · Oct 8",
+      "today": true,
       "events": [
         {
           "time": "11:00 AM",
           "title": "SAS / LAFC - Thursday Hands On Call",
-          "src": "lafc-work",
-          "loc": "Teams"
+          "loc": "Microsoft Teams",
+          "src": "lafc-work"
+        },
+        {
+          "time": "12:30 PM",
+          "title": "Zani x Jackson 1on1 re: F&B Dashboard Check-In",
+          "src": "lafc-work"
         },
         {
           "time": "3:00 PM",
@@ -85,6 +47,11 @@
           "time": "10:00 AM",
           "title": "AI Hour",
           "src": "lafc-work"
+        },
+        {
+          "time": "1:30 PM",
+          "title": "Vancouver Post Match Survey Creation",
+          "src": "lafc-work"
         }
       ]
     },
@@ -94,8 +61,8 @@
         {
           "time": "7:30 PM",
           "title": "⚽ LAFC vs. Vancouver Whitecaps",
-          "src": "lafc-match",
-          "loc": "BMO Stadium"
+          "loc": "BMO Stadium",
+          "src": "lafc-match"
         }
       ]
     },
@@ -130,8 +97,7 @@
         {
           "time": "11:00 AM",
           "title": "CP Weekly",
-          "src": "lafc-work",
-          "loc": "Zoom"
+          "src": "lafc-work"
         }
       ]
     },
@@ -146,14 +112,14 @@
         {
           "time": "3:00 PM",
           "title": "Laser hair",
-          "src": "personal",
-          "loc": "Grossman Dermatology"
+          "loc": "Grossman Dermatology, Santa Monica",
+          "src": "personal"
         },
         {
           "time": "7:30 PM",
           "title": "⚽ LAFC vs. Austin FC",
-          "src": "lafc-match",
-          "loc": "BMO Stadium"
+          "loc": "BMO Stadium",
+          "src": "lafc-match"
         }
       ]
     },
@@ -163,6 +129,11 @@
         {
           "time": "12:30 PM",
           "title": "Treyzon",
+          "src": "personal"
+        },
+        {
+          "time": "4:00 PM",
+          "title": "Therapy",
           "src": "personal"
         }
       ]
@@ -188,8 +159,8 @@
         {
           "time": "4:30 PM",
           "title": "⚽ LAFC @ NYCFC",
-          "src": "lafc-match",
-          "loc": "Citi Field"
+          "loc": "Citi Field",
+          "src": "lafc-match"
         }
       ]
     },
@@ -219,8 +190,7 @@
         {
           "time": "8:15 AM",
           "title": "BDS Bi-Weekly",
-          "src": "lafc-work",
-          "loc": "Zoom"
+          "src": "lafc-work"
         },
         {
           "time": "9:30 AM",
@@ -230,8 +200,7 @@
         {
           "time": "11:00 AM",
           "title": "CP Weekly/Summize Training (MANDATORY)",
-          "src": "lafc-work",
-          "loc": "Zoom"
+          "src": "lafc-work"
         }
       ]
     },
@@ -241,8 +210,19 @@
         {
           "time": "10:00 AM",
           "title": "SAS/LAFC | Weekly Status Sync",
-          "src": "lafc-work",
-          "loc": "Teams"
+          "loc": "Microsoft Teams",
+          "src": "lafc-work"
+        }
+      ]
+    },
+    {
+      "label": "Thu · Oct 22",
+      "events": [
+        {
+          "time": "11:00 AM",
+          "title": "SAS / LAFC - Thursday Hands On Call",
+          "loc": "Microsoft Teams",
+          "src": "lafc-work"
         }
       ]
     }
