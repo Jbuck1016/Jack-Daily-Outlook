@@ -1,92 +1,92 @@
 {
-  "note": "Primary inbox — last 10 received. Secondary account not connected.",
+  "note": "Primary inbox · last 10 received messages. 54 unread total; most are newsletters and promos.",
   "accounts": [
     {
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-10-08T07:06:00Z",
+      "updated": "2026-10-09T07:07:32Z",
       "emails": [
         {
-          "from": "Seat Unique",
-          "subject": "Your Emirates Stadium experience is waiting",
-          "snippet": "Complete your booking for Arsenal v Ipswich Town. You’re so close to an incredible day at Emirates Stadium.",
-          "date": "2026-10-08T03:27:00Z",
-          "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a1198cd5403a28c"
+          "from": "Whop",
+          "subject": "App connected to your Whop account",
+          "snippet": "An app was connected to your Whop account.",
+          "date": "2026-10-09T02:09:52Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a11e6c8f3cc6f12"
         },
         {
-          "from": "Audible",
-          "subject": "Still time for $0.99/mo + $20 credit",
-          "snippet": "Save over 80% and get a $20 Audible credit.",
-          "date": "2026-10-07T19:53:51Z",
+          "from": "Whop",
+          "subject": "695948 is your Whop sign-in code",
+          "snippet": "Use this code to sign in to your Whop account.",
+          "date": "2026-10-09T02:09:34Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a117edf1227c01e"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a11e6c453297eb2"
+        },
+        {
+          "from": "Google",
+          "subject": "Security alert",
+          "snippet": "A new sign-in on Mac OS. We noticed a new sign-in to your Google Account on a Mac OS device.",
+          "date": "2026-10-08T22:02:17Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a11d89e626b6dcb"
+        },
+        {
+          "from": "Fly.io",
+          "subject": "Fly.io Newsletter: All agents welcome, and SBD enters private beta!",
+          "snippet": "News, tips, and behind the scenes technical mumbo jumbo.",
+          "date": "2026-10-08T19:40:06Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a11d0913ea83879"
+        },
+        {
+          "from": "Jack Buckingham",
+          "subject": "⚽🎰 33 new jobs 🔥1 posted today! — Oct 08",
+          "snippet": "Soccer & Betting Jobs daily digest · October 08, 2026. 33 new · 0 still open.",
+          "date": "2026-10-08T19:08:28Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a11ceabdaaf2ccc"
+        },
+        {
+          "from": "Teachable",
+          "subject": "Redeem your copy of Football Python 360",
+          "snippet": "Confirm your email address. Hello Jack Buckingham, glad to have you on board.",
+          "date": "2026-10-08T17:39:48Z",
+          "unread": true,
+          "tag": "Important",
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a11c99c626ddc95"
+        },
+        {
+          "from": "Zapier",
+          "subject": "AI Transformation sessions we think you'll enjoy from ZapConnect",
+          "snippet": "On-demand access is only available for a limited time!",
+          "date": "2026-10-08T17:34:05Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a11c945bbf049e8"
+        },
+        {
+          "from": "Arsenal Football Club",
+          "subject": "Arsenal Football Club: one new job matching your profile",
+          "snippet": "Jackson, we have one new job that matches your profile: Academy Performance Psychologist (12 Month FTC).",
+          "date": "2026-10-08T15:25:59Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a11c1f0fc0de074"
         },
         {
           "from": "Barça Innovation Hub",
-          "subject": "The first official match at Camp Nou (6 Oct 1957) - 50% off until October 12th on your training",
+          "subject": "The first official match at Camp Nou (6 Oct 1957) - 50% off until October 12th",
           "snippet": "50% off with FIRSTMATCH50 until October 12th.",
-          "date": "2026-10-07T13:37:19Z",
+          "date": "2026-10-08T13:33:48Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a1169544b54d4a8"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a11bb857c1df1c0"
         },
         {
-          "from": "The Transfer Flow",
-          "subject": "What went down over this monster international break",
-          "snippet": "Cristiano Ronaldo’s meltdown, Ghana’s struggles, and more.",
-          "date": "2026-10-07T13:14:48Z",
+          "from": "Training Ground Guru",
+          "subject": "Monday 7pm: What is context engineering? Live with Professor David Sumpter",
+          "snippet": "Dear Premium Member, our next Masterclass is on Monday (12 October) at 7pm UK with Professor David Sumpter.",
+          "date": "2026-10-08T12:29:39Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a116809b9590909"
-        },
-        {
-          "from": "Scouted Football",
-          "subject": "Mining third-tier leagues for top-tier talent",
-          "snippet": "As prices go up, scouts must go down.",
-          "date": "2026-10-07T08:33:59Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a1157fcadc088d2"
-        },
-        {
-          "from": "Jane Buckingham",
-          "subject": "Follow up Appointment questions",
-          "snippet": "Hi Stephanie, the clinic has been calling Jack to schedule a follow up and I wasn’t sure if that was meant to be in person or via zoom?",
-          "date": "2026-10-07T02:42:14Z",
-          "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a1143e0742182a5"
-        },
-        {
-          "from": "Jane Buckingham",
-          "subject": "Fwd: Trying to reach you",
-          "snippet": "Forwarded message from AbbVie Ambassador.",
-          "date": "2026-10-06T19:15:23Z",
-          "unread": false,
-          "tag": "Important",
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a112a4f6d4b0ed9"
-        },
-        {
-          "from": "TeamWork Online",
-          "subject": "🚨 Only 7 Days to Go — Are You In?",
-          "snippet": "Only 7 days until the LA Kings Sports & Entertainment Career Fair on Tuesday, October 13th.",
-          "date": "2026-10-06T18:58:59Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a1129558a741d5d"
-        },
-        {
-          "from": "Football Ticket Net",
-          "subject": "Camp Nou, Munich, Milan, Anfield. All Just Clicks Away From You",
-          "snippet": "Book Your Next Live Football Game Today.",
-          "date": "2026-10-06T15:15:24Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a111ce4db6e9016"
-        },
-        {
-          "from": "The Transfer Flow",
-          "subject": "3 underrated gems from France who could be set for big moves",
-          "snippet": "Despite financial problems, Ligue 1 remains a talent factory.",
-          "date": "2026-10-06T14:39:16Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a111a7902bd0144"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a11b7e3373afd06"
         }
       ]
     },

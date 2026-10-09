@@ -1,11 +1,11 @@
 {
-  "dateLabel": "Thursday · October 8",
-  "updatedLabel": "Thu Oct 8, 12:06 AM PT",
+  "dateLabel": "Friday, Oct 9",
+  "updatedLabel": "Fri Oct 9, 12:07 AM PT",
   "today": [],
-  "todayNote": "Nothing on your personal calendar today — LAFC meetings are in the Calendar tab.",
+  "todayNote": "Nothing on your personal calendar today. Work + matches are in the Calendar tab.",
   "week": [],
   "tasks": {
-    "pillText": "2 tasks today",
+    "pillText": "2 recurring · 0 overdue",
     "pillWarn": false,
     "overdue": [],
     "recurring": [
@@ -23,58 +23,57 @@
   },
   "followups": [
     {
-      "dot": "red",
+      "dot": "amber",
       "url": "https://mail.google.com/mail/u/0/#inbox/1a0eaf826cdd528c",
-      "title": "Dr. Meszaros — Wilshire Internal Medicine",
-      "meta": "You replied 9/29 · awaiting confirmation"
+      "title": "Tamar — Wilshire Internal Medicine",
+      "meta": "You replied to confirm 11:30 · awaiting their reply"
     },
     {
-      "dot": "amber",
-      "url": "https://mail.google.com/mail/u/0/#inbox/1a1143e0742182a5",
-      "title": "Jane — follow-up appointment questions",
-      "meta": "Steadman Clinic follow-up, cc’d you Oct 7"
+      "dot": "green",
+      "url": "https://mail.google.com/mail/u/0/#inbox/1a10cb0ad99a9e7c",
+      "title": "Liam Henshaw — needs your Q&A questions",
+      "meta": "Asked for questions for his next video · Oct 5"
     }
   ],
   "inbox": {
-    "unread": 47,
+    "unread": 54,
     "items": [
       {
-        "dot": "red",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a0eaf826cdd528c",
-        "title": "Dr. Meszaros (Wilshire Internal Medicine)",
-        "tag": "REPLY",
-        "meta": "Awaiting your confirmation"
+        "dot": "amber",
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a11c1f0fc0de074",
+        "title": "Arsenal FC — one new job matching your profile",
+        "meta": "Academy Performance Psychologist (12-mo FTC) · Oct 8"
       },
       {
         "dot": "amber",
         "url": "https://mail.google.com/mail/u/0/#inbox/1a1129558a741d5d",
         "title": "LA Kings Sports & Entertainment Career Fair",
         "tag": "EVENT",
-        "meta": "Tue Oct 13"
+        "meta": "Tue Oct 13 · open jobs + networking"
       }
     ],
-    "note": "Most of the 47 unread are newsletters/promos — Barça Innovation Hub, The Transfer Flow, Audible, Football Ticket Net."
+    "note": "54 unread in inbox — most are newsletters, job digests and promos."
   },
   "drive": [
-    {
-      "url": "https://docs.google.com/spreadsheets/d/1LFUkclz5qOcMaWzaEs4Ga3OimfRQC29ENuAAvOnZcoQ/edit",
-      "title": "Expenses Dad Should Have Paid",
-      "meta": "Sheet · edited Oct 8"
-    },
     {
       "url": "https://docs.google.com/spreadsheets/d/1G6mlVASSfOmiATtbrtLaVa2PqXGdvPKaKyOprvKPpvY/edit",
       "title": "Jack Budget — Spending & Income",
       "meta": "Sheet · edited Oct 8"
     },
     {
-      "url": "https://docs.google.com/document/d/169ke9bnsVAz6Y6Z592kvRgIipMgcC3XR4oOPbPd2jv8/edit",
-      "title": "KBYG - Iron Maiden 9.25.26 & 9.27.26",
-      "meta": "Doc · LAFC · edited Sep 24"
+      "url": "https://docs.google.com/spreadsheets/d/1LFUkclz5qOcMaWzaEs4Ga3OimfRQC29ENuAAvOnZcoQ/edit",
+      "title": "Expenses Dad Should Have Paid",
+      "meta": "Sheet · edited Oct 8"
     },
     {
-      "url": "https://docs.google.com/document/d/1AjQHwYh_6w7HHmGVRLggi0hcLx2mAZZzEyoAEIZpk2s/edit",
-      "title": "CW1_LA_Galaxy_Data_Reference",
-      "meta": "Doc · edited Sep 18"
+      "url": "https://drive.google.com/file/d/1GCAtZ8r6elIaGT3uu8MrUKniOJ9sWc6k/view",
+      "title": "Receipt (PDF)",
+      "meta": "PDF · added Oct 2"
+    },
+    {
+      "url": "https://docs.google.com/document/d/169ke9bnsVAz6Y6Z592kvRgIipMgcC3XR4oOPbPd2jv8/edit",
+      "title": "KBYG — Iron Maiden 9.25 & 9.27",
+      "meta": "LAFC doc · shared by Ginny · Sep 24"
     }
   ]
 }

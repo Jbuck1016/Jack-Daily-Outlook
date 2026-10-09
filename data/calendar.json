@@ -1,5 +1,5 @@
 {
-  "updatedLabel": "Thu Oct 8, 12:06 AM PT",
+  "updatedLabel": "Fri Oct 9, 12:07 AM PT",
   "sources": [
     {
       "key": "personal",
@@ -19,29 +19,8 @@
   ],
   "days": [
     {
-      "label": "Thu · Oct 8",
-      "today": true,
-      "events": [
-        {
-          "time": "11:00 AM",
-          "title": "SAS / LAFC - Thursday Hands On Call",
-          "loc": "Microsoft Teams",
-          "src": "lafc-work"
-        },
-        {
-          "time": "12:30 PM",
-          "title": "Zani x Jackson 1on1 re: F&B Dashboard Check-In",
-          "src": "lafc-work"
-        },
-        {
-          "time": "3:00 PM",
-          "title": "Mike x Jackson Monthly 1on1",
-          "src": "lafc-work"
-        }
-      ]
-    },
-    {
       "label": "Fri · Oct 9",
+      "today": true,
       "events": [
         {
           "time": "10:00 AM",
@@ -49,8 +28,14 @@
           "src": "lafc-work"
         },
         {
+          "time": "11:30 AM",
+          "title": "Jack x Jack(Son) re: STH Forecasting",
+          "src": "lafc-work"
+        },
+        {
           "time": "1:30 PM",
           "title": "Vancouver Post Match Survey Creation",
+          "loc": "Zoom",
           "src": "lafc-work"
         }
       ]
@@ -72,6 +57,11 @@
         {
           "time": "10:00 AM",
           "title": "Class",
+          "src": "personal"
+        },
+        {
+          "time": "12:00 PM",
+          "title": "Meet Janet at apt",
           "src": "personal"
         },
         {
@@ -97,6 +87,7 @@
         {
           "time": "11:00 AM",
           "title": "CP Weekly",
+          "loc": "Zoom / OLLY",
           "src": "lafc-work"
         }
       ]
@@ -127,7 +118,7 @@
       "label": "Thu · Oct 15",
       "events": [
         {
-          "time": "12:30 PM",
+          "time": "11:30 AM",
           "title": "Treyzon",
           "src": "personal"
         },
@@ -190,6 +181,7 @@
         {
           "time": "8:15 AM",
           "title": "BDS Bi-Weekly",
+          "loc": "Zoom / 818-Olly",
           "src": "lafc-work"
         },
         {
@@ -200,6 +192,7 @@
         {
           "time": "11:00 AM",
           "title": "CP Weekly/Summize Training (MANDATORY)",
+          "loc": "Zoom / OLLY",
           "src": "lafc-work"
         }
       ]
@@ -220,8 +213,23 @@
       "events": [
         {
           "time": "11:00 AM",
-          "title": "SAS / LAFC - Thursday Hands On Call",
+          "title": "SAS / LAFC — Thursday Hands On Call",
           "loc": "Microsoft Teams",
+          "src": "lafc-work"
+        }
+      ]
+    },
+    {
+      "label": "Fri · Oct 23",
+      "events": [
+        {
+          "time": "All day",
+          "title": "Potential Eric party",
+          "src": "personal"
+        },
+        {
+          "time": "10:00 AM",
+          "title": "AI Hour",
           "src": "lafc-work"
         }
       ]
