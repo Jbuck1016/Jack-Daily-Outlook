@@ -1,8 +1,8 @@
 {
-  "dateLabel": "Friday, Oct 9",
-  "updatedLabel": "Fri Oct 9, 12:07 AM PT",
+  "dateLabel": "Saturday, Oct 10",
+  "updatedLabel": "Sat Oct 10, 12:07 AM PT",
   "today": [],
-  "todayNote": "Nothing on your personal calendar today. Work + matches are in the Calendar tab.",
+  "todayNote": "Nothing on your personal calendar today. The home match tonight and work meetings are in the Calendar tab.",
   "week": [],
   "tasks": {
     "pillText": "2 recurring · 0 overdue",
@@ -23,10 +23,10 @@
   },
   "followups": [
     {
-      "dot": "amber",
-      "url": "https://mail.google.com/mail/u/0/#inbox/1a0eaf826cdd528c",
-      "title": "Tamar — Wilshire Internal Medicine",
-      "meta": "You replied to confirm 11:30 · awaiting their reply"
+      "dot": "red",
+      "url": "https://mail.google.com/mail/u/0/#inbox/1a1143e0742182a5",
+      "title": "Jane Buckingham — Re: Follow up Appointment questions",
+      "meta": "Personal thread · follow-up sent Oct 9"
     },
     {
       "dot": "green",
@@ -36,29 +36,37 @@
     }
   ],
   "inbox": {
-    "unread": 54,
+    "unread": 52,
     "items": [
       {
-        "dot": "amber",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a11c1f0fc0de074",
-        "title": "Arsenal FC — one new job matching your profile",
-        "meta": "Academy Performance Psychologist (12-mo FTC) · Oct 8"
+        "dot": "red",
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a1143e0742182a5",
+        "title": "Jane Buckingham — Re: Follow up Appointment questions",
+        "tag": "REPLY",
+        "meta": "Only real person waiting on a reply · Oct 9"
       },
       {
-        "dot": "amber",
+        "dot": "faint",
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a11b7e3373afd06",
+        "title": "Training Ground Guru — Masterclass: What is context engineering?",
+        "tag": "EVENT",
+        "meta": "Mon Oct 12 · 7pm UK, live with Prof. David Sumpter"
+      },
+      {
+        "dot": "faint",
         "url": "https://mail.google.com/mail/u/0/#inbox/1a1129558a741d5d",
         "title": "LA Kings Sports & Entertainment Career Fair",
         "tag": "EVENT",
         "meta": "Tue Oct 13 · open jobs + networking"
       }
     ],
-    "note": "54 unread in inbox — most are newsletters, job digests and promos."
+    "note": "52 unread in inbox — most are newsletters, job digests and promos."
   },
   "drive": [
     {
       "url": "https://docs.google.com/spreadsheets/d/1G6mlVASSfOmiATtbrtLaVa2PqXGdvPKaKyOprvKPpvY/edit",
       "title": "Jack Budget — Spending & Income",
-      "meta": "Sheet · edited Oct 8"
+      "meta": "Sheet · edited Oct 9"
     },
     {
       "url": "https://docs.google.com/spreadsheets/d/1LFUkclz5qOcMaWzaEs4Ga3OimfRQC29ENuAAvOnZcoQ/edit",
@@ -66,14 +74,14 @@
       "meta": "Sheet · edited Oct 8"
     },
     {
-      "url": "https://drive.google.com/file/d/1GCAtZ8r6elIaGT3uu8MrUKniOJ9sWc6k/view",
-      "title": "Receipt (PDF)",
-      "meta": "PDF · added Oct 2"
-    },
-    {
       "url": "https://docs.google.com/document/d/169ke9bnsVAz6Y6Z592kvRgIipMgcC3XR4oOPbPd2jv8/edit",
       "title": "KBYG — Iron Maiden 9.25 & 9.27",
       "meta": "LAFC doc · shared by Ginny · Sep 24"
+    },
+    {
+      "url": "https://docs.google.com/document/d/1AjQHwYh_6w7HHmGVRLggi0hcLx2mAZZzEyoAEIZpk2s/edit",
+      "title": "CW1_LA_Galaxy_Data_Reference",
+      "meta": "Doc · edited Sep 18"
     }
   ]
 }

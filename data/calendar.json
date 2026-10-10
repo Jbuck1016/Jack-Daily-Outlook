@@ -1,5 +1,5 @@
 {
-  "updatedLabel": "Fri Oct 9, 12:07 AM PT",
+  "updatedLabel": "Sat Oct 10, 12:07 AM PT",
   "sources": [
     {
       "key": "personal",
@@ -19,29 +19,8 @@
   ],
   "days": [
     {
-      "label": "Fri · Oct 9",
-      "today": true,
-      "events": [
-        {
-          "time": "10:00 AM",
-          "title": "AI Hour",
-          "src": "lafc-work"
-        },
-        {
-          "time": "11:30 AM",
-          "title": "Jack x Jack(Son) re: STH Forecasting",
-          "src": "lafc-work"
-        },
-        {
-          "time": "1:30 PM",
-          "title": "Vancouver Post Match Survey Creation",
-          "loc": "Zoom",
-          "src": "lafc-work"
-        }
-      ]
-    },
-    {
       "label": "Sat · Oct 10",
+      "today": true,
       "events": [
         {
           "time": "7:30 PM",
@@ -80,14 +59,14 @@
       "label": "Tue · Oct 13",
       "events": [
         {
-          "time": "9:30 AM",
-          "title": "CP Sales Weekly",
-          "src": "lafc-work"
-        },
-        {
           "time": "11:00 AM",
           "title": "CP Weekly",
           "loc": "Zoom / OLLY",
+          "src": "lafc-work"
+        },
+        {
+          "time": "3:00 PM",
+          "title": "CP Sales Weekly",
           "src": "lafc-work"
         }
       ]
@@ -118,7 +97,7 @@
       "label": "Thu · Oct 15",
       "events": [
         {
-          "time": "11:30 AM",
+          "time": "12:30 PM",
           "title": "Treyzon",
           "src": "personal"
         },
@@ -152,6 +131,17 @@
           "title": "⚽ LAFC @ NYCFC",
           "loc": "Citi Field",
           "src": "lafc-match"
+        }
+      ]
+    },
+    {
+      "label": "Sun · Oct 18",
+      "events": [
+        {
+          "time": "2:00 PM",
+          "title": "Lunch with Drew",
+          "loc": "Élephante, Santa Monica",
+          "src": "personal"
         }
       ]
     },

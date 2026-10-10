@@ -1,35 +1,35 @@
 {
-  "note": "Primary inbox · last 10 received messages. 54 unread total; most are newsletters and promos.",
+  "note": "Primary inbox · last 10 received messages. 52 unread total; most are newsletters and promos.",
   "accounts": [
     {
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-10-09T07:07:32Z",
+      "updated": "2026-10-10T07:07:03Z",
       "emails": [
         {
-          "from": "Whop",
-          "subject": "App connected to your Whop account",
-          "snippet": "An app was connected to your Whop account.",
-          "date": "2026-10-09T02:09:52Z",
+          "from": "RapidAPI",
+          "subject": "Payment successful for your JSearch API subscription",
+          "snippet": "Thank you for being a member of RapidAPI Marketplace. We successfully charged your card $25 for the JSearch API PRO plan.",
+          "date": "2026-10-10T00:32:51Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a11e6c8f3cc6f12"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a1233a19122f6ee"
         },
         {
-          "from": "Whop",
-          "subject": "695948 is your Whop sign-in code",
-          "snippet": "Use this code to sign in to your Whop account.",
-          "date": "2026-10-09T02:09:34Z",
+          "from": "The Transfer Flow",
+          "subject": "Premier League sack race will have a new leader this weekend",
+          "snippet": "Plus 20 bets we're placing, FPL tips, and games we're watching.",
+          "date": "2026-10-09T15:34:17Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a11e6c453297eb2"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a1214d037afeec2"
         },
         {
-          "from": "Google",
-          "subject": "Security alert",
-          "snippet": "A new sign-in on Mac OS. We noticed a new sign-in to your Google Account on a Mac OS device.",
-          "date": "2026-10-08T22:02:17Z",
+          "from": "Football Ticket Net",
+          "subject": "Champions League In November ⚽ All Just Clicks Away",
+          "snippet": "Champions League is back this November — Barça, United, Atlético. Matchday 4, 25–26 days out.",
+          "date": "2026-10-09T15:21:16Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a11d89e626b6dcb"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a12146bbd8e2d52"
         },
         {
           "from": "Fly.io",
@@ -38,14 +38,6 @@
           "date": "2026-10-08T19:40:06Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/1a11d0913ea83879"
-        },
-        {
-          "from": "Jack Buckingham",
-          "subject": "⚽🎰 33 new jobs 🔥1 posted today! — Oct 08",
-          "snippet": "Soccer & Betting Jobs daily digest · October 08, 2026. 33 new · 0 still open.",
-          "date": "2026-10-08T19:08:28Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a11ceabdaaf2ccc"
         },
         {
           "from": "Teachable",
@@ -65,14 +57,6 @@
           "url": "https://mail.google.com/mail/u/0/#inbox/1a11c945bbf049e8"
         },
         {
-          "from": "Arsenal Football Club",
-          "subject": "Arsenal Football Club: one new job matching your profile",
-          "snippet": "Jackson, we have one new job that matches your profile: Academy Performance Psychologist (12 Month FTC).",
-          "date": "2026-10-08T15:25:59Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a11c1f0fc0de074"
-        },
-        {
           "from": "Barça Innovation Hub",
           "subject": "The first official match at Camp Nou (6 Oct 1957) - 50% off until October 12th",
           "snippet": "50% off with FIRSTMATCH50 until October 12th.",
@@ -87,6 +71,22 @@
           "date": "2026-10-08T12:29:39Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/1a11b7e3373afd06"
+        },
+        {
+          "from": "Google",
+          "subject": "Critical security alert",
+          "snippet": "Some of your saved passwords were found in a data breach from a site or app that you use. Your Google Account is not affected.",
+          "date": "2026-10-08T07:28:46Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a1220a60752b395"
+        },
+        {
+          "from": "Seat Unique",
+          "subject": "Your Emirates Stadium experience is waiting",
+          "snippet": "Complete your booking for Arsenal v Ipswich Town at Emirates Stadium.",
+          "date": "2026-10-08T03:27:00Z",
+          "unread": false,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a1198cd5403a28c"
         }
       ]
     },
