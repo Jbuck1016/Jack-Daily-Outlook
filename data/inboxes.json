@@ -1,16 +1,48 @@
 {
-  "note": "Primary inbox · last 10 received messages. 52 unread total; most are newsletters and promos.",
+  "note": "Primary inbox · last 10 received messages. 52 unread total; most are newsletters, promos and payment receipts.",
   "accounts": [
     {
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-10-10T07:07:03Z",
+      "updated": "2026-10-11T07:07:04Z",
       "emails": [
+        {
+          "from": "Liam Henshaw",
+          "subject": "Should you work in football for free?",
+          "snippet": "Watch this — the latest video on breaking into football.",
+          "date": "2026-10-11T06:39:20Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a129affaa8af16b"
+        },
+        {
+          "from": "Audible",
+          "subject": "Grab a bestseller for $0.00",
+          "snippet": "Start a free trial today.",
+          "date": "2026-10-10T19:13:47Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a1273c57d2ae802"
+        },
+        {
+          "from": "PayPal",
+          "subject": "Coinbase Inc.: $200.00 USD",
+          "snippet": "You paid $200.00 USD to Coinbase Inc. Transaction date Oct 10, 2026.",
+          "date": "2026-10-10T18:59:11Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a1272ef693017d5"
+        },
+        {
+          "from": "Jack Buckingham",
+          "subject": "⚽🎰 27 new jobs — Oct 10",
+          "snippet": "Soccer & Betting Jobs daily digest · 27 new, 0 still open. Track applications in your Google Sheet.",
+          "date": "2026-10-10T17:37:56Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a126e496c303942"
+        },
         {
           "from": "RapidAPI",
           "subject": "Payment successful for your JSearch API subscription",
-          "snippet": "Thank you for being a member of RapidAPI Marketplace. We successfully charged your card $25 for the JSearch API PRO plan.",
+          "snippet": "We successfully charged your card $25 for the JSearch API PRO plan.",
           "date": "2026-10-10T00:32:51Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/1a1233a19122f6ee"
@@ -55,38 +87,6 @@
           "date": "2026-10-08T17:34:05Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/1a11c945bbf049e8"
-        },
-        {
-          "from": "Barça Innovation Hub",
-          "subject": "The first official match at Camp Nou (6 Oct 1957) - 50% off until October 12th",
-          "snippet": "50% off with FIRSTMATCH50 until October 12th.",
-          "date": "2026-10-08T13:33:48Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a11bb857c1df1c0"
-        },
-        {
-          "from": "Training Ground Guru",
-          "subject": "Monday 7pm: What is context engineering? Live with Professor David Sumpter",
-          "snippet": "Dear Premium Member, our next Masterclass is on Monday (12 October) at 7pm UK with Professor David Sumpter.",
-          "date": "2026-10-08T12:29:39Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a11b7e3373afd06"
-        },
-        {
-          "from": "Google",
-          "subject": "Critical security alert",
-          "snippet": "Some of your saved passwords were found in a data breach from a site or app that you use. Your Google Account is not affected.",
-          "date": "2026-10-08T07:28:46Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a1220a60752b395"
-        },
-        {
-          "from": "Seat Unique",
-          "subject": "Your Emirates Stadium experience is waiting",
-          "snippet": "Complete your booking for Arsenal v Ipswich Town at Emirates Stadium.",
-          "date": "2026-10-08T03:27:00Z",
-          "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a1198cd5403a28c"
         }
       ]
     },

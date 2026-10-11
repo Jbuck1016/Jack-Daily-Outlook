@@ -1,8 +1,8 @@
 {
-  "dateLabel": "Saturday, Oct 10",
-  "updatedLabel": "Sat Oct 10, 12:07 AM PT",
+  "dateLabel": "Sunday, Oct 11",
+  "updatedLabel": "Sun Oct 11, 12:07 AM PT",
   "today": [],
-  "todayNote": "Nothing on your personal calendar today. The home match tonight and work meetings are in the Calendar tab.",
+  "todayNote": "Nothing on your personal calendar today (Sunday). Work meetings and the week ahead are in the Calendar tab.",
   "week": [],
   "tasks": {
     "pillText": "2 recurring · 0 overdue",
@@ -26,7 +26,7 @@
       "dot": "red",
       "url": "https://mail.google.com/mail/u/0/#inbox/1a1143e0742182a5",
       "title": "Jane Buckingham — Re: Follow up Appointment questions",
-      "meta": "Personal thread · follow-up sent Oct 9"
+      "meta": "Personal thread · follow-up still open since Oct 9"
     },
     {
       "dot": "green",
@@ -60,7 +60,7 @@
         "meta": "Tue Oct 13 · open jobs + networking"
       }
     ],
-    "note": "52 unread in inbox — most are newsletters, job digests and promos."
+    "note": "52 unread in inbox — most are newsletters, job digests, promos and payment receipts."
   },
   "drive": [
     {

@@ -1,5 +1,5 @@
 {
-  "updatedLabel": "Sat Oct 10, 12:07 AM PT",
+  "updatedLabel": "Sun Oct 11, 12:07 AM PT",
   "sources": [
     {
       "key": "personal",
@@ -18,18 +18,6 @@
     }
   ],
   "days": [
-    {
-      "label": "Sat · Oct 10",
-      "today": true,
-      "events": [
-        {
-          "time": "7:30 PM",
-          "title": "⚽ LAFC vs. Vancouver Whitecaps",
-          "loc": "BMO Stadium",
-          "src": "lafc-match"
-        }
-      ]
-    },
     {
       "label": "Mon · Oct 12",
       "events": [
@@ -171,7 +159,6 @@
         {
           "time": "8:15 AM",
           "title": "BDS Bi-Weekly",
-          "loc": "Zoom / 818-Olly",
           "src": "lafc-work"
         },
         {
@@ -181,7 +168,7 @@
         },
         {
           "time": "11:00 AM",
-          "title": "CP Weekly/Summize Training (MANDATORY)",
+          "title": "CP Weekly / Summize Training (MANDATORY)",
           "loc": "Zoom / OLLY",
           "src": "lafc-work"
         }
@@ -192,7 +179,7 @@
       "events": [
         {
           "time": "10:00 AM",
-          "title": "SAS/LAFC | Weekly Status Sync",
+          "title": "SAS / LAFC Weekly Status Sync",
           "loc": "Microsoft Teams",
           "src": "lafc-work"
         }
@@ -203,7 +190,7 @@
       "events": [
         {
           "time": "11:00 AM",
-          "title": "SAS / LAFC — Thursday Hands On Call",
+          "title": "SAS / LAFC Thursday Hands-On Call",
           "loc": "Microsoft Teams",
           "src": "lafc-work"
         }
@@ -221,6 +208,26 @@
           "time": "10:00 AM",
           "title": "AI Hour",
           "src": "lafc-work"
+        }
+      ]
+    },
+    {
+      "label": "Sat · Oct 24",
+      "events": [
+        {
+          "time": "All day",
+          "title": "Potential Eric party",
+          "src": "personal"
+        }
+      ]
+    },
+    {
+      "label": "Sun · Oct 25",
+      "events": [
+        {
+          "time": "All day",
+          "title": "Potential Eric party",
+          "src": "personal"
         }
       ]
     }
