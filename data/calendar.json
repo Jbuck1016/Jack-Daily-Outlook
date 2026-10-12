@@ -1,5 +1,5 @@
 {
-  "updatedLabel": "Sun Oct 11, 12:07 AM PT",
+  "updatedLabel": "Mon Oct 12, 12:05 AM PT",
   "sources": [
     {
       "key": "personal",
@@ -20,6 +20,7 @@
   "days": [
     {
       "label": "Mon · Oct 12",
+      "today": true,
       "events": [
         {
           "time": "10:00 AM",
@@ -27,7 +28,7 @@
           "src": "personal"
         },
         {
-          "time": "12:00 PM",
+          "time": "12:30 PM",
           "title": "Meet Janet at apt",
           "src": "personal"
         },
@@ -85,7 +86,7 @@
       "label": "Thu · Oct 15",
       "events": [
         {
-          "time": "12:30 PM",
+          "time": "11:30 AM",
           "title": "Treyzon",
           "src": "personal"
         },
@@ -159,6 +160,7 @@
         {
           "time": "8:15 AM",
           "title": "BDS Bi-Weekly",
+          "loc": "Zoom / 818-Olly",
           "src": "lafc-work"
         },
         {
@@ -228,6 +230,38 @@
           "time": "All day",
           "title": "Potential Eric party",
           "src": "personal"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "⚽ LAFC vs. LA Galaxy",
+          "loc": "BMO Stadium",
+          "src": "lafc-match"
+        }
+      ]
+    },
+    {
+      "label": "Mon · Oct 26",
+      "events": [
+        {
+          "time": "10:00 AM",
+          "title": "Class",
+          "src": "personal"
+        },
+        {
+          "time": "11:00 AM",
+          "title": "CP Sales Weekly",
+          "loc": "Zoom",
+          "src": "lafc-work"
+        },
+        {
+          "time": "12:30 PM",
+          "title": "Nate x Jack 1on1 re: CP Outreach",
+          "src": "lafc-work"
+        },
+        {
+          "time": "1:45 PM",
+          "title": "Jackson Weekly Check In",
+          "src": "lafc-work"
         }
       ]
     }

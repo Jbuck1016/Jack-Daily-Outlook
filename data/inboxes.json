@@ -1,92 +1,91 @@
 {
-  "note": "Primary inbox · last 10 received messages. 52 unread total; most are newsletters, promos and payment receipts.",
+  "note": "Primary inbox · last 10 received messages. 64 unread total; most are newsletters, promos and payment receipts.",
   "accounts": [
     {
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-10-11T07:07:04Z",
+      "updated": "2026-10-12T07:05:10Z",
       "emails": [
         {
-          "from": "Liam Henshaw",
-          "subject": "Should you work in football for free?",
-          "snippet": "Watch this — the latest video on breaking into football.",
-          "date": "2026-10-11T06:39:20Z",
+          "from": "PayPal",
+          "subject": "Google: $19.99 USD",
+          "snippet": "You paid $19.99 USD to Google. Transaction date Oct 11, 2026.",
+          "date": "2026-10-12T05:43:54Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a129affaa8af16b"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a12ea3951c8cce9"
         },
         {
-          "from": "Audible",
-          "subject": "Grab a bestseller for $0.00",
-          "snippet": "Start a free trial today.",
-          "date": "2026-10-10T19:13:47Z",
+          "from": "Google Play",
+          "subject": "Your Google Play Order Receipt from Oct 11, 2026",
+          "snippet": "Your subscription from Google LLC on Google Play continues and you've been charged.",
+          "date": "2026-10-12T05:43:46Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a1273c57d2ae802"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a12ea377493d142"
+        },
+        {
+          "from": "Liam Henshaw",
+          "subject": "Where I'd be scouting right now",
+          "snippet": "GBE and ESC rules impacting recruitment.",
+          "date": "2026-10-12T05:30:42Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a12e9780df0194f"
+        },
+        {
+          "from": "FIFA Careers",
+          "subject": "Re-register interest with FIFA",
+          "snippet": "You've been in our talent pipeline for a while — confirm you're happy to stay in it.",
+          "date": "2026-10-12T04:34:39Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a12e643010868c0"
         },
         {
           "from": "PayPal",
-          "subject": "Coinbase Inc.: $200.00 USD",
-          "snippet": "You paid $200.00 USD to Coinbase Inc. Transaction date Oct 10, 2026.",
-          "date": "2026-10-10T18:59:11Z",
+          "subject": "Paddle.com Market Li...: $71.88 USD",
+          "snippet": "You paid $71.88 USD to Paddle.com Market Limited. Transaction date Oct 11, 2026.",
+          "date": "2026-10-12T03:29:43Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a1272ef693017d5"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a12e28c78d44000"
         },
         {
-          "from": "Jack Buckingham",
-          "subject": "⚽🎰 27 new jobs — Oct 10",
-          "snippet": "Soccer & Betting Jobs daily digest · 27 new, 0 still open. Track applications in your Google Sheet.",
-          "date": "2026-10-10T17:37:56Z",
+          "from": "Domino's",
+          "subject": "Your Chance to Win a $25 Domino's e-Gift Card!",
+          "snippet": "Thanks for ordering Domino's — tell us about your experience.",
+          "date": "2026-10-11T21:20:14Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a126e496c303942"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a12d0d66189656f"
         },
         {
-          "from": "RapidAPI",
-          "subject": "Payment successful for your JSearch API subscription",
-          "snippet": "We successfully charged your card $25 for the JSearch API PRO plan.",
-          "date": "2026-10-10T00:32:51Z",
+          "from": "PayPal",
+          "subject": "Electronic Arts, Inc: $5.99 USD",
+          "snippet": "You paid $5.99 USD to Electronic Arts, Inc. Transaction date Oct 11, 2026.",
+          "date": "2026-10-11T22:03:21Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a1233a19122f6ee"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a12cfdee3d29b4d"
         },
         {
-          "from": "The Transfer Flow",
-          "subject": "Premier League sack race will have a new leader this weekend",
-          "snippet": "Plus 20 bets we're placing, FPL tips, and games we're watching.",
-          "date": "2026-10-09T15:34:17Z",
+          "from": "Google Play",
+          "subject": "Updates to Google Play Terms of Service",
+          "snippet": "On November 5, 2026 we're making some changes to our Google Play Terms of Service.",
+          "date": "2026-10-11T20:18:54Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a1214d037afeec2"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a12c9e4d23e7828"
         },
         {
-          "from": "Football Ticket Net",
-          "subject": "Champions League In November ⚽ All Just Clicks Away",
-          "snippet": "Champions League is back this November — Barça, United, Atlético. Matchday 4, 25–26 days out.",
-          "date": "2026-10-09T15:21:16Z",
+          "from": "Domino's",
+          "subject": "Your Domino's Order",
+          "snippet": "Thank you for placing your order at Dominos.com!",
+          "date": "2026-10-11T20:18:51Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a12146bbd8e2d52"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a12c9e4646b6504"
         },
         {
-          "from": "Fly.io",
-          "subject": "Fly.io Newsletter: All agents welcome, and SBD enters private beta!",
-          "snippet": "News, tips, and behind the scenes technical mumbo jumbo.",
-          "date": "2026-10-08T19:40:06Z",
+          "from": "Audible",
+          "subject": "Jack, $0.99/mo + a $20 credit awaits!",
+          "snippet": "Save over 80% and get a $20 Audible credit.",
+          "date": "2026-10-11T19:21:11Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a11d0913ea83879"
-        },
-        {
-          "from": "Teachable",
-          "subject": "Redeem your copy of Football Python 360",
-          "snippet": "Confirm your email address. Hello Jack Buckingham, glad to have you on board.",
-          "date": "2026-10-08T17:39:48Z",
-          "unread": true,
-          "tag": "Important",
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a11c99c626ddc95"
-        },
-        {
-          "from": "Zapier",
-          "subject": "AI Transformation sessions we think you'll enjoy from ZapConnect",
-          "snippet": "On-demand access is only available for a limited time!",
-          "date": "2026-10-08T17:34:05Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a11c945bbf049e8"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a12c697715f370c"
         }
       ]
     },
