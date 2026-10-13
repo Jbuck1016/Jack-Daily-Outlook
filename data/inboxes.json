@@ -1,91 +1,92 @@
 {
-  "note": "Primary inbox · last 10 received messages. 64 unread total; most are newsletters, promos and payment receipts.",
+  "note": "Primary inbox — last 10 received messages. Secondary account is not connected.",
   "accounts": [
     {
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-10-12T07:05:10Z",
+      "updated": "2026-10-13T07:08:30Z",
       "emails": [
         {
+          "from": "Metrica Sports",
+          "subject": "Build something with FC Barcelona match data",
+          "snippet": "Registration for More Than A Hack 2027 closes on 10 November.",
+          "date": "2026-10-13T05:31:50Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a133bee2e821bb2"
+        },
+        {
+          "from": "Google",
+          "subject": "✅ Jack, finish setting up your Apple iPhone with Google",
+          "snippet": "Finish your setup",
+          "date": "2026-10-13T04:35:51Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a1338ba28ef164d"
+        },
+        {
+          "from": "Google",
+          "subject": "Security alert",
+          "snippet": "You allowed Instinct access to some of your Google Account data.",
+          "date": "2026-10-13T04:34:56Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a1338ab5c23ff4b"
+        },
+        {
+          "from": "Paddle",
+          "subject": "Your subscription for ChatOn will be canceled",
+          "snippet": "Your subscription will be canceled on Oct 14, 2026.",
+          "date": "2026-10-13T04:22:39Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a1337f8d3948b1a"
+        },
+        {
+          "from": "Paddle",
+          "subject": "Your subscription for Chatbot App will be canceled",
+          "snippet": "Your subscription will be canceled on Feb 4, 2027.",
+          "date": "2026-10-13T04:20:56Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a1337dfa3717278"
+        },
+        {
+          "from": "Paddle",
+          "subject": "Your subscription for Metrica Sports will be canceled",
+          "snippet": "Your subscription will be canceled on Nov 13, 2026.",
+          "date": "2026-10-13T04:01:36Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a1336c5bd82cfbe"
+        },
+        {
+          "from": "Metrica Sports",
+          "subject": "Your plan will be canceled at the end of the cycle",
+          "snippet": "We received your request to cancel your Nexus Pro Monthly Plan. Canceled Nov 13, 2026.",
+          "date": "2026-10-13T04:01:37Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a1336c558a74243"
+        },
+        {
+          "from": "Paddle",
+          "subject": "Verify your email",
+          "snippet": "Your details were submitted in a request for support on paddle.net.",
+          "date": "2026-10-13T04:00:00Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a1336ad2192b7b5",
+          "tag": "Important"
+        },
+        {
+          "from": "Paddle",
+          "subject": "Payment confirmed",
+          "snippet": "Payment confirmed.",
+          "date": "2026-10-13T00:48:16Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a132bb488b1c5b0"
+        },
+        {
           "from": "PayPal",
-          "subject": "Google: $19.99 USD",
-          "snippet": "You paid $19.99 USD to Google. Transaction date Oct 11, 2026.",
-          "date": "2026-10-12T05:43:54Z",
+          "subject": "Your automatic payment status has changed",
+          "snippet": "Your automatic payment is no longer active. Contact BBE Marketing Inc for more details.",
+          "date": "2026-10-12T22:27:18Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a12ea3951c8cce9"
-        },
-        {
-          "from": "Google Play",
-          "subject": "Your Google Play Order Receipt from Oct 11, 2026",
-          "snippet": "Your subscription from Google LLC on Google Play continues and you've been charged.",
-          "date": "2026-10-12T05:43:46Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a12ea377493d142"
-        },
-        {
-          "from": "Liam Henshaw",
-          "subject": "Where I'd be scouting right now",
-          "snippet": "GBE and ESC rules impacting recruitment.",
-          "date": "2026-10-12T05:30:42Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a12e9780df0194f"
-        },
-        {
-          "from": "FIFA Careers",
-          "subject": "Re-register interest with FIFA",
-          "snippet": "You've been in our talent pipeline for a while — confirm you're happy to stay in it.",
-          "date": "2026-10-12T04:34:39Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a12e643010868c0"
-        },
-        {
-          "from": "PayPal",
-          "subject": "Paddle.com Market Li...: $71.88 USD",
-          "snippet": "You paid $71.88 USD to Paddle.com Market Limited. Transaction date Oct 11, 2026.",
-          "date": "2026-10-12T03:29:43Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a12e28c78d44000"
-        },
-        {
-          "from": "Domino's",
-          "subject": "Your Chance to Win a $25 Domino's e-Gift Card!",
-          "snippet": "Thanks for ordering Domino's — tell us about your experience.",
-          "date": "2026-10-11T21:20:14Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a12d0d66189656f"
-        },
-        {
-          "from": "PayPal",
-          "subject": "Electronic Arts, Inc: $5.99 USD",
-          "snippet": "You paid $5.99 USD to Electronic Arts, Inc. Transaction date Oct 11, 2026.",
-          "date": "2026-10-11T22:03:21Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a12cfdee3d29b4d"
-        },
-        {
-          "from": "Google Play",
-          "subject": "Updates to Google Play Terms of Service",
-          "snippet": "On November 5, 2026 we're making some changes to our Google Play Terms of Service.",
-          "date": "2026-10-11T20:18:54Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a12c9e4d23e7828"
-        },
-        {
-          "from": "Domino's",
-          "subject": "Your Domino's Order",
-          "snippet": "Thank you for placing your order at Dominos.com!",
-          "date": "2026-10-11T20:18:51Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a12c9e4646b6504"
-        },
-        {
-          "from": "Audible",
-          "subject": "Jack, $0.99/mo + a $20 credit awaits!",
-          "snippet": "Save over 80% and get a $20 Audible credit.",
-          "date": "2026-10-11T19:21:11Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a12c697715f370c"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a1323a3e4ad5112"
         }
       ]
     },
