@@ -5,8 +5,73 @@
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-10-13T07:08:30Z",
+      "updated": "2026-10-14T07:11:18Z",
       "emails": [
+        {
+          "from": "Anthropic",
+          "subject": "We’re updating our Anthropic Policies",
+          "snippet": "We’ve made updates to our Usage Policy and our Supported Regions Policy.",
+          "date": "2026-10-14T03:45:21Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a13883c3fb6e77c"
+        },
+        {
+          "from": "Apple Developer",
+          "subject": "Updated Apple Developer Program License Agreement Now Available",
+          "snippet": "The Apple Developer Program License Agreement has been revised to support new features and updated policies.",
+          "date": "2026-10-14T02:04:36Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a13827948637f56"
+        },
+        {
+          "from": "Jane Buckingham",
+          "subject": "Fwd: Thank You For Shopping At Tempur-Pedic",
+          "snippet": "Forwarded from Tempur Retail Stores: Thank you for shopping at Tempur-Pedic.",
+          "date": "2026-10-13T19:48:17Z",
+          "unread": true,
+          "tag": "Important",
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a136cf907952565"
+        },
+        {
+          "from": "Audible",
+          "subject": "Hundreds of titles, up to 80% off!",
+          "snippet": "Shop October’s Monthly Deals — latest sales & deals.",
+          "date": "2026-10-13T15:57:24Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a135fb9f2875f70"
+        },
+        {
+          "from": "Memorial Sloan Kettering",
+          "subject": "Jack, together we are revolutionizing treatment for stage 4 breast cancer",
+          "snippet": "In honor of National Metastatic Breast Cancer Awareness Day, your gift to MSK will go 3X as far.",
+          "date": "2026-10-13T14:08:47Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a135989e9a47e35"
+        },
+        {
+          "from": "The Transfer Flow",
+          "subject": "Man United and Tottenham's dismal draw summed up both sides’ issues",
+          "snippet": "Neither deserved a point.",
+          "date": "2026-10-13T13:47:21Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a135848ffcae5bd"
+        },
+        {
+          "from": "Barça Innovation Hub",
+          "subject": "Time is running out - 50% off for BIHUB alumni",
+          "snippet": "As an alumnus, this season scholarship is waiting for you.",
+          "date": "2026-10-13T13:31:46Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a1357692cdba679"
+        },
+        {
+          "from": "The Transfer Flow",
+          "subject": "Variance Betting - Champions League + Championship 13 Oct 2026",
+          "snippet": "Our furiously busy weekend came out positive, with a +2 overall.",
+          "date": "2026-10-13T13:22:26Z",
+          "unread": false,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a1356dc30f704f8"
+        },
         {
           "from": "Metrica Sports",
           "subject": "Build something with FC Barcelona match data",
@@ -18,75 +83,10 @@
         {
           "from": "Google",
           "subject": "✅ Jack, finish setting up your Apple iPhone with Google",
-          "snippet": "Finish your setup",
+          "snippet": "Finish your setup.",
           "date": "2026-10-13T04:35:51Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/1a1338ba28ef164d"
-        },
-        {
-          "from": "Google",
-          "subject": "Security alert",
-          "snippet": "You allowed Instinct access to some of your Google Account data.",
-          "date": "2026-10-13T04:34:56Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a1338ab5c23ff4b"
-        },
-        {
-          "from": "Paddle",
-          "subject": "Your subscription for ChatOn will be canceled",
-          "snippet": "Your subscription will be canceled on Oct 14, 2026.",
-          "date": "2026-10-13T04:22:39Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a1337f8d3948b1a"
-        },
-        {
-          "from": "Paddle",
-          "subject": "Your subscription for Chatbot App will be canceled",
-          "snippet": "Your subscription will be canceled on Feb 4, 2027.",
-          "date": "2026-10-13T04:20:56Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a1337dfa3717278"
-        },
-        {
-          "from": "Paddle",
-          "subject": "Your subscription for Metrica Sports will be canceled",
-          "snippet": "Your subscription will be canceled on Nov 13, 2026.",
-          "date": "2026-10-13T04:01:36Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a1336c5bd82cfbe"
-        },
-        {
-          "from": "Metrica Sports",
-          "subject": "Your plan will be canceled at the end of the cycle",
-          "snippet": "We received your request to cancel your Nexus Pro Monthly Plan. Canceled Nov 13, 2026.",
-          "date": "2026-10-13T04:01:37Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a1336c558a74243"
-        },
-        {
-          "from": "Paddle",
-          "subject": "Verify your email",
-          "snippet": "Your details were submitted in a request for support on paddle.net.",
-          "date": "2026-10-13T04:00:00Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a1336ad2192b7b5",
-          "tag": "Important"
-        },
-        {
-          "from": "Paddle",
-          "subject": "Payment confirmed",
-          "snippet": "Payment confirmed.",
-          "date": "2026-10-13T00:48:16Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a132bb488b1c5b0"
-        },
-        {
-          "from": "PayPal",
-          "subject": "Your automatic payment status has changed",
-          "snippet": "Your automatic payment is no longer active. Contact BBE Marketing Inc for more details.",
-          "date": "2026-10-12T22:27:18Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a1323a3e4ad5112"
         }
       ]
     },

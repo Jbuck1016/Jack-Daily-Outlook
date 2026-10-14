@@ -1,18 +1,14 @@
 {
-  "dateLabel": "Tuesday, October 13",
-  "updatedLabel": "Tue Oct 13, 12:08 AM PT",
-  "today": [],
-  "todayNote": "No personal events scheduled today.",
-  "week": [
+  "dateLabel": "Wednesday, October 14",
+  "updatedLabel": "Wed Oct 14, 12:11 AM PT",
+  "today": [
     {
-      "day": "Wed · Oct 14",
-      "items": [
-        {
-          "time": "3:00 PM",
-          "title": "Laser hair"
-        }
-      ]
-    },
+      "time": "3:00 PM",
+      "title": "Laser hair",
+      "loc": "Grossman Dermatology · Santa Monica"
+    }
+  ],
+  "week": [
     {
       "day": "Thu · Oct 15",
       "items": [
@@ -67,19 +63,19 @@
       "dot": "amber",
       "url": "https://mail.google.com/mail/u/0/#inbox/19bd4e0eb1ca0dee",
       "title": "Atria Introduction",
-      "meta": "Laura Wagstaff (Atria) looped in her team and wants a call this week"
+      "meta": "Laura & Kai (Atria) want to lock a Friday call — times still open"
     },
     {
       "dot": "amber",
       "url": "https://mail.google.com/mail/u/0/#inbox/1a1143e0742182a5",
       "title": "Follow up Appointment questions",
-      "meta": "Steadman Clinic — call proposed for the 21st"
+      "meta": "Steadman Clinic — call set for the 21st (~5pm MST)"
     },
     {
       "dot": "green",
-      "url": "https://mail.google.com/mail/u/0/#inbox/1a131b1b62ee445e",
-      "title": "Steadman Clinic patient portal update",
-      "meta": "Portal notification · Oct 12"
+      "url": "https://mail.google.com/mail/u/0/#inbox/1a136cf907952565",
+      "title": "Fwd: Tempur-Pedic receipt",
+      "meta": "Forwarded by Jane · Oct 13"
     }
   ],
   "inbox": {
@@ -90,7 +86,7 @@
         "url": "https://mail.google.com/mail/u/0/#inbox/19bd4e0eb1ca0dee",
         "title": "Re: Atria Introduction",
         "tag": "REPLY",
-        "meta": "Laura Wagstaff (Atria) · Oct 13"
+        "meta": "Laura & Kai (Atria) · Oct 14"
       },
       {
         "dot": "amber",
@@ -101,24 +97,24 @@
       },
       {
         "dot": "faint",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a131b1b62ee445e",
-        "title": "Patient portal update",
-        "meta": "The Steadman Clinic · Oct 12"
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a136cf907952565",
+        "title": "Fwd: Tempur-Pedic receipt",
+        "meta": "Jane Buckingham · Oct 13"
+      },
+      {
+        "dot": "faint",
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a1337f8d3948b1a",
+        "title": "ChatOn subscription cancels today",
+        "meta": "Paddle · Oct 14"
       },
       {
         "dot": "faint",
         "url": "https://mail.google.com/mail/u/0/#inbox/1a1336ad2192b7b5",
         "title": "Verify your email",
-        "meta": "Paddle · Oct 13"
-      },
-      {
-        "dot": "faint",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a1336c558a74243",
-        "title": "Metrica Sports plan cancellation",
-        "meta": "Ends Nov 13 · Oct 13"
+        "meta": "Paddle (flagged Important) · Oct 13"
       }
     ],
-    "note": "Most of the 14-day unread is automated — PayPal/Paddle receipts, security alerts, and football newsletters. Two threads with real people need a look."
+    "note": "Most of the 14-day unread is automated — PayPal/Paddle receipts, security alerts, and football newsletters. The two real-people threads (Atria, Steadman) are the ones worth a look."
   },
   "drive": [
     {

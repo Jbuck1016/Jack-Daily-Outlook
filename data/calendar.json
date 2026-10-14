@@ -1,5 +1,5 @@
 {
-  "updatedLabel": "Tue Oct 13, 12:08 AM PT",
+  "updatedLabel": "Wed Oct 14, 12:11 AM PT",
   "sources": [
     {
       "key": "personal",
@@ -19,24 +19,8 @@
   ],
   "days": [
     {
-      "label": "Tue · Oct 13",
-      "today": true,
-      "events": [
-        {
-          "time": "11:00 AM",
-          "title": "CP Weekly",
-          "src": "lafc-work",
-          "loc": "OLLY"
-        },
-        {
-          "time": "3:00 PM",
-          "title": "CP Sales Weekly",
-          "src": "lafc-work"
-        }
-      ]
-    },
-    {
       "label": "Wed · Oct 14",
+      "today": true,
       "events": [
         {
           "time": "11:30 AM",
@@ -46,20 +30,25 @@
         {
           "time": "3:00 PM",
           "title": "Laser hair",
-          "src": "personal",
-          "loc": "Grossman Dermatology, Santa Monica"
+          "loc": "Grossman Dermatology · Santa Monica",
+          "src": "personal"
         },
         {
           "time": "7:30 PM",
           "title": "⚽ LAFC vs. Austin FC",
-          "src": "lafc-match",
-          "loc": "BMO Stadium"
+          "loc": "BMO Stadium",
+          "src": "lafc-match"
         }
       ]
     },
     {
       "label": "Thu · Oct 15",
       "events": [
+        {
+          "time": "11:30 AM",
+          "title": "STH Attendance Forecasting",
+          "src": "lafc-work"
+        },
         {
           "time": "12:30 PM",
           "title": "Treyzon",
@@ -93,8 +82,8 @@
         {
           "time": "4:30 PM",
           "title": "⚽ LAFC @ NYCFC",
-          "src": "lafc-match",
-          "loc": "Citi Field"
+          "loc": "Citi Field",
+          "src": "lafc-match"
         }
       ]
     },
@@ -104,8 +93,8 @@
         {
           "time": "2:00 PM",
           "title": "Lunch with Drew",
-          "src": "personal",
-          "loc": "Élephante, Santa Monica"
+          "loc": "Élephante · Santa Monica",
+          "src": "personal"
         }
       ]
     },
@@ -135,8 +124,8 @@
         {
           "time": "8:15 AM",
           "title": "BDS Bi-Weekly",
-          "src": "lafc-work",
-          "loc": "OLLY 818"
+          "loc": "Zoom",
+          "src": "lafc-work"
         },
         {
           "time": "9:30 AM",
@@ -146,8 +135,8 @@
         {
           "time": "11:00 AM",
           "title": "CP Weekly/Summize Training (MANDATORY)",
-          "src": "lafc-work",
-          "loc": "OLLY"
+          "loc": "Zoom",
+          "src": "lafc-work"
         }
       ]
     },
@@ -157,8 +146,8 @@
         {
           "time": "10:00 AM",
           "title": "SAS/LAFC | Weekly Status Sync",
-          "src": "lafc-work",
-          "loc": "Microsoft Teams"
+          "loc": "Microsoft Teams",
+          "src": "lafc-work"
         }
       ]
     },
@@ -168,8 +157,8 @@
         {
           "time": "11:00 AM",
           "title": "SAS / LAFC - Thursday Hands On Call",
-          "src": "lafc-work",
-          "loc": "Microsoft Teams"
+          "loc": "Microsoft Teams",
+          "src": "lafc-work"
         }
       ]
     },
@@ -194,8 +183,8 @@
         {
           "time": "6:00 PM",
           "title": "⚽ LAFC vs. LA Galaxy",
-          "src": "lafc-match",
-          "loc": "BMO Stadium"
+          "loc": "BMO Stadium",
+          "src": "lafc-match"
         }
       ]
     },
@@ -203,13 +192,9 @@
       "label": "Mon · Oct 26",
       "events": [
         {
-          "time": "10:00 AM",
-          "title": "Class",
-          "src": "personal"
-        },
-        {
           "time": "11:00 AM",
           "title": "CP Sales Weekly",
+          "loc": "Zoom",
           "src": "lafc-work"
         },
         {
@@ -235,6 +220,18 @@
         {
           "time": "11:00 AM",
           "title": "CP Weekly",
+          "loc": "Zoom",
+          "src": "lafc-work"
+        }
+      ]
+    },
+    {
+      "label": "Wed · Oct 28",
+      "events": [
+        {
+          "time": "10:00 AM",
+          "title": "SAS/LAFC | Weekly Status Sync",
+          "loc": "Microsoft Teams",
           "src": "lafc-work"
         }
       ]
