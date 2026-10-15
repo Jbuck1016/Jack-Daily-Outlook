@@ -1,5 +1,5 @@
 {
-  "updatedLabel": "Wed Oct 14, 12:11 AM PT",
+  "updatedLabel": "Thu Oct 15, 12:04 AM PT",
   "sources": [
     {
       "key": "personal",
@@ -19,30 +19,8 @@
   ],
   "days": [
     {
-      "label": "Wed · Oct 14",
-      "today": true,
-      "events": [
-        {
-          "time": "11:30 AM",
-          "title": "Nate x Jack 1on1 re: CP Outreach",
-          "src": "lafc-work"
-        },
-        {
-          "time": "3:00 PM",
-          "title": "Laser hair",
-          "loc": "Grossman Dermatology · Santa Monica",
-          "src": "personal"
-        },
-        {
-          "time": "7:30 PM",
-          "title": "⚽ LAFC vs. Austin FC",
-          "loc": "BMO Stadium",
-          "src": "lafc-match"
-        }
-      ]
-    },
-    {
       "label": "Thu · Oct 15",
+      "today": true,
       "events": [
         {
           "time": "11:30 AM",
@@ -50,8 +28,9 @@
           "src": "lafc-work"
         },
         {
-          "time": "12:30 PM",
+          "time": "1:30 PM",
           "title": "Treyzon",
+          "loc": "9454 Wilshire Blvd · Beverly Hills",
           "src": "personal"
         },
         {
@@ -137,6 +116,11 @@
           "title": "CP Weekly/Summize Training (MANDATORY)",
           "loc": "Zoom",
           "src": "lafc-work"
+        },
+        {
+          "time": "3:15 PM",
+          "title": "Dr dugar",
+          "src": "personal"
         }
       ]
     },
@@ -148,6 +132,11 @@
           "title": "SAS/LAFC | Weekly Status Sync",
           "loc": "Microsoft Teams",
           "src": "lafc-work"
+        },
+        {
+          "time": "4:00 PM",
+          "title": "Dr Evans Call exact time TBD",
+          "src": "personal"
         }
       ]
     },
@@ -192,6 +181,11 @@
       "label": "Mon · Oct 26",
       "events": [
         {
+          "time": "10:00 AM",
+          "title": "Class",
+          "src": "personal"
+        },
+        {
           "time": "11:00 AM",
           "title": "CP Sales Weekly",
           "loc": "Zoom",
@@ -231,6 +225,17 @@
         {
           "time": "10:00 AM",
           "title": "SAS/LAFC | Weekly Status Sync",
+          "loc": "Microsoft Teams",
+          "src": "lafc-work"
+        }
+      ]
+    },
+    {
+      "label": "Thu · Oct 29",
+      "events": [
+        {
+          "time": "11:00 AM",
+          "title": "SAS / LAFC - Thursday Hands On Call",
           "loc": "Microsoft Teams",
           "src": "lafc-work"
         }
