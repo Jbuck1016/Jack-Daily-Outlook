@@ -1,5 +1,5 @@
 {
-  "updatedLabel": "Thu Oct 15, 12:04 AM PT",
+  "updatedLabel": "Fri Oct 16, 12:05 AM PT",
   "sources": [
     {
       "key": "personal",
@@ -19,34 +19,18 @@
   ],
   "days": [
     {
-      "label": "Thu · Oct 15",
-      "today": true,
-      "events": [
-        {
-          "time": "11:30 AM",
-          "title": "STH Attendance Forecasting",
-          "src": "lafc-work"
-        },
-        {
-          "time": "1:30 PM",
-          "title": "Treyzon",
-          "loc": "9454 Wilshire Blvd · Beverly Hills",
-          "src": "personal"
-        },
-        {
-          "time": "4:00 PM",
-          "title": "Therapy",
-          "src": "personal"
-        }
-      ]
-    },
-    {
       "label": "Fri · Oct 16",
+      "today": true,
       "events": [
         {
           "time": "10:00 AM",
           "title": "AI Hour",
           "src": "lafc-work"
+        },
+        {
+          "time": "12:00 PM",
+          "title": "Lunch w Taj",
+          "src": "personal"
         },
         {
           "time": "8:00 PM",
@@ -81,6 +65,16 @@
       "label": "Mon · Oct 19",
       "events": [
         {
+          "time": "3:00 AM",
+          "title": "Predicting Match & Season Outcomes — Victoria Friss de Kereki",
+          "src": "personal"
+        },
+        {
+          "time": "9:00 AM",
+          "title": "Dr. Appt",
+          "src": "lafc-work"
+        },
+        {
           "time": "10:00 AM",
           "title": "Class",
           "src": "personal"
@@ -103,7 +97,6 @@
         {
           "time": "8:15 AM",
           "title": "BDS Bi-Weekly",
-          "loc": "Zoom",
           "src": "lafc-work"
         },
         {
@@ -113,8 +106,7 @@
         },
         {
           "time": "11:00 AM",
-          "title": "CP Weekly/Summize Training (MANDATORY)",
-          "loc": "Zoom",
+          "title": "CP Weekly / Summize Training (MANDATORY)",
           "src": "lafc-work"
         },
         {
@@ -130,12 +122,11 @@
         {
           "time": "10:00 AM",
           "title": "SAS/LAFC | Weekly Status Sync",
-          "loc": "Microsoft Teams",
           "src": "lafc-work"
         },
         {
           "time": "4:00 PM",
-          "title": "Dr Evans Call exact time TBD",
+          "title": "Dr Evans Call (exact time TBD)",
           "src": "personal"
         }
       ]
@@ -145,8 +136,7 @@
       "events": [
         {
           "time": "11:00 AM",
-          "title": "SAS / LAFC - Thursday Hands On Call",
-          "loc": "Microsoft Teams",
+          "title": "SAS / LAFC — Thursday Hands On Call",
           "src": "lafc-work"
         }
       ]
@@ -188,7 +178,6 @@
         {
           "time": "11:00 AM",
           "title": "CP Sales Weekly",
-          "loc": "Zoom",
           "src": "lafc-work"
         },
         {
@@ -214,7 +203,6 @@
         {
           "time": "11:00 AM",
           "title": "CP Weekly",
-          "loc": "Zoom",
           "src": "lafc-work"
         }
       ]
@@ -225,7 +213,6 @@
         {
           "time": "10:00 AM",
           "title": "SAS/LAFC | Weekly Status Sync",
-          "loc": "Microsoft Teams",
           "src": "lafc-work"
         }
       ]
@@ -235,8 +222,17 @@
       "events": [
         {
           "time": "11:00 AM",
-          "title": "SAS / LAFC - Thursday Hands On Call",
-          "loc": "Microsoft Teams",
+          "title": "SAS / LAFC — Thursday Hands On Call",
+          "src": "lafc-work"
+        }
+      ]
+    },
+    {
+      "label": "Fri · Oct 30",
+      "events": [
+        {
+          "time": "10:00 AM",
+          "title": "AI Hour",
           "src": "lafc-work"
         }
       ]

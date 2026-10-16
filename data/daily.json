@@ -1,27 +1,18 @@
 {
-  "dateLabel": "Thursday, October 15",
-  "updatedLabel": "Thu Oct 15, 12:04 AM PT",
+  "dateLabel": "Friday, October 16",
+  "updatedLabel": "Fri Oct 16, 12:05 AM PT",
   "today": [
     {
-      "time": "1:30 PM",
-      "title": "Treyzon",
-      "loc": "9454 Wilshire Blvd · Beverly Hills"
+      "time": "12:00 PM",
+      "title": "Lunch w Taj"
     },
     {
-      "time": "4:00 PM",
-      "title": "Therapy"
+      "time": "8:00 PM",
+      "title": "Eli Birthday KBBQ",
+      "accent": "eve"
     }
   ],
   "week": [
-    {
-      "day": "Fri · Oct 16",
-      "items": [
-        {
-          "time": "8:00 PM",
-          "title": "Eli Birthday KBBQ"
-        }
-      ]
-    },
     {
       "day": "Sun · Oct 18",
       "items": [
@@ -52,21 +43,21 @@
   "followups": [
     {
       "dot": "amber",
-      "url": "https://mail.google.com/mail/u/0/#inbox/19bd4e0eb1ca0dee",
-      "title": "Atria Introduction",
-      "meta": "Jane + Kai/Laura (Atria) coordinating a call — landed on 3 PM PT"
+      "url": "https://www.google.com/calendar/event?eid=M3FjaGFyOGQ1YTl0NzE5YWZ0dDh1ZzdtN2ogamFja2J1Y2tpaW5naGFtQG0&ctz=America/Los_Angeles",
+      "title": "Dr Evans Call — needs RSVP",
+      "meta": "Invite from Jane · Wed Oct 21, 4–6 PM PT (Steadman is setting the call)"
     },
     {
       "dot": "amber",
-      "url": "https://mail.google.com/mail/u/0/#inbox/1a13c7a74194c9fd",
-      "title": "Invitation: Dr Evans Call",
-      "meta": "From Jane · Wed Oct 21, 4–6 PM — needs a response"
+      "url": "https://mail.google.com/mail/u/0/#inbox/19bd4e0eb1ca0dee",
+      "title": "Atria Introduction",
+      "meta": "Jane + Kai (Atria) coordinating a call — landed on 3 PM PT"
     },
     {
-      "dot": "green",
-      "url": "https://mail.google.com/mail/u/0/#inbox/1a131b1b62ee445e",
-      "title": "Steadman Clinic portal update",
-      "meta": "New item in your patient portal · Oct 12"
+      "dot": "amber",
+      "url": "https://mail.google.com/mail/u/0/#inbox/1a12e643010868c0",
+      "title": "Re-register interest with FIFA",
+      "meta": "Confirm you want to stay in the talent pipeline"
     },
     {
       "dot": "green",
@@ -87,16 +78,16 @@
       },
       {
         "dot": "amber",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a13c7a74194c9fd",
-        "title": "Invitation: Dr Evans Call",
-        "tag": "EVENT",
-        "meta": "From Jane · Wed Oct 21"
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a1143e0742182a5",
+        "title": "Re: Follow up Appointment questions",
+        "tag": "REPLY",
+        "meta": "Steadman Clinic (Stephanie Villa) · Oct 13"
       },
       {
         "dot": "faint",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a131b1b62ee445e",
-        "title": "Steadman Clinic portal update",
-        "meta": "Patient portal · Oct 12"
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a12e643010868c0",
+        "title": "Re-register interest with FIFA",
+        "meta": "FIFA Careers · Oct 12"
       },
       {
         "dot": "faint",
@@ -105,7 +96,7 @@
         "meta": "Jane Buckingham · Oct 13"
       }
     ],
-    "note": "Most of the 14-day unread is automated — Apple/PayPal/Paddle receipts, security alerts, and football newsletters. The real-people items (Atria thread, the Dr Evans invite from Jane) are the ones worth a look."
+    "note": "Most of the 14-day unread is automated — Audible/Domino's/Barça Innovation Hub promos, PayPal/Coinbase receipts, football newsletters. The real-people items (Atria thread, Steadman/Dr Evans) are the ones worth a look."
   },
   "drive": [
     {
@@ -119,14 +110,14 @@
       "meta": "Google Sheet · edited Oct 8"
     },
     {
-      "url": "https://drive.google.com/file/d/1GCAtZ8r6elIaGT3uu8MrUKniOJ9sWc6k/view",
-      "title": "Scanned receipt (PDF)",
-      "meta": "PDF · added Oct 2"
-    },
-    {
       "url": "https://docs.google.com/document/d/169ke9bnsVAz6Y6Z592kvRgIipMgcC3XR4oOPbPd2jv8/edit",
       "title": "KBYG - Iron Maiden 9.25.26 & 9.27.26",
       "meta": "Google Doc · shared by LAFC · Sep 24"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1GCAtZ8r6elIaGT3uu8MrUKniOJ9sWc6k/view",
+      "title": "Scanned receipt (PDF)",
+      "meta": "PDF · added Oct 2"
     }
   ]
 }
