@@ -1,5 +1,5 @@
 {
-  "updatedLabel": "Fri Oct 16, 12:05 AM PT",
+  "updatedLabel": "Sat Oct 17, 12:03 AM PT",
   "sources": [
     {
       "key": "personal",
@@ -19,28 +19,8 @@
   ],
   "days": [
     {
-      "label": "Fri · Oct 16",
-      "today": true,
-      "events": [
-        {
-          "time": "10:00 AM",
-          "title": "AI Hour",
-          "src": "lafc-work"
-        },
-        {
-          "time": "12:00 PM",
-          "title": "Lunch w Taj",
-          "src": "personal"
-        },
-        {
-          "time": "8:00 PM",
-          "title": "Eli Birthday KBBQ",
-          "src": "personal"
-        }
-      ]
-    },
-    {
       "label": "Sat · Oct 17",
+      "today": true,
       "events": [
         {
           "time": "4:30 PM",
@@ -56,7 +36,7 @@
         {
           "time": "2:00 PM",
           "title": "Lunch with Drew",
-          "loc": "Élephante · Santa Monica",
+          "loc": "Élephante, Santa Monica",
           "src": "personal"
         }
       ]
@@ -67,6 +47,11 @@
         {
           "time": "3:00 AM",
           "title": "Predicting Match & Season Outcomes — Victoria Friss de Kereki",
+          "src": "personal"
+        },
+        {
+          "time": "9:00 AM",
+          "title": "Sibo test",
           "src": "personal"
         },
         {
@@ -88,6 +73,11 @@
           "time": "1:45 PM",
           "title": "Jackson Weekly Check In",
           "src": "lafc-work"
+        },
+        {
+          "time": "4:00 PM",
+          "title": "{Atria Los Angeles} Membership Call",
+          "src": "personal"
         }
       ]
     },
@@ -97,6 +87,7 @@
         {
           "time": "8:15 AM",
           "title": "BDS Bi-Weekly",
+          "loc": "Zoom",
           "src": "lafc-work"
         },
         {
@@ -107,6 +98,7 @@
         {
           "time": "11:00 AM",
           "title": "CP Weekly / Summize Training (MANDATORY)",
+          "loc": "Zoom",
           "src": "lafc-work"
         },
         {
@@ -120,8 +112,15 @@
       "label": "Wed · Oct 21",
       "events": [
         {
-          "time": "10:00 AM",
+          "time": "7:00 AM",
           "title": "SAS/LAFC | Weekly Status Sync",
+          "loc": "Microsoft Teams",
+          "src": "lafc-work"
+        },
+        {
+          "time": "11:30 AM",
+          "title": "Pitchbook Onboarding Call",
+          "loc": "Microsoft Teams",
           "src": "lafc-work"
         },
         {
@@ -135,8 +134,9 @@
       "label": "Thu · Oct 22",
       "events": [
         {
-          "time": "11:00 AM",
-          "title": "SAS / LAFC — Thursday Hands On Call",
+          "time": "8:00 AM",
+          "title": "SAS / LAFC - Thursday Hands On Call",
+          "loc": "Microsoft Teams",
           "src": "lafc-work"
         }
       ]
@@ -157,8 +157,23 @@
       ]
     },
     {
+      "label": "Sat · Oct 24",
+      "events": [
+        {
+          "time": "All day",
+          "title": "Potential Eric party",
+          "src": "personal"
+        }
+      ]
+    },
+    {
       "label": "Sun · Oct 25",
       "events": [
+        {
+          "time": "All day",
+          "title": "Potential Eric party",
+          "src": "personal"
+        },
         {
           "time": "6:00 PM",
           "title": "⚽ LAFC vs. LA Galaxy",
@@ -178,6 +193,7 @@
         {
           "time": "11:00 AM",
           "title": "CP Sales Weekly",
+          "loc": "Zoom",
           "src": "lafc-work"
         },
         {
@@ -203,6 +219,7 @@
         {
           "time": "11:00 AM",
           "title": "CP Weekly",
+          "loc": "Zoom",
           "src": "lafc-work"
         }
       ]
@@ -211,8 +228,9 @@
       "label": "Wed · Oct 28",
       "events": [
         {
-          "time": "10:00 AM",
+          "time": "7:00 AM",
           "title": "SAS/LAFC | Weekly Status Sync",
+          "loc": "Microsoft Teams",
           "src": "lafc-work"
         }
       ]
@@ -221,8 +239,9 @@
       "label": "Thu · Oct 29",
       "events": [
         {
-          "time": "11:00 AM",
-          "title": "SAS / LAFC — Thursday Hands On Call",
+          "time": "8:00 AM",
+          "title": "SAS / LAFC - Thursday Hands On Call",
+          "loc": "Microsoft Teams",
           "src": "lafc-work"
         }
       ]

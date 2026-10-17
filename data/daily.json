@@ -1,20 +1,11 @@
 {
-  "dateLabel": "Friday, October 16",
-  "updatedLabel": "Fri Oct 16, 12:05 AM PT",
-  "today": [
-    {
-      "time": "12:00 PM",
-      "title": "Lunch w Taj"
-    },
-    {
-      "time": "8:00 PM",
-      "title": "Eli Birthday KBBQ",
-      "accent": "eve"
-    }
-  ],
+  "dateLabel": "Saturday, October 17",
+  "updatedLabel": "Sat Oct 17, 12:03 AM PT",
+  "today": [],
+  "todayNote": "No events on your personal calendar today. (LAFC @ NYCFC tonight is on your Matches calendar.)",
   "week": [
     {
-      "day": "Sun · Oct 18",
+      "day": "Sunday, October 18",
       "items": [
         {
           "time": "2:00 PM",
@@ -24,100 +15,95 @@
     }
   ],
   "tasks": {
-    "pillText": "2 recurring today · 0 overdue",
+    "pillText": "0 overdue · 2 today",
     "pillWarn": false,
     "overdue": [],
     "recurring": [
       {
         "title": "Take meds",
         "url": "https://app.todoist.com/app/task/6fPrF5rMMcCF9Fpq",
-        "meta": "Daily · 9:00 AM"
+        "meta": "every day @ 9:00 am"
       },
       {
         "title": "Check WhatsApp",
         "url": "https://app.todoist.com/app/task/6fPrHvm9qrMM44cH",
-        "meta": "Daily · 10:00 AM"
+        "meta": "every day @ 10:00 am"
       }
     ]
   },
   "followups": [
     {
       "dot": "amber",
-      "url": "https://www.google.com/calendar/event?eid=M3FjaGFyOGQ1YTl0NzE5YWZ0dDh1ZzdtN2ogamFja2J1Y2tpaW5naGFtQG0&ctz=America/Los_Angeles",
-      "title": "Dr Evans Call — needs RSVP",
-      "meta": "Invite from Jane · Wed Oct 21, 4–6 PM PT (Steadman is setting the call)"
+      "url": "https://mail.google.com/mail/u/0/#inbox/1a1472a604dd9cd1",
+      "title": "Atria LA Membership Call — invite",
+      "meta": "Kai Allen · Mon Oct 19, 4:00 PM"
     },
     {
       "dot": "amber",
       "url": "https://mail.google.com/mail/u/0/#inbox/19bd4e0eb1ca0dee",
-      "title": "Atria Introduction",
-      "meta": "Jane + Kai (Atria) coordinating a call — landed on 3 PM PT"
-    },
-    {
-      "dot": "amber",
-      "url": "https://mail.google.com/mail/u/0/#inbox/1a12e643010868c0",
-      "title": "Re-register interest with FIFA",
-      "meta": "Confirm you want to stay in the talent pipeline"
+      "title": "Re: Atria Introduction",
+      "meta": "Kai Allen & Jane · call confirmed Mon 4 PM"
     },
     {
       "dot": "green",
-      "url": "https://mail.google.com/mail/u/0/#inbox/1a136cf907952565",
-      "title": "Fwd: Tempur-Pedic receipt",
-      "meta": "Forwarded by Jane · Oct 13"
+      "url": "https://mail.google.com/mail/u/0/#inbox/1a1143e0742182a5",
+      "title": "Re: Follow up Appointment questions",
+      "meta": "Steadman Clinic · Dr. Evans call Tue Oct 21"
     }
   ],
   "inbox": {
-    "unread": 201,
+    "unread": 65,
     "items": [
+      {
+        "dot": "amber",
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a1472a604dd9cd1",
+        "title": "Invitation: {Atria Los Angeles} Membership Call",
+        "tag": "EVENT",
+        "meta": "Kai Allen · Mon Oct 19, 4 PM"
+      },
       {
         "dot": "amber",
         "url": "https://mail.google.com/mail/u/0/#inbox/19bd4e0eb1ca0dee",
         "title": "Re: Atria Introduction",
         "tag": "REPLY",
-        "meta": "Jane + Kai (Atria) · Oct 14"
+        "meta": "Kai Allen & Jane Buckingham"
       },
       {
         "dot": "amber",
         "url": "https://mail.google.com/mail/u/0/#inbox/1a1143e0742182a5",
         "title": "Re: Follow up Appointment questions",
         "tag": "REPLY",
-        "meta": "Steadman Clinic (Stephanie Villa) · Oct 13"
-      },
-      {
-        "dot": "faint",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a12e643010868c0",
-        "title": "Re-register interest with FIFA",
-        "meta": "FIFA Careers · Oct 12"
+        "meta": "Stephanie Villa (Steadman) & Jane"
       },
       {
         "dot": "faint",
         "url": "https://mail.google.com/mail/u/0/#inbox/1a136cf907952565",
-        "title": "Fwd: Tempur-Pedic receipt",
-        "meta": "Jane Buckingham · Oct 13"
+        "title": "Fwd: Thank You For Shopping At Tempur-Pedic",
+        "meta": "Jane Buckingham"
       }
     ],
-    "note": "Most of the 14-day unread is automated — Audible/Domino's/Barça Innovation Hub promos, PayPal/Coinbase receipts, football newsletters. The real-people items (Atria thread, Steadman/Dr Evans) are the ones worth a look."
+    "note": "65 unread in the last 14 days — most are newsletters, promos, and receipts."
   },
   "drive": [
     {
       "url": "https://docs.google.com/spreadsheets/d/1G6mlVASSfOmiATtbrtLaVa2PqXGdvPKaKyOprvKPpvY/edit",
       "title": "Jack Budget — Spending & Income",
-      "meta": "Google Sheet · edited Oct 13"
+      "meta": "Sheet · updated Oct 13"
     },
     {
       "url": "https://docs.google.com/spreadsheets/d/1LFUkclz5qOcMaWzaEs4Ga3OimfRQC29ENuAAvOnZcoQ/edit",
       "title": "Expenses Dad Should Have Paid",
-      "meta": "Google Sheet · edited Oct 8"
+      "meta": "Sheet · updated Oct 8"
     },
     {
       "url": "https://docs.google.com/document/d/169ke9bnsVAz6Y6Z592kvRgIipMgcC3XR4oOPbPd2jv8/edit",
       "title": "KBYG - Iron Maiden 9.25.26 & 9.27.26",
-      "meta": "Google Doc · shared by LAFC · Sep 24"
+      "meta": "Doc · shared by LAFC · Sep 24"
     },
     {
       "url": "https://drive.google.com/file/d/1GCAtZ8r6elIaGT3uu8MrUKniOJ9sWc6k/view",
-      "title": "Scanned receipt (PDF)",
-      "meta": "PDF · added Oct 2"
+      "title": "Receipt (scanned PDF)",
+      "meta": "PDF · Oct 2"
     }
   ]
 }
