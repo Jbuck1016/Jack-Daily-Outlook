@@ -1,19 +1,16 @@
 {
-  "dateLabel": "Saturday, October 17",
-  "updatedLabel": "Sat Oct 17, 12:03 AM PT",
-  "today": [],
-  "todayNote": "No events on your personal calendar today. (LAFC @ NYCFC tonight is on your Matches calendar.)",
-  "week": [
+  "dateLabel": "Sunday, October 18",
+  "updatedLabel": "Sun Oct 18, 12:07 AM PT",
+  "today": [
     {
-      "day": "Sunday, October 18",
-      "items": [
-        {
-          "time": "2:00 PM",
-          "title": "Lunch with Drew"
-        }
-      ]
+      "time": "2:00 PM",
+      "title": "Lunch with Drew",
+      "loc": "Élephante, Santa Monica",
+      "accent": "span"
     }
   ],
+  "todayNote": "Light Sunday — just lunch with Drew. The week picks back up tomorrow (SIBO test, class, and the Atria LA call at 4 PM).",
+  "week": [],
   "tasks": {
     "pillText": "0 overdue · 2 today",
     "pillWarn": false,
@@ -33,10 +30,10 @@
   },
   "followups": [
     {
-      "dot": "amber",
+      "dot": "red",
       "url": "https://mail.google.com/mail/u/0/#inbox/1a1472a604dd9cd1",
       "title": "Atria LA Membership Call — invite",
-      "meta": "Kai Allen · Mon Oct 19, 4:00 PM"
+      "meta": "Kai Allen · tomorrow, Mon Oct 19, 4:00 PM"
     },
     {
       "dot": "amber",
@@ -52,14 +49,14 @@
     }
   ],
   "inbox": {
-    "unread": 65,
+    "unread": 63,
     "items": [
       {
-        "dot": "amber",
+        "dot": "red",
         "url": "https://mail.google.com/mail/u/0/#inbox/1a1472a604dd9cd1",
         "title": "Invitation: {Atria Los Angeles} Membership Call",
         "tag": "EVENT",
-        "meta": "Kai Allen · Mon Oct 19, 4 PM"
+        "meta": "Kai Allen · tomorrow, Mon Oct 19, 4 PM"
       },
       {
         "dot": "amber",
@@ -82,7 +79,7 @@
         "meta": "Jane Buckingham"
       }
     ],
-    "note": "65 unread in the last 14 days — most are newsletters, promos, and receipts."
+    "note": "63 unread in the last 14 days — most are newsletters, promos, and receipts."
   },
   "drive": [
     {

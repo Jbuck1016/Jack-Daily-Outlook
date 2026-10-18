@@ -1,5 +1,5 @@
 {
-  "updatedLabel": "Sat Oct 17, 12:03 AM PT",
+  "updatedLabel": "Sun Oct 18, 12:07 AM PT",
   "sources": [
     {
       "key": "personal",
@@ -19,19 +19,8 @@
   ],
   "days": [
     {
-      "label": "Sat · Oct 17",
-      "today": true,
-      "events": [
-        {
-          "time": "4:30 PM",
-          "title": "⚽ LAFC @ NYCFC",
-          "loc": "Citi Field",
-          "src": "lafc-match"
-        }
-      ]
-    },
-    {
       "label": "Sun · Oct 18",
+      "today": true,
       "events": [
         {
           "time": "2:00 PM",
@@ -76,7 +65,7 @@
         },
         {
           "time": "4:00 PM",
-          "title": "{Atria Los Angeles} Membership Call",
+          "title": "Atria LA Membership Call",
           "src": "personal"
         }
       ]
@@ -87,7 +76,6 @@
         {
           "time": "8:15 AM",
           "title": "BDS Bi-Weekly",
-          "loc": "Zoom",
           "src": "lafc-work"
         },
         {
@@ -97,8 +85,7 @@
         },
         {
           "time": "11:00 AM",
-          "title": "CP Weekly / Summize Training (MANDATORY)",
-          "loc": "Zoom",
+          "title": "CP Weekly/Summize Training (MANDATORY)",
           "src": "lafc-work"
         },
         {
@@ -112,15 +99,13 @@
       "label": "Wed · Oct 21",
       "events": [
         {
-          "time": "7:00 AM",
+          "time": "10:00 AM",
           "title": "SAS/LAFC | Weekly Status Sync",
-          "loc": "Microsoft Teams",
           "src": "lafc-work"
         },
         {
           "time": "11:30 AM",
           "title": "Pitchbook Onboarding Call",
-          "loc": "Microsoft Teams",
           "src": "lafc-work"
         },
         {
@@ -134,9 +119,8 @@
       "label": "Thu · Oct 22",
       "events": [
         {
-          "time": "8:00 AM",
-          "title": "SAS / LAFC - Thursday Hands On Call",
-          "loc": "Microsoft Teams",
+          "time": "11:00 AM",
+          "title": "SAS / LAFC — Thursday Hands-On Call",
           "src": "lafc-work"
         }
       ]
@@ -157,28 +141,19 @@
       ]
     },
     {
-      "label": "Sat · Oct 24",
-      "events": [
-        {
-          "time": "All day",
-          "title": "Potential Eric party",
-          "src": "personal"
-        }
-      ]
-    },
-    {
       "label": "Sun · Oct 25",
       "events": [
-        {
-          "time": "All day",
-          "title": "Potential Eric party",
-          "src": "personal"
-        },
         {
           "time": "6:00 PM",
           "title": "⚽ LAFC vs. LA Galaxy",
           "loc": "BMO Stadium",
           "src": "lafc-match"
+        },
+        {
+          "time": "6:15 PM",
+          "title": "You Can See Everything",
+          "loc": "The Grove",
+          "src": "personal"
         }
       ]
     },
@@ -193,7 +168,6 @@
         {
           "time": "11:00 AM",
           "title": "CP Sales Weekly",
-          "loc": "Zoom",
           "src": "lafc-work"
         },
         {
@@ -219,7 +193,6 @@
         {
           "time": "11:00 AM",
           "title": "CP Weekly",
-          "loc": "Zoom",
           "src": "lafc-work"
         }
       ]
@@ -228,9 +201,8 @@
       "label": "Wed · Oct 28",
       "events": [
         {
-          "time": "7:00 AM",
+          "time": "10:00 AM",
           "title": "SAS/LAFC | Weekly Status Sync",
-          "loc": "Microsoft Teams",
           "src": "lafc-work"
         }
       ]
@@ -239,9 +211,8 @@
       "label": "Thu · Oct 29",
       "events": [
         {
-          "time": "8:00 AM",
-          "title": "SAS / LAFC - Thursday Hands On Call",
-          "loc": "Microsoft Teams",
+          "time": "11:00 AM",
+          "title": "SAS / LAFC — Thursday Hands-On Call",
           "src": "lafc-work"
         }
       ]
