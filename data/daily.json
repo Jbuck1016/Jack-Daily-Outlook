@@ -1,16 +1,78 @@
 {
-  "dateLabel": "Sunday, October 18",
-  "updatedLabel": "Sun Oct 18, 12:07 AM PT",
+  "dateLabel": "Monday, October 19",
+  "updatedLabel": "Mon Oct 19, 12:15 AM PT",
   "today": [
     {
-      "time": "2:00 PM",
-      "title": "Lunch with Drew",
-      "loc": "Élephante, Santa Monica",
+      "time": "3:00 AM",
+      "title": "Predicting Match & Season Outcomes — Victoria Friss de Kereki"
+    },
+    {
+      "time": "9:00 AM",
+      "title": "SIBO test",
       "accent": "span"
+    },
+    {
+      "time": "10:00 AM",
+      "title": "Class"
+    },
+    {
+      "time": "4:00 PM",
+      "title": "Atria LA Membership Call",
+      "loc": "Zoom · Kai Allen"
     }
   ],
-  "todayNote": "Light Sunday — just lunch with Drew. The week picks back up tomorrow (SIBO test, class, and the Atria LA call at 4 PM).",
-  "week": [],
+  "todayNote": "Busy Monday — SIBO test this morning, class at 10, three LAFC work blocks (Dr. appt, Nate 1:1, weekly check-in), and the Atria LA membership call at 4 PM.",
+  "week": [
+    {
+      "day": "Tue · Oct 20",
+      "items": [
+        {
+          "time": "3:15 PM",
+          "title": "Dr. Dugar"
+        }
+      ]
+    },
+    {
+      "day": "Wed · Oct 21",
+      "items": [
+        {
+          "time": "4:00 PM",
+          "title": "Dr. Evans Call (exact time TBD)"
+        }
+      ]
+    },
+    {
+      "day": "Fri · Oct 23",
+      "items": [
+        {
+          "time": "All day",
+          "title": "Potential Eric party"
+        }
+      ]
+    },
+    {
+      "day": "Sat · Oct 24",
+      "items": [
+        {
+          "time": "All day",
+          "title": "Potential Eric party"
+        }
+      ]
+    },
+    {
+      "day": "Sun · Oct 25",
+      "items": [
+        {
+          "time": "All day",
+          "title": "Potential Eric party"
+        },
+        {
+          "time": "6:15 PM",
+          "title": "You Can See Everything"
+        }
+      ]
+    }
+  ],
   "tasks": {
     "pillText": "0 overdue · 2 today",
     "pillWarn": false,
@@ -33,13 +95,13 @@
       "dot": "red",
       "url": "https://mail.google.com/mail/u/0/#inbox/1a1472a604dd9cd1",
       "title": "Atria LA Membership Call — invite",
-      "meta": "Kai Allen · tomorrow, Mon Oct 19, 4:00 PM"
+      "meta": "Kai Allen · today, Mon Oct 19, 4:00 PM"
     },
     {
       "dot": "amber",
       "url": "https://mail.google.com/mail/u/0/#inbox/19bd4e0eb1ca0dee",
       "title": "Re: Atria Introduction",
-      "meta": "Kai Allen & Jane · call confirmed Mon 4 PM"
+      "meta": "Kai Allen & Jane · call confirmed today 4 PM"
     },
     {
       "dot": "green",
@@ -49,21 +111,21 @@
     }
   ],
   "inbox": {
-    "unread": 63,
+    "unread": 65,
     "items": [
       {
         "dot": "red",
         "url": "https://mail.google.com/mail/u/0/#inbox/1a1472a604dd9cd1",
         "title": "Invitation: {Atria Los Angeles} Membership Call",
         "tag": "EVENT",
-        "meta": "Kai Allen · tomorrow, Mon Oct 19, 4 PM"
+        "meta": "Kai Allen · today, Mon Oct 19, 4 PM"
       },
       {
         "dot": "amber",
         "url": "https://mail.google.com/mail/u/0/#inbox/19bd4e0eb1ca0dee",
         "title": "Re: Atria Introduction",
         "tag": "REPLY",
-        "meta": "Kai Allen & Jane Buckingham"
+        "meta": "Kai Allen & Jane · call confirmed today 4 PM"
       },
       {
         "dot": "amber",
@@ -79,18 +141,18 @@
         "meta": "Jane Buckingham"
       }
     ],
-    "note": "63 unread in the last 14 days — most are newsletters, promos, and receipts."
+    "note": "65 unread in the last 14 days — most are newsletters, promos, and receipts."
   },
   "drive": [
     {
       "url": "https://docs.google.com/spreadsheets/d/1G6mlVASSfOmiATtbrtLaVa2PqXGdvPKaKyOprvKPpvY/edit",
       "title": "Jack Budget — Spending & Income",
-      "meta": "Sheet · updated Oct 13"
+      "meta": "Sheet · updated Oct 18"
     },
     {
       "url": "https://docs.google.com/spreadsheets/d/1LFUkclz5qOcMaWzaEs4Ga3OimfRQC29ENuAAvOnZcoQ/edit",
       "title": "Expenses Dad Should Have Paid",
-      "meta": "Sheet · updated Oct 8"
+      "meta": "Sheet · updated Oct 7"
     },
     {
       "url": "https://docs.google.com/document/d/169ke9bnsVAz6Y6Z592kvRgIipMgcC3XR4oOPbPd2jv8/edit",

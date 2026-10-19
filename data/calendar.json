@@ -1,5 +1,5 @@
 {
-  "updatedLabel": "Sun Oct 18, 12:07 AM PT",
+  "updatedLabel": "Mon Oct 19, 12:15 AM PT",
   "sources": [
     {
       "key": "personal",
@@ -19,19 +19,8 @@
   ],
   "days": [
     {
-      "label": "Sun · Oct 18",
-      "today": true,
-      "events": [
-        {
-          "time": "2:00 PM",
-          "title": "Lunch with Drew",
-          "loc": "Élephante, Santa Monica",
-          "src": "personal"
-        }
-      ]
-    },
-    {
       "label": "Mon · Oct 19",
+      "today": true,
       "events": [
         {
           "time": "3:00 AM",
@@ -40,7 +29,7 @@
         },
         {
           "time": "9:00 AM",
-          "title": "Sibo test",
+          "title": "SIBO test",
           "src": "personal"
         },
         {
@@ -90,7 +79,7 @@
         },
         {
           "time": "3:15 PM",
-          "title": "Dr dugar",
+          "title": "Dr. Dugar",
           "src": "personal"
         }
       ]
@@ -110,7 +99,7 @@
         },
         {
           "time": "4:00 PM",
-          "title": "Dr Evans Call (exact time TBD)",
+          "title": "Dr. Evans Call (exact time TBD)",
           "src": "personal"
         }
       ]
@@ -120,7 +109,7 @@
       "events": [
         {
           "time": "11:00 AM",
-          "title": "SAS / LAFC — Thursday Hands-On Call",
+          "title": "SAS / LAFC - Thursday Hands On Call",
           "src": "lafc-work"
         }
       ]
@@ -141,11 +130,26 @@
       ]
     },
     {
+      "label": "Sat · Oct 24",
+      "events": [
+        {
+          "time": "All day",
+          "title": "Potential Eric party",
+          "src": "personal"
+        }
+      ]
+    },
+    {
       "label": "Sun · Oct 25",
       "events": [
         {
+          "time": "All day",
+          "title": "Potential Eric party",
+          "src": "personal"
+        },
+        {
           "time": "6:00 PM",
-          "title": "⚽ LAFC vs. LA Galaxy",
+          "title": "LAFC vs. LA Galaxy",
           "loc": "BMO Stadium",
           "src": "lafc-match"
         },
@@ -187,7 +191,7 @@
       "events": [
         {
           "time": "All day",
-          "title": "Chief keep concert",
+          "title": "Chief Keef concert",
           "src": "personal"
         },
         {
@@ -212,7 +216,7 @@
       "events": [
         {
           "time": "11:00 AM",
-          "title": "SAS / LAFC — Thursday Hands-On Call",
+          "title": "SAS / LAFC - Thursday Hands On Call",
           "src": "lafc-work"
         }
       ]
@@ -223,6 +227,42 @@
         {
           "time": "10:00 AM",
           "title": "AI Hour",
+          "src": "lafc-work"
+        }
+      ]
+    },
+    {
+      "label": "Sun · Nov 1",
+      "events": [
+        {
+          "time": "1:30 PM",
+          "title": "LAFC vs. Minnesota United",
+          "loc": "BMO Stadium",
+          "src": "lafc-match"
+        }
+      ]
+    },
+    {
+      "label": "Mon · Nov 2",
+      "events": [
+        {
+          "time": "10:00 AM",
+          "title": "Class",
+          "src": "personal"
+        },
+        {
+          "time": "11:00 AM",
+          "title": "CP Sales Weekly",
+          "src": "lafc-work"
+        },
+        {
+          "time": "12:30 PM",
+          "title": "Nate x Jack 1on1 re: CP Outreach",
+          "src": "lafc-work"
+        },
+        {
+          "time": "1:45 PM",
+          "title": "Jackson Weekly Check In",
           "src": "lafc-work"
         }
       ]

@@ -5,8 +5,56 @@
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-10-18T07:08:00Z",
+      "updated": "2026-10-19T07:15:45Z",
       "emails": [
+        {
+          "from": "Liam Henshaw",
+          "subject": "Your first scout report only has to exist",
+          "snippet": "It won't be perfect. Put it out there.",
+          "date": "2026-10-19T05:30:36Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a152a3f14b30070"
+        },
+        {
+          "from": "Domino's",
+          "subject": "Get it while it's hot 🔥",
+          "snippet": "Carryout special on any 1-topping pizza.",
+          "date": "2026-10-19T02:29:50Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a151fe6fa08b2fb"
+        },
+        {
+          "from": "Instagram",
+          "subject": "See stitchklips, chipchasin3k and more in your feed",
+          "snippet": "Suggested accounts based on your interests: stitchklips, chipchasin3k, and 4 others.",
+          "date": "2026-10-18T19:02:02Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a150647f79f1829"
+        },
+        {
+          "from": "Liam Henshaw",
+          "subject": "How to build a player rating model like a club",
+          "snippet": "Using free Bundesliga data.",
+          "date": "2026-10-18T16:59:16Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a14ff40fa5fdee2"
+        },
+        {
+          "from": "Jack Buckingham",
+          "subject": "⚽🎰 38 new jobs — Oct 18",
+          "snippet": "Soccer & Betting Jobs daily digest · 38 new, 0 still open.",
+          "date": "2026-10-18T16:21:12Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a14fd135ba2f8d8"
+        },
+        {
+          "from": "PayPal",
+          "subject": "Coinbase Inc.: $200.00 USD",
+          "snippet": "You paid $200.00 USD to Coinbase Inc. Transaction date Oct 18, 2026.",
+          "date": "2026-10-18T15:16:36Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a14f960ccfdea51"
+        },
         {
           "from": "Google",
           "subject": "You shared some Google Account data with Claude",
@@ -38,55 +86,6 @@
           "date": "2026-10-17T16:07:54Z",
           "unread": true,
           "url": "https://mail.google.com/mail/u/0/#inbox/1a14a9eadfb452e2"
-        },
-        {
-          "from": "Claude",
-          "subject": "This week in Claude Code: updates to the desktop app, cloud sessions, and more",
-          "snippet": "Plus: API credits on Max and Team.",
-          "date": "2026-10-17T03:46:48Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a147f82ad1208c4"
-        },
-        {
-          "from": "Apple",
-          "subject": "Your receipt from Apple.",
-          "snippet": "Your Apple Account was used to purchase Mega Fan [Monthly] and other items.",
-          "date": "2026-10-17T03:42:23Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a147f421876dffc"
-        },
-        {
-          "from": "PayPal",
-          "subject": "Patreon: $1.50 USD",
-          "snippet": "You paid $1.50 USD to Patreon. Transaction date Oct 16, 2026.",
-          "date": "2026-10-17T00:33:22Z",
-          "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a1474711de42d8d"
-        },
-        {
-          "from": "Kai Allen",
-          "subject": "Invitation: {Atria Los Angeles} Membership Call @ Mon Oct 19, 2026 4pm - 4:30pm (PDT)",
-          "snippet": "You have been invited by Kai Allen to attend {Atria Los Angeles} Membership Call on Monday Oct 19, 2026, 4pm - 4:30pm (Pacific Time).",
-          "date": "2026-10-17T00:02:01Z",
-          "unread": true,
-          "tag": "Important",
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a1472a604dd9cd1"
-        },
-        {
-          "from": "Domino's",
-          "subject": "Satisfy everyone? The Domino™ can. 😋",
-          "snippet": "Everyone wins now that Domino is part of Mix & Match.",
-          "date": "2026-10-16T23:19:43Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a1470411f10504e"
-        },
-        {
-          "from": "Apple Developer",
-          "subject": "Updated App Review Guidelines are now available.",
-          "snippet": "The App Review Guidelines have been revised to support new features and updated policies.",
-          "date": "2026-10-16T22:52:16Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a146ea8f10884ae"
         }
       ]
     },
