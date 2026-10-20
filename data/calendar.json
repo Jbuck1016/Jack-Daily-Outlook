@@ -1,5 +1,5 @@
 {
-  "updatedLabel": "Mon Oct 19, 12:15 AM PT",
+  "updatedLabel": "Tue Oct 20, 12:19 AM PT",
   "sources": [
     {
       "key": "personal",
@@ -19,48 +19,8 @@
   ],
   "days": [
     {
-      "label": "Mon · Oct 19",
-      "today": true,
-      "events": [
-        {
-          "time": "3:00 AM",
-          "title": "Predicting Match & Season Outcomes — Victoria Friss de Kereki",
-          "src": "personal"
-        },
-        {
-          "time": "9:00 AM",
-          "title": "SIBO test",
-          "src": "personal"
-        },
-        {
-          "time": "9:00 AM",
-          "title": "Dr. Appt",
-          "src": "lafc-work"
-        },
-        {
-          "time": "10:00 AM",
-          "title": "Class",
-          "src": "personal"
-        },
-        {
-          "time": "12:30 PM",
-          "title": "Nate x Jack 1on1 re: CP Outreach",
-          "src": "lafc-work"
-        },
-        {
-          "time": "1:45 PM",
-          "title": "Jackson Weekly Check In",
-          "src": "lafc-work"
-        },
-        {
-          "time": "4:00 PM",
-          "title": "Atria LA Membership Call",
-          "src": "personal"
-        }
-      ]
-    },
-    {
       "label": "Tue · Oct 20",
+      "today": true,
       "events": [
         {
           "time": "8:15 AM",
@@ -74,7 +34,12 @@
         },
         {
           "time": "11:00 AM",
-          "title": "CP Weekly/Summize Training (MANDATORY)",
+          "title": "CP Weekly / Summize Training (MANDATORY)",
+          "src": "lafc-work"
+        },
+        {
+          "time": "2:00 PM",
+          "title": "Nate x Jack 1on1 re: CP Outreach",
           "src": "lafc-work"
         },
         {
@@ -90,7 +55,8 @@
         {
           "time": "10:00 AM",
           "title": "SAS/LAFC | Weekly Status Sync",
-          "src": "lafc-work"
+          "src": "lafc-work",
+          "loc": "Microsoft Teams"
         },
         {
           "time": "11:30 AM",
@@ -110,7 +76,13 @@
         {
           "time": "11:00 AM",
           "title": "SAS / LAFC - Thursday Hands On Call",
-          "src": "lafc-work"
+          "src": "lafc-work",
+          "loc": "Microsoft Teams"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Dinner w/ Conor",
+          "src": "personal"
         }
       ]
     },
@@ -149,15 +121,15 @@
         },
         {
           "time": "6:00 PM",
-          "title": "LAFC vs. LA Galaxy",
-          "loc": "BMO Stadium",
-          "src": "lafc-match"
+          "title": "⚽ LAFC vs. LA Galaxy",
+          "src": "lafc-match",
+          "loc": "BMO Stadium"
         },
         {
           "time": "6:15 PM",
           "title": "You Can See Everything",
-          "loc": "The Grove",
-          "src": "personal"
+          "src": "personal",
+          "loc": "The Grove"
         }
       ]
     },
@@ -191,7 +163,7 @@
       "events": [
         {
           "time": "All day",
-          "title": "Chief Keef concert",
+          "title": "Chief keep concert",
           "src": "personal"
         },
         {
@@ -207,7 +179,8 @@
         {
           "time": "10:00 AM",
           "title": "SAS/LAFC | Weekly Status Sync",
-          "src": "lafc-work"
+          "src": "lafc-work",
+          "loc": "Microsoft Teams"
         }
       ]
     },
@@ -217,7 +190,8 @@
         {
           "time": "11:00 AM",
           "title": "SAS / LAFC - Thursday Hands On Call",
-          "src": "lafc-work"
+          "src": "lafc-work",
+          "loc": "Microsoft Teams"
         }
       ]
     },
@@ -236,9 +210,9 @@
       "events": [
         {
           "time": "1:30 PM",
-          "title": "LAFC vs. Minnesota United",
-          "loc": "BMO Stadium",
-          "src": "lafc-match"
+          "title": "⚽ LAFC vs. Minnesota United",
+          "src": "lafc-match",
+          "loc": "BMO Stadium"
         }
       ]
     },
@@ -263,6 +237,21 @@
         {
           "time": "1:45 PM",
           "title": "Jackson Weekly Check In",
+          "src": "lafc-work"
+        }
+      ]
+    },
+    {
+      "label": "Tue · Nov 3",
+      "events": [
+        {
+          "time": "8:15 AM",
+          "title": "BDS Bi-Weekly",
+          "src": "lafc-work"
+        },
+        {
+          "time": "11:00 AM",
+          "title": "CP Weekly",
           "src": "lafc-work"
         }
       ]
