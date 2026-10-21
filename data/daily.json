@@ -1,23 +1,18 @@
 {
-  "dateLabel": "Tuesday, October 20",
-  "updatedLabel": "Tue Oct 20, 12:19 AM PT",
+  "dateLabel": "Wednesday, October 21",
+  "updatedLabel": "Wed Oct 21, 12:12 AM PT",
   "today": [
     {
-      "time": "3:15 PM",
-      "title": "Dr. Dugar"
+      "time": "11:00 AM",
+      "title": "Call with Jayden"
+    },
+    {
+      "time": "4:00 PM",
+      "title": "Dr. Evans Call (exact time TBD)"
     }
   ],
-  "todayNote": "Light personal calendar today — just Dr. Dugar at 3:15 PM. The LAFC side is a full morning: BDS bi-weekly (8:15), CP Sales Weekly (9:30), the mandatory CP Weekly / Summize training (11:00), and your Nate 1:1 at 2:00.",
+  "todayNote": "Quiet day on the personal side — just the call with Jayden at 11 and the Dr. Evans call at 4 (exact time still TBD, Jane set it up). On the LAFC side, your only thing is the Pitchbook onboarding call at 11:30.",
   "week": [
-    {
-      "day": "Wed · Oct 21",
-      "items": [
-        {
-          "time": "4:00 PM",
-          "title": "Dr. Evans Call (exact time TBD)"
-        }
-      ]
-    },
     {
       "day": "Thu · Oct 22",
       "items": [
@@ -87,7 +82,7 @@
     {
       "dot": "amber",
       "title": "Confirm Dr. Evans call time",
-      "meta": "Wed Oct 21 · exact time still TBD"
+      "meta": "Today · exact time still TBD"
     },
     {
       "dot": "green",
@@ -97,7 +92,7 @@
     }
   ],
   "inbox": {
-    "unread": 66,
+    "unread": 70,
     "items": [
       {
         "dot": "amber",
@@ -120,7 +115,7 @@
         "meta": "Jane Buckingham"
       }
     ],
-    "note": "66 unread in the last 14 days — most are newsletters, promos, and receipts."
+    "note": "70 unread in the last 14 days — almost all newsletters, promos, and receipts (Domino's, Audible, eBay, Barça, Transfer Flow)."
   },
   "drive": [
     {

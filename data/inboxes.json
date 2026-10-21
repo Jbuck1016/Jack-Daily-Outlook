@@ -5,88 +5,87 @@
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-10-20T07:19:46Z",
+      "updated": "2026-10-21T07:17:25Z",
       "emails": [
         {
-          "from": "Anthropic",
-          "subject": "Your receipt from Anthropic, PBC #2792-5476-9715",
-          "snippet": "Your receipt from Anthropic, PBC #2792-5476-9715.",
-          "date": "2026-10-20T06:08:29Z",
-          "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a157ecf73930bc6"
+          "from": "PayPal",
+          "subject": "Coinbase Inc.: $250.00 USD",
+          "snippet": "You paid $250.00 USD to Coinbase Inc. — transaction dated Oct 20, 2026.",
+          "date": "2026-10-21T05:26:22Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a15cecc68f32331"
         },
         {
-          "from": "Anthropic",
-          "subject": "Your receipt from Anthropic, PBC #2701-0529-2787",
-          "snippet": "Your receipt from Anthropic, PBC #2701-0529-2787.",
-          "date": "2026-10-20T06:03:15Z",
-          "unread": true,
-          "tag": "Important",
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a157e82dccb55e8"
+          "from": "Amazon.co.uk",
+          "subject": "Payment declined: Update your information so we can ship your order.",
+          "snippet": "Payment declined — update your information so we can ship your order.",
+          "date": "2026-10-21T00:51:04Z",
+          "unread": false,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a15bf0ba49ec997"
         },
         {
           "from": "Domino's",
-          "subject": "🍕 Free Pizza for a Year or Gift Cards—Don't Miss This",
-          "snippet": "Only the fastest score the best prizes!",
-          "date": "2026-10-19T23:18:00Z",
+          "subject": "Mix & Match 2 or more pizza essentials 🤌 🍕",
+          "snippet": "Let your taste buds decide.",
+          "date": "2026-10-20T23:16:26Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a156756e2d6d25c"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a15b9a85dc5e045"
         },
         {
-          "from": "Audible",
-          "subject": "Still time for $0.99/mo + $20 credit",
-          "snippet": "Save over 80% and get a $20 Audible credit.",
-          "date": "2026-10-19T21:42:06Z",
+          "from": "eBay",
+          "subject": "Updates to our User Privacy Notice 2026",
+          "snippet": "We're updating our User Privacy Notice to make it easier to understand how we use personal data.",
+          "date": "2026-10-20T22:18:53Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a1561d585974320"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a15b6564c09f3c4"
         },
         {
-          "from": "Audible",
-          "subject": "Hundreds of titles, up to 80% off!",
-          "snippet": "Shop October's monthly deals — latest sales & deals.",
-          "date": "2026-10-19T20:29:21Z",
+          "from": "eBay",
+          "subject": "We're updating our Payments Terms of Use",
+          "snippet": "Find out about the changes to our payment services.",
+          "date": "2026-10-20T20:27:07Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a155dac289551b1"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a15aff10b7b7000"
+        },
+        {
+          "from": "Instagram",
+          "subject": "See 13800baba, nnutellabutt and more in your feed",
+          "snippet": "New people to discover — suggested accounts based on your interests.",
+          "date": "2026-10-20T19:03:03Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a15ab23a7d2e311"
         },
         {
           "from": "Jack Buckingham",
-          "subject": "⚽🎰 53 new jobs — Oct 19",
-          "snippet": "Soccer & Betting Jobs daily digest · 53 new, 0 still open.",
-          "date": "2026-10-19T18:59:34Z",
-          "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a155888bedfbe2c"
-        },
-        {
-          "from": "MSK",
-          "subject": "Jack, these discoveries are now FDA-approved treatments helping people live longer",
-          "snippet": "Breast cancer treatment breakthroughs powered by the MSK Giving community.",
-          "date": "2026-10-19T14:05:40Z",
+          "subject": "⚽🎰 36 new jobs — Oct 20",
+          "snippet": "Soccer & Betting Jobs daily digest · 36 new, 0 still open.",
+          "date": "2026-10-20T17:46:20Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a1547c03897791e"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a15a6bdccdb4b77"
         },
         {
           "from": "The Transfer Flow",
-          "subject": "Two of these teams are shockingly bad: A Premier League recap",
-          "snippet": "But Arsenal are fine, Chelsea are improving, Liverpool are sneaky good?",
-          "date": "2026-10-19T13:07:26Z",
+          "subject": "Brighton might finally be good enough to make Champions League",
+          "snippet": "They sit 3rd in the Premier League table, and top of several attacking metrics.",
+          "date": "2026-10-20T14:20:37Z",
           "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a15446283a49dad"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a159af86c79b7a3"
         },
         {
-          "from": "Vail Valley Surgery Center",
-          "subject": "Vail Valley Surgery Center would like your feedback!",
-          "snippet": "You recently received a survey about your recent visit.",
-          "date": "2026-10-19T08:42:13Z",
+          "from": "U.S. Soccer",
+          "subject": "Just announced: USMNT vs. Jamaica",
+          "snippet": "The USMNT is back in action this December — USA vs Jamaica, December 13 in Fort Lauderdale.",
+          "date": "2026-10-20T14:06:34Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a1535357720784a"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a159a2b77b71766"
         },
         {
-          "from": "Liam Henshaw",
-          "subject": "Your first scout report only has to exist",
-          "snippet": "It won't be perfect. Put it out there.",
-          "date": "2026-10-19T05:30:36Z",
+          "from": "The Transfer Flow",
+          "subject": "Variance Betting - Champions League, Championship, + MLS 20 Oct 2026",
+          "snippet": "The irrepressible hot streak was bound to end sometime — a -1 weekend really isn't bad.",
+          "date": "2026-10-20T14:00:54Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a152a3f14b30070"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a1599d786c41aa6"
         }
       ]
     },
