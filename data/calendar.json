@@ -1,5 +1,5 @@
 {
-  "updatedLabel": "Wed Oct 21, 12:12 AM PT",
+  "updatedLabel": "Thu Oct 22, 12:14 AM PT",
   "sources": [
     {
       "key": "personal",
@@ -19,38 +19,17 @@
   ],
   "days": [
     {
-      "label": "Wed · Oct 21",
+      "label": "Thu · Oct 22",
       "today": true,
       "events": [
         {
           "time": "11:00 AM",
-          "title": "Call with Jayden",
-          "src": "personal"
-        },
-        {
-          "time": "11:30 AM",
-          "title": "Pitchbook Onboarding Call",
+          "title": "SAS / LAFC — Thursday Hands On Call",
           "src": "lafc-work"
         },
         {
-          "time": "4:00 PM",
-          "title": "Dr. Evans Call (exact time TBD)",
-          "src": "personal"
-        }
-      ]
-    },
-    {
-      "label": "Thu · Oct 22",
-      "events": [
-        {
-          "time": "11:00 AM",
-          "title": "SAS / LAFC - Thursday Hands On Call",
-          "src": "lafc-work",
-          "loc": "Microsoft Teams"
-        },
-        {
           "time": "7:00 PM",
-          "title": "Dinner w/ Conor",
+          "title": "Dinner w Conor",
           "src": "personal"
         }
       ]
@@ -91,14 +70,14 @@
         {
           "time": "6:00 PM",
           "title": "⚽ LAFC vs. LA Galaxy",
-          "src": "lafc-match",
-          "loc": "BMO Stadium"
+          "loc": "BMO Stadium",
+          "src": "lafc-match"
         },
         {
           "time": "6:15 PM",
           "title": "You Can See Everything",
-          "src": "personal",
-          "loc": "The Grove"
+          "loc": "The Grove",
+          "src": "personal"
         }
       ]
     },
@@ -152,13 +131,17 @@
       "events": [
         {
           "time": "10:00 AM",
-          "title": "SAS/LAFC | Weekly Status Sync",
-          "src": "lafc-work",
-          "loc": "Microsoft Teams"
+          "title": "SAS/LAFC — Weekly Status Sync",
+          "src": "lafc-work"
         },
         {
           "time": "2:00 PM",
-          "title": "Call w/ Marlo",
+          "title": "Call w Marlo",
+          "src": "personal"
+        },
+        {
+          "time": "5:00 PM",
+          "title": "SPLA New Volunteer Orientation",
           "src": "personal"
         }
       ]
@@ -168,9 +151,19 @@
       "events": [
         {
           "time": "11:00 AM",
-          "title": "SAS / LAFC - Thursday Hands On Call",
-          "src": "lafc-work",
-          "loc": "Microsoft Teams"
+          "title": "SAS / LAFC — Thursday Hands On Call",
+          "src": "lafc-work"
+        },
+        {
+          "time": "12:00 PM",
+          "title": "Lunch w seb and Jackson",
+          "src": "personal"
+        },
+        {
+          "time": "1:00 PM",
+          "title": "LUNCH: Global Entertainment Takeover",
+          "loc": "Gyu-Kaku, Beverly Hills",
+          "src": "personal"
         },
         {
           "time": "4:00 PM",
@@ -195,8 +188,8 @@
         {
           "time": "1:30 PM",
           "title": "⚽ LAFC vs. Minnesota United",
-          "src": "lafc-match",
-          "loc": "BMO Stadium"
+          "loc": "BMO Stadium",
+          "src": "lafc-match"
         }
       ]
     },
@@ -236,6 +229,16 @@
         {
           "time": "11:00 AM",
           "title": "CP Weekly",
+          "src": "lafc-work"
+        }
+      ]
+    },
+    {
+      "label": "Thu · Nov 5",
+      "events": [
+        {
+          "time": "3:00 PM",
+          "title": "Mike x Jackson Monthly 1on1",
           "src": "lafc-work"
         }
       ]

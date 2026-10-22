@@ -1,91 +1,95 @@
 {
-  "note": "Last 10 received messages for your primary inbox. Secondary account is not connected.",
+  "note": "The 10 most recent messages in your primary inbox. Your secondary account isn't connected.",
   "accounts": [
     {
       "email": "jackbuckiingham@gmail.com",
       "label": "Primary",
       "connected": true,
-      "updated": "2026-10-21T07:17:25Z",
+      "updated": "2026-10-22T07:14:29Z",
       "emails": [
         {
-          "from": "PayPal",
-          "subject": "Coinbase Inc.: $250.00 USD",
-          "snippet": "You paid $250.00 USD to Coinbase Inc. — transaction dated Oct 20, 2026.",
-          "date": "2026-10-21T05:26:22Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a15cecc68f32331"
+          "from": "Safe Parking LA",
+          "subject": "Thank you for registering for Safe Parking LA's Volunteer Orientation!",
+          "snippet": "Thank you for registering for our New Volunteer Orientation on Wednesday, October 28, 2026, from 5:00 PM to 6:00 PM with Brennan Weber.",
+          "date": "2026-10-22T06:29:00Z",
+          "unread": false,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a1624c78aa8296c"
         },
         {
-          "from": "Amazon.co.uk",
-          "subject": "Payment declined: Update your information so we can ship your order.",
-          "snippet": "Payment declined — update your information so we can ship your order.",
-          "date": "2026-10-21T00:51:04Z",
+          "from": "Brennan Weber",
+          "subject": "Thanks for your interest in SPLA⭐️",
+          "snippet": "Thank you for your interest in volunteering with Safe Parking LA and for joining our community!",
+          "date": "2026-10-22T06:23:54Z",
           "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a15bf0ba49ec997"
+          "tag": "Important",
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a16247d801ff63c"
+        },
+        {
+          "from": "L.A. Works",
+          "subject": "[L.A. Works] Thank you for Expressing Interest!",
+          "snippet": "Thank you for expressing interest in the Volunteer Opportunity Become a Meal Provider Volunteer. Brennan Weber has been notified.",
+          "date": "2026-10-22T06:22:27Z",
+          "unread": true,
+          "tag": "Important",
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a162467811668c6"
+        },
+        {
+          "from": "L.A. Works",
+          "subject": "[L.A. Works] Opportunity Sign-Up Confirmation",
+          "snippet": "Thank you for registering to participate in the following project. This email contains important information about your Volunteer Opportunity.",
+          "date": "2026-10-22T06:22:25Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a162467325ac267"
+        },
+        {
+          "from": "L.A. Works",
+          "subject": "[L.A. Works] Welcome to L.A. Works Account Information",
+          "snippet": "Welcome to the LA Works community! You have successfully registered as a member of LA Works.",
+          "date": "2026-10-22T06:22:19Z",
+          "unread": false,
+          "tag": "Important",
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a162465b76df9c8"
+        },
+        {
+          "from": "L.A. Works",
+          "subject": "[L.A. Works] Verification Code",
+          "snippet": "We received a request to use the email address jackbuckiingham@gmail.com in volunteer.laworks.com.",
+          "date": "2026-10-22T06:20:04Z",
+          "unread": false,
+          "tag": "Important",
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a162444be01d1c0"
+        },
+        {
+          "from": "TeamWork Online",
+          "subject": "🎟 Los Angeles Chargers TeamWork Online Career Expo (11/22)",
+          "snippet": "Come network with & impress top sports hiring managers on November 22nd!",
+          "date": "2026-10-22T00:39:09Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a1610c2a523580a"
+        },
+        {
+          "from": "Elation Passport",
+          "subject": "New message from Leo Treyzon, MD",
+          "snippet": "Leo Treyzon, MD sent you a new message. Log in to Passport to view it.",
+          "date": "2026-10-21T23:35:56Z",
+          "unread": true,
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a160d24b2c7c4fc"
         },
         {
           "from": "Domino's",
-          "subject": "Mix & Match 2 or more pizza essentials 🤌 🍕",
-          "snippet": "Let your taste buds decide.",
-          "date": "2026-10-20T23:16:26Z",
+          "subject": "Add the Domino™ to your Mix & Match faves 🔥",
+          "snippet": "Crispy, cheesy, Detroit Style crust has arrived.",
+          "date": "2026-10-21T23:17:39Z",
           "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a15b9a85dc5e045"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a160c194baceaa6"
         },
         {
-          "from": "eBay",
-          "subject": "Updates to our User Privacy Notice 2026",
-          "snippet": "We're updating our User Privacy Notice to make it easier to understand how we use personal data.",
-          "date": "2026-10-20T22:18:53Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a15b6564c09f3c4"
-        },
-        {
-          "from": "eBay",
-          "subject": "We're updating our Payments Terms of Use",
-          "snippet": "Find out about the changes to our payment services.",
-          "date": "2026-10-20T20:27:07Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a15aff10b7b7000"
-        },
-        {
-          "from": "Instagram",
-          "subject": "See 13800baba, nnutellabutt and more in your feed",
-          "snippet": "New people to discover — suggested accounts based on your interests.",
-          "date": "2026-10-20T19:03:03Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a15ab23a7d2e311"
-        },
-        {
-          "from": "Jack Buckingham",
-          "subject": "⚽🎰 36 new jobs — Oct 20",
-          "snippet": "Soccer & Betting Jobs daily digest · 36 new, 0 still open.",
-          "date": "2026-10-20T17:46:20Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a15a6bdccdb4b77"
-        },
-        {
-          "from": "The Transfer Flow",
-          "subject": "Brighton might finally be good enough to make Champions League",
-          "snippet": "They sit 3rd in the Premier League table, and top of several attacking metrics.",
-          "date": "2026-10-20T14:20:37Z",
+          "from": "Jackson Ferris",
+          "subject": "LUNCH: Global Entertainment Takeover",
+          "snippet": "United Talent Agency, 9336 Civic Center Dr., Beverly Hills, CA 90210.",
+          "date": "2026-10-21T22:03:33Z",
           "unread": false,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a159af86c79b7a3"
-        },
-        {
-          "from": "U.S. Soccer",
-          "subject": "Just announced: USMNT vs. Jamaica",
-          "snippet": "The USMNT is back in action this December — USA vs Jamaica, December 13 in Fort Lauderdale.",
-          "date": "2026-10-20T14:06:34Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a159a2b77b71766"
-        },
-        {
-          "from": "The Transfer Flow",
-          "subject": "Variance Betting - Champions League, Championship, + MLS 20 Oct 2026",
-          "snippet": "The irrepressible hot streak was bound to end sometime — a -1 weekend really isn't bad.",
-          "date": "2026-10-20T14:00:54Z",
-          "unread": true,
-          "url": "https://mail.google.com/mail/u/0/#inbox/1a1599d786c41aa6"
+          "url": "https://mail.google.com/mail/u/0/#inbox/1a1607dc09b59db6"
         }
       ]
     },
