@@ -1,5 +1,5 @@
 {
-  "updatedLabel": "Thu Oct 22, 12:14 AM PT",
+  "updatedLabel": "Fri Oct 23, 12:16 AM PT",
   "sources": [
     {
       "key": "personal",
@@ -19,23 +19,8 @@
   ],
   "days": [
     {
-      "label": "Thu · Oct 22",
-      "today": true,
-      "events": [
-        {
-          "time": "11:00 AM",
-          "title": "SAS / LAFC — Thursday Hands On Call",
-          "src": "lafc-work"
-        },
-        {
-          "time": "7:00 PM",
-          "title": "Dinner w Conor",
-          "src": "personal"
-        }
-      ]
-    },
-    {
       "label": "Fri · Oct 23",
+      "today": true,
       "events": [
         {
           "time": "All day",
@@ -45,6 +30,16 @@
         {
           "time": "10:00 AM",
           "title": "AI Hour",
+          "src": "lafc-work"
+        },
+        {
+          "time": "10:00 AM",
+          "title": "Call w Dan White",
+          "src": "personal"
+        },
+        {
+          "time": "11:30 AM",
+          "title": "Modelo Data Review",
           "src": "lafc-work"
         }
       ]
@@ -122,6 +117,11 @@
         {
           "time": "11:00 AM",
           "title": "CP Weekly",
+          "src": "lafc-work"
+        },
+        {
+          "time": "1:30 PM",
+          "title": "Lexus Impression Data Review",
           "src": "lafc-work"
         }
       ]
@@ -240,6 +240,22 @@
           "time": "3:00 PM",
           "title": "Mike x Jackson Monthly 1on1",
           "src": "lafc-work"
+        }
+      ]
+    },
+    {
+      "label": "Fri · Nov 6",
+      "events": [
+        {
+          "time": "10:00 AM",
+          "title": "AI Hour",
+          "src": "lafc-work"
+        },
+        {
+          "time": "1:00 PM",
+          "title": "Dr Evans follow",
+          "loc": "Steadman Clinic, Vail",
+          "src": "personal"
         }
       ]
     }
