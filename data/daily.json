@@ -1,34 +1,25 @@
 {
-  "dateLabel": "Friday, October 23",
-  "updatedLabel": "Fri Oct 23, 12:16 AM PT",
+  "dateLabel": "Saturday, October 24",
+  "updatedLabel": "Sat Oct 24, 12:15 AM PT",
   "today": [
     {
       "time": "All day",
       "title": "Potential Eric party",
       "accent": "span"
-    },
-    {
-      "time": "10:00 AM",
-      "title": "Call w Dan White"
     }
   ],
-  "todayNote": "Easy Friday on the personal calendar — a 10am call with Dan White, and Eric's party running through the weekend.",
+  "todayNote": "Quiet Saturday on the personal calendar — just Eric's party running through the weekend. The LAFC vs. Galaxy derby and your movie are both tomorrow night.",
   "week": [
-    {
-      "day": "Sat · Oct 24",
-      "items": [
-        {
-          "time": "All day",
-          "title": "Potential Eric party"
-        }
-      ]
-    },
     {
       "day": "Sun · Oct 25",
       "items": [
         {
           "time": "All day",
           "title": "Potential Eric party"
+        },
+        {
+          "time": "6:00 PM",
+          "title": "LAFC vs. LA Galaxy (BMO Stadium)"
         },
         {
           "time": "6:15 PM",
@@ -57,27 +48,27 @@
   "followups": [
     {
       "dot": "red",
-      "url": "https://mail.google.com/mail/u/0/#inbox/1a165542e4cbc189",
-      "title": "Steadman Clinic — records form to return",
-      "meta": "Jaimie Gutowski · fill out & send back"
+      "url": "https://mail.google.com/mail/u/0/#inbox/1a16a012dff8183a",
+      "title": "Back pain — surgeon consult is the next step",
+      "meta": "Dr. Meszaros replied · likes Dr. Tuchman · Oct 23"
     },
     {
       "dot": "amber",
       "url": "https://mail.google.com/mail/u/0/#inbox/1a16559f508177e0",
-      "title": "Atria pricing from Kai Allen",
-      "meta": "Kai → Jane & you · pricing attached"
+      "title": "Atria pricing — Jane's follow-up to Kai",
+      "meta": "Jane → Kai Allen · awaiting reply · Oct 23"
     },
     {
       "dot": "amber",
-      "url": "https://mail.google.com/mail/u/0/#inbox/1a160d24b2c7c4fc",
-      "title": "New message from Leo Treyzon, MD",
-      "meta": "Via Elation Passport · unread"
+      "url": "https://mail.google.com/mail/u/0/#inbox/1a16b6382299e291",
+      "title": "Invite: Dinner at ivy — needs an RSVP",
+      "meta": "eisenj123 · Sun Nov 1, 7pm"
     },
     {
       "dot": "green",
-      "url": "https://mail.google.com/mail/u/0/#inbox/1a1607dc09b59db6",
-      "title": "LUNCH: Global Entertainment Takeover",
-      "meta": "Jackson Ferris (UTA) · RSVP · Thu Oct 29, 1pm"
+      "url": "https://mail.google.com/mail/u/0/#inbox/1a165542e4cbc189",
+      "title": "Imaging records — Jane forwarded to Steadman",
+      "meta": "Likely handled · Oct 23"
     }
   ],
   "inbox": {
@@ -85,33 +76,33 @@
     "items": [
       {
         "dot": "red",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a165542e4cbc189",
-        "title": "Re: Imaging — records form",
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a16a012dff8183a",
+        "title": "Re: Jack/Back pain",
         "tag": "REPLY",
-        "meta": "Jaimie Gutowski · Oct 22"
+        "meta": "Dr. Meszaros · Oct 23"
       },
       {
         "dot": "amber",
         "url": "https://mail.google.com/mail/u/0/#inbox/1a16559f508177e0",
-        "title": "Atria pricing + info",
+        "title": "Re: Atria pricing",
         "tag": "REPLY",
-        "meta": "Kai Allen / Jane · Oct 22"
+        "meta": "Jane / Kai Allen · Oct 23"
       },
       {
         "dot": "amber",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a160d24b2c7c4fc",
-        "title": "New message from Leo Treyzon, MD",
-        "tag": "REPLY",
-        "meta": "Elation Passport · Oct 21"
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a16b6382299e291",
+        "title": "Invitation: Dinner at ivy",
+        "tag": "EVENT",
+        "meta": "eisenj123 · Sun Nov 1, 7pm"
       },
       {
         "dot": "faint",
-        "url": "https://mail.google.com/mail/u/0/#inbox/1a16614173416969",
-        "title": "Your first job recommendations are ready",
-        "meta": "Greenhouse · LAFC AE role · Oct 23"
+        "url": "https://mail.google.com/mail/u/0/#inbox/1a16c506afeefbe1",
+        "title": "Stop typing. Start capturing.",
+        "meta": "Todoist · Oct 24"
       }
     ],
-    "note": "About 201 unread in the inbox — mostly promotions and auto-notifications. Only a few from real people need a look."
+    "note": "About 201 unread in the inbox — mostly promotions and auto-notifications. Only a handful from real people need a look."
   },
   "drive": [
     {

@@ -1,5 +1,5 @@
 {
-  "updatedLabel": "Fri Oct 23, 12:16 AM PT",
+  "updatedLabel": "Sat Oct 24, 12:15 AM PT",
   "sources": [
     {
       "key": "personal",
@@ -19,33 +19,8 @@
   ],
   "days": [
     {
-      "label": "Fri · Oct 23",
-      "today": true,
-      "events": [
-        {
-          "time": "All day",
-          "title": "Potential Eric party",
-          "src": "personal"
-        },
-        {
-          "time": "10:00 AM",
-          "title": "AI Hour",
-          "src": "lafc-work"
-        },
-        {
-          "time": "10:00 AM",
-          "title": "Call w Dan White",
-          "src": "personal"
-        },
-        {
-          "time": "11:30 AM",
-          "title": "Modelo Data Review",
-          "src": "lafc-work"
-        }
-      ]
-    },
-    {
       "label": "Sat · Oct 24",
+      "today": true,
       "events": [
         {
           "time": "All day",
@@ -64,14 +39,14 @@
         },
         {
           "time": "6:00 PM",
-          "title": "⚽ LAFC vs. LA Galaxy",
+          "title": "LAFC vs. LA Galaxy",
           "loc": "BMO Stadium",
           "src": "lafc-match"
         },
         {
           "time": "6:15 PM",
           "title": "You Can See Everything",
-          "loc": "The Grove",
+          "loc": "AMC The Grove 14",
           "src": "personal"
         }
       ]
@@ -103,6 +78,11 @@
           "time": "1:45 PM",
           "title": "Jackson Weekly Check In",
           "src": "lafc-work"
+        },
+        {
+          "time": "3:00 PM",
+          "title": "Social Analysis Touchbase",
+          "src": "lafc-work"
         }
       ]
     },
@@ -131,7 +111,8 @@
       "events": [
         {
           "time": "10:00 AM",
-          "title": "SAS/LAFC — Weekly Status Sync",
+          "title": "SAS/LAFC | Weekly Status Sync",
+          "loc": "Microsoft Teams",
           "src": "lafc-work"
         },
         {
@@ -142,6 +123,7 @@
         {
           "time": "5:00 PM",
           "title": "SPLA New Volunteer Orientation",
+          "loc": "Zoom",
           "src": "personal"
         }
       ]
@@ -151,7 +133,8 @@
       "events": [
         {
           "time": "11:00 AM",
-          "title": "SAS / LAFC — Thursday Hands On Call",
+          "title": "SAS / LAFC - Thursday Hands On Call",
+          "loc": "Microsoft Teams",
           "src": "lafc-work"
         },
         {
@@ -187,9 +170,14 @@
       "events": [
         {
           "time": "1:30 PM",
-          "title": "⚽ LAFC vs. Minnesota United",
+          "title": "LAFC vs. Minnesota United",
           "loc": "BMO Stadium",
           "src": "lafc-match"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Dinner w Jay and Eric",
+          "src": "personal"
         }
       ]
     },
@@ -234,8 +222,25 @@
       ]
     },
     {
+      "label": "Wed · Nov 4",
+      "events": [
+        {
+          "time": "10:00 AM",
+          "title": "SAS/LAFC | Weekly Status Sync",
+          "loc": "Microsoft Teams",
+          "src": "lafc-work"
+        }
+      ]
+    },
+    {
       "label": "Thu · Nov 5",
       "events": [
+        {
+          "time": "11:00 AM",
+          "title": "SAS / LAFC - Thursday Hands On Call",
+          "loc": "Microsoft Teams",
+          "src": "lafc-work"
+        },
         {
           "time": "3:00 PM",
           "title": "Mike x Jackson Monthly 1on1",
@@ -256,6 +261,17 @@
           "title": "Dr Evans follow",
           "loc": "Steadman Clinic, Vail",
           "src": "personal"
+        }
+      ]
+    },
+    {
+      "label": "Sat · Nov 7",
+      "events": [
+        {
+          "time": "4:00 PM",
+          "title": "LAFC @ Seattle Sounders",
+          "loc": "Lumen Field",
+          "src": "lafc-match"
         }
       ]
     }
